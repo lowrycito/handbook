@@ -5,7 +5,7 @@ Christ of Latter-day Saints (2020).
 
 Image
 
-Scriptures and Technology, Mumbai India
+mother teaching son
 
 17.
 
