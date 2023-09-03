@@ -33,7 +33,7 @@ The bishop has five principal responsibilities:
 
   * He is a common judge.
 
-  * He coordinates the work of salvation and exaltation, including caring for those in need.
+  * He coordinates God’s work of salvation and exaltation in the ward, including caring for those in need.
 
   * He oversees records, finances, and the use of the meetinghouse.
 
@@ -107,7 +107,7 @@ For information about ordinances and blessings, see chapter 18.
 #### Councils and Meetings
 
 The bishop leads the ward council and the ward youth council (see 29.2.5 and
-29.2.6). He uses these councils to help coordinate the work of salvation and
+29.2.6). He uses these councils to help coordinate God’s work of salvation and
 exaltation in the ward. He delegates much of this work and follows up on
 assignments (see 4.2.5).
 
@@ -171,9 +171,9 @@ judge (see 3 Nephi 27:27). He has the following responsibilities:
 
 7.1.4
 
-### Coordinating the Work of Salvation and Exaltation
+### Coordinating God’s Work of Salvation and Exaltation in the Ward
 
-The bishop coordinates the work of salvation and exaltation in the ward (see
+The bishop coordinates God’s work of salvation and exaltation in the ward (see
 chapter 1). His counselors and other ward leaders assist him.
 
 The bishop helps members live the gospel. He helps them strengthen their faith
@@ -190,7 +190,8 @@ responsibilities. He ensures that Church activities support parents’ efforts
 to raise their children in righteousness.
 
 In addition to helping members live the gospel, the bishop has other
-responsibilities in the work of salvation and exaltation. For example, he:
+responsibilities in coordinating God’s work of salvation and exaltation. For
+example, he:
 
   * Helps men prepare to be ordained to priesthood offices.
 
@@ -230,13 +231,18 @@ For more information about how the bishop cares for those in need, see 22.6.1.
 
 ### Records, Finances, and the Meetinghouse
 
-The bishop oversees ward records, ward finances, and the meetinghouse. He may
-assign much of the work with records and finances to his counselors and
-clerks. He may assign one of his counselors to serve as the ward building
-representative, or he may call another member to do so.
+The bishop oversees ward records, ward finances, and the meetinghouse. This
+includes his responsibility to teach tithing and the law of the fast and to
+conduct tithing declaration (see 34.3.1.2; see also Doctrine and Covenants
+107:68).
+
+The bishop may assign much of the work with records and finances to his
+counselors and clerks. He may assign one of his counselors to serve as the
+ward building representative, or he may call another member to do so.
 
 For information about records, see chapter 33. For information about finances,
-see chapter 34. For information about meetinghouses, see chapter 35.
+including tithing, see chapter 34. For information about meetinghouses, see
+chapter 35.
 
 7.2
 

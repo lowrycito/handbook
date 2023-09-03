@@ -5,7 +5,7 @@ Latter-day Saints (2020).
 
 Image
 
-Youth Conferences
+young woman with water blaster
 
 20.
 
@@ -27,7 +27,7 @@ following:
 
   * Strengthen individuals and families.
 
-  * Help members participate in the work of salvation and exaltation (see 1.2).
+  * Help members participate in God’s work of salvation and exaltation (see 1.2).
 
 Some examples of Church activities include:
 
@@ -146,7 +146,7 @@ holidays, or local or general Church history.
 
 Image
 
-Service Project
+woman sewing
 
 20.2.4.3
 
@@ -308,7 +308,7 @@ instructions.
 
 Image
 
-Ecuador Wheelchair Project
+people talking
 
 20.4
 
@@ -377,7 +377,7 @@ selecting and planning Church activities.
 ### Commercial or Political Activities
 
 Activities held for any commercial or political purpose are not permitted (see
-35.5.2).
+35.5.6.1 and 35.5.6.3).
 
 20.5.2
 
@@ -538,7 +538,7 @@ The presentation of team or individual awards or trophies is discouraged.
 
 Image
 
-Sports
+men playing soccer
 
 20.5.10
 
@@ -596,11 +596,9 @@ doing so is not a burden.
 If the ward or stake budget does not have enough funds for the activities
 listed below, leaders may ask participants to pay for part or all of them:
 
-  * One annual extended Aaronic Priesthood camp or similar activity.
+  * One annual extended Aaronic Priesthood camp or similar activity
 
-  * One annual extended Young Women camp or similar activity.
-
-  * One annual day camp or similar activity for Primary children ages 8 through 11.
+  * One annual extended Young Women camp or similar activity
 
 The expenses or travel for an annual camp should not be excessive. Lack of
 personal funds should not keep a member from participating.
@@ -642,7 +640,7 @@ Expenses for stake and ward activities are usually paid with budget funds.
 However, a stake president or bishop may authorize one fundraising event each
 year for the following purposes only:
 
-  * To help pay for the activities listed in 20.6.2.
+  * To help pay for the activities listed in 20.6.2 and 20.6.3.
 
   * To help buy equipment that the unit needs for annual camps as outlined in 20.6.4.
 
@@ -841,7 +839,7 @@ information, see “FAQs—What Should I Do?” on ChurchofJesusChrist.org.
 
 Image
 
-Service projects
+group digging in ground
 
 20.7.6.2
 

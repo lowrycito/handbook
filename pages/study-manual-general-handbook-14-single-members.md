@@ -31,7 +31,7 @@ following eternal truths can help develop such hope:
 
   * Confidence in these assurances is rooted in faith in Jesus Christ. By His grace, all things pertaining to mortality are set right (see Alma 7:11–13).
 
-The Lord needs all members to help in the work of salvation in their wards and
+God needs all members to help in His work of salvation in their wards and
 stakes (see 1 Corinthians 12:12–27). As directed by the Spirit, single members
 are called to leadership and teaching positions. Leadership callings may
 include serving in the following positions:
@@ -71,7 +71,7 @@ circumstances.
 #### Stake Presidency
 
 The involvement of the stake presidency is particularly important in engaging
-single members in the work of salvation and exaltation.
+single members in God’s work of salvation and exaltation.
 
 The stake president may assign one of his counselors and a high councilor to
 support single adults. He may also assign a counselor and a high councilor to
@@ -103,8 +103,8 @@ Twelve.
 
 #### Stake Young Single Adult and Single Adult Committees
 
-Single members serve God’s children by engaging in the work of salvation and
-exaltation (see 1.2 and 14.2). To help them do so, the stake presidency
+Single members serve God’s children by participating in His work of salvation
+and exaltation (see 1.2 and 14.2). To help them do so, the stake presidency
 creates a young single adult committee. This committee is made up of the young
 single adult leaders from each ward.
 
@@ -145,7 +145,7 @@ separately from one another.
 
 #### Bishopric
 
-The bishopric is key to engaging single members in the work of salvation and
+The bishopric is key to engaging single members in God’s work of salvation and
 exaltation. They work with the ward council to identify meaningful callings
 and assignments for single members. They recognize and strive to help meet the
 needs of single parents.
@@ -186,7 +186,7 @@ In a ward with many young single adults, the bishopric may call a young single
 adult man and woman as young single adult leaders. Their responsibilities
 include:
 
-  * Helping young single adults participate in the work of salvation and exaltation (see 14.2).
+  * Helping young single adults participate in God’s work of salvation and exaltation (see 14.2).
 
   * Serving on the stake young single adult committee.
 
@@ -215,9 +215,9 @@ Committee members include:
 
 14.2
 
-## Participating in the Work of Salvation and Exaltation
+## Participating in God’s Work of Salvation and Exaltation
 
-God invites all to come unto Christ and participate in the work of salvation
+God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
 
   * Living the gospel of Jesus Christ.

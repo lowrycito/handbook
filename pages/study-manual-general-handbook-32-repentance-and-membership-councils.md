@@ -742,14 +742,13 @@ or if the sin was repetitive. See 32.6.1.2 for when a council is required.
 
 The Ten Commandments teach, “Thou shalt not steal” or “bear false witness”
 (Exodus 20:15–16). A membership council may be necessary for acts such as
-robbery, burglary, theft, embezzlement, perjury, and fraud. See 38.8.2 for
-affinity fraud. In these situations, a council is more likely to be necessary
-to help a member repent if he or she has violated temple covenants or if the
-sin was repetitive.
+robbery, burglary, theft, embezzlement, perjury, and fraud. In these
+situations, a council is more likely to be necessary to help a member repent
+if he or she has violated temple covenants or if the sin was repetitive.
 
-See 38.8.2 for affinity fraud. See 32.6.1.3 for when a council is required for
-fraudulent acts. See 32.6.3.3 if a member was involved in embezzlement of
-Church funds or property.
+See 32.6.1.3 for when a council is required for fraudulent acts. See 32.6.3.3
+if a member was involved in embezzlement of Church funds or property. See
+38.8.2 for affinity fraud.
 
 32.6.2.4
 
@@ -1330,7 +1329,7 @@ woman praying
 
 32.8.2
 
-### Helping People with Addictions
+### Helping People Address Addictions and Pornography Use
 
 Personal counseling sometimes involves helping members repent of sins related
 to or caused by addictions. These addictions may include substances or a wide
@@ -1338,8 +1337,7 @@ range of behaviors. Addictions harm individuals, marriages, and families.
 Bishops may counsel members to seek help from Church addiction recovery
 programs and from qualified medical and mental health professionals.
 
-Pornography use is becoming increasingly common. Intensive use can become a
-compulsion or, in very rare cases, an addiction. Whether pornography use is
+Pornography use is becoming increasingly common. Whether pornography use is
 intensive or occasional, it is harmful. It drives away the Spirit. It weakens
 the ability to draw on power that comes from keeping covenants. It also harms
 precious relationships.

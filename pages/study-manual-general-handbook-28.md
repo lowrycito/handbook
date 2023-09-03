@@ -5,7 +5,7 @@ Church of Jesus Christ of Latter-day Saints (2020).
 
 Image
 
-Phoenix Arizona Temple
+baptismal font
 
 28.
 
@@ -15,9 +15,10 @@ Phoenix Arizona Temple
 
 ## Introduction
 
-Uniting families for eternity is part of the work of salvation and exaltation
-(see 1.2). Ordinances performed in temples make it possible for families to be
-together for eternity and experience a fulness of joy in God’s presence.
+Uniting families for eternity is part of God’s work of salvation and
+exaltation (see 1.2). Ordinances performed in temples make it possible for
+families to be together for eternity and experience a fulness of joy in God’s
+presence.
 
 For Heavenly Father’s children to return to Him, each of them must repent,
 become worthy to receive the ordinances of salvation and exaltation, and honor
@@ -30,7 +31,7 @@ exaltation are:
 
   * Conferral of the Melchizedek Priesthood and ordination to an office (for men).
 
-  * The temple endowment.
+  * The temple endowment (including the initiatory).
 
   * Temple sealing.
 
@@ -212,18 +213,23 @@ are completed.
 
 ### Baptisms and Confirmations for the Dead
 
-Any member who has a current temple recommend may be invited to serve in
-baptistry assignments. Some of the assignments might include:
+Any member who has a current temple recommend may be invited to serve in one
+or more baptistry assignments. Some of the assignments might include:
 
-  * Acting as proxy for baptisms and confirmations.
+  * Acting as proxy for baptisms.
 
   * Acting as a witness for proxy baptisms.
+
+  * Acting as proxy for confirmations.
 
   * Assisting patrons.
 
   * Distributing clothing and towels.
 
   * Helping record baptism and confirmation ordinances in the computer system.
+
+If they wish, members who act as proxies may choose to do only baptisms or
+only confirmations.
 
 Melchizedek Priesthood holders and priests in the Aaronic Priesthood may be
 invited to perform baptisms for the dead. Melchizedek Priesthood holders may
@@ -282,7 +288,7 @@ to receive any other ordinance before being sealed to his or her parents (see
 
 Image
 
-Star Valley Wyoming Temple. Sealing Room
+sealing room
 
 28.3
 

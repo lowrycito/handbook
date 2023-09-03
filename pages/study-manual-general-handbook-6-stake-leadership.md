@@ -21,7 +21,7 @@ stake is composed of multiple wards and is led by a stake president.
 
 The Lord establishes stakes for “the gathering together” of His people and
 “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6).
-Members and leaders in a stake work together to accomplish the work of
+Members and leaders in a stake work together to participate in God’s work of
 salvation and exaltation (see 1.2).
 
 6.2
@@ -37,7 +37,7 @@ The stake president has four principal responsibilities:
 
   1. He is the presiding high priest in the stake.
 
-  2. He leads the work of salvation and exaltation in the stake.
+  2. He leads God’s work of salvation and exaltation in the stake.
 
   3. He is a common judge.
 
@@ -103,8 +103,8 @@ offices of elder and high priest (see 18.10.4).
 #### Bishoprics
 
 The stake president meets with new bishoprics to instruct them soon after they
-are called. He continues to instruct and encourage bishops in regular meetings
-and other settings.
+are called. He continues to instruct and encourage bishops in regular
+interviews, meetings, and other settings.
 
 Members of the stake presidency instruct bishoprics in their responsibilities
 for Aaronic Priesthood holders and young women.
@@ -242,11 +242,11 @@ For information about communication callings, see  GCN.ChurchofJesusChrist.org
 
 6.2.2
 
-### Leading the Work of Salvation and Exaltation
+### Leading God’s Work of Salvation and Exaltation in the Stake
 
-The stake president presides over the work of salvation and exaltation in the
-stake (see chapter 1). He instructs and encourages stake and ward leaders and
-members in this work. His counselors and other leaders assist him.
+The stake president presides over God’s work of salvation and exaltation in
+the stake (see chapter 1). He instructs and encourages stake and ward leaders
+and members in this work. His counselors and other leaders assist him.
 
 He helps members live the gospel and increase their spiritual strength. He
 teaches them to pray and study the scriptures. He also teaches them about the
@@ -260,7 +260,7 @@ responsibilities. He also ensures that Church activities support parents’
 efforts to raise their children in righteousness.
 
 In addition to helping members live the gospel, the stake president oversees
-other aspects of the work of salvation and exaltation. For example, he:
+other aspects of God’s work of salvation and exaltation. For example, he:
 
   * Helps brethren prepare to receive the Melchizedek Priesthood (see 18.10.1).
 
@@ -411,7 +411,7 @@ The stake presidency calls 12 high priests to form the stake high council (see
 Doctrine and Covenants 102:1; 124:131). If an elder is called to serve on the
 high council, he is ordained a high priest before he is set apart.
 
-Under the direction of the stake presidency, high councilors help with the
+Under the direction of the stake presidency, high councilors help with God’s
 work of salvation and exaltation in the stake. Their responsibilities are
 described in the following sections.
 
@@ -480,7 +480,8 @@ with one of these presidencies, the high councilor also attends. Assigned high
 councilors also attend stake leadership meetings for these organizations.
 
 The stake presidency may assign high councilors to assist with the programs
-listed in 6.2.1.6.
+listed in 6.2.1.6. They may also assign a high councilor to assist with needs
+for members with disabilities (see 38.8.27).
 
 The stake presidency may assign high councilors to represent them by speaking
 in sacrament meetings and other settings. The stake presidency determines the
@@ -505,11 +506,6 @@ councils (see 32.9.2).
 The stake presidency assigns high councilors to serve on other committees. For
 example, high councilors who are assigned to work with elders quorums serve on
 the stake adult leadership committee (see 29.3.9).
-
-High councilors with assignments relating to Aaronic Priesthood quorums, the
-Young Women, and the Primary serve on the stake youth leadership committee
-(see 29.3.10). The high councilor who serves as the stake Sunday School
-president may also serve on this committee.
 
 6.5.3
 
@@ -653,10 +649,11 @@ ensures that blessings deleted from his computer cannot be recovered.
 
 ### Patriarchs Who Are Called to Another Church Position
 
-A patriarch may not be called to a position of Church administration (such as
-a bishop, high councilor, or stake president) unless the Quorum of the Twelve
-Apostles approves the call in advance. If approval is given, the patriarch is
-given nonfunctioning status.
+A patriarch may not be called to a position of Church administration unless
+the Quorum of the Twelve Apostles approves the call in advance. Such positions
+include a member of a bishopric; high council; or stake, mission, or temple
+presidency. If approval is given, the patriarch is given nonfunctioning
+status.
 
 A patriarch may be called to serve in other callings without approval from the
 Quorum of the Twelve. He may also serve as a sealer or temple ordinance
@@ -750,8 +747,7 @@ responsibilities:
 The stake Relief Society presidency may plan and carry out one or two meetings
 each year for all Relief Society sisters in the stake. These meetings are held
 under the direction of the stake presidency. They may include service,
-classes, projects, conferences, or workshops. They are not held in conjunction
-with the women’s session of general conference. The stake Relief Society
+classes, projects, conferences, or workshops. The stake Relief Society
 presidency may form committees to help as needed.
 
 6.7.1.2
@@ -787,8 +783,6 @@ responsibilities:
   * Serve as specialists in the stake’s efforts to improve gospel learning and teaching.
 
   * Coordinate resource centers in the stake where applicable (see 13.7.2).
-
-  * Serve on the stake youth leadership committee if invited (see 29.3.10).
 
 6.7.2
 

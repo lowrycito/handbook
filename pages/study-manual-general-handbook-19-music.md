@@ -438,7 +438,7 @@ Recitals
 When there is not a reasonable alternative, priesthood leaders may authorize
 the use of meetinghouse pianos and organs for practice, paid private
 instruction, and recitals involving members of the units that use the
-meetinghouse. This authorization is an exception as described in 35.5.2.1. No
+meetinghouse. This authorization is an exception as described in 35.5.6.1. No
 admittance fee should be charged for recitals.
 
 19.7.3

@@ -5,7 +5,7 @@ of Latter-day Saints (2020).
 
 Image
 
-family studying scriptures
+seminary class
 
 13.
 
@@ -15,7 +15,7 @@ family studying scriptures
 
 ## Purpose
 
-The Sunday School helps accomplish the work of salvation and exaltation. It
+The Sunday School helps accomplish God’s work of salvation and exaltation. It
 does this by helping God’s children learn and live the gospel of Jesus Christ.
 Sunday School leaders, teachers, and classes:
 
@@ -82,6 +82,8 @@ counselors, they assist him.
 
   * Encourage teachers to reach out to members who do not attend classes.
 
+  * Work with teachers to keep attendance records. Report attendance quarterly to the ward clerk or in LCR or Member Tools. A secretary, if called, can help with this responsibility.
+
 13.2.3
 
 ### Sunday School Teachers
@@ -107,7 +109,7 @@ Sunday School teachers attend quarterly teacher council meetings (see 17.4).
 ## Sunday School Classes
 
 Sunday School classes are held on the first and third Sundays of the month.
-They last 50 minutes.
+They last 50 minutes. Classes begin and end with a prayer.
 
 With the bishopric’s approval, the Sunday School president organizes classes
 for adults and youth. If he has counselors, they assist him.
@@ -232,7 +234,7 @@ see disability.ChurchofJesusChrist.org; see also 38.8.27 in this handbook.
 Some meetinghouses have a resource center (library) to help members learn and
 teach the gospel. The ward Sunday School president oversees the resource
 center. Wards that share a meetinghouse also share the resource center.
-Seminary and institute classes and family history centers share the resource
+Seminary and institute classes and FamilySearch centers share the resource
 center with the wards.
 
 In meetinghouses that have a resource center, the bishopric calls a resource

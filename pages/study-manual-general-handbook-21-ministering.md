@@ -27,7 +27,7 @@ Moroni 6:4).
 
 Ministering is an important way we keep the commandments to love God and to
 love our neighbors (see Matthew 22:36–40). It is also a vital way to help
-accomplish the work of salvation and exaltation.
+accomplish God’s work of salvation and exaltation.
 
 Elders quorum and Relief Society presidencies help ministering brothers and
 sisters learn how to minister to others. They also give inspiration, guidance,
@@ -122,8 +122,8 @@ Their service is part of the covenant they made at baptism (see Mosiah
 
 Even before they receive ministering assignments, youth minister to others by
 serving them in Christlike ways. A youth’s service as a ministering sister or
-brother can be a significant part of accomplishing the work of salvation and
-exaltation.
+brother can be a significant part of helping accomplish God’s work of
+salvation and exaltation.
 
 A young woman may serve as a ministering companion to a Relief Society sister
 when the young woman is willing and able. She may begin serving in the year

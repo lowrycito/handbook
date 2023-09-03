@@ -1,15 +1,15 @@
-“1. God’s Plan and Your Role in the Work of Salvation and Exaltation,” General
+“1. God’s Plan and Your Role in His Work of Salvation and Exaltation,” General
 Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
 
-“1. Work of Salvation and Exaltation,” General Handbook.
+“1. God’s Work of Salvation and Exaltation,” General Handbook.
 
 Image
 
-Virtue
+men building house
 
 1.
 
-# God’s Plan and Your Role in the Work of Salvation and Exaltation
+# God’s Plan and Your Role in His Work of Salvation and Exaltation
 
 1.0
 
@@ -26,7 +26,7 @@ Christ. This chapter will help you gain a vision of:
 
   * God’s plan of happiness.
 
-  * The work of salvation and exaltation.
+  * God’s work of salvation and exaltation.
 
   * The purpose of The Church of Jesus Christ of Latter-day Saints.
 
@@ -45,36 +45,28 @@ God’s Work and Glory
 “For behold, this is my work and my glory—to bring to pass the immortality and
 eternal life of man” (Moses 1:39).
 
-We cannot obtain immortality and eternal life without God’s help. In this
-life, we are subject to sin and death, which separate us from Heavenly Father
-and prevent us from becoming more like Him.
-
 Jesus Christ is central to God’s plan. Because of Heavenly Father’s infinite
 love for us, He sent His Son to redeem us from sin and death through His
 atoning sacrifice (see John 3:16). Through His Atonement, Jesus Christ ensures
-that each of us born on earth will be resurrected and gain immortality. His
-Atonement also makes it possible for us to be cleansed from sin and have our
-hearts changed so we can receive eternal life and a fulness of joy.
+that each of us born on earth will be resurrected and gain immortality.
 
-To receive eternal life, we must “come unto Christ, and be perfected in him”
-(Moroni 10:32). This invitation extends to all who have lived or will ever
-live on the earth. Heavenly Father wants all of His children to choose to
-return to Him.
+To receive eternal life, we must “come unto Christ” (Moroni 10:32). The
+Savior’s Atonement makes it possible for us to be cleansed from sin and have
+our hearts changed so we can receive eternal life and a fulness of joy.
+Heavenly Father wants all of His children to choose to return to Him.
 
 1.2
 
-## The Work of Salvation and Exaltation
+## God’s Work of Salvation and Exaltation
 
 As we come unto Christ and help others do the same, we participate in God’s
 work of salvation and exaltation. This work is guided by the two great
-commandments to love God and to love our neighbors (see Matthew 22:37–39). We
-show our love for God as we keep His commandments and serve His children (see
-John 14:15).
+commandments to love God and to love our neighbors (see Matthew 22:37–39).
 
-The work of salvation and exaltation focuses on four divinely appointed
+God’s work of salvation and exaltation focuses on four divinely appointed
 responsibilities. These are outlined below.
 
-The Work of Salvation and Exaltation
+God’s Work of Salvation and Exaltation
 
 We come unto Christ and assist in God’s work by:
 
@@ -86,9 +78,7 @@ We come unto Christ and assist in God’s work by:
 
   * Uniting families for eternity.
 
-This handbook will help you understand these four aspects of God’s work. The
-Holy Ghost will guide you as you do your part in fulfilling them (see 2 Nephi
-32:5).
+This handbook will help you understand these four aspects of God’s work.
 
 1.2.1
 
@@ -104,7 +94,7 @@ Living the gospel of Jesus Christ includes:
 
 Image
 
-Ghana
+sister missionaries teaching woman
 
 1.2.2
 
@@ -144,10 +134,10 @@ Uniting families for eternity includes:
 
 ## The Purpose of the Church
 
-Jesus Christ established His Church to enable individuals and families to do
-the work of salvation and exaltation (see Ephesians 4:11–13; see also 2.2 in
-this handbook). To help accomplish this divine purpose, the Church and its
-leaders provide:
+Jesus Christ established His Church to enable individuals and families to
+assist God in fulfilling His work of salvation and exaltation (see Ephesians
+4:11–13; see also 2.2 in this handbook). To help accomplish this divine
+purpose, the Church and its leaders provide:
 
   * Priesthood authority and keys.
 
@@ -167,12 +157,12 @@ leaders provide:
 
 ### Priesthood Authority and Keys
 
-Through the priesthood, God accomplishes the work of salvation and exaltation.
+Through the priesthood, God accomplishes His work of salvation and exaltation.
 The priesthood authority and keys needed to direct God’s work on earth were
 restored to the Prophet Joseph Smith (see Doctrine and Covenants 110:11–16;
 112:30; see also 3.1 in this handbook). These keys are held by Church leaders
-today. They call and authorize others to assist in God’s work (see Doctrine
-and Covenants 107:8, 65–67).
+today. These leaders call and authorize others to assist in God’s work (see
+Doctrine and Covenants 107:8, 65–67).
 
 1.3.2
 
@@ -227,26 +217,22 @@ to remember the Savior by partaking of the sacrament (see Moroni 6:4–6;
 Doctrine and Covenants 20:77). Members also care for and minister to one
 another (see Ephesians 2:19).
 
+Image
+
+temple, Tijuana Mexico
+
 1.4
 
 ## Your Role in God’s Work
 
 As a leader in the Church, you are called to teach and support those you serve
-as they engage in the work of salvation and exaltation (see 1.2). You are
-accountable to fulfill your calling and “teach … the word of God with all
-diligence” (Jacob 1:19). Laboring with the Lord in His vineyard will bring you
-great joy (see Jacob 5:70–72).
+as they assist God in His work of salvation and exaltation (see 1.2). Having a
+clear understanding of God’s work, of what He invites you to do, and of the
+purpose of His Church will help you focus your efforts in bringing souls to
+Christ.
 
-Having a clear understanding of God’s work, of what He invites you to do, and
-of the purpose of His Church will help you focus your efforts in bringing
-souls to Christ. Keeping this vision in mind will align you with the Savior
-and guide all that you do as a leader in the Church.
-
-Refer often to the principles in this chapter. Prayerfully seek to know how
-you can help bring about God’s purposes in the lives of those you serve. God
-will direct you through the promptings of the Holy Ghost.
-
-Image
-
-TIJUANA MEXICO TEMPLE COURTYARD, GUESTS AND VISITORS
+Prayerfully seek to know how you can help bring about God’s purposes in the
+lives of those you serve. God will direct you through the promptings of the
+Holy Ghost (see 2 Nephi 32:5). Laboring with the Lord in His vineyard will
+bring you great joy (see Jacob 5:70–72).
 

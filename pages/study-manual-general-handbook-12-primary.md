@@ -36,7 +36,7 @@ Primary helps children:
 
   * Prepare for, make, and keep sacred covenants.
 
-  * Participate in the work of salvation and exaltation.
+  * Participate in God’s work of salvation and exaltation.
 
 12.1.2
 
@@ -218,7 +218,7 @@ Nursery lasts the entire time scheduled for Primary. For more information, see
 
 12.2
 
-## Participating in the Work of Salvation and Exaltation
+## Participating in God’s Work of Salvation and Exaltation
 
 God invites all to come unto Christ and assist in His work by:
 
@@ -230,9 +230,9 @@ God invites all to come unto Christ and assist in His work by:
 
   * Uniting families for eternity.
 
-Primary helps children, families, leaders, and teachers accomplish this work.
-For more information about the work of salvation and exaltation, study chapter
-1.
+Primary helps children, families, leaders, and teachers participate in this
+work. For more information about God’s work of salvation and exaltation, study
+chapter 1.
 
 12.2.1
 
@@ -393,11 +393,11 @@ information.
 Beginning in January of the year they turn 8, children may begin attending
 Primary activities. For general activity guidelines, see chapter 20.
 
-Primary activity leaders plan service and activities that help accomplish the
-work of salvation and exaltation. Service and activities should build
-testimonies, strengthen families, and provide opportunities to bless others.
-They should be balanced among four areas of personal growth: spiritual,
-social, physical, and intellectual.
+Primary activity leaders plan service and activities that help children
+participate in God’s work of salvation and exaltation. Service and activities
+should build testimonies, strengthen families, and provide opportunities to
+bless others. They should be balanced among four areas of personal growth:
+spiritual, social, physical, and intellectual.
 
 Primary activities are held at times other than Sundays or Monday evenings.
 Adult leaders help ensure that activities are safe (see
@@ -410,10 +410,10 @@ The following guidelines may be adapted to local circumstances:
 
   * Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.
 
-  * Leaders may choose to plan and hold annual day camps for Primary children ages 8–11. Such camps are optional. Primary activities, including day camps, do not include overnight stays.
+  * Leaders may choose to plan and hold annual day camps for Primary children ages 8–11. Primary activities, including day camps, do not include overnight stays.
 
-All supplies and activities, including optional day camps, are paid for by the
-ward budget. Travel and expenses should not be excessive.
+All supplies and activities, including day camps, are paid for by the ward
+budget. Travel and expenses should not be excessive.
 
 The bishopric ensures that the budget and activities for boys and girls in
 Primary are sufficient and equitable. Budget is allocated according to the
@@ -594,7 +594,7 @@ responsibilities:
 
   * Work closely with teachers and leaders to keep accurate attendance records.
 
-  * Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary
+  * Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary.
 
   * Make sure the Primary presidency is aware of:
 
@@ -693,8 +693,8 @@ Teachers and nursery leaders attend quarterly teacher council meetings (see
 
 Primary activity leaders minister to children as they plan service and
 activities beginning in January of the year children turn 8 (see 12.2.1.3).
-Service and activities focus on the work of salvation and exaltation. They are
-fun and engaging. They build testimonies, strengthen families, and foster
+Service and activities focus on God’s work of salvation and exaltation. They
+are fun and engaging. They build testimonies, strengthen families, and foster
 personal growth.
 
 Primary activity leaders can be the children’s Primary teachers. They can also
@@ -719,8 +719,7 @@ stake. He also has responsibility for the work of the stake Primary
 presidency. He also instructs bishops in their responsibilities for Primary.
 
 The stake presidency assigns a high councilor to work with the stake Primary
-presidency (see 6.5). He serves on the stake youth leadership committee (see
-29.3.10).
+presidency (see 6.5).
 
 Image
 

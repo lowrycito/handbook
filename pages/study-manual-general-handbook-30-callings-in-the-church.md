@@ -5,7 +5,7 @@ Christ of Latter-day Saints (2020).
 
 Image
 
-Church attendance
+people raising right hands
 
 30.
 
@@ -71,9 +71,10 @@ addition to being a ministering brother or sister. Exceptions should be rare
 and prayerfully considered. Not every potential position needs to be filled.
 
 When extending a calling to a married member, leaders ensure that the spouse
-is aware and supportive of the calling. Before extending a calling to a young
-man or young woman, leaders obtain approval from his or her parents or
-guardians.
+is aware and supportive of the calling.
+
+Before extending a calling to a young man or young woman, leaders obtain
+approval from a parent or guardian.
 
 Before a calling is extended, the bishop carefully reviews the person’s
 membership record to verify that it does not include an annotation or formal
@@ -151,7 +152,7 @@ was not available to those who made the recommendation.
 
 Image
 
-Teaching Children
+woman reading to child
 
 30.2
 
@@ -256,7 +257,7 @@ and promises guided by the Spirit. For more information, see 18.11.
 
 Image
 
-Setting apart
+woman receiving priesthood blessing
 
 30.5
 
@@ -363,10 +364,6 @@ A ward or stake does not need to fill every calling listed in this chart.
 Leaders determine which callings to fill based on the needs of the unit and
 those available to serve.
 
-_Note:_ Sealers in a temple are called under the direction of the President of
-the Church. For this reason, active sealers should not be called to serve in
-bishoprics or in branch, district, stake, or mission presidencies.
-
 30.8.1
 
 Ward Callings
@@ -393,7 +390,7 @@ Called and set apart by
   
 Calling
 
-Bishop
+Bishop2
 
 |
 
@@ -421,7 +418,7 @@ Stake president after receiving approval from the First Presidency (see 30.7)
   
 Calling
 
-Counselors in the bishopric
+Counselors in the bishopric2
 
 |
 
@@ -647,36 +644,7 @@ Bishop or an assigned counselor
   
 Calling
 
-Other ward Relief Society callings
-
-|
-
-Recommended by
-
-Relief Society presidency
-
-|
-
-Approved by
-
-Bishopric
-
-|
-
-Sustained by1
-
-Relief Society members (presented in a Relief Society meeting by the bishop or
-an assigned counselor)
-
-|
-
-Called and set apart by
-
-Bishop or an assigned counselor  
-  
-Calling
-
-Other ward Young Women, Primary, and Sunday School callings
+Other ward Relief Society, Young Women, Primary, and Sunday School callings
 
 |
 
@@ -1080,9 +1048,11 @@ Bishop or an assigned counselor
   
   1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for ratifying as soon as reasonable. He adapts the process described in 30.3. This includes providing an opportunity for ward members to oppose the action.
 
+  2. Active sealers in a temple should not be called to serve in bishoprics. Sealers are called under the direction of the President of the Church.
+
 Image
 
-Youth
+Sunday school class
 
 30.8.2
 
@@ -1110,7 +1080,7 @@ Called and set apart by
   
 Calling
 
-Branch president
+Branch president1
 
 |
 
@@ -1138,7 +1108,7 @@ Stake or mission president (or the district president if assigned)
   
 Calling
 
-Counselors in the branch presidency
+Counselors in the branch presidency1
 
 |
 
@@ -1288,6 +1258,8 @@ Called and set apart by
 See 30.8.1, substituting _branch president_ for _bishop_ and _branch_ for
 _ward._  
   
+  1. Active sealers in a temple should not be called to serve in branch presidencies. Sealers are called under the direction of the President of the Church.
+
 30.8.3
 
 Stake Callings
@@ -1314,7 +1286,7 @@ Called and set apart by
   
 Calling
 
-Stake president
+Stake president2
 
 |
 
@@ -1342,7 +1314,7 @@ An assigned General Authority or Area Seventy
   
 Calling
 
-Counselors in a new stake presidency
+Counselors in a new stake presidency2
 
 |
 
@@ -1370,7 +1342,7 @@ An assigned General Authority or Area Seventy
   
 Calling
 
-New counselor in an existing stake presidency
+New counselor in an existing stake presidency2
 
 |
 
@@ -1743,7 +1715,7 @@ Stake president or an assigned counselor or high councilor
   
 Calling
 
-Other stake callings2
+Other stake callings3
 
 |
 
@@ -1777,11 +1749,13 @@ When this happens, the person is presented for ratifying as soon as
 reasonable, adapting the process described in 30.3. This includes providing an
 opportunity for stake members to oppose the action.
 
-  2. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
+  2. Active sealers in a temple should not be called to serve in stake presidencies. Sealers are called under the direction of the President of the Church.
+
+  3. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
 
 Image
 
-Interviewing
+couple talking to bishop
 
 30.8.4
 
@@ -1809,7 +1783,7 @@ Called and set apart by
   
 Calling
 
-District president
+District president1
 
 |
 
@@ -1837,7 +1811,7 @@ Mission president
   
 Calling
 
-Counselors in the district presidency
+Counselors in the district presidency1
 
 |
 
@@ -1862,6 +1836,36 @@ Members in district conference
 Called and set apart by
 
 Mission president or an assigned counselor  
+  
+Calling
+
+District councilor
+
+|
+
+Recommended by
+
+District president
+
+|
+
+Approved by
+
+Mission presidency (or, when authorized by the mission president, the district
+presidency)2
+
+|
+
+Sustained by
+
+Members in district conference
+
+|
+
+Called and set apart by
+
+Mission president or an assigned counselor (or, when authorized by the mission
+president, the district president or an assigned counselor)2  
   
 Calling
 
@@ -1895,6 +1899,10 @@ Called and set apart by
 See 30.8.3, substituting _district president_ for _stake president_ and
 _district_ for _stake._  
   
+  1. Active sealers in a temple should not be called to serve in district presidencies. Sealers are called under the direction of the President of the Church.
+
+  2. In areas with no missions, the Area Presidency performs this function.
+
 30.8.5
 
 Military Service Member Group Callings

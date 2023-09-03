@@ -5,7 +5,7 @@ Christ of Latter-day Saints (2020).
 
 Image
 
-Family life
+family walking near temple
 
 3.
 
@@ -15,12 +15,10 @@ Family life
 
 ## Introduction
 
-The priesthood is the authority and power of God. It has always existed and
-will continue to exist without end (see Alma 13:7–8; Doctrine and Covenants
-84:17–18). Through the priesthood, Heavenly Father accomplishes His work “to
-bring to pass the immortality and eternal life of man” (Moses 1:39). God
-grants authority and power to His sons and daughters on earth to help carry
-out this work (see chapter 1).
+The priesthood is the authority and power of God. Through the priesthood,
+Heavenly Father accomplishes His work “to bring to pass the immortality and
+eternal life of man” (Moses 1:39). God grants authority and power to His sons
+and daughters on earth to help carry out this work (see chapter 1).
 
 3.1
 
@@ -36,19 +34,10 @@ In the Kirtland Temple, Moses, Elias, and Elijah appeared to Joseph Smith and
 committed to him the further authority necessary to accomplish God’s work in
 the latter days (see Doctrine and Covenants 110:11–16).
 
-  * Moses committed the keys of the gathering of Israel (see Guide to the Scriptures, “Israel”).
-
-  * Elias committed the dispensation of the gospel of Abraham. This includes the restoration of the Abrahamic covenant (see Abraham 2:9–11; Guide to the Scriptures, “Abrahamic Covenant”).
-
-  * Elijah committed the keys of the sealing power (see Guide to the Scriptures, “Seal, Sealing”). These keys provide the authority that allows ordinances performed on earth to be binding in the next life (see Doctrine and Covenants 128:9–10).
-
 Each member of the First Presidency and Quorum of the Twelve Apostles holds
-all these priesthood keys today. Only the President of the Church, who is the
-senior Apostle, is authorized to exercise all these keys. These leaders call
-and authorize other Church members to use God’s priesthood authority and power
-to assist in the work of salvation and exaltation.
-
-For information about priesthood keys, see 3.4.1.
+all these priesthood keys today. These leaders call and authorize other Church
+members to use God’s priesthood authority and power to assist in His work of
+salvation and exaltation.
 
 3.2
 
@@ -96,9 +85,7 @@ daughters of God can become like Him (see Doctrine and Covenants 84:19–21;
 authority over all the offices in the church in all ages of the world, to
 administer in spiritual things” (Doctrine and Covenants 107:8). Through this
 authority, Church leaders direct and administer all the spiritual work of the
-Church (see Doctrine and Covenants 107:18). “All other authorities or offices
-in the church are appendages to this priesthood” (Doctrine and Covenants
-107:5).
+Church (see Doctrine and Covenants 107:18).
 
 The President of the Church is the presiding high priest over the Melchizedek
 Priesthood (see Doctrine and Covenants 107:65–67). The stake president is the
@@ -141,8 +128,8 @@ of those who hold priesthood keys.
 
 Worthy male Church members receive priesthood authority through priesthood
 conferral and ordination to priesthood offices. All Church members can
-exercise delegated authority as they are set apart or assigned to assist in
-accomplishing God’s work. Members are accountable to God and to those He has
+exercise delegated authority as they are set apart or assigned to help
+accomplish God’s work. Members are accountable to God and to those He has
 appointed to preside for how they exercise His authority (see 3.4.4).
 
 3.4.1
@@ -158,17 +145,16 @@ directed by those who hold priesthood keys (see Doctrine and Covenants 65:2).
 #### Those Who Hold Priesthood Keys
 
 Jesus Christ holds all the keys of the priesthood. Under His direction,
-priesthood keys are given to men to use in specific callings for accomplishing
-God’s work, as explained below.
+priesthood keys are given to men to use in specific callings to help
+accomplish God’s work, as explained below.
 
 The Lord has conferred on each of His Apostles all the keys that pertain to
 the kingdom of God on earth. The senior living Apostle, the President of the
 Church, is the only person on earth authorized to exercise all of those
 priesthood keys (see Doctrine and Covenants 81:1–2; 107:64–67, 91–92; 132:7).
 
-Under the direction of the President of the Church, priesthood leaders are
-given keys so they can preside in their areas of responsibility. These leaders
-include:
+Under the direction of the President of the Church, the following priesthood
+leaders are given keys so they can preside in their areas of responsibility:
 
   * Stake and district presidents.
 
@@ -186,31 +172,29 @@ These leaders receive priesthood keys when they are set apart to their
 callings.
 
 Priesthood keys are not given to others, including counselors to local
-priesthood leaders or presidents of Church organizations. Rather, these
-leaders are given delegated authority when they are set apart and when they
-receive assignments under the direction of those who hold priesthood keys.
-Presidents of Church organizations preside under the direction of those who
-hold priesthood keys (see 4.2.4).
+priesthood leaders or presidents of Church organizations. These leaders are
+given delegated authority when they are set apart and when they receive
+assignments under the direction of those who hold priesthood keys. Presidents
+of Church organizations preside under the direction of those who hold
+priesthood keys (see 4.2.4).
 
 Image
 
-Counseling by officials of ward and stake
+ward council meeting
 
 3.4.1.2
 
-#### Order to the Lord’s Work
+#### Order to God’s Work
 
-Priesthood keys ensure that the work of salvation and exaltation is
+Priesthood keys ensure that God’s work of salvation and exaltation is
 accomplished in an orderly manner (see Doctrine and Covenants 42:11; 132:8).
 Those who hold priesthood keys direct the Lord’s work within their areas of
-responsibility. They do so in love and righteousness. This presiding authority
-is valid only for the specific responsibilities of the leader’s calling. When
-priesthood leaders are released from their callings, they no longer hold these
-keys.
+responsibility. This presiding authority is valid only for the specific
+responsibilities of the leader’s calling. When priesthood leaders are released
+from their callings, they no longer hold these keys.
 
 All who serve in the Church are set apart or assigned under the direction of
-one who holds priesthood keys. When members are set apart or assigned, they
-are authorized by God to serve in His work.
+one who holds priesthood keys.
 
 3.4.2
 
@@ -248,20 +232,9 @@ following ways:
 
 #### Setting Apart
 
-When men and women are set apart under the direction of those who hold
-priesthood keys, they are given authority from God to act in that calling.
-When they are released from a calling, they no longer have the authority
-associated with it.
-
-Some callings are associated with offices and quorums of the priesthood. For
-example, a man who holds the Melchizedek Priesthood may be called as an elders
-quorum president. When he is set apart by the stake president, he is given
-priesthood keys, authority, and responsibility to direct the work of the
-elders quorum (see 3.4.1).
-
-Many other Church callings are not associated with priesthood offices and
-quorums. But all Church members who are set apart to serve are given divine
-authority and responsibility to act in their callings. For example:
+When Church members are set apart under the direction of those who hold
+priesthood keys, they are given authority from God to act in that calling. For
+example:
 
   * A woman who is called and set apart by the bishop as ward Relief Society president is given authority to direct the work of Relief Society in the ward.
 
@@ -269,6 +242,9 @@ authority and responsibility to act in their callings. For example:
 
 All who are called and set apart serve under the direction of those who
 preside over them (see 3.4.1.2).
+
+When Church members are released from a calling, they no longer have the
+authority associated with it.
 
 For more information about setting apart members for Church callings, see
 18.11.
@@ -307,22 +283,22 @@ with others in a spirit of unity and seek the Lord’s will through revelation
 others, see 4.4.3.
 
 Those who exercise priesthood authority do not force their will on others.
-They do not use it for selfish purposes. If a person uses it unrighteously,
-“the heavens withdraw themselves [and] the Spirit of the Lord is grieved”
-(Doctrine and Covenants 121:37).
+They do not use it for selfish purposes. If a person uses this authority
+unrighteously, “the heavens withdraw themselves [and] the Spirit of the Lord
+is grieved” (Doctrine and Covenants 121:37).
 
 Some Church callings include a responsibility to preside. For information
 about presiding in the Church, see 4.2.4.
 
 Image
 
-Counseling by officials of ward and stake
+two men and a woman talking
 
 3.5
 
 ## Priesthood Power
 
-Priesthood power is the power by which God blesses His children. God’s
+Priesthood power is God’s power, which He uses to bless His children. God’s
 priesthood power flows to all members of the Church—female and male—as they
 keep the covenants they have made with Him. Members make these covenants as
 they receive priesthood ordinances. (See Doctrine and Covenants 84:19–20.)
@@ -330,12 +306,6 @@ they receive priesthood ordinances. (See Doctrine and Covenants 84:19–20.)
 The blessings of priesthood power that members can receive include:
 
   * Guidance for their lives.
-
-  * Inspiration to know how to serve family members and others.
-
-  * Strength to endure and overcome challenges.
-
-  * Gifts of the Spirit to magnify their abilities.
 
   * Revelation to know how to fulfill the work they are ordained, set apart, or assigned to do.
 
@@ -352,8 +322,7 @@ God promises to bless His children as they fulfill the covenant.
 Members make covenants with God as they receive the ordinances of salvation
 and exaltation (see 18.1). All who endure to the end in keeping their
 covenants will receive eternal life (see 2 Nephi 31:17–20; Doctrine and
-Covenants 14:7). Enduring to the end includes exercising faith in Heavenly
-Father and Jesus Christ and repenting each day.
+Covenants 14:7).
 
 Parents, Church leaders, and others help individuals prepare to make covenants
 as they receive the ordinances of the gospel. They ensure that the person
@@ -365,8 +334,7 @@ covenant, they help him or her keep it. (See Mosiah 18:8–11, 23–26.)
 ### Ordinances
 
 An ordinance is a sacred act performed by the authority of the priesthood.
-Ordinances have always been part of the gospel of Jesus Christ. The first
-ordinances on earth were performed in the days of Adam and Eve (see Genesis
+Ordinances have always been part of the gospel of Jesus Christ (see Genesis
 1:28; Moses 6:64–65).
 
 In many ordinances, individuals make covenants with God. Examples include
@@ -390,6 +358,10 @@ themselves. Where possible, they then return to the temple to perform these
 ordinances vicariously for those who have died. For more information about
 performing ordinances for the deceased, see chapter 28.
 
+Image
+
+woman receiving a priesthood blessing
+
 3.6
 
 ## The Priesthood and the Home
@@ -405,8 +377,4 @@ family members to provide direction, healing, and comfort. When needed, Church
 members can also seek these blessings from extended family members,
 ministering brothers, or local Church leaders. For more information about
 priesthood blessings, see 18.13 and 18.14.
-
-For information about presiding in the family, see 2.1.3.
-
-Image
 

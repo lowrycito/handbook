@@ -5,7 +5,7 @@ Latter-day Saints (2020).
 
 Image
 
-men loading furniture into truck
+men talking
 
 8.
 
@@ -34,7 +34,7 @@ covenant to assist God in accomplishing His work (see Doctrine and Covenants
 
 Each elder is part of an organized group of priesthood holders called an
 elders quorum. Members of the elders quorum work together to help accomplish
-the work of salvation and exaltation. They serve others, fulfill priesthood
+God’s work of salvation and exaltation. They serve others, fulfill priesthood
 duties, build unity, and learn and live doctrine.
 
 8.1.2
@@ -72,9 +72,9 @@ experience.
 
 8.2
 
-## Participating in the Work of Salvation and Exaltation
+## Participating in God’s Work of Salvation and Exaltation
 
-God invites all to come unto Christ and participate in the work of salvation
+God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
 
   * Living the gospel of Jesus Christ.
@@ -86,12 +86,12 @@ and exaltation by:
   * Uniting families for eternity.
 
 Elders quorum leaders plan Sunday meetings, activities, ministering, service,
-and other interactions to help brethren participate in the work of salvation
+and other interactions to help brethren participate in God’s work of salvation
 and exaltation. Members of the elders quorum and Relief Society work in unity
-to accomplish this work.
+to help accomplish this work.
 
-For more information about the work of salvation and exaltation, study chapter
-1.
+For more information about God’s work of salvation and exaltation, study
+chapter 1.
 
 8.2.1
 
@@ -132,16 +132,16 @@ Elders quorums meet on Sundays for the following purposes:
 
   * Strengthen families and homes.
 
-  * Make plans to help accomplish the work of salvation and exaltation.
+  * Make plans to assist God in His work of salvation and exaltation.
 
 Meetings are held on the second and fourth Sundays of the month. They last 50
 minutes. The elders quorum presidency plans these meetings. A member of the
 presidency conducts.
 
-The meeting begins with a presidency member conducting any quorum business.
-For example, the quorum may counsel together about aspects of accomplishing
-the work of salvation and exaltation. Sufficient time should then be given to
-meaningful gospel instruction and discussion.
+The meeting begins with prayer. A presidency member then conducts any quorum
+business. For example, the quorum may counsel together about aspects of
+participating in God’s work of salvation and exaltation. Sufficient time
+should then be given to meaningful gospel instruction and discussion.
 
 Quorum meetings focus on topics in one or more talks from the most recent
 general conference. The elders quorum presidency prayerfully selects messages
@@ -289,9 +289,14 @@ eternity. This includes:
 In presidency and quorum meetings, the elders quorum presidency discusses ways
 the brethren can participate in these efforts.
 
-The presidency encourages quorum members to learn about their family history
-and about temple covenants and ordinances. They also encourage brethren to
-attend the temple regularly where possible.
+Presidency members also plan ways to help members increase their understanding
+of and desire to receive sacred ordinances and make covenants with God in the
+temple. They encourage brethren to worship in the temple regularly where
+possible.
+
+The presidency encourages quorum members to learn about their family history.
+They help new and returning members, recently ordained elders, and newly
+called missionaries find and prepare ancestors’ names for temple ordinances.
 
 The elders quorum president assigns a member of the presidency to help lead
 temple and family history work in the ward. He works with the assigned member
@@ -325,10 +330,10 @@ He meets regularly with a member of the presidency to receive direction and
 report on his responsibilities.
 
 The elders quorum president also receives guidance from the bishop, who is the
-presiding officer in the ward. They meet regularly. They discuss the work of
-salvation and exaltation, including the service of ministering brothers. They
-also discuss (1) the progress and needs of ward members and (2) elders quorum
-meetings, instruction, and activities.
+presiding officer in the ward. They meet regularly. They discuss their efforts
+in God’s work of salvation and exaltation, including the service of
+ministering brothers. They also discuss (1) the progress and needs of ward
+members and (2) elders quorum meetings, instruction, and activities.
 
 8.3.2
 
@@ -379,7 +384,7 @@ assist him.
 
   * Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the elders quorum (see 29.2.5).
 
-  * Lead the quorum’s efforts to participate in the work of salvation and exaltation (see chapter 1).
+  * Lead the quorum’s efforts to participate in God’s work of salvation and exaltation (see chapter 1).
 
   * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See chapter 21.
 
@@ -407,7 +412,8 @@ assist him.
 
 The stake presidency and assigned members of the high council teach the elders
 quorum presidency about these responsibilities. They may do this during stake
-priesthood leadership meetings and quorum presidency meetings (see 29.3.3).
+priesthood leadership meetings, quorum presidency meetings, and personal
+visits with elders quorum presidents (see 29.3.3).
 
 Through his service, the elders quorum president supports the bishop in
 focusing on the youth and on the bishop’s unique responsibilities.
@@ -424,11 +430,11 @@ The agenda could include the following items:
 
   * Plan how to strengthen quorum members (including prospective elders) and their families.
 
-  * Plan how to help accomplish the work of salvation and exaltation.
+  * Plan how to help accomplish God’s work of salvation and exaltation.
 
   * Coordinate missionary work and temple and family history work.
 
-  * Respond to counsel and assignments from the bishop.
+  * Respond to counsel and assignments from the bishop and stake leaders.
 
   * Respond to assignments from ward council meetings.
 

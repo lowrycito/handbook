@@ -16,7 +16,7 @@ people looking at phone
 
 ## Introduction
 
-Inviting all to receive the gospel is part of the work of salvation and
+Inviting all to receive the gospel is part of God’s work of salvation and
 exaltation (see 1.2 in this handbook; Matthew 28:19–20). It includes:
 
   * Participating in missionary work and serving as missionaries.

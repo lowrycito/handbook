@@ -6,7 +6,7 @@ Church of Jesus Christ of Latter-day Saints.
 
 Image
 
-missionaries teaching woman
+missionaries walking
 
 24.
 
@@ -1120,9 +1120,9 @@ Examples of Service Missionary Opportunities
 
   * _Community Service (for young service missionaries):_ JustServe.org (where it is available) and approved community charitable organizations, such as food banks, shelters, and community centers
 
-  * _Family History:_ FamilySearch indexing, worldwide FamilySearch support, family history center assistance, and family history image processing
+  * _Family History:_ FamilySearch indexing, worldwide FamilySearch support, FamilySearch center assistance, and family history image processing
 
-  * _Member and Leader Support:_ Supporting wards and stakes in accomplishing the work of salvation and exaltation, as directed by Area Presidencies
+  * _Member and Leader Support:_ Supporting wards and stakes in helping accomplish God’s work of salvation and exaltation, as directed by Area Presidencies
 
   * _Seminaries and Institutes:_ Office work, recruiting and enrollment, social media, and events support
 
@@ -1130,7 +1130,7 @@ Examples of Service Missionary Opportunities
 
   * _Welfare:_ Bishops’ storehouses, production facilities, farms, Deseret Industries, and employment centers
 
-  * _Church Headquarters (for those living in the Salt Lake City area):_ Welfare Square, Church History Museum, and the Family History Library
+  * _Church Headquarters (for those living in the Salt Lake City area):_ Welfare Square, Church History Museum, and the FamilySearch Library
 
 24.7.2
 

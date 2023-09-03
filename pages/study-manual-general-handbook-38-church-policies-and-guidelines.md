@@ -60,11 +60,7 @@ people who “come forth with broken hearts and contrite spirits,” “are will
 to take upon them the name of Jesus Christ,” and desire to make and keep
 sacred baptismal covenants (Doctrine and Covenants 20:37).
 
-A minor child age 8 or older may be baptized with the permission of his or her
-custodial parent(s) or legal guardian(s). The custodial parent(s) or legal
-guardian(s) should understand the Church doctrine their child will be taught
-and support the child in making and keeping the baptismal covenant. (See
-38.2.8.2.)
+For baptism of minor children ages 8 and older, see 38.2.8.2.
 
 38.1.3
 
@@ -127,9 +123,12 @@ is provided in chapters 27 and 28.
 It is important that a person who receives an ordinance or blessing
 understands what is said. If necessary, a presiding leader may ask someone to
 interpret an ordinance or blessing into a language that the recipient
-understands. This includes sign language interpretation. If possible, this
-person should hold the priesthood. If a priesthood holder is not available, a
-capable man or woman can interpret.
+understands. This includes sign language interpretation.
+
+If a person receiving an ordinance or blessing is deaf or hard of hearing, he
+or she may use a voice-to-text application. Persons who are deaf or hard of
+hearing may also use sign language interpretation or a voice-to-text
+application to understand the blessings given to their family members.
 
 For information about written translations of patriarchal blessings, see
 38.2.10.5. For information about sign language interpretation of patriarchal
@@ -186,8 +185,8 @@ the sacrament. The bishop may authorize a priest or Melchizedek Priesthood
 holder to administer the sacrament in person to those who cannot attend the
 meeting.
 
-Streaming of ordinances should not distract from the Spirit. Only one device
-should be used. Generally, it is operated by the ward or stake technology
+Streaming of ordinances should not distract from the Spirit. Generally, only
+one device should be used. It is operated by the ward or stake technology
 specialist. Both the device and the person using it should be inconspicuous.
 
 Streams of ordinances should be deleted within one day after the ordinance.
@@ -342,12 +341,23 @@ bishop promptly so a membership record can be created for the child.
 
 38.2.7.2
 
-#### Children with a Parent Who Is Not a Member of the Church
+#### Children Whose Parents Are Not Married (Including Divorced)
+
+A child may be blessed when the bishop obtains verbal permission from the
+parents or guardians. Permission is not required from a parent or guardian who
+has no legal basis for opposing the blessing.
+
+38.2.7.3
+
+#### Children Whose Parents Are Not Members of the Church
 
 Sometimes a child’s parents or guardians request that the child be blessed
 even though they are not members of the Church. When this happens, the bishop
-obtains verbal permission from both parents or guardians before the blessing.
-He explains that:
+obtains verbal permission from the parents or guardians. Permission is not
+required from a parent or guardian who has no legal basis for opposing the
+blessing.
+
+The bishop explains that:
 
   * A membership record will be created for the child.
 
@@ -399,16 +409,18 @@ accountable, see 33.6.10.
 A minor, as defined by local laws, may be baptized when both of the following
 conditions are met:
 
-  1. The custodial parent(s) or legal guardian(s) give permission. They should understand the doctrine their child will be taught. They should also be willing to support the child in making and keeping the baptismal covenant. The person who conducts the baptism and confirmation interview asks for this permission to be in writing if he feels it will help prevent misunderstandings. In some locations, written permission is required. Mission and area leaders can provide guidance.
+  1. The parents or legal guardians give permission. Permission is not required from a parent or guardian who has no legal basis for opposing the baptism. Exceptions require the approval of the First Presidency.
+
+The person who conducts the baptism and confirmation interview asks for this
+permission to be in writing if he feels it will help prevent
+misunderstandings. In some locations, written permission is required. Mission
+and area leaders can provide guidance.
+
+Parents or guardians should understand the doctrine their child will be
+taught. They should also be willing to support the child in making and keeping
+the baptismal covenant.
 
   2. The person who conducts the interview discerns that the child understands the baptismal covenant. He should feel confident that the child will strive to keep this covenant by obeying the commandments, including attending Church meetings.
-
-38.2.8.3
-
-#### Children Whose Parents Are Divorced
-
-A child whose parents are divorced may be baptized and confirmed only with the
-permission of the parent(s) with legal custody.
 
 If a child goes by the surname of his or her stepfather, the child may be
 baptized and confirmed in that name. This is true even if he or she has not
@@ -416,14 +428,14 @@ been formally adopted. However, the child’s legal name, as defined by local
 law or custom, should be recorded on the membership record and the baptism and
 confirmation certificate.
 
-38.2.8.4
+38.2.8.3
 
 #### Persons Who Are Married
 
 A married person must have the consent of his or her spouse before being
 baptized.
 
-38.2.8.5
+38.2.8.4
 
 #### Persons Who Are Cohabiting
 
@@ -433,7 +445,7 @@ unto repentance as described in Doctrine and Covenants 20:37. It also includes
 no longer living together or, in the case of a man and a woman, getting
 married.
 
-38.2.8.6
+38.2.8.5
 
 #### Persons Whose Church Membership Was Withdrawn or Who Resigned Membership
 
@@ -441,7 +453,7 @@ Persons whose Church membership was withdrawn or who resigned membership may
 be readmitted by baptism and confirmation. They are not considered converts.
 Missionaries do not interview them for baptism. For instructions, see 32.16.
 
-38.2.8.7
+38.2.8.6
 
 #### Situations That Require Authorization from the Mission President or First
 Presidency
@@ -449,7 +461,7 @@ Presidency
 Authorization from the mission president is required before a person can be
 baptized if he or she has ever:
 
-  * Committed a serious crime (see 38.2.8.8).
+  * Committed a serious crime (see 38.2.8.7).
 
   * Participated in an abortion (see 38.6.1).
 
@@ -462,15 +474,15 @@ authorize or deny the baptism and confirmation.
 Approval from the First Presidency is required before a person can be baptized
 if he or she:
 
-  * Has committed murder (see 38.2.8.8).
+  * Has committed murder (see 38.2.8.7).
 
-  * Has been convicted of a crime involving sexual misconduct (see 38.2.8.8).
+  * Has been convicted of a crime involving sexual misconduct (see 38.2.8.7).
 
-  * Is currently on legal probation or parole for any serious crime or offense (usually punishable by one year in prison or longer) or any crime that involves sexual misconduct (see 38.2.8.8).
+  * Is currently on legal probation or parole for any serious crime or offense (usually punishable by one year in prison or longer) or any crime that involves sexual misconduct (see 38.2.8.7).
 
-  * Has been involved in plural marriage (see 38.2.8.9).
+  * Has been involved in plural marriage (see 38.2.8.8).
 
-  * Has completed transition to the opposite of his or her biological sex at birth (see 38.2.8.10).
+  * Has completed transition to the opposite of his or her biological sex at birth (see 38.2.8.9).
 
 If the person is seeking baptism for the first time, the mission president
 interviews him or her. If he finds the person to be worthy and if he
@@ -488,7 +500,7 @@ determined in the interviews.
 See 6.2.3 about the stake (or mission) president’s responsibility when
 submitting applications to the First Presidency.
 
-38.2.8.8
+38.2.8.7
 
 #### Persons Who Have Been Convicted of Crimes
 
@@ -499,7 +511,7 @@ seeking readmission.
 Persons who have been convicted of felonies or any crimes involving sexual
 misconduct may not be baptized and confirmed until they have also completed
 their terms of probation or parole. Only the First Presidency may grant an
-exception (see 38.2.8.7). These persons are encouraged to work closely with
+exception (see 38.2.8.6). These persons are encouraged to work closely with
 local priesthood leaders. They strive to do all they can to receive the
 Savior’s help to become worthy of baptism and confirmation.
 
@@ -507,17 +519,17 @@ Full-time missionaries do not teach people who are in prison or jail.
 
 A person who has been convicted of murder or a crime involving sexual
 misconduct may not be baptized unless the First Presidency gives approval (see
-38.2.8.7). The same is true for a person who has confessed to committing
+38.2.8.6). The same is true for a person who has confessed to committing
 murder even if the confession was in private to a priesthood leader. As used
 here, _murder_ does not include abortion or police or military action in the
 line of duty.
 
 If the person is seeking baptism for the first time, the mission president
-follows the instructions in 38.2.8.7. If the person is a former member seeking
+follows the instructions in 38.2.8.6. If the person is a former member seeking
 readmission, the bishop and stake president follow the instructions in the
 same section (see also 32.16).
 
-38.2.8.9
+38.2.8.8
 
 #### Adults Involved in Plural Marriage
 
@@ -525,14 +537,14 @@ An adult who has encouraged, taught, or been involved in plural marriage must
 receive approval from the First Presidency before he or she may be baptized.
 
 If the person is seeking baptism for the first time, the mission president
-follows the instructions in 38.2.8.7. If the person is a former member seeking
+follows the instructions in 38.2.8.6. If the person is a former member seeking
 readmission, the bishop and stake president follow the instructions in
-38.2.8.7 (see also 32.16).
+38.2.8.6 (see also 32.16).
 
 The request should describe the person’s past involvement in plural marriage.
 It should also describe his or her repentance and current family situation.
 
-38.2.8.10
+38.2.8.9
 
 #### Persons Who Identify as Transgender
 
@@ -595,10 +607,12 @@ priesthood and perform the baptisms himself.
 
 38.2.9.2
 
-#### Young Men Whose Parents Are Divorced
+#### Young Men Whose Parents Are Not Married (Including Divorced)
 
-A young man whose parents are divorced may be ordained to Aaronic Priesthood
-offices only with the permission of the parent(s) with legal custody.
+A young man may be ordained to Aaronic Priesthood offices when the bishop
+obtains verbal permission from the parents or guardians. Permission is not
+required from a parent or guardian who has no legal basis for opposing the
+ordination.
 
 If the young man goes by the surname of his stepfather, he may be ordained in
 that name. This is true even if he has not been formally adopted. However, the
@@ -973,8 +987,9 @@ Sabbath or on Monday evenings. Weddings performed in Church buildings should
 be simple and dignified. Music should be sacred, reverent, and joyful.
 
 Marriages may be performed in the chapel, the cultural hall, or another
-suitable room. Marriages should follow the guidelines for proper use of the
-meetinghouse (see 35.5.8 and 35.5.15).
+suitable room. Receptions may not be held in the chapel unless it is a
+multipurpose area. Marriages should follow the guidelines for proper use of
+the meetinghouse (see 35.5.3).
 
 The Church does not allow its meetinghouses or properties to be used for any
 purpose related to same-sex, polygamous, unlawful, or other marriages not in
@@ -1454,6 +1469,9 @@ covenant. See 38.4.2.8.
 
 ### Sealing Children to Parents
 
+Parents must be sealed to each other before children are sealed to them (see
+38.4.1).
+
 38.4.2.1
 
 #### Children Who Are Born in the Covenant
@@ -1463,21 +1481,29 @@ temple are born in the covenant of that sealing. They do not need to receive
 the ordinance of sealing to parents.
 
 Sometimes a woman who has been sealed to a man later has children with another
-man. When this occurs, these children are born into the covenant of the first
-sealing unless they were born (1) after the sealing was canceled or (2) after
-it was withdrawn due to resignation or withdrawal of Church membership.
+man. When this occurs, these children are born into the covenant of the
+woman’s most recent sealing unless they were born (1) after the sealing was
+canceled or (2) after it was withdrawn due to resignation or withdrawal of
+Church membership.
 
 38.4.2.2
 
 #### Children Who Are Not Born in the Covenant
 
 Children who are not born in the covenant can become part of an eternal family
-by being sealed to their natural or adoptive parents. These children receive
-the same blessings as if they had been born in the covenant.
+by being sealed to:
 
-_Living children._ A living child may be sealed only to two parents—a husband
-and wife—and not to one parent only. See 27.4.1 for information about issuing
-temple recommends for children being sealed to their parents.
+  * Their natural parents.
+
+  * Their adoptive parents.
+
+  * A natural or adoptive parent and a stepparent (see 38.4.2.5).
+
+These children receive the same blessings as if they had been born in the
+covenant.
+
+See 27.4.1 for information about issuing temple recommends for children being
+sealed to their parents.
 
 Members who are 21 or older must be endowed before being sealed to their
 parents.
@@ -1486,8 +1512,46 @@ Married members who are younger than 21 do not need to be endowed to be sealed
 to their parents. However, they must have a current temple recommend (see
 26.4.4).
 
-_Deceased children._ A deceased person is usually sealed to his or her birth
-or adoptive parents. However, a deceased child may also be sealed to:
+_Sealing living children to living parents._ A living child is sealed to only
+two parents—a husband and wife. If both parents are living, they must be
+married and sealed to each other.
+
+_Sealing living children to deceased parents._ A living child is sealed to
+only one set of parents. The following table shows sealing options available
+to members who have not been sealed to their parents and whose parents are
+deceased.
+
+Circumstance
+
+|
+
+Options  
+  
+---|---  
+  
+Minor child or person who is not accountable due to intellectual disabilities
+
+|
+
+  * Be sealed to legal guardians or adoptive parents who are raising him or her
+
+  * Wait until he or she is an adult and then be sealed to deceased parents
+
+  
+  
+Adult
+
+|
+
+  * Be sealed to deceased parents
+
+  * Be sealed to legal guardians or adoptive parents who raised him or her
+
+  
+  
+_Sealing deceased children to parents (living or deceased)._ A deceased person
+is usually sealed to his or her birth or adoptive parents. However, a deceased
+child may also be sealed to:
 
   * A birth mother and stepfather.
 
@@ -1666,23 +1730,21 @@ Members should not make other ceremonial temple clothing or temple garments.
 Members who receive the endowment make a covenant to wear the temple garment
 throughout their lives.
 
-It is a sacred privilege to wear the temple garment. Doing so is an outward
+The temple garment is a reminder of covenants made in the temple and, when
+worn properly throughout life, will serve as a protection against temptation
+and evil. The garment should be worn beneath the outer clothing. It should not
+be removed for activities that can reasonably be done while wearing the
+garment, and it should not be modified to accommodate different styles of
+clothing. Endowed members should seek the guidance of the Holy Spirit to
+answer personal questions about wearing the garment.
+
+It is a sacred privilege to wear the garment and doing so is an outward
 expression of an inner commitment to follow the Savior Jesus Christ.
 
-The garment is a reminder of covenants made in the temple. When worn properly
-throughout life, it will serve as a protection.
+It is a matter of personal preference whether other undergarments are worn
+over or under the temple garment.
 
-The garment should be worn beneath the outer clothing. It is a matter of
-personal preference whether other undergarments are worn over or under the
-temple garment.
-
-The garment should not be removed for activities that can reasonably be done
-while wearing the garment. It should not be modified to accommodate different
-styles of clothing.
-
-The garment is sacred and should be treated with respect. Endowed members
-should seek the guidance of the Holy Spirit to answer personal questions about
-wearing the garment.
+See 26.3.3.
 
 38.5.6
 
@@ -1984,9 +2046,6 @@ A Church membership council and record annotation are required if an adult
 member abuses a child or youth as described in this section. See also 32.6.1.1
 and 38.6.2.5.
 
-If a minor abuses a child, the stake president contacts the Office of the
-First Presidency for direction.
-
 Physical or emotional bullying between children or youth of a similar age
 should be addressed by ward leaders. A membership council is not held.
 
@@ -2044,10 +2103,10 @@ information about annotations.
 
 In stake and ward council meetings, stake presidencies and bishoprics
 regularly review Church policies and guidelines on preventing and responding
-to abuse. They teach the key messages in “Preventing and Responding to Abuse,”
-an enclosure to the First Presidency letter dated March 26, 2018. They invite
-discussion from council members. Leaders and council members seek the guidance
-of the Spirit as they teach and discuss this sensitive subject.
+to abuse. They teach the key messages in the Abuse section of Life Help in the
+Gospel Library. They invite discussion from council members. Leaders and
+council members seek the guidance of the Spirit as they teach and discuss this
+sensitive subject.
 
 Council members are also to complete children and youth protection training
 (see 38.6.2).
@@ -2282,8 +2341,7 @@ affected by pornography:
 Stake presidents and bishops also provide support to family members as needed.
 
 Some exposure to pornography may be inadvertent. Intentional use of
-pornography may be occasional or intensive. Intensive use can become a
-compulsion or, in very rare cases, an addiction.
+pornography is harmful—whether occasional or intensive.
 
 Personal counseling and informal membership restrictions are usually
 sufficient when helping a person repent of using pornography (see 32.8).
@@ -2338,11 +2396,13 @@ Behavior that is inconsistent with the law of chastity may be cause for
 holding a Church membership council (see 38.6.5). It can be forgiven through
 sincere repentance.
 
-If members feel same-sex attraction and are striving to live the law of
-chastity, leaders support and encourage them in their resolve. These members
-may receive Church callings, have temple recommends, and receive temple
-ordinances if they are worthy. Male Church members may receive and exercise
-the priesthood.
+Feeling same-sex attraction is not a sin. Members who have these feelings and
+do not pursue or act on them are living in accordance with Heavenly Father’s
+plan for His children and with Church doctrine. Leaders support and encourage
+them in their resolve to live according to the commandments of the Lord.
+Members with these feelings may receive Church callings, have temple
+recommends, and receive temple ordinances if they are worthy. Male Church
+members may receive and exercise the priesthood.
 
 All members who keep their covenants will receive all promised blessings in
 the eternities whether or not their circumstances allow them to receive the
@@ -2584,7 +2644,7 @@ transgender. The Church does not take a position on the causes of people
 identifying as transgender.
 
 Most Church participation and some priesthood ordinances are gender neutral.
-Transgender persons may be baptized and confirmed as outlined in 38.2.8.10.
+Transgender persons may be baptized and confirmed as outlined in 38.2.8.9.
 They may also partake of the sacrament and receive priesthood blessings.
 However, priesthood ordination and temple ordinances are received according to
 biological sex at birth.
@@ -3085,7 +3145,7 @@ resources to support Church purposes, including family history work.
 All software on these computers must be properly licensed to the Church.
 
 The stake president oversees the placement and use of computers in the stake,
-including those in family history centers. The stake technology specialist
+including those in FamilySearch centers. The stake technology specialist
 ensures that they are properly updated and maintained as outlined in 33.10.
 
 38.8.11
@@ -3331,7 +3391,7 @@ The bishop or stake president ensures that:
 
   * The person’s travel expenses are not paid either with local unit budget funds or by private contributions.
 
-  * Presentations comply with the guidelines for using Church facilities (see 35.5.2).
+  * Presentations comply with the guidelines for using Church facilities (see 35.5).
 
 38.8.19
 
@@ -3739,7 +3799,7 @@ leaders to meet communication needs. Members and leaders work together to
 ensure that interpreters are available.
 
 Interpreters should be located where members can see them as well as the
-person speaking. Interpreters do not necessarily need to be on the stand.
+person speaking.
 
 During an ordinance or interview, the interpreter sits or stands close to the
 person who performs the ordinance or conducts the interview. For more
@@ -3938,7 +3998,7 @@ political purposes.
 
 Church facilities may not be used for political purposes. However, facilities
 may be used for voting or voter registration where there is not a reasonable
-alternative (see 35.5.2.3).
+alternative (see 35.5.6.3).
 
 38.8.31
 
@@ -4230,7 +4290,7 @@ presentations that:
 Members should not allow their position or standing in the Church to be used
 to promote or imply endorsement of such gatherings.
 
-For more information, see 35.5.2, 38.6.12, and 38.7.8. See also Jacob 6:12.
+For more information, see 35.5, 38.6.12, and 38.7.8. See also Jacob 6:12.
 
 38.8.43
 

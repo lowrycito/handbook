@@ -36,9 +36,9 @@ sections:
 
   * _Doctrinal Foundation:_ These chapters present doctrine and principles fundamental to serving in the Church. They explain:
 
-    * God’s plan of happiness, the work of salvation and exaltation, and the purpose of the Church.
+    * God’s plan of happiness, His work of salvation and exaltation, and the purpose of the Church.
 
-    * The role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church.
+    * The role of the family in God’s plan, His work of salvation and exaltation in the home, and the relationship between the home and the Church.
 
     * Priesthood principles.
 
@@ -46,7 +46,7 @@ sections:
 
   * _Church Organization:_ These chapters provide instructions for stake presidencies and bishoprics, priesthood quorum leaders, stake and ward organization leaders, and others who serve in the Church.
 
-  * _The Work of Salvation and Exaltation:_ These chapters instruct on the core work of the Church:
+  * _God’s Work of Salvation and Exaltation:_ These chapters instruct on the core work of the Church:
 
     * Living the gospel of Jesus Christ
 

@@ -5,7 +5,7 @@ The Church of Jesus Christ of Latter-day Saints (2020).
 
 Image
 
-Interview
+men shaking hands
 
 31.
 
@@ -406,7 +406,7 @@ Permission of parents or guardians is required before a minor can be baptized
 
 Image
 
-France: Bishop's Interview
+man and woman talking
 
 31.2.3.2
 
@@ -422,7 +422,7 @@ this reason, a full-time missionary interviews:
   * Children ages 8 and older who have a parent who is also being baptized and confirmed.
 
 The missionary district leader or zone leader conducts the interview. For
-information about situations that require special authorization, see 38.2.8.7.
+information about situations that require special authorization, see 38.2.8.6.
 
 Each prospective convert should also meet with the bishop before baptism.
 However, the bishop does not interview him or her for baptism. Nor does he
@@ -458,7 +458,7 @@ and circumstance.
   7. When you are baptized, you covenant with God that you are willing to take upon yourself the name of Christ, serve others, stand as a witness of God at all times, and keep His commandments throughout your life. Are you ready to make this covenant and strive to be faithful to it?
 
 For instructions if the person answers affirmatively to question 5 or 6, see
-38.2.8.7. See also 38.2.8.8.
+38.2.8.6. See also 38.2.8.7.
 
 If the person is prepared for baptism, the interviewer fills out the Baptism
 and Confirmation Record (see 18.8.3).
@@ -714,7 +714,7 @@ opportunities. As applicable, they also review budgets and expenses.
 
 Image
 
-HRD - eLearning Standards of Conduct: Man in office
+women talking
 
 31.3.4
 
@@ -770,6 +770,10 @@ Members should carefully select reputable professional counselors who have
 applicable licensing. Counselors should respect the agency, values, and
 beliefs of those seeking help. Incorporating these values is ethically
 appropriate in professional counseling.
+
+When members seek counseling about physical intimacy, bishops may refer them
+to professionals who specialize in such counseling and whose beliefs and
+practices are consistent with Church doctrine.
 
 The Church opposes any therapy, including conversion or reparative therapy for
 sexual orientation or gender identity, that subjects a person to abusive

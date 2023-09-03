@@ -5,7 +5,7 @@ The Church of Jesus Christ of Latter-day Saints (2020).
 
 Image
 
-Sacrament meetings
+man giving a talk in sacrament meeting
 
 36.
 
@@ -242,7 +242,7 @@ a completed proposal.
 
 Image
 
-Elder Bednar in Nairobi, Kenya, Oct. 21, 2017
+family at church
 
 36.4
 
@@ -375,6 +375,10 @@ Stake or mission presidents notify Church headquarters or their area office
 after the changes have been made. Maps and units are not updated until they
 are recorded by Church headquarters.
 
+Image
+
+people singing in church
+
 36.6
 
 ## Basic Unit Program
@@ -399,8 +403,4 @@ missions or stakes where these conditions exist.
 Guidelines for this program are provided in the Basic Unit Program Guidebook.
 Other information is provided in the Branch Guidebook, Priesthood and
 Auxiliary Leaders’ Guidebook, Family Guidebook, and Teaching Guidebook.
-
-Image
-
-Sacrament meetings
 

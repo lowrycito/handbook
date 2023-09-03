@@ -6,7 +6,7 @@ Jesus Christ of Latter-day Saints.
 
 Image
 
-First Presidency Special Message
+First Presidency
 
 5.
 
@@ -17,7 +17,7 @@ First Presidency Special Message
 ## Introduction
 
 Jesus Christ is the “chief corner stone” of His Church (Ephesians 2:20). He
-holds all priesthood keys. He calls apostles and prophets to assist Him in the
+holds all priesthood keys. He calls apostles and prophets to assist in God’s
 work of salvation and exaltation. He confers upon these chosen servants all
 the keys that presently pertain to the kingdom of God on the earth. (See
 Doctrine and Covenants 27:12–13; see also 3.4.1 in this handbook.)
@@ -108,7 +108,7 @@ doctrine and establish policy for the Church (see Doctrine and Covenants 1:38;
 
 Image
 
-First Presidency and the Quorum of the Twelve Apostles
+First Presidency and Quorum of the Twelve
 
 5.1.1.2
 
@@ -182,7 +182,7 @@ General Officers may have the following responsibilities:
 
   * Teach and testify of Jesus Christ and His gospel.
 
-  * Serve as members of general Church councils and committees as assigned (see 5.1.3).
+  * Serve as members of general Church councils and committees as assigned.
 
   * Fulfill assignments throughout the world to minister to members.
 
@@ -193,42 +193,10 @@ General Officers may have the following responsibilities:
   * Instruct and support area organization advisers, who serve under the direction of the Area Presidencies (see 5.2.5.1).
 
 Each general Church organization may have a council to assist the Presidency.
-Members of these councils are called by General Authorities. In the United
-States and Canada, these council members may help orient new stake
-organization presidencies (see 6.2.1.6). Outside of the United States and
-Canada, area organization advisers may help provide this orientation (see
-5.2.5.1).
 
 Image
 
-The Relief Society General Presidency (Beginning August 2022)
-
-5.1.3
-
-### General Church Councils and Committees
-
-General Church councils and committees provide leadership and direction for
-specific parts of the work of salvation and exaltation. Examples of these
-councils and committees are listed below:
-
-  * Priesthood and Family Executive Council
-
-  * Welfare and Self-Reliance Executive Committee
-
-  * Missionary Executive Council
-
-  * Temple and Family History Executive Council
-
-Members of these councils and committees are assigned by the First Presidency.
-They may include:
-
-  * Members of the Quorum of the Twelve Apostles.
-
-  * General Authority Seventies.
-
-  * Members of the Presiding Bishopric.
-
-  * Members of the Relief Society, Young Women, or Primary General Presidencies.
+Relief Society General Presidency
 
 5.2
 
@@ -303,21 +271,11 @@ serve under the direction of the Area Presidency.
 ### Area Council
 
 In each area, an area council meets as needed (usually quarterly) to
-coordinate the work of salvation and exaltation in their area. The Area
+coordinate God’s work of salvation and exaltation in their area. The Area
 Presidency presides over the area council. This council consists of the Area
 Presidency and Area Seventies serving in the area. Others may attend part or
 all of the council’s meetings when needed and when invited by the Area
 Presidency.
-
-The purposes of area council meetings include:
-
-  * Reviewing and counseling about how best to implement direction from Church leaders according to the needs and circumstances of the area.
-
-  * Counseling about the progress of the work of salvation and exaltation in the area.
-
-  * Assessing the progress of area-specific initiatives.
-
-  * Attending to other area matters.
 
 5.2.4
 
@@ -337,26 +295,12 @@ travel when making these invitations.
 
 The purpose of coordinating council meetings is to help stake, mission, and
 temple presidents exercise priesthood keys in unity. Together they counsel
-about and coordinate efforts to help members in their responsibilities for the
-work of salvation and exaltation.
+about and coordinate efforts to help members in their responsibilities to
+participate in God’s work of salvation and exaltation.
 
 The Area Seventy convenes a coordinating council meeting soon after each
-quarterly area council meeting. Additional meetings may be held when needed.
-
-The Area Seventy directs the meetings and facilitates the discussion. All who
-attend counsel together as equal participants.
-
-In these meetings, participants:
-
-  * Seek revelation about how best to implement the teachings and direction of the First Presidency, Quorum of the Twelve Apostles, and Area Presidency.
-
-  * Coordinate the work of salvation and exaltation.
-
-  * Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
-
-  * Instruct and edify one another.
-
-  * Coordinate multistake matters. These matters may include activities (see 20.3.3), efforts to build self-reliance and give community service (see 22.10.1), emergency response efforts (see 22.9.1.3), and finances and audits (see 34.7).
+quarterly area council meeting (see 29.4). Additional meetings may be held
+when needed.
 
 5.2.5
 
@@ -384,5 +328,5 @@ this orientation.
 
 Area advisers serve under the direction of their Area Presidency. They also
 receive regular instruction from general organization presidencies. They
-typically serve for three to five years.
+typically serve for three years.
 

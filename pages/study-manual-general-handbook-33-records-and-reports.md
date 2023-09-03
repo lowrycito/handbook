@@ -631,10 +631,16 @@ Young single adults between the ages of 18 and 30 may choose to be members of
 either their geographic ward or a YSA ward if one is established in their
 area. If they choose a YSA ward, they attend the ward assigned to the
 boundaries in which they live. They also inform the bishop of their geographic
-ward for his awareness. The membership record is kept in the ward they attend.
+ward. The membership record is kept in the ward they attend.
 
 These principles also apply to single adults between the ages of 31 and 45 who
 choose to be members of a single adult ward.
+
+If a young single adult plans to attend a ward temporarily (for example, while
+attending school), the membership record is kept in the ward he or she
+attends. With the member’s permission, the clerk of the ward where the
+member’s family lives may create an out-of-unit record for him or her (see
+33.6.5).
 
 33.6.8
 
@@ -797,14 +803,15 @@ Keeping a history is a spiritual work that will strengthen the faith of those
 who write and read it. Documenting stories throughout the year will improve
 the quality of the history.
 
-The stake clerk or an assistant stake clerk prepares the stake’s history. The
-stake presidency may also call a history specialist to help. The bishopric
-follows a similar approach for the ward. Instructions are available at Stake,
-District, and Mission Annual Histories on ChurchofJesusChrist.org.
+Stake and ward priesthood and organization leaders contribute stories using
+the Unit History tool on ChurchofJesusChrist.org. Stake and ward clerks have
+the primary responsibility to organize and coordinate this effort. The stake
+presidency and bishopric may call a stake or ward history specialist to help.
+Additional instructions are available in the tool’s Quick Start Guide.
 
-Image
-
-man looking at paper
+Members may use the Unit History tool to view stories that have been published
+by their ward and stake leaders. Published stories are automatically preserved
+by the Church.
 
 33.7.2
 
@@ -965,7 +972,7 @@ following:
 
 In addition, the stake technology specialist has the following
 responsibilities for managing Church computers in the stake, including those
-in family history centers:
+in FamilySearch centers:
 
   * Implement direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
 

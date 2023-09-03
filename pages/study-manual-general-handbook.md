@@ -14,46 +14,46 @@
 
 Doctrinal Foundation
 
-  * 1\. God’s Plan and Your Role in the Work of Salvation and Exaltation
+  * 1\. God’s Plan and Your Role in His Work of Salvation and Exaltation
 
-    * 1.0. IntroductionThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-    * 1.1. God’s Plan of HappinessThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-    * 1.2. The Work of Salvation and Exaltation
+    * 1.0. IntroductionThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+    * 1.1. God’s Plan of HappinessThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+    * 1.2. God’s Work of Salvation and Exaltation
 
-      * 1.2. The Work of Salvation and ExaltationThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.2.1. Living the Gospel of Jesus ChristThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.2.2. Caring for Those in NeedThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.2.3. Inviting All to Receive the GospelThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.2.4. Uniting Families for EternityThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.2. God’s Work of Salvation and ExaltationThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.2.1. Living the Gospel of Jesus ChristThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.2.2. Caring for Those in NeedThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.2.3. Inviting All to Receive the GospelThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.2.4. Uniting Families for EternityThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
     * 1.3. The Purpose of the Church
 
-      * 1.3. The Purpose of the ChurchThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.1. Priesthood Authority and KeysThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.2. Covenants and OrdinancesThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.3. Prophetic DirectionThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.4. ScripturesThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.5. Gospel Learning and Teaching SupportThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.6. Service and Leadership OpportunitiesThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-      * 1.3.7. A Community of SaintsThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-    * 1.4. Your Role in God’s WorkThis chapter will help you gain a vision of God’s plan of happiness, the work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
-  * 2\. Supporting Individuals and Families in the Work of Salvation and Exaltation
+      * 1.3. The Purpose of the ChurchThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.1. Priesthood Authority and KeysThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.2. Covenants and OrdinancesThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.3. Prophetic DirectionThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.4. ScripturesThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.5. Gospel Learning and Teaching SupportThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.6. Service and Leadership OpportunitiesThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+      * 1.3.7. A Community of SaintsThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+    * 1.4. Your Role in God’s WorkThis chapter will help you gain a vision of God’s plan of happiness, His work of salvation and exaltation, and the purpose of The Church of Jesus Christ of Latter-day Saints. 
+  * 2\. Supporting Individuals and Families in God’s Work of Salvation and Exaltation
 
-    * 2.0. IntroductionThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+    * 2.0. IntroductionThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
     * 2.1. The Role of the Family in God’s Plan
 
-      * 2.1. The Role of the Family in God’s PlanThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.1.1. Eternal FamiliesThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.1.2. Husband and WifeThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.1.3. Parents and ChildrenThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-    * 2.2. The Work of Salvation and Exaltation in the Home
+      * 2.1. The Role of the Family in God’s PlanThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.1.1. Eternal FamiliesThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.1.2. Husband and WifeThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.1.3. Parents and ChildrenThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+    * 2.2. God’s Work of Salvation and Exaltation in the Home
 
-      * 2.2. The Work of Salvation and Exaltation in the HomeThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.2.1. A Home Where the Spirit Is PresentThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.2.2. Sabbath ObservanceThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.2.3. Gospel Study and Learning at HomeThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.2.4. Home Evening and Other ActivitiesThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-      * 2.2.5. Supporting IndividualsThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
-    * 2.3. The Relationship between the Home and the ChurchThis chapter will help you gain a vision of the role of the family in God’s plan, the work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.2. God’s Work of Salvation and Exaltation in the HomeThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.2.1. A Home Where the Spirit Is PresentThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.2.2. Sabbath ObservanceThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.2.3. Gospel Study and Learning at HomeThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.2.4. Home Evening and Other ActivitiesThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+      * 2.2.5. Supporting IndividualsThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
+    * 2.3. The Relationship between the Home and the ChurchThis chapter will help you gain a vision of the role of the family in God’s plan, God’s work of salvation and exaltation in the home, and the relationship between the home and the Church. 
   * 3\. Priesthood Principles
 
     * 3.0. IntroductionThrough the priesthood, Heavenly Father accomplishes His work “to bring to pass the immortality and eternal life of man” (Moses 1:39). 
@@ -113,7 +113,6 @@ Church Organization
       * 5.1. General Church LeadershipThis chapter describes the roles of general and area leaders in the Church. 
       * 5.1.1. General AuthoritiesThis chapter describes the roles of general and area leaders in the Church. 
       * 5.1.2. General OfficersThis chapter describes the roles of general and area leaders in the Church. 
-      * 5.1.3. General Church Councils and CommitteesThis chapter describes the roles of general and area leaders in the Church. 
     * 5.2. Area Leadership
 
       * 5.2. Area LeadershipThis chapter describes the roles of general and area leaders in the Church. 
@@ -124,42 +123,42 @@ Church Organization
       * 5.2.5. Area CallingsThis chapter describes the roles of general and area leaders in the Church. 
   * 6\. Stake Leadership
 
-    * 6.1. Purposes of a StakeThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
+    * 6.1. Purposes of a StakeThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
     * 6.2. Stake Presidency
 
-      * 6.2. Stake PresidencyThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.2.1. Presiding High PriestThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.2.2. Leading the Work of Salvation and ExaltationThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.2.3. Common JudgeThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.2.4. Records, Finances, and PropertiesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-    * 6.3. Differences between the Authority of District Presidents and That of Stake PresidentsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
+      * 6.2. Stake PresidencyThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.2.1. Presiding High PriestThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.2.2. Leading God’s Work of Salvation and Exaltation in the StakeThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.2.3. Common JudgeThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.2.4. Records, Finances, and PropertiesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+    * 6.3. Differences between the Authority of District Presidents and That of Stake PresidentsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
     * 6.4. Stake Executive Secretary, Assistant Stake Executive Secretaries, Stake Clerk, and Assistant Stake Clerks
 
-      * 6.4.1. Stake Executive Secretary and Assistant Stake Executive SecretariesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.4.2. Stake Clerk and Assistant Stake ClerksThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
+      * 6.4.1. Stake Executive Secretary and Assistant Stake Executive SecretariesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.4.2. Stake Clerk and Assistant Stake ClerksThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
     * 6.5. High Council
 
-      * 6.5. High CouncilThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.5.1. Represent the Stake PresidencyThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.5.2. Serve on Stake Councils and CommitteesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.5.3. Serve as Stake Organization LeadersThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
+      * 6.5. High CouncilThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.5.1. Represent the Stake PresidencyThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.5.2. Serve on Stake Councils and CommitteesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.5.3. Serve as Stake Organization LeadersThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
     * 6.6. Stake Patriarch
 
-      * 6.6. Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.1. Calling, Sustaining, and Ordaining a Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.2. Calling a Second Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.3. Instructing a Newly Called Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.4. Supervising the Work of the Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.5. Confidentiality of Patriarchal BlessingsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.6. Patriarchs Who Are Called to Another Church PositionThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.6.7. Scribes for Patriarchal BlessingsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
+      * 6.6. Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.1. Calling, Sustaining, and Ordaining a Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.2. Calling a Second Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.3. Instructing a Newly Called Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.4. Supervising the Work of the Stake PatriarchThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.5. Confidentiality of Patriarchal BlessingsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.6. Patriarchs Who Are Called to Another Church PositionThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.6.7. Scribes for Patriarchal BlessingsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
     * 6.7. Stake Organizations
 
-      * 6.7. Stake OrganizationsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.7.1. Stake Relief Society, Young Women, Primary, and Sunday School PresidenciesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.7.2. Stake Young Men PresidencyThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-      * 6.7.3. Stake Organization SecretariesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
-    * 6.8. Stake SpecialistsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to accomplish the work of salvation and exaltation. 
+      * 6.7. Stake OrganizationsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.7.1. Stake Relief Society, Young Women, Primary, and Sunday School PresidenciesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.7.2. Stake Young Men PresidencyThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+      * 6.7.3. Stake Organization SecretariesThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
+    * 6.8. Stake SpecialistsThe Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world (Doctrine and Covenants 115:6). Members and leaders in a stake work together to help accomplish God’s work of salvation and exaltation. 
   * 7\. The Bishopric
 
     * 7.1. The Bishop and His Counselors
@@ -168,7 +167,7 @@ Church Organization
       * 7.1.1. Presiding High PriestThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
       * 7.1.2. President of the Aaronic PriesthoodThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
       * 7.1.3. Common JudgeThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
-      * 7.1.4. Coordinating the Work of Salvation and ExaltationThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
+      * 7.1.4. Coordinating God’s Work of Salvation and Exaltation in the WardThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
       * 7.1.5. Records, Finances, and the MeetinghouseThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
     * 7.2. Differences between Branch Presidencies and BishopricsThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
     * 7.3. Ward Executive Secretary and Assistant Ward Executive SecretariesThe bishop holds the priesthood keys to lead the work of the Church in the ward. He and his counselors form a bishopric. They receive guidance from the stake presidency. They care for ward members with love, helping them become true followers of Jesus Christ. 
@@ -181,9 +180,9 @@ Church Organization
       * 8.1.1. PurposeThis chapter contains information for leaders of elders and high priests. 
       * 8.1.2. Membership in the Elders QuorumThis chapter contains information for leaders of elders and high priests. 
       * 8.1.3. Adapting to Local NeedsThis chapter contains information for leaders of elders and high priests. 
-    * 8.2. Participating in the Work of Salvation and Exaltation
+    * 8.2. Participating in God’s Work of Salvation and Exaltation
 
-      * 8.2. Participating in the Work of Salvation and ExaltationThis chapter contains information for leaders of elders and high priests. 
+      * 8.2. Participating in God’s Work of Salvation and ExaltationThis chapter contains information for leaders of elders and high priests. 
       * 8.2.1. Living the Gospel of Jesus ChristThis chapter contains information for leaders of elders and high priests. 
       * 8.2.2. Caring for Those in NeedThis chapter contains information for leaders of elders and high priests. 
       * 8.2.3. Inviting All to Receive the GospelThis chapter contains information for leaders of elders and high priests. 
@@ -205,9 +204,9 @@ Church Organization
       * 9.1.1. PurposeRelief Society helps God’s children prepare to return to His presence. 
       * 9.1.2. Membership in Relief SocietyRelief Society helps God’s children prepare to return to His presence. 
       * 9.1.3. Adapting to Local NeedsRelief Society helps God’s children prepare to return to His presence. 
-    * 9.2. Participating in the Work of Salvation and Exaltation
+    * 9.2. Participating in God’s Work of Salvation and Exaltation
 
-      * 9.2. Participating in the Work of Salvation and ExaltationRelief Society helps God’s children prepare to return to His presence. 
+      * 9.2. Participating in God’s Work of Salvation and ExaltationRelief Society helps God’s children prepare to return to His presence. 
       * 9.2.1. Living the Gospel of Jesus ChristRelief Society helps God’s children prepare to return to His presence. 
       * 9.2.2. Caring for Those in NeedRelief Society helps God’s children prepare to return to His presence. 
       * 9.2.3. Inviting All to Receive the GospelRelief Society helps God’s children prepare to return to His presence. 
@@ -235,9 +234,9 @@ Church Organization
       * 10.1.3. QuorumsAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 10.1.4. Priesthood KeysAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 10.1.5. Adapting Quorums to Local NeedsAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
-    * 10.2. Participating in the Work of Salvation and Exaltation
+    * 10.2 Participating in God’s Work of Salvation and Exaltation
 
-      * 10.2. Participating in the Work of Salvation and ExaltationAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
+      * 10.2 Participating in God’s Work of Salvation and ExaltationAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 10.2.1. Living the Gospel of Jesus ChristAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 10.2.2. Caring for Those in NeedAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 10.2.3. Inviting All to Receive the GospelAaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
@@ -266,9 +265,9 @@ Church Organization
       * 11.1.1. PurposeThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 11.1.2. Young Women ThemeThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 11.1.3. ClassesThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
-    * 11.2. Participating in the Work of Salvation and Exaltation
+    * 11.2. Participating in God’s Work of Salvation and Exaltation
 
-      * 11.2. Participating in the Work of Salvation and ExaltationThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
+      * 11.2. Participating in God’s Work of Salvation and ExaltationThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 11.2.1. Living the Gospel of Jesus ChristThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 11.2.2. Caring for Those in NeedThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
       * 11.2.3. Inviting All to Receive the GospelThe Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel. 
@@ -298,9 +297,9 @@ Church Organization
       * 12.1.3. ClassesPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.1.4. Singing TimePrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.1.5. NurseryPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
-    * 12.2. Participating in the Work of Salvation and Exaltation
+    * 12.2. Participating in God’ Work of Salvation and Exaltation
 
-      * 12.2. Participating in the Work of Salvation and ExaltationPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+      * 12.2. Participating in God’s Work of Salvation and ExaltationPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.2.1. Living the Gospel of Jesus ChristPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.2.2. Caring for Those in NeedPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.2.3. Inviting All to Receive the GospelPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
@@ -325,24 +324,24 @@ Church Organization
       * 12.5.7. Introducing the Children and Youth ProgramPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
   * 13\. Sunday School
 
-    * 13.1. PurposeThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
+    * 13.1. PurposeThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
     * 13.2. Ward Sunday School Leadership
 
-      * 13.2.1. BishopricThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-      * 13.2.2. Sunday School PresidentThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-      * 13.2.3. Sunday School TeachersThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
+      * 13.2.1. BishopricThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+      * 13.2.2. Sunday School PresidentThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+      * 13.2.3. Sunday School TeachersThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
     * 13.3. Sunday School Classes
 
-      * 13.3. Sunday School ClassesThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-      * 13.3.1. Small BranchesThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-      * 13.3.2. Sunday School Classes for Specific GroupsThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-    * 13.4. Improving Learning and Teaching in the WardThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-    * 13.5. Improving Learning and Teaching in the HomeThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-    * 13.6. Stake Sunday School LeadersThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
+      * 13.3. Sunday School ClassesThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+      * 13.3.1. Small BranchesThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+      * 13.3.2. Sunday School Classes for Specific GroupsThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+    * 13.4. Improving Learning and Teaching in the WardThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+    * 13.5. Improving Learning and Teaching in the HomeThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+    * 13.6. Stake Sunday School LeadersThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
     * 13.7. Additional Guidelines
 
-      * 13.7.1. Members with DisabilitiesThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
-      * 13.7.2. Resource CenterThe Sunday School helps accomplish the work of salvation under the direction of those who hold priesthood keys. 
+      * 13.7.1. Members with DisabilitiesThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
+      * 13.7.2. Resource CenterThe Sunday School helps accomplish God’s work of salvation under the direction of those who hold priesthood keys. 
   * 14\. Single Members
 
     * 14.0. IntroductionMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
@@ -351,9 +350,9 @@ Church Organization
       * 14.1. Single Members in Geographic UnitsMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
       * 14.1.1. Stake LeadershipMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
       * 14.1.2. Ward LeadershipMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
-    * 14.2. Participating in the Work of Salvation and Exaltation
+    * 14.2. Participating in God’s Work of Salvation and Exaltation
 
-      * 14.2. Participating in the Work of Salvation and ExaltationMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
+      * 14.2. Participating in God’s Work of Salvation and ExaltationMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
       * 14.2.1. Living the Gospel of Jesus ChristMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
       * 14.2.2. Caring for Those in NeedMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
       * 14.2.3. Inviting All to Receive the GospelMen and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. 
@@ -387,7 +386,7 @@ Church Organization
       * 15.2.1. Other Religion ClassesSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
     * 15.3. Church Schools and Church Educational SystemSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
 
-The Work of Salvation and Exaltation
+God’s Work of Salvation and Exaltation
 
   * Living the Gospel of Jesus Christ
 
@@ -591,97 +590,97 @@ The Work of Salvation and Exaltation
       * 21.4. Coordinating Ministering EffortsThe Savior showed by example what it means to minister as He served out of love for His Father and for His Father’s children. 
     * 22\. Providing for Temporal Needs and Building Self-Reliance
 
-      * 22.0. IntroductionMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+      * 22.0. IntroductionMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.1. Build Self-Reliance
 
-        * 22.1. Build Self-RelianceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.1.1. Spiritual StrengthMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.1.2. Physical and Emotional HealthMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.1.3. Education and EmploymentMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.1.4. Temporal PreparednessMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.1. Build Self-RelianceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.1.1. Spiritual StrengthMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.1.2. Physical and Emotional HealthMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.1.3. Education and EmploymentMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.1.4. Temporal PreparednessMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.2. Minister to Those with Temporal and Emotional Needs
 
-        * 22.2. Minister to Those with Temporal and Emotional NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.2.1. The Lord’s StorehouseMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.2.2. The Law of the Fast and Fast OfferingsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.2.3. ServiceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.2.4. Humanitarian AidMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.2. Minister to Those with Temporal and Emotional NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.2.1. The Lord’s StorehouseMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.2.2. The Law of the Fast and Fast OfferingsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.2.3. ServiceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.2.4. Humanitarian AidMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.3. Pattern for Building Self-Reliance and Ministering to Those in Need
 
-        * 22.3. Pattern for Building Self-Reliance and Ministering to Those in NeedMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.3.1. Seek Out Those in NeedMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.3.2. Help Members Assess and Address Short-Term NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.3.3. Help Members Build Long-Term Self-RelianceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.3.4. Minister to Those with Emotional NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.3. Pattern for Building Self-Reliance and Ministering to Those in NeedMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.3.1. Seek Out Those in NeedMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.3.2. Help Members Assess and Address Short-Term NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.3.3. Help Members Build Long-Term Self-RelianceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.3.4. Minister to Those with Emotional NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.4. Principles for Providing Church Assistance
 
-        * 22.4. Principles for Providing Church AssistanceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.4.1. Encourage Personal and Family ResponsibilityMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.4.2. Provide Temporary Assistance for Essential NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.4.3. Provide Resources or Services Rather Than CashMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.4.4. Offer Work or Service OpportunitiesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.4.5. Keep Information about Church Assistance ConfidentialMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.4. Principles for Providing Church AssistanceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.4.1. Encourage Personal and Family ResponsibilityMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.4.2. Provide Temporary Assistance for Essential NeedsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.4.3. Provide Resources or Services Rather Than CashMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.4.4. Offer Work or Service OpportunitiesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.4.5. Keep Information about Church Assistance ConfidentialMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.5. Policies for Providing Church Assistance
 
-        * 22.5. Policies for Providing Church AssistanceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.5.1. Policies Regarding Recipients of Church AssistanceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.5.2. Policies on Using Fast OfferingsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.5.3. Policies on Making PaymentsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.5.4. Policies on Payments That Would Benefit a Bishop or Stake PresidentMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.5.5. Protecting against Improper Use of FundsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.5. Policies for Providing Church AssistanceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.5.1. Policies Regarding Recipients of Church AssistanceMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.5.2. Policies on Using Fast OfferingsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.5.3. Policies on Making PaymentsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.5.4. Policies on Payments That Would Benefit a Bishop or Stake PresidentMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.5.5. Protecting against Improper Use of FundsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.6. Roles of Ward Leaders
 
-        * 22.6.1. Bishop and His CounselorsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.6.2. Relief Society and Elders Quorum PresidenciesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.6.3. Ministering Brothers or SistersMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.6.4. Ward Welfare and Self-Reliance SpecialistsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.6.5. Summary of Callings and RolesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-      * 22.7. Role of the Ward CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-      * 22.8. Role of the Ward Youth CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.6.1. Bishop and His CounselorsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.6.2. Relief Society and Elders Quorum PresidenciesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.6.3. Ministering Brothers or SistersMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.6.4. Ward Welfare and Self-Reliance SpecialistsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.6.5. Summary of Callings and RolesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+      * 22.7. Role of the Ward CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+      * 22.8. Role of the Ward Youth CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.9. Roles of Stake Leaders
 
-        * 22.9.1. Stake President and His CounselorsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.9.2. High CouncilorsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.9.3. Stake Relief Society PresidencyMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.9.4. Stake Welfare and Self-Reliance SpecialistsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.9.1. Stake President and His CounselorsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.9.2. High CouncilorsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.9.3. Stake Relief Society PresidencyMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.9.4. Stake Welfare and Self-Reliance SpecialistsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
       * 22.10. Role of the Stake Council
 
-        * 22.10. Role of the Stake CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.10.1. Resources Coordinated by the StakeMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-        * 22.10.2. Specialized Working GroupsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-      * 22.11. Role of the Stake Bishops’ CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-      * 22.12. Government and Community ResourcesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
-      * 22.13. Church ResourcesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of the work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.10. Role of the Stake CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.10.1. Resources Coordinated by the StakeMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+        * 22.10.2. Specialized Working GroupsMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+      * 22.11. Role of the Stake Bishops’ CouncilMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+      * 22.12. Government and Community ResourcesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
+      * 22.13. Church ResourcesMembers of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another. 
   * Inviting All to Receive the Gospel
 
     * 23\. Sharing the Gospel and Strengthening New and Returning Members
 
-      * 23.0. IntroductionInviting all to receive the gospel is part of the work of salvation and exaltation. 
+      * 23.0. IntroductionInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
       * 23.1. Share the Gospel
 
-        * 23.1. Share the GospelInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.1.1. LoveInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.1.2. ShareInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.1.3. InviteInviting all to receive the gospel is part of the work of salvation and exaltation. 
-      * 23.2. Strengthen New MembersInviting all to receive the gospel is part of the work of salvation and exaltation. 
-      * 23.3. Strengthen Returning MembersInviting all to receive the gospel is part of the work of salvation and exaltation. 
+        * 23.1. Share the GospelInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.1.1. LoveInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.1.2. ShareInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.1.3. InviteInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+      * 23.2. Strengthen New MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+      * 23.3. Strengthen Returning MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
       * 23.4. Stake Leaders
 
-        * 23.4. Stake LeadersInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.4.1. Stake PresidencyInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.4.2. Stake Adult Leadership CommitteeInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.4.3. High CouncilorsInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.4.4. Stake Relief Society PresidencyInviting all to receive the gospel is part of the work of salvation and exaltation. 
+        * 23.4. Stake LeadersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.4.1. Stake PresidencyInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.4.2. Stake Adult Leadership CommitteeInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.4.3. High CouncilorsInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.4.4. Stake Relief Society PresidencyInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
       * 23.5. Ward Leaders
 
-        * 23.5. Ward LeadersInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.1. BishopricInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.2. Elders Quorum and Relief Society PresidenciesInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.3. Ward Mission LeaderInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.4. Ward MissionariesInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.5. Ward Council and Ward Youth CouncilInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.6. Ward Plan for Sharing the Gospel and Strengthening New and Returning MembersInviting all to receive the gospel is part of the work of salvation and exaltation. 
-        * 23.5.7. Coordination MeetingsInviting all to receive the gospel is part of the work of salvation and exaltation. 
+        * 23.5. Ward LeadersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.1. BishopricInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.2. Elders Quorum and Relief Society PresidenciesInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.3. Ward Mission LeaderInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.4. Ward MissionariesInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.5. Ward Council and Ward Youth CouncilInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.6. Ward Plan for Sharing the Gospel and Strengthening New and Returning MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.7. Coordination MeetingsInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
     * 24\. Missionary Recommendations and Service
 
       * 24.0. IntroductionTo serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves. 
@@ -743,44 +742,44 @@ The Work of Salvation and Exaltation
 
     * 25\. Temple and Family History Work in the Ward and Stake
 
-      * 25.0. IntroductionUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+      * 25.0. IntroductionUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.1. Member and Leader Participation in Temple and Family History Work
 
-        * 25.1. Member and Leader Participation in Temple and Family History WorkUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.1.1. Individual Responsibility for Temple AttendanceUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.1.2. Ward and Stake Temple TripsUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.1. Member and Leader Participation in Temple and Family History WorkUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.1.1. Individual Responsibility for Temple AttendanceUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.1.2. Ward and Stake Temple TripsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.2. Organizing Temple and Family History Work in the Ward
 
-        * 25.2.1. BishopricUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.2. Elders Quorum and Relief Society PresidenciesUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.3. Ward Temple and Family History LeaderUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.4. Ward Temple and Family History ConsultantsUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.5. Ward CouncilUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.6. Ward Temple and Family History PlanUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.7. Ward Temple and Family History Coordination MeetingsUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.2.8. Temple Preparation CourseUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.1. BishopricUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.2. Elders Quorum and Relief Society PresidenciesUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.3. Ward Temple and Family History LeaderUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.4. Ward Temple and Family History ConsultantsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.5. Ward CouncilUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.6. Ward Temple and Family History PlanUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.7. Ward Temple and Family History Coordination MeetingsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.2.8. Temple Preparation CourseUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.3. Organizing Temple and Family History Work in the Stake
 
-        * 25.3. Organizing Temple and Family History Work in the StakeUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.1. Stake PresidencyUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.2. Stake Adult Leadership CommitteeUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.3. High CouncilorsUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.4. Stake Relief Society PresidencyUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.5. Stake Temple and Family History ConsultantsUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.6. Family History CentersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.7. Area Temple and Family History AdvisersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3. Organizing Temple and Family History Work in the StakeUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.1. Stake PresidencyUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.2. Stake Adult Leadership CommitteeUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.3. High CouncilorsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.4. Stake Relief Society PresidencyUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.5. Stake Temple and Family History ConsultantsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.6. FamilySearch CentersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.7. Area Temple and Family History AdvisersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.4. Family History Resources
 
-        * 25.4.1. My Family: Stories That Bring Us TogetherUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.4.2. FamilySearch.org and FamilySearch AppsUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.4.3. IndexingUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.4.1. My Family: Stories That Bring Us TogetherUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.4.2. FamilySearch.org and FamilySearch AppsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.4.3. IndexingUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.5. Recommending and Calling Temple Workers
 
-        * 25.5.1. Recommending Temple WorkersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.2. Requirements for Temple Ordinance WorkersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.3. Requirements for Temple VolunteersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.4. Calling and Setting Apart Ordinance WorkersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.5. Assigning VolunteersUniting families for eternity is part of the work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.1. Recommending Temple WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.2. Requirements for Temple Ordinance WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.3. Requirements for Temple VolunteersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.4. Calling and Setting Apart Ordinance WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.5. Assigning VolunteersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
     * 26\. Temple Recommends
 
       * 26.0. IntroductionEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
@@ -788,14 +787,14 @@ The Work of Salvation and Exaltation
       * 26.2. Safeguarding Temple Recommends
 
         * 26.2.1. Priesthood Leaders Safeguarding Temple RecommendsEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
-        * 26.2.2. Disposal of Expired Temple RecommendsEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
-        * 26.2.3. Lost or Stolen RecommendsEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
-        * 26.2.4. Recommend Holders Who Are Not Living the Standards of WorthinessEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
+        * 26.2.2. Lost or Stolen RecommendsEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
+        * 26.2.3. Recommend Holders Who Are Not Living the Standards of WorthinessEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
       * 26.3. General Guidelines for Issuing Temple Recommends
 
         * 26.3. General Guidelines for Issuing Temple RecommendsEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
         * 26.3.1. Temple Recommend Interviews for Members in Wards and BranchesEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
         * 26.3.2. Temple Recommend Interviews for Members in Isolated AreasEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
+        * 26.3.3. Conducting a Temple Recommend InterviewEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
       * 26.4. Issuing Temple Recommends to Unendowed Members
 
         * 26.4.1. General GuidelinesEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
@@ -916,6 +915,7 @@ Church Administration
       * 29.5.6. Services for Those Who Are Not Members of the ChurchLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.6. Prayers in Church MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.7. Streaming Meetings and Holding Virtual MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+    * 29.8. Photographs and Video Recordings of MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
   * 30\. Callings in the Church
 
     * 30.0. IntroductionThe Lord calls men and women to serve in the Church through inspired invitations from His servants. These opportunities to serve are known as callings. 
@@ -1019,7 +1019,7 @@ Church Administration
 
       * 32.8. Personal Counseling and Informal Membership RestrictionsMost repentance takes place between an individual, God, and those who have been affected by a person’s sins. However, sometimes a bishop or stake president needs to help Church members in their efforts to repent. 
       * 32.8.1. Personal CounselingMost repentance takes place between an individual, God, and those who have been affected by a person’s sins. However, sometimes a bishop or stake president needs to help Church members in their efforts to repent. 
-      * 32.8.2. Helping People with AddictionsMost repentance takes place between an individual, God, and those who have been affected by a person’s sins. However, sometimes a bishop or stake president needs to help Church members in their efforts to repent. 
+      * 32.8.2. Helping People Address Addictions and Pornography UseMost repentance takes place between an individual, God, and those who have been affected by a person’s sins. However, sometimes a bishop or stake president needs to help Church members in their efforts to repent. 
       * 32.8.3. Informal Membership RestrictionsMost repentance takes place between an individual, God, and those who have been affected by a person’s sins. However, sometimes a bishop or stake president needs to help Church members in their efforts to repent. 
     * 32.9. Participation and Responsibility
 
@@ -1209,24 +1209,16 @@ Church Administration
       * 35.4.3. Meetinghouse Inspection 
       * 35.4.4. Energy and Water Conservation 
       * 35.4.5. Safety and Security 
-    * 35.5. Policies on Using Church Property
+    * 35.5. Policies on Using Church Meetinghouses
 
-      * 35.5. Policies on Using Church Property 
-      * 35.5.1. Artwork 
-      * 35.5.2. Building Uses That Are Not Allowed 
-      * 35.5.3. Decorations 
-      * 35.5.4. Emergencies 
-      * 35.5.5. Firearms and Weapons 
-      * 35.5.6. Flags 
-      * 35.5.7. Historic Preservation 
-      * 35.5.8. Nonprofit Use of Church Property 
-      * 35.5.9. Parking Lots 
-      * 35.5.10. Photographs and Video Recordings during Sacrament Meeting 
-      * 35.5.11. Recreational Property 
-      * 35.5.12. Serving Areas 
-      * 35.5.13. Signs 
-      * 35.5.14. Storage 
-      * 35.5.15. Weddings and Receptions 
+      * 35.5. Policies on Using Church Meetinghouses 
+      * 35.5.1. Basic Principles and Requirements for Using Church Meetinghouses 
+      * 35.5.2. Church Use of Meetinghouses 
+      * 35.5.3. Member Use of Meetinghouses—Personal and Family 
+      * 35.5.4. Use of Church Meetinghouses by Nonprofit Organizations or by Other Groups or Individuals 
+      * 35.5.5. Emergencies 
+      * 35.5.6. Meetinghouse Uses That Are Not Allowed 
+      * 35.5.7. Other Policies and Standards That Apply to All Uses 
   * 36\. Creating, Changing, and Naming New Units
 
     * 36.0. IntroductionChurch members belong to congregations based on where they live (see Mosiah 25:17–24). These congregations are necessary for organizing and doing the work of the Church under the proper priesthood authority. 

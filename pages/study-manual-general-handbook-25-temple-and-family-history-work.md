@@ -15,15 +15,15 @@ temple
 
 ## Introduction
 
-Uniting families for eternity is part of the work of salvation and exaltation
-(see 1.2). Temple and family history work is the means for uniting and sealing
-families for eternity (see Matthew 16:19). This work includes:
+Uniting families for eternity is part of God’s work of salvation and
+exaltation (see 1.2). Temple and family history work is the means for uniting
+and sealing families for eternity (see Matthew 16:19). This work includes:
 
   * Making covenants as we receive our own temple ordinances (see Isaiah 55:3; Doctrine and Covenants 84:19–23).
 
   * Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God (see Malachi 4:5–6; 1 Corinthians 15:29; Doctrine and Covenants 128:15–18).
 
-  * Going to the temple regularly, where possible, to worship God and perform ordinances for His children (see Luke 24:52–53; Doctrine and Covenants 109:13–14).
+  * Going to the house of the Lord regularly, where possible, to worship God and perform ordinances for our ancestors (see Luke 24:52–53; Doctrine and Covenants 109:13–14).
 
 The temple is the house of the Lord. Temple ordinances and covenants bless
 Heavenly Father’s children. Heavenly Father invites all of His children to
@@ -126,6 +126,8 @@ coordination of the bishop.
 
 These leaders have the following responsibilities:
 
+  * Ask a ward temple and family history consultant to help ward members who have recently received mission calls to find and prepare deceased ancestors’ names for temple ordinances.
+
   * Encourage individuals and families to learn the doctrine and blessings of temple and family history work.
 
   * Ensure that the doctrine and blessings of temple and family history work are taught at church.
@@ -178,7 +180,7 @@ responsibilities. He also has the following responsibilities:
 
   * Work with the ward mission leader and the missionaries to help those learning the gospel, new members, and returning members engage in temple and family history work.
 
-  * Where applicable, assign ward temple and family history consultants to serve in the family history center (see 25.3.6).
+  * Where applicable, assign ward temple and family history consultants to serve in the FamilySearch center (see 25.3.6).
 
 25.2.4
 
@@ -198,7 +200,7 @@ Consultants have the following responsibilities:
 
   * Participate in temple and family history coordination meetings (see 25.2.7).
 
-  * Serve in a local family history center when assigned (see 25.3.6).
+  * Serve in a local FamilySearch center when assigned (see 25.3.6).
 
 25.2.5
 
@@ -259,6 +261,8 @@ Others who are invited include:
 
   * Temple and family history consultants.
 
+All who attend, including the youth, counsel together as equal participants.
+
 The purpose of these meetings is to:
 
   * Coordinate efforts to implement the ward temple and family history plan (see 25.2.6).
@@ -288,11 +292,11 @@ each course. These courses may be especially helpful for the following people:
 
   * Endowed members who have not renewed their temple recommends for an extended time
 
-The bishopric calls one or more temple preparation instructors. A husband and
-wife may be called. Lessons and instructions for organizing the course are in
-the Endowed from on High: Temple Preparation Seminar Teacher’s Manual.
-Participants are given copies of Preparing to Enter the Holy Temple. For
-personal study and lesson resources, see temples.ChurchofJesusChrist.org.
+The bishopric calls one or more temple preparation instructors. Lessons and
+instructions for organizing the course are in Endowed from on High: Temple
+Preparation Seminar Teacher’s Manual. Participants are given copies of
+Preparing to Enter the Holy Temple. For personal study and lesson resources,
+see temples.ChurchofJesusChrist.org.
 
 25.3
 
@@ -305,9 +309,9 @@ history efforts.
 
 ### Stake Presidency
 
-The stake president holds the keys for the work of salvation and exaltation in
-the stake. He and his counselors have the following responsibilities for the
-temple and family history aspect of that work:
+The stake president holds the keys for God’s work of salvation and exaltation
+in the stake. He and his counselors have the following responsibilities for
+the temple and family history aspect of that work:
 
   * Ensure that the doctrine and blessings of temple and family history work are taught regularly in stake meetings.
 
@@ -366,7 +370,7 @@ stake temple and family history consultants.
 
 The stake presidency may assign a high councilor to coordinate the stake’s
 efforts in indexing (see 25.4.3). He or another high councilor may be assigned
-to oversee the work in family history centers (see 25.3.6).
+to oversee the work in FamilySearch centers (see 25.3.6).
 
 25.3.4
 
@@ -395,24 +399,24 @@ assignments:
 
   * Help coordinate stake indexing efforts (25.4.3).
 
-  * Serve in family history centers (see 25.3.6).
+  * Serve in FamilySearch centers (see 25.3.6).
 
 25.3.6
 
-### Imageicon, guidelines for adaptation Family History Centers
+### Imageicon, guidelines for adaptation FamilySearch Centers
 
-If resources are available, the stake may organize one or more family history
+If resources are available, the stake may organize one or more FamilySearch
 centers. These centers are to help visitors discover, gather information
 about, and unite both living and deceased family members. Anyone is welcome to
 use these centers.
 
 The stake president assigns one stake temple and family history consultant to
-oversee efforts in each family history center. Each center is generally
-staffed by ward temple and family history consultants. Family history centers
-should be open at convenient times.
+oversee efforts in each FamilySearch center. Each center is generally staffed
+by assigned stake and ward temple and family history consultants. FamilySearch
+centers should be open at convenient times.
 
-As an exception, large regional family history libraries are overseen by the
-Area Presidency.
+As an exception, some large FamilySearch centers are overseen by Area
+Presidencies.
 
 25.3.7
 
@@ -589,10 +593,17 @@ qualifications:
 
   * Not currently have an annotation on his or her membership record.
 
-If a person’s Church membership was formally restricted, the restrictions must
-have been removed for at least five years. If the person was endowed when
-membership was withdrawn or resigned, his or her blessings must have been
-restored at least five years earlier.
+In addition, the bishop ensures the following:
+
+  * If a person’s membership was formally restricted, he or she may be recommended as an ordinance worker no sooner than five years after the restrictions were removed. (See 32.11.3 and 32.16.1.)
+
+  * If an unendowed person’s membership was withdrawn, or if the person resigned membership, he or she may be recommended as an ordinance worker no sooner than five years after being readmitted to the Church. (See 32.11.4, 32.14.9, 32.16.1, and 32.16.2.)
+
+  * If an endowed person’s membership was withdrawn, or if the person resigned membership, he or she may be recommended as an ordinance worker no sooner than five years after receiving a restoration of blessings. (See 32.11.4, 32.14.9, and 32.17.2.)
+
+If five years have not passed since the event indicated above, the member may
+generally be recommended as a temple volunteer if he or she meets the
+qualifications for that assignment.
 
 25.5.3
 

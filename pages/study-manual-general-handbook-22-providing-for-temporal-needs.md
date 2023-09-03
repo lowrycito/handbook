@@ -18,7 +18,7 @@ man working
 
 Members of the Church covenant to “bear one another’s burdens, … mourn with
 those that mourn … , and comfort those that stand in need of comfort” (Mosiah
-18:8–9). Caring for those who have temporal needs is part of the work of
+18:8–9). Caring for those who have temporal needs is part of God’s work of
 salvation and exaltation (see 1.2). This responsibility applies to all members
 of the Church as they minister to one another.
 

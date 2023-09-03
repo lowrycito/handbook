@@ -5,7 +5,7 @@ Serving in The Church of Jesus Christ of Latter-day Saints (2021).
 
 Image
 
-Ward Councils at Work
+ward council meeting
 
 4.
 
@@ -18,7 +18,7 @@ Ward Councils at Work
 As a leader in the Church, you have been called by inspiration through the
 Lord’s authorized servants. You have the privilege of assisting in Heavenly
 Father’s work of “bring[ing] to pass the immortality and eternal life of man”
-(Moses 1:39). You do this by encouraging members to engage in the work of
+(Moses 1:39). You do this by encouraging members to engage in God’s work of
 salvation and exaltation for themselves, their families, and others (see
 chapter 1). You will find joy as you serve God’s children.
 
@@ -26,8 +26,6 @@ Following Jesus Christ’s example, you will often serve others one by one. You
 will also have opportunities to provide leadership in Church meetings and
 activities. In addition, you may give important service through councils.
 These can include presidency meetings, ward council meetings, and others.
-Sections 4.3 and 4.4 provide guidelines for effective councils. Details about
-specific council meetings are provided in chapter 29.
 
 Your consecrated service requires a sacrifice of time, but do not neglect your
 own needs and the needs of your family. Seek the guidance of the Holy Ghost to
@@ -39,14 +37,9 @@ help you balance and fulfill your responsibilities (see Mosiah 4:27).
 
 Leaders encourage members to engage in God’s work by becoming “true followers
 of … Jesus Christ” (Moroni 7:48). To do this, leaders first strive to be the
-Savior’s faithful disciples by following His teachings and example (see Luke
-18:22). Then they can help others draw nearer to Heavenly Father, Jesus
-Christ, and the Holy Ghost. In the process of helping others, they become
-better disciples themselves (see Mosiah 18:26; Doctrine and Covenants 31:5).
-
-Being a faithful disciple in order to help others become faithful disciples is
-the purpose behind every calling in the Church. Each calling includes
-opportunities to serve, lead, and strengthen others.
+Savior’s faithful disciples. Then they can help others draw nearer to Him. In
+the process of helping others, they become better disciples themselves (see
+Mosiah 18:26; Doctrine and Covenants 31:5).
 
 4.2
 
@@ -66,10 +59,8 @@ which he is appointed, in all diligence” (Doctrine and Covenants 107:99).
 These words apply to all who receive responsibility to serve and lead in the
 Savior’s Church.
 
-Seek the Lord’s guidance to help you learn and fulfill the duties of your
-calling. As you study the scriptures, look for leadership principles the
-Savior demonstrated and taught. Applying the principles in this chapter will
-also help you lead more effectively in the Savior’s Church.
+Applying the principles in this chapter will help you lead more effectively in
+the Savior’s Church.
 
 4.2.1
 
@@ -82,9 +73,7 @@ prophets also helps you prepare spiritually (see Doctrine and Covenants
 21:4–6).
 
 Seek revelation to understand the needs of those you lead and how to fulfill
-the work God has called you to do. Through your efforts to draw closer to the
-Lord, you can receive guidance in your personal life, family responsibilities,
-and Church calling.
+the work God has called you to do.
 
 The Lord has also promised to bestow spiritual gifts upon those who seek them
 (see Doctrine and Covenants 46:8). As you humbly call upon Heavenly Father to
@@ -96,9 +85,8 @@ serve.
 ### Minister to All of God’s Children
 
 Jesus ministered personally to people, reaching out to lift and teach those
-who felt alone, hopeless, or lost. By His words and actions, He showed people
-that He loved them. He recognized the divine nature and eternal worth of each
-person.
+who felt alone, hopeless, or lost. He recognized the divine nature and eternal
+worth of each person.
 
 Love the people you serve as Jesus did. Pray “with all the energy of heart” to
 be filled with His love (Moroni 7:48). Establish sincere friendships. Reach
@@ -127,9 +115,7 @@ Teaching in the Savior’s way is more than talking; it includes listening and
 asking questions the way He did (see Matthew 16:13–17).
 
 Effective teachers are also diligent learners. Make the study of God’s word a
-high priority in your life. Understand that learning is a lifelong process.
-Seek to learn from others, including those you teach. (See Doctrine and
-Covenants 88:122.)
+high priority in your life. Gospel learning is a lifelong process.
 
 Teach from the scriptures and the words of latter-day prophets (see Doctrine
 and Covenants 52:9). Remember that “the preaching of the word [has] more
@@ -139,9 +125,6 @@ powerful effect upon the minds of the people than … anything else” (Alma
 Seek the influence of the Spirit as you prepare and teach. The Holy Ghost
 carries the truth unto the hearts and minds of those you teach (see 2 Nephi
 33:1).
-
-Teach members to devote themselves to prayerfully studying the gospel both
-personally and with their families.
 
 If you are called or assigned to preside in a Church meeting or activity,
 ensure that the teaching is edifying and doctrinally correct (see Doctrine and
@@ -168,8 +151,7 @@ responsibility and accountability in doing the Lord’s work.
 A presiding officer may delegate to another person a temporary assignment to
 preside. For example, if a Relief Society president will be absent from a
 Relief Society Sunday meeting, she would assign her first counselor to preside
-in the meeting. If the first counselor will also be absent, the president
-would assign her second counselor to preside.
+in the meeting.
 
 A leader who presides in a Church organization, meeting, or activity ensures
 that the Lord’s purposes are accomplished. In doing this, the leader follows
@@ -188,14 +170,12 @@ the Lord’s will and doing His work (see Doctrine and Covenants 41:2; see also
 
 It is not appropriate to aspire to preside in any organization in the Lord’s
 Church (see Doctrine and Covenants 121:34–37). Rather, humbly and faithfully
-serve in the position to which you are called. Strive to accomplish the Lord’s
-work with an eye single to His glory (see Doctrine and Covenants 4:5). Trust
-that the Lord will give you opportunities to grow and to bless Heavenly
-Father’s children.
+serve in the position to which you are called. Strive to do the Lord’s work
+with an eye single to His glory (see Doctrine and Covenants 4:5).
 
 Image
 
-Ward Councils
+ward meeting
 
 4.2.5
 
@@ -217,13 +197,16 @@ Delegating is more than giving an assignment. It also includes teaching and
 trusting another person to fulfill the assignment. It usually includes the
 following elements:
 
-  * Meet with the person to invite him or her to serve the Lord in an assignment. Help the person understand the assignment and its purposes, including how his or her service will bless others.
+  * Meet with the person to invite him or her to serve the Lord in an assignment. Help the person understand the assignment and its purposes.
 
   * Counsel together about the assignment, who else could be involved, and when it should be finished. Ensure that the person understands and willingly accepts the assignment. Express confidence in his or her abilities.
 
   * Encourage the person to seek inspiration about how to fulfill the assignment. Show your trust and help the person succeed. Provide direction and support as needed.
 
   * Periodically ask the person to report on the assignment. Accept the person’s best efforts, and express appreciation for what he or she has done.
+
+The guidelines for extending a calling in 30.1.1 should also be followed when
+delegating, as applicable.
 
 4.2.6
 
@@ -252,24 +235,18 @@ For more information about Church callings, see chapter 30.
 
 ### Plan Meetings, Lessons, and Activities with Clear Purposes
 
-Seek the Spirit’s guidance in planning meetings, lessons, and activities that
-have clear purposes. These purposes should strengthen individuals and
+Seek inspiration from the Lord in planning meetings, lessons, and activities
+that have clear purposes. These purposes should strengthen individuals and
 families, bring them closer to Christ, and help accomplish God’s work of
 salvation and exaltation (see chapters 1 and 2). When planning, follow the
-principles in chapters 20 and 29.
-
-Make long-term plans for your organization. Keep an annual calendar. Focus on
-encouraging members’ spiritual growth.
+principles in 4.4.2 and in chapters 20 and 29.
 
 4.2.8
 
 ### Evaluating Your Efforts
 
 Regularly review your responsibilities and spiritual growth as a leader.
-Consider also the growth of those you lead. Unit, priesthood quorum, and other
-organization leaders can review the key indicators, the quarterly report, and
-other reports in Leader and Clerk Resources to see where there is progress and
-where there is potential for growth.
+Consider also the growth of those you lead.
 
 Your success as a leader is measured primarily by your commitment to helping
 God’s children become faithful disciples of Jesus Christ. Because all people
@@ -301,15 +278,13 @@ of God’s children and plan how to help meet them.
 
 Image
 
-Meetings
+two men talking
 
 4.4
 
 ## Principles of Effective Councils
 
-Some principles of effective councils are outlined in this section. These
-principles can help leaders in Church councils as well as parents in their
-family councils.
+Some principles of effective councils are outlined in this section.
 
 4.4.1
 
@@ -335,8 +310,7 @@ Help in the Gospel Library.
 
 ### Preparation for Council Meetings
 
-Presidencies and councils are expected to meet regularly. Each presidency and
-council has a leader who has been called and set apart. These leaders seek the
+Presidencies and councils are expected to meet regularly. Leaders seek the
 Lord’s guidance in planning council meetings. They also seek input from
 council members in deciding what to discuss.
 
@@ -345,7 +319,7 @@ Council members prepare to share insights about these matters. For ward and
 stake councils, much of this preparation occurs in presidency meetings.
 
 Council members prepare themselves spiritually to participate in council
-meetings. They seek to be receptive to the promptings of the Spirit.
+meetings.
 
 4.4.3
 
@@ -396,8 +370,6 @@ discuss his or her concerns.
 The Lord instructed His disciples to “be one” (Doctrine and Covenants 38:27).
 Council members seek to become one in desire and purpose with Heavenly Father
 and Jesus Christ. They strive for unity in their discussions and decisions.
-They also seek to be “of one heart and one mind” as they work together (Moses
-7:18).
 
 Council members should avoid contention, unrighteous judgment, and gossip (see
 3 Nephi 11:28–30). As they act in unity, Heavenly Father will bless their
@@ -420,9 +392,8 @@ sustained attention and follow-up assignments.
 
 ### Confidentiality
 
-All personal information must be treated respectfully. Leaders use discretion
-when sharing personal information with a council. They generally seek a
-member’s permission to share this information.
+Leaders use discretion when sharing personal information with a council. They
+generally seek a member’s permission to share this information.
 
 The council respects the desires of any who request confidentiality. Council
 members should not share personal information outside the council unless
