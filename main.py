@@ -79,3 +79,7 @@ for link in links:
 
 with open(f"links.json", 'w') as file:
   file.write(json.dumps(list(links), indent=4, sort_keys=True))
+
+print(f"Done! Found {len(links)} links.")
+print(f"Wrote {len(links)} markdown files.")
+print(f"Wrote links.json with {len(links)} links.")
