@@ -1,5 +1,5 @@
 “31. Interviews and Other Meetings with Members,” General Handbook: Serving in
-The Church of Jesus Christ of Latter-day Saints (2020).
+The Church of Jesus Christ of Latter-day Saints (2024).
 
 “31. Interviews and Other Meetings with Members,” General Handbook.
 
@@ -657,7 +657,7 @@ The youth and the leader could discuss:
 
   * How to strengthen relationships with parents and other family members.
 
-  * The principles and standards in the booklet For the Strength of Youth.
+  * The principles in For the Strength of Youth: A Guide for Making Choices.
 
   * Ways the youth can participate in God’s work of salvation and exaltation (see 1.2).
 
