@@ -238,6 +238,8 @@ on conditions of repentance.
 
 “And how great is his joy in the soul that repenteth!”
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 32.4
 
 ## Confession, Confidentiality, and Reporting to Government Authorities

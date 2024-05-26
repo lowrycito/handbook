@@ -134,6 +134,8 @@ assignments.
 It is often a blessing to a sister to have a young woman minister to her. It
 can also be a blessing to the young woman.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 A young man serves as a ministering companion to a Melchizedek Priesthood
 holder when he is ordained to the office of teacher or priest. The bishop
 determines whether the young man is worthy and prepared to be ordained. (See
@@ -184,6 +186,8 @@ The Savior had a simple yet profound interview with Peter about feeding His
 sheep (see John 21:15–17). Ministering interviews can be a similar
 opportunity. They also allow leaders to set an example of ministering.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 The elders quorum president and his counselors interview ministering brothers.
 The Relief Society president and her counselors interview ministering sisters.
 A married couple assigned to minister together can meet with elders quorum or
@@ -216,6 +220,8 @@ Leaders use Leader and Clerk Resources to report ministering interviews.
 
 The Relief Society and the elders quorum share the work of ministering. They
 do this work in unity.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 Relief Society and elders quorum presidencies meet together at least
 quarterly. They review what they have learned in ministering interviews (see

@@ -242,6 +242,8 @@ The bishop reviews and approves the plan. Members of the ward council take the
 lead in implementing it. They report on progress in ward council meetings.
 They also update the plan as needed.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 25.2.7
 
 ### Ward Temple and Family History Coordination Meetings

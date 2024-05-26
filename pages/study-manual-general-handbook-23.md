@@ -27,6 +27,8 @@ exaltation (see 1.2 in this handbook; Matthew 28:19–20). It includes:
 
 ## Share the Gospel
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 23.1.1
 
 ### Love
@@ -69,6 +71,12 @@ We pray for inspiration and guidance on how to invite others to:
   * Come and help us serve people in need.
 
   * Come and belong to the restored Church of Jesus Christ.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 When our invitations are based on a person’s needs and interests, he or she is
 more likely to accept those invitations. Often, inviting simply means
@@ -399,4 +407,6 @@ They may discuss:
 
 These meetings may be held in person or remotely. Coordination can also happen
 in other ways, including phone calls, texts, and emails.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 

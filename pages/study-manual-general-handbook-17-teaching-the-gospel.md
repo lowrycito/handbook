@@ -30,6 +30,8 @@ Leaders share the following principles of Christlike teaching with teachers in
 their organizations. These principles are explained in more detail in Teaching
 in the Savior’s Way.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 17.1.1
 
 ### Love Those You Teach
@@ -40,6 +42,8 @@ They pray for those they teach by name, seek to connect with and understand
 them, and focus on individual needs. They reach out to members of their class
 or quorum who do not attend.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 17.1.2
 
 ### Teach by the Spirit
@@ -47,6 +51,8 @@ or quorum who do not attend.
 To inspire people to have faith in Jesus Christ, teachers must teach by the
 Spirit. Teachers seek the Spirit’s guidance as they prepare and teach, and
 they strive to live worthy of His influence each day.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 17.1.3
 
@@ -58,6 +64,8 @@ the scriptures, the teachings of latter-day prophets, and approved curriculum
 materials. Teachers lead inspired discussions and ensure that their teaching
 is edifying and doctrinally sound. Approved materials are listed in the
 current Instructions for Curriculum on ChurchofJesusChrist.org.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 17.1.4
 
@@ -83,6 +91,8 @@ Leaders and teachers encourage members to seek their own inspiration about how
 to study and teach the gospel. Their main resources should be the scriptures
 and general conference messages. Supporting resources can include Come, Follow
 Me—For Individuals and Families and Church magazines.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 17.3
 
@@ -138,4 +148,6 @@ another member to lead them.
 
 For more information, see Teaching in the Savior’s Way, 3, or
 teaching.ChurchofJesusChrist.org.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 

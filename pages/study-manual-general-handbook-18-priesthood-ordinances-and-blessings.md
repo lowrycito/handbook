@@ -398,6 +398,8 @@ as voice:
 
   6. Closes in the name of Jesus Christ.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 18.6.3
 
 ### Child Record Form and Blessing Certificate
@@ -602,6 +604,8 @@ holder:
 
   6. Helps the person to come up out of the water.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 18.7.8
 
 ### Baptism Record
@@ -677,6 +681,8 @@ the person’s head. Then the one acting as voice:
   5. Gives words of blessing as guided by the Spirit.
 
   6. Closes in the name of Jesus Christ.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 18.8.3
 
@@ -832,6 +838,8 @@ young man passing the sacrament
   11. When the water has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those who blessed the sacrament place a cloth over the trays, and those who blessed and passed the sacrament reverently take their seats.
 
   12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 18.10
 
@@ -1045,6 +1053,8 @@ instruction about a person’s duties are given before and after the ordination.
 They should not be the focus of the blessing. It is not necessary to have
 prayers, testimonies, or instruction when someone is ordained.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 18.10.6
 
 ### Ordination Record and Certificate
@@ -1164,6 +1174,8 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 
   5. Closes in the name of Jesus Christ.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 18.13
 
 ## Administering to the Sick
@@ -1231,6 +1243,8 @@ hands lightly on the person’s head. Then the one who seals the anointing:
   3. Gives words of blessing as guided by the Spirit.
 
   4. Closes in the name of Jesus Christ.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 18.14
 
@@ -1348,6 +1362,8 @@ If a Church member’s body is cremated, the presiding leader uses his judgment
 to decide whether to dedicate the place where the ashes are kept. He takes
 into account the family’s wishes and local customs and laws. The brother who
 acts as voice adapts the instructions for dedicating a grave.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 18.17
 

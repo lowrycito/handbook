@@ -391,6 +391,8 @@ their missions to the ward council (see 24.8.3).
 To understand principles that guide council meetings in the Church, all
 council members should study 4.3 and 4.4.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 29.2.6
 
 ### Ward Youth Council Meeting

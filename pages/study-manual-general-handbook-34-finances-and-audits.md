@@ -365,6 +365,8 @@ are outlined in the following sections. Bishoprics and clerks are encouraged
 to review the video “Sacred Funds, Sacred Responsibilities” at least once a
 year.
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 34.5.1
 
 ### Companionship Principle
