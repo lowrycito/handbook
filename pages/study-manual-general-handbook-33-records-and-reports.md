@@ -1,5 +1,5 @@
 “33. Records and Reports,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2020).
+Christ of Latter-day Saints (2024).
 
 “33. Records and Reports,” General Handbook.
 
@@ -30,11 +30,7 @@ Christ were recorded so “they might be remembered and nourished by the good
 word of God” (Moroni 6:4).
 
 Joseph Smith instructed that a recorder should be called in every ward to
-“make a record of a truth before the Lord” (Doctrine and Covenants 128:2). He
-also emphasized the importance of diligent record keeping when he wrote,
-“Whatsoever you record on earth shall be recorded in heaven, and whatsoever
-you do not record on earth shall not be recorded in heaven” (Doctrine and
-Covenants 128:8; see also verses 2–9).
+“make a record of a truth before the Lord” (Doctrine and Covenants 128:2).
 
 33.1
 
@@ -50,7 +46,7 @@ Records can help leaders:
 
   * Identify who may need special care.
 
-  * Identify which ordinances of salvation a person has received or may need.
+  * Identify which ordinances a person has received or may need.
 
   * Locate members.
 
@@ -68,8 +64,7 @@ The following types of records are kept in Church units:
 
 ## General Instructions for Clerks
 
-All clerks should have unquestionable integrity and follow the Lord’s
-commandments. They should:
+All clerks should:
 
   * Have a current temple recommend.
 
@@ -103,8 +98,7 @@ when a stake presidency or bishopric is reorganized.
 ### Stake Presidency
 
 The stake president oversees stake record keeping. He may delegate much of
-this work to his counselors and clerks. He ensures that they follow current
-Church policies and procedures.
+this work to his counselors and clerks.
 
 33.3.2
 
@@ -129,8 +123,6 @@ responsibilities:
 
   * Keep a record of assignments and decisions made in stake leadership meetings.
 
-  * Follow up with assignments.
-
   * Ensure that records and reports are accurate and timely.
 
 The stake clerk should become familiar with Church record-keeping tools (see
@@ -142,19 +134,13 @@ The stake clerk should become familiar with Church record-keeping tools (see
 
   * Stake trends, strengths, and weaknesses.
 
-  * Areas of concern.
-
 Other record-keeping duties may include:
 
   * Ensuring that Melchizedek Priesthood ordinations are properly and promptly recorded.
 
   * Activating temple recommends.
 
-  * Adding medical information to missionary applications.
-
   * Preparing the Officers Sustained form and Stake Conference Report for stake conference.
-
-  * Overseeing the transfer of ward records when a new ward is created or discontinued, or boundaries are changed.
 
   * Recording information for stake membership councils (see 32.9.6).
 
@@ -171,8 +157,6 @@ meetings are held to ensure that:
   * Tithing and other financial records are properly recorded (see 34.1.2 and 34.2.2).
 
   * Membership records are updated promptly and accurately.
-
-  * Ward clerks are familiar with Church record-keeping tools.
 
   * Certificates of blessing, baptism and confirmation, and priesthood ordination are given to ward members.
 
@@ -219,8 +203,7 @@ positions:
 ### Bishopric
 
 The bishop oversees ward record keeping. He may delegate much of this work to
-his counselors and clerks. He ensures that they follow current Church policies
-and procedures.
+his counselors and clerks.
 
 33.4.2
 
@@ -232,9 +215,8 @@ or an assigned high councilor. He should hold the Melchizedek Priesthood and
 have a current temple recommend. He is a member of the ward council. He
 attends ward meetings as indicated in 29.2.
 
-The ward clerk is instructed by the bishopric and by stake clerks. He works
-under the direction of the bishopric. Assistant ward clerks may be called to
-help (see 33.4.3).
+The ward clerk works under the direction of the bishopric. Assistant ward
+clerks may be called to help (see 33.4.3).
 
 33.4.2.1
 
@@ -247,11 +229,7 @@ responsibilities:
 
   * Keep a record of assignments and decisions made in ward leadership meetings.
 
-  * Follow up with assignments.
-
   * Ensure that records and reports are accurate and timely.
-
-  * Identify ordinances that require ratification (see 38.2.6 and 18.10.3).
 
 The ward clerk should become familiar with Church record-keeping tools (see
 33.0). He uses these tools to help leaders identify:
@@ -262,16 +240,11 @@ The ward clerk should become familiar with Church record-keeping tools (see
 
   * Ward trends, strengths, and weaknesses.
 
-  * Areas of concern.
-
 When compiling reports on member participation, the clerk works with
-secretaries to resolve minor problems. He discusses serious problems with the
-bishop.
+secretaries to resolve minor problems.
 
-The ward clerk or an assistant ward clerk shows members how to view their
-membership information in the Member Tools app. He may also provide them with
-a printed copy if requested. Ward clerks encourage members to report any
-errors in their membership information.
+Ward clerks encourage members to report any errors in their membership
+information.
 
 Other record-keeping duties may include:
 
@@ -292,8 +265,7 @@ baby blessing
 #### Instructing Clerks and Secretaries
 
 The ward clerk instructs assistant ward clerks and quorum and organization
-secretaries. He helps them understand how information from Church record-
-keeping tools can help leaders.
+secretaries.
 
 This instruction is especially important when:
 
@@ -335,8 +307,8 @@ positions:
 ### Priesthood and Organization Leaders
 
 Quorum and organization leaders oversee record keeping in their organizations.
-They may assign secretaries to do much of this work. They work with
-secretaries to ensure that records and reports are accurate and timely.
+They may assign secretaries to do much of this work. They ensure that records
+and reports are accurate and timely.
 
 33.5
 
@@ -415,9 +387,9 @@ Every ward completes and submits a Quarterly Report to Church headquarters.
 The clerk reviews the report with the bishop and submits it before the 15th of
 the month following the end of each quarter.
 
-The stake presidency may review the Quarterly Report submitted by each ward.
-This will help them monitor progress and know where support and instruction
-are needed. Stake council members may also view each Quarterly Report.
+The stake presidency may review each ward’s Quarterly Report. This helps them
+monitor progress and know where to provide support and instruction. Stake
+council members may also view each Quarterly Report.
 
 33.5.2
 
@@ -461,7 +433,7 @@ information using LCR. It is vital to do the following promptly:
 
   * Create records for new members and new children of member parents.
 
-  * Record a member’s death. (A member’s death must be recorded before temple ordinances can be performed on his or her behalf. See 28.1.)
+  * Record a member’s death.
 
   * Record marriage and household information.
 
@@ -500,7 +472,6 @@ copies of their Individual Ordinance Summaries from the clerk. If errors are
 found, a clerk ensures that they are corrected on the membership records.
 
 Instructions on how to create a membership record are available in LCR.
-Instructions on how to record a marriage or death are also available.
 
 For situations not addressed in this section, leaders should contact the
 Global Services Department or the area office.
@@ -628,10 +599,9 @@ See 24.6.2.8.
 ### Records of Young Single Adults
 
 Young single adults between the ages of 18 and 30 may choose to be members of
-either their geographic ward or a YSA ward if one is established in their
-area. If they choose a YSA ward, they attend the ward assigned to the
-boundaries in which they live. They also inform the bishop of their geographic
-ward. The membership record is kept in the ward they attend.
+either their geographic ward or a YSA ward if one is assigned to the
+boundaries where they live. The membership record is kept in the ward they
+attend.
 
 These principles also apply to single adults between the ages of 31 and 45 who
 choose to be members of a single adult ward.
@@ -687,21 +657,16 @@ following places:
 
   * Their geographic ward
 
-  * A ward for members who are deaf and hard of hearing who live within its boundaries
+  * A ward for members who are deaf or hard of hearing who live within its boundaries
 
-  * A ward that hosts a group for members who are deaf and hard of hearing who live within a geographic area specified by the stake president or Area President
+  * A ward that hosts a group for members who are deaf or hard of hearing who live within a geographic area specified by the stake president or Area President
 
 In this situation, an individual or family’s records may be in one unit, and
-they may be out-of-unit members in another. For example, part of a family may
-have their records in a unit for the deaf and hard of hearing, and they may be
-out-of-unit members in their geographic unit. For more information, see
-33.6.5.
+they may be out-of-unit members in another. (See 33.6.5.)
 
 Members who are deaf or hard of hearing may virtually attend wards or groups
 organized for those who are deaf or hard of hearing outside of the members’
-geographic area. They may do so even if their records are not in that unit.
-Before attending virtually, they should contact the bishop of the ward and
-inform him of their desire to attend.
+geographic area.
 
 33.6.12
 
@@ -727,8 +692,6 @@ she attends (see 33.6.5). This allows the child’s name and contact information
 to be included on ward lists and class rolls.
 
 Children with an out-of-unit member record may receive a calling in that unit.
-This helps ensure that they are included and can fully participate wherever
-they attend.
 
 33.6.14
 
@@ -752,11 +715,9 @@ priesthood leader who placed the restriction authorizes it to be removed.
 ### Records from the “Address Unknown” File
 
 A member is sometimes located after his or her record has been in the “address
-unknown file” at Church headquarters. In this situation, the ward clerk
-requests the record using LCR. The record will include a message encouraging
-the bishopric, quorum, and organization leaders to visit the person as soon as
-possible and to provide fellowshipping. Full-time missionaries may also be
-asked to visit and fellowship these members.
+unknown file” at Church headquarters. The record will include a message
+encouraging the bishopric, quorum, and organization leaders to visit the
+person as soon as possible and to provide fellowshipping.
 
 33.6.17
 
@@ -791,13 +752,8 @@ The Lord has commanded that “a history of all the important” matters
 concerning His Church be written and kept (Doctrine and Covenants 69:3; see
 also verse 5; Alma 37:2).
 
-Each unit in the Church is to document all the important matters concerning
-the unit. These matters include historical accounts from unit leaders.
-Identifying important matters is best accomplished by:
-
-  * Reflecting on efforts to help individuals and families.
-
-  * Recognizing meaningful experiences that show God’s influence in the lives of His children.
+Each unit in the Church is to document important matters concerning the unit.
+These matters include historical accounts from unit leaders.
 
 Keeping a history is a spiritual work that will strengthen the faith of those
 who write and read it. Documenting stories throughout the year will improve
@@ -812,6 +768,10 @@ Additional instructions are available in the tool’s Quick Start Guide.
 Members may use the Unit History tool to view stories that have been published
 by their ward and stake leaders. Published stories are automatically preserved
 by the Church.
+
+Image
+
+family carrying hay
 
 33.7.2
 
@@ -847,8 +807,6 @@ digitally. These include:
 
   * Official forms and documents (including records of membership councils).
 
-  * Notes made from private interviews.
-
 Leaders and clerks are to safeguard Church records by handling, storing, and
 disposing of them in a way that protects the privacy of individuals. Leaders
 ensure that information that is gathered from members is:
@@ -873,8 +831,7 @@ ward directories.
 ## Records Management
 
 Stake and ward leaders should make effective records management a part of
-their record-keeping procedures. Three important areas of records management
-are outlined in this section.
+their record-keeping procedures.
 
 33.9.1
 
@@ -898,10 +855,8 @@ reported.
 
 Stake presidents, bishops, and other leaders should never share their Church
 username and password with counselors, clerks, executive secretaries, or
-others. They should also not store them on devices that others can see or
-access.
+others.
 
-Passwords should be 12 characters or longer and should not be easily guessed.
 Leaders are strongly encouraged to enable two-step verification (also known as
 multifactor authentication) on their Church account whenever possible.
 
@@ -939,9 +894,7 @@ office.
 ### Disposition
 
 Records that are outdated or no longer needed should be destroyed in such a
-way that the information cannot be retrieved or reconstructed. When deleting
-digital membership or financial information, the leader must ensure that it
-cannot be recovered through any reasonable means.
+way that the information cannot be retrieved or reconstructed.
 
 Records that have potential historical value should not be discarded,
 destroyed, or placed in the ward resource center (library). Questions about
@@ -982,8 +935,6 @@ in FamilySearch centers:
 
   * Be familiar with the general policies for Church computers (see 38.8.10).
 
-  * Be familiar with guidelines for obtaining and managing Church computers.
-
 As needed, stake technology specialists coordinate the work of ward technology
-specialists. They also provide instruction.
+specialists.
 

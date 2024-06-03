@@ -1,5 +1,5 @@
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook:
-Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook.
 
@@ -30,8 +30,8 @@ Heavenly Father’s children. Heavenly Father invites all of His children to
 qualify for and receive temple ordinances.
 
 This chapter guides Church leaders and members in temple and family history
-work. More information is available at “Temples” and “Family History” (Gospel
-Topics, topics.ChurchofJesusChrist.org).
+work. More information is available at “Temples” and “Family History” (Topics
+and Questions, topics.ChurchofJesusChrist.org).
 
 25.1
 
@@ -232,7 +232,7 @@ the plan, they:
 
 Examples of what the plan might include are listed below:
 
-  * Help members build their family trees on FamilySearch.org or with the FamilySearch Tree app (see 25.4.2).
+  * Help members build their family trees on FamilySearch.org or with the Family Tree app (see 25.4.2).
 
   * Involve new and returning members, youth, and children in family history work.
 
@@ -347,7 +347,7 @@ presidencies in their responsibilities for temple and family history work (see
 25.2.2). Instruction could take place in a group setting or individually. Ward
 temple and family history leaders may be invited to receive this instruction.
 
-For more about this committee’s meetings, see 29.3.9.
+For more about this committee’s meetings, see 29.3.8.
 
 25.3.3
 
@@ -489,8 +489,8 @@ It can help users:
 
   * Prepare family names for temple ordinances.
 
-The FamilySearch Tree app and FamilySearch Memories app enable people to
-participate in temple and family history work from mobile devices.
+The Family Tree app and FamilySearch Memories app enable people to participate
+in temple and family history work from mobile devices.
 
 Image
 

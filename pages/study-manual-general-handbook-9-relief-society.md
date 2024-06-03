@@ -1,5 +1,5 @@
 “9. Relief Society,” General Handbook: Serving in The Church of Jesus Christ
-of Latter-day Saints (2020).
+of Latter-day Saints (2024).
 
 “9. Relief Society,” General Handbook.
 
@@ -107,8 +107,8 @@ temple endowment. See 1.2.1.
 When members learn and live the gospel at home, their conversion to Heavenly
 Father and Jesus Christ deepens. Relief Society leaders encourage sisters to
 study the scriptures and the words of living prophets, individually and with
-their families. Come, Follow Me—For Individuals and Families and other
-resources can supplement their study.
+their families. Come, Follow Me and other resources can supplement their
+study.
 
 Home evenings are an important way to learn the gospel at home. They are
 usually held weekly on Sunday, on Monday evening, or at another time. They
@@ -141,8 +141,6 @@ Relief Society meetings focus on topics in one or more talks from the most
 recent general conference. The Relief Society presidency prayerfully selects
 messages to discuss based on sisters’ needs. Hymns may be sung to enhance a
 lesson. Meetings should end with a prayer.
-
-For more information, see ComeFollowMe.ChurchofJesusChrist.org.
 
 9.2.1.3
 
@@ -255,15 +253,15 @@ funeral.
 Members of Relief Society have a responsibility to invite all to receive the
 blessings of the gospel of Jesus Christ (see Mosiah 18:9). They do this by
 sharing the gospel, strengthening new members, and reaching out to those who
-are less active.
+are less active. See 23.2 and 23.3.
 
 In presidency and Relief Society meetings, the Relief Society presidency
 discusses ways the sisters can invite all to receive the blessings of the
-gospel.
+gospel. See 23.1.1, 23.1.2, and 23.1.3.
 
 The Relief Society president assigns a member of the presidency to help lead
-member missionary work in the ward. She works with the assigned member of the
-elders quorum presidency to coordinate these efforts (see 23.5.1).
+efforts to share the gospel in the ward. She works with the assigned member of
+the elders quorum presidency to coordinate these efforts (see 23.6.2).
 
 The assigned member of the Relief Society presidency participates in
 coordination meetings to coordinate inviting all to receive the blessings of
@@ -272,6 +270,7 @@ presidency, leads weekly coordination meetings. The purpose of these meetings
 is to coordinate inviting all to receive the blessings of the gospel. They
 also include ward missionaries, an assistant in the priests quorum, a
 presidency member of the oldest Young Women class, and full-time missionaries.
+See 23.4.
 
 9.2.4
 

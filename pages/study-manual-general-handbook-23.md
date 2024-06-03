@@ -1,5 +1,5 @@
 “23. Sharing the Gospel and Strengthening New and Returning Members,” General
-Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “23. Sharing the Gospel and Strengthening New and Returning Members,” General
 Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.
@@ -29,11 +29,13 @@ exaltation (see 1.2 in this handbook; Matthew 28:19–20). It includes:
 
 ![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 23.1.1
 
 ### Love
 
-We are all children of a Heavenly Father who loves His children perfectly. He
+We are all children of Heavenly Father, who loves His children perfectly. He
 offers everyone the opportunity to be filled with His love through Jesus
 Christ and His gospel (see John 3:16; 2 Nephi 26:24–28; Alma 26:37; Articles
 of Faith 1:3).
@@ -51,10 +53,12 @@ Because we love God and His children, we naturally want to share the blessings
 He has given us (see John 13:34–35) and help gather Israel. We seek to help
 people feel the joy that we feel (see Alma 36:24). As disciples of Jesus
 Christ, we hold up His light (see 3 Nephi 18:24–25). We speak openly of the
-Savior and His influence in our lives (see Doctrine and Covenants 60:2). We
-share love, time, experiences, and Church programs to bless God’s children and
-help them draw closer to the Savior. We share these things in normal and
-natural ways as part of personal, online, and other interactions.
+Savior and His influence in our lives (see Doctrine and Covenants 60:2).
+
+We share love, gospel truths, time, experiences, and Church programs to bless
+God’s children and help them draw closer to the Savior. We share these things
+in normal and natural ways as part of personal, online, and other
+interactions.
 
 23.1.3
 
@@ -68,15 +72,9 @@ We pray for inspiration and guidance on how to invite others to:
 
   * Come and see the blessings available through Jesus Christ, His gospel, and His Church (see John 1:37–39, 45–46).
 
-  * Come and help us serve people in need.
+  * Come and serve people in need.
 
   * Come and belong to the restored Church of Jesus Christ.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
 When our invitations are based on a person’s needs and interests, he or she is
 more likely to accept those invitations. Often, inviting simply means
@@ -95,8 +93,21 @@ example, we can invite them to:
 
   * Meet the full-time missionaries and hear their message.
 
-For more ideas and resources, see share.ChurchofJesusChrist.org and “Sharing
-the Gospel” in the Gospel Library.
+For more ideas and resources, see:
+
+  * share.ChurchofJesusChrist.org.
+
+  * “Sharing the Gospel” in the Gospel Library.
+
+  * The “Unite with Members” section in chapter 9 of Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ.
+
+Wards and stakes can create natural opportunities for members to invite
+others. Ways to do this include hosting events and activities and sharing
+Church resources with the local community.
+
+Ward and stake leaders counsel together to identify (1) needs in the community
+and (2) Church resources to share. For more information, see “Sharing Church
+Resources” in the Gospel Library.
 
 The principles of loving, sharing, and inviting apply also to strengthening
 new and returning members.
@@ -150,9 +161,46 @@ challenges can help us minister to them with sensitivity and love.
 
 23.4
 
+## Hold Weekly Coordination Meetings
+
+Every week, brief informal meetings are held to coordinate efforts to share
+the gospel and strengthen new and returning members. If a ward mission leader
+is called, he conducts these meetings. Otherwise, the member of the elders
+quorum presidency who fills this role conducts.
+
+Others who are invited include:
+
+  * Assigned members of the Relief Society and elders quorum presidencies.
+
+  * Ward missionaries.
+
+  * An assistant in the priests quorum (or the teachers or deacons quorum president if there are no priests in the ward).
+
+  * A presidency member of the oldest Young Women class.
+
+  * Full-time missionaries.
+
+Weekly coordination meetings focus on the needs of individuals. This meeting
+usually covers the following four topics:
+
+  * How to help those being taught by the missionaries. This could include participating in teaching, helping people make and keep commitments, and supporting upcoming baptismal services.
+
+  * How to help those who were recently baptized
+
+  * How to help returning members
+
+  * How to help members find more people to teach
+
+These meetings may be held in person or remotely. Coordination can also happen
+in other ways, including phone calls, texts, and emails.
+
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
+23.5
+
 ## Stake Leaders
 
-23.4.1
+23.5.1
 
 ### Stake Presidency
 
@@ -173,7 +221,7 @@ missionaries. Others who may attend include:
 
   * Missionaries assigned by the mission president.
 
-23.4.2
+23.5.2
 
 ### Stake Adult Leadership Committee
 
@@ -186,14 +234,14 @@ The stake adult leadership committee includes:
   * High councilors assigned to work with elders quorums.
 
 These leaders instruct and support elders quorum and ward Relief Society
-presidencies in the work of sharing the gospel and strengthening new and
-returning members (see 23.5.2). Instruction could take place in a group
+presidencies in their efforts to share the gospel and strengthen new and
+returning members (see 23.6.2). Instruction could take place in a group
 setting or individually. Ward mission leaders may be invited to receive this
 instruction.
 
-For more about this committee’s meetings, see 29.3.9.
+For more about this committee’s meetings, see 29.3.8.
 
-23.4.3
+23.5.3
 
 ### High Councilors
 
@@ -202,7 +250,7 @@ quorum presidencies and ward mission leaders. One or more high councilors may
 be assigned to lead these efforts. However, all high councilors have these
 responsibilities for the wards and quorums to which they are assigned.
 
-23.4.4
+23.5.4
 
 ### Stake Relief Society Presidency
 
@@ -215,11 +263,11 @@ Image
 
 neighbors talking
 
-23.5
+23.6
 
 ## Ward Leaders
 
-23.5.1
+23.6.1
 
 ### Bishopric
 
@@ -231,10 +279,10 @@ regularly.
 The bishopric ensures that these efforts are discussed and coordinated in ward
 council and ward youth council meetings. The bishopric also reviews and
 approves the ward plan for sharing the gospel and strengthening new and
-returning members (see 23.5.6).
+returning members (see 23.6.6).
 
 The bishopric consults with the stake president to determine whether to call a
-ward mission leader (see 23.5.3 for more information).
+ward mission leader (see 23.6.3 for more information).
 
 The bishop interviews new members of the appropriate age for a temple
 recommend to perform proxy baptisms and confirmations (see 26.4.2). He also
@@ -246,11 +294,12 @@ The bishopric coordinates with other leaders to ensure that new and returning
 members have opportunities to serve. Such opportunities can help these members
 grow spiritually and feel the Lord’s power in their lives. Service can also
 help members feel joy and build close relationships with others in the ward.
-These opportunities should be based on the member’s needs and abilities. In
+
+Service opportunities should be based on the member’s needs and abilities. In
 some cases, a calling is appropriate. In others, a less formal assignment is
 best.
 
-23.5.2
+23.6.2
 
 ### Elders Quorum and Relief Society Presidencies
 
@@ -271,24 +320,26 @@ These leaders have the following responsibilities:
 
   * Give new and returning members opportunities to serve as ministering sisters or brothers. For more about ministering, see chapter 21.
 
-  * Help the ward council develop a plan for sharing the gospel and strengthening new and returning members (see 23.5.6).
+  * Help the ward council develop a plan for sharing the gospel and strengthening new and returning members (see 23.6.6).
 
-  * Lead the work of the ward mission leader. If this leader is not called, a member of the elders quorum presidency fills this role (see 23.5.3).
+  * Lead the work of the ward mission leader. If this leader is not called, a member of the elders quorum presidency fills this role (see 23.6.3).
 
 The elders quorum president and Relief Society president each assign a
 presidency member to help lead these efforts. These two presidency members
-work together. They attend weekly coordination meetings (see 23.5.7).
+work together. They attend weekly coordination meetings (see 23.4).
 
-23.5.3
+23.6.3
 
 ### Imageicon, guidelines for adaptation Ward Mission Leader
 
 The bishopric consults with the stake president to determine whether to call a
 ward mission leader. If they decide to extend this calling, the bishopric
 counsels with the elders quorum and Relief Society presidents in determining
-whom to call. This person should be a Melchizedek Priesthood holder. If this
-leader is not called, a member of the elders quorum presidency fills this
-role.
+whom to call.
+
+The ward mission leader should be a Melchizedek Priesthood holder. If a ward
+mission leader is not called, a member of the elders quorum presidency fills
+this role.
 
 The ward mission leader supports the elders quorum presidency and Relief
 Society presidency in their missionary responsibilities. He also has the
@@ -296,17 +347,17 @@ following responsibilities:
 
   * Coordinate the work of ward members and leaders, ward missionaries, and full-time missionaries. This may include coordinating teaching efforts, baptismal services, and efforts to strengthen new members. It can also include planning ways to help ward members share the gospel.
 
-  * Lead weekly coordination meetings (see 23.5.7).
+  * Lead weekly coordination meetings (see 23.4).
 
   * Attend ward council meetings when invited.
 
-  * Help the ward council develop and implement the ward plan for sharing the gospel and strengthening new and returning members (see 23.5.6).
+  * Help the ward council develop and implement the ward plan for sharing the gospel and strengthening new and returning members (see 23.6.6).
 
-  * Where it is allowed, arrange for full-time missionaries to eat meals with members. Seek opportunities for the missionaries to eat with part-member and less-active families if possible. Encourage them to share a gospel message with these families.
+  * Seek opportunities to help full-time missionaries fulfill their purpose by sharing the gospel and building relationships with members. Where approved, this may include eating meals with members (preferably with part-member families and new and returning members when possible; see 24.6.2.3).
 
   * Work with the ward temple and family history leader and consultants to help those who are learning the gospel, new members, and returning members engage in temple and family history work.
 
-23.5.4
+23.6.4
 
 ### Ward Missionaries
 
@@ -320,9 +371,9 @@ Ward missionaries teach by word and example how to love others, share their
 faith, and invite others to receive the blessings of the gospel. They also
 help ward members minister to new and returning members.
 
-Ward missionaries participate in weekly coordination meetings (see 23.5.7).
+Ward missionaries participate in weekly coordination meetings (see 23.4).
 
-23.5.5
+23.6.5
 
 ### Ward Council and Ward Youth Council
 
@@ -334,28 +385,28 @@ ward council meetings.
 
 The council may discuss the ward’s plan for sharing the gospel and
 strengthening new and returning members. They also discuss assignments that
-need to be coordinated across organizations. Forms like the following can help
-in these discussions:
+need to be coordinated across organizations. Resources like the following can
+help in these discussions:
 
-  * Missionary Progress Record. Full-time missionaries use this form to report on the progress of people they are teaching. This form helps missionaries and members coordinate their work. In areas where missionaries use the Area Book Planner app, this form is available to ward leaders in Leader and Clerk Resources (LCR) and the Member Tools app. In other areas, full-time missionaries use a paper copy.
+  * My Covenant Path. This resource helps new and returning members progress along the covenant path during the first 12 to 24 months after baptism or after returning to gospel participation. My Covenant Path is available in Gospel Library.
 
-  * New and Returning Member Progress. Ward leaders use this form to plan ways to help members progress spiritually. It is available in LCR.
+  * Covenant Path Progress record. Ward leaders and full-time missionaries use this resource to record and view the progress of new and returning members and of people being taught by the missionaries. Covenant Path Progress is available to ward leaders through the Member Tools app and Leader and Clerk Resources (LCR). Full-time missionaries access and share information from Covenant Path Progress through the Preach My Gospel app.
 
 For more about the ward council, see 29.2.5.
 
-In discussing the needs of youth in the ward, the ward youth council gives
-special attention to new and returning members and to youth being taught by
-the missionaries. The council also discusses ways the youth can participate in
-the ward’s plan for sharing the gospel and strengthening new and returning
-members. For more about the ward youth council, see 29.2.6.
+The ward youth council gives special attention to (1) youth who are new and
+returning members and (2) youth being taught by the missionaries. The council
+also discusses ways the youth can participate in the ward’s plan for sharing
+the gospel and strengthening all new and returning members. For more about the
+ward youth council, see 29.2.6.
 
-23.5.6
+23.6.6
 
 ### Ward Plan for Sharing the Gospel and Strengthening New and Returning
 Members
 
 Each ward should have a simple plan for sharing the gospel and strengthening
-new and returning members. It can help guide meetings, service, and
+new and returning members. This plan can help guide meetings, service, and
 activities. It can include plans and ideas for:
 
   * Helping everyone feel welcome in ward meetings and activities.
@@ -373,40 +424,4 @@ it.
 Members of the ward council take the lead in implementing the plan. They
 report on progress in ward council meetings. They also update the plan as
 needed.
-
-23.5.7
-
-### Coordination Meetings
-
-Every week, brief informal meetings are held to coordinate efforts to share
-the gospel and strengthen new and returning members. If a ward mission leader
-is called, he conducts these meetings. Otherwise, the member of the elders
-quorum presidency who fills this role conducts.
-
-Others who are invited include:
-
-  * Assigned members of the Relief Society and elders quorum presidencies.
-
-  * Ward missionaries.
-
-  * An assistant in the priests quorum (or the teachers or deacons quorum president if there are no priests in the ward).
-
-  * A presidency member of the oldest Young Women class.
-
-  * Full-time missionaries.
-
-They may discuss:
-
-  * Implementing the ward’s plan for sharing the gospel and strengthening new and returning members. They coordinate this plan with the full-time missionaries’ plans and goals.
-
-  * Assignments given in previous meetings.
-
-  * How to support those being taught by the missionaries.
-
-  * Plans for upcoming baptismal services and inviting members to attend.
-
-These meetings may be held in person or remotely. Coordination can also happen
-in other ways, including phone calls, texts, and emails.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 

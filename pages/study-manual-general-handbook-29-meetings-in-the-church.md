@@ -1,5 +1,5 @@
 “29. Meetings in the Church,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2020).
+Christ of Latter-day Saints (2024).
 
 “29. Meetings in the Church,” General Handbook.
 
@@ -156,9 +156,9 @@ set an example of reverence.
 #### Selecting Speakers
 
 The bishopric selects speakers for sacrament meeting. Most often they invite
-ward members, including youth (see 38.8.18). The stake president may assign
-high councilors or members of stake organization presidencies to speak. The
-stake president determines the frequency of such assignments.
+ward members, including youth and children (see 38.8.18). The stake president
+may assign high councilors or members of stake organization presidencies to
+speak. The stake president determines the frequency of such assignments.
 
 The bishopric extends invitations to speak well in advance of the meeting.
 Speakers bear testimony of Jesus Christ and teach His gospel using the
@@ -169,7 +169,7 @@ For information about newly called or recently returned missionaries speaking
 in sacrament meeting, see 24.5.2 and 24.8.3.
 
 The bishopric schedules one sacrament meeting each year for a presentation by
-the Primary children. For information about this presentation, see 12.2.1.2.
+the Primary children. For information about this presentation, see 12.1.6.
 
 Image
 
@@ -461,7 +461,7 @@ Sunday School classes are described in 13.3.
 Teacher council meetings are described in 17.4.
 
 Coordination meetings for the work of sharing the gospel and strengthening new
-and returning members are described in 23.5.7.
+and returning members are described in 23.4.
 
 Coordination meetings for temple and family history work are described in
 25.2.7.
@@ -748,25 +748,6 @@ stake priesthood leadership meetings (see 29.3.3).
 
 29.3.5
 
-### Stake High Priests Quorum Meeting
-
-Purpose
-
-Teach quorum members their duties and doctrine related to the priesthood.
-
-Participants
-
-All members of the stake high priests quorum (see 6.2.1.1).
-
-Frequency
-
-At least once each year.
-
-The stake presidency plans and conducts stake high priests quorum meetings.
-Meetings for all ordained high priests in the stake are not held.
-
-29.3.6
-
 ### Stake Presidency Meeting
 
 Purpose
@@ -802,7 +783,7 @@ consideration could include:
 Other items may include stake activities and programs, the stake budget,
 reports on assignments, and plans for upcoming meetings.
 
-29.3.7
+29.3.6
 
 ### High Council Meeting
 
@@ -845,7 +826,7 @@ may include:
   * Hearing reports from returning missionaries (see 24.8.3).
 
 Sometimes a brief high council meeting could be immediately followed by a
-stake council meeting (see 29.3.8). This can help reduce the number of
+stake council meeting (see 29.3.7). This can help reduce the number of
 meetings for leaders to attend.
 
 To understand principles that guide council meetings in the Church, all
@@ -853,7 +834,7 @@ council members should study 4.3 and 4.4.
 
 For information about participants joining the meeting remotely, see 29.7.
 
-29.3.8
+29.3.7
 
 ### Stake Council Meeting
 
@@ -898,7 +879,7 @@ meetings, council members may:
   * Report on stake organizations, activities, and programs.
 
 Sometimes a stake council meeting could immediately follow a brief high
-council meeting (see 29.3.7). This can help reduce the number of meetings for
+council meeting (see 29.3.6). This can help reduce the number of meetings for
 leaders to attend.
 
 To understand principles that guide council meetings in the Church, all
@@ -906,7 +887,7 @@ council members should study 4.3 and 4.4.
 
 For information about participants joining the meeting remotely, see 29.7.
 
-29.3.9
+29.3.8
 
 ### Imageicon, guidelines for adaptation Stake Adult Leadership Committee
 Meeting
@@ -950,7 +931,7 @@ Image
 
 youth council meeting
 
-29.3.10
+29.3.9
 
 ### Imageicon, guidelines for adaptation Stake Youth Leadership Committee
 Meeting
@@ -1004,7 +985,7 @@ including youth. These meetings could be extensions of stake council meetings.
 For example, at the end of some stake council meetings, the youth leadership
 committee could meet to continue a discussion about specific matters.
 
-29.3.11
+29.3.10
 
 ### Stake Bishops’ Council Meeting
 
@@ -1048,7 +1029,7 @@ Image
 
 bishopric meeting
 
-29.3.12
+29.3.11
 
 ### Other Stake Meetings
 
@@ -1057,7 +1038,7 @@ committee are described in 14.1.1.2.
 
 29.4
 
-## Coordinating Council Meeting
+## Coordinating Council Meetings
 
 Purpose
 
@@ -1088,7 +1069,7 @@ In these meetings, participants:
 
   * Seek revelation about how best to implement the teachings and direction of the First Presidency, Quorum of the Twelve Apostles, and Area Presidency.
 
-  * Coordinate God’s work of salvation and exaltation.
+  * Coordinate God’s work of salvation and exaltation within their council.
 
   * Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
 
@@ -1213,7 +1194,7 @@ respectable funeral and burial services at cost if expenses are paid from
 fast-offering funds.
 
 For information about missionaries returning home to attend a funeral, see
-24.6.2.7. For guidelines about streaming funerals, see 29.7.
+24.6.2.7. For guidelines about streaming and recording funerals, see 29.7.
 
 29.5.5
 
@@ -1254,8 +1235,8 @@ Children who are not baptized may pray in Primary. Leaders should avoid always
 asking a husband and wife to pray in the same meeting.
 
 Members should pray using words that express love and respect for Heavenly
-Father. In English, this includes using the pronouns _Thee, Thy, Thine,_ and
-_Thou_ when addressing Him.
+Father. In English, this includes using the pronouns _Thee_ , _Thy_ , _Thine_
+, and _Thou_ when addressing Him.
 
 29.7
 
@@ -1330,7 +1311,8 @@ only one device should be used to capture the meeting. Both the device and the
 person using it should be inconspicuous.
 
 Stream recordings of ward and stake meetings should be deleted within one day
-after the meeting.
+after the meeting. However, members may save a recording of the video stream
+of a funeral service or wedding for personal use.
 
 29.8
 
@@ -1340,4 +1322,16 @@ To preserve the sacredness of Church meetings, no one should take photographs
 or make video recordings of sacrament meetings or stake conferences.
 
 For information about stream recordings of meetings, see 29.7.
+
+29.9
+
+## Interpreting for Meetings
+
+The Lord wants everyone to understand the gospel in his or her own language
+(see Doctrine and Covenants 90:11). In stakes where members speak more than
+one native language, a member of the stake presidency may call a stake
+interpretation coordinator. A bishop may call ward interpreters.
+
+For more information, see Church Interpretation Training and Best Practices at
+ChurchofJesusChrist.org.
 

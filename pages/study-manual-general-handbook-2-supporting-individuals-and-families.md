@@ -1,6 +1,6 @@
 “2. Supporting Individuals and Families in God’s Work of Salvation and
 Exaltation,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2020).
+Latter-day Saints (2024).
 
 “2. Supporting Individuals and Families,” General Handbook.
 
@@ -239,8 +239,8 @@ leaders encourage all members to study the gospel at home on the Sabbath day
 and throughout the week. Gospel study at home strengthens individuals and
 families. It deepens conversion to Heavenly Father and the Lord Jesus Christ.
 
-A study of the scriptures as outlined in Come, Follow Me—For Individuals and
-Families is the suggested course of gospel study at home.
+A study of the scriptures as outlined in Come, Follow Me is the suggested
+course of gospel study at home.
 
 Individuals and families seek inspiration as they choose to study what will
 best meet their needs. In addition to the scripture passages suggested in

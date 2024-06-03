@@ -117,6 +117,8 @@ acting on promptings from the Holy Ghost.
 
 ### Help the Member Feel Comfortable and Safe
 
+![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
 Some members have had experiences that make them feel anxious or overwhelmed
 when they meet with a Church leader. Seek ways to help them feel calm, safe,
 and comfortable. Find out from the member what you can do to help.

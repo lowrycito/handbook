@@ -1,5 +1,5 @@
 “7. The Bishopric,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2020).
+Latter-day Saints (2024).
 
 “7. The Bishopric,” General Handbook: Serving in The Church of Jesus Christ of
 Latter-day Saints.
@@ -190,8 +190,8 @@ responsibilities. He ensures that Church activities support parents’ efforts
 to raise their children in righteousness.
 
 In addition to helping members live the gospel, the bishop has other
-responsibilities in coordinating God’s work of salvation and exaltation. For
-example, he:
+responsibilities in coordinating God’s work of salvation and exaltation in the
+ward. For example, he:
 
   * Helps men prepare to be ordained to priesthood offices.
 

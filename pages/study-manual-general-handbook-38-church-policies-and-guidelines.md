@@ -1,5 +1,5 @@
 “38. Church Policies and Guidelines,” General Handbook: Serving in The Church
-of Jesus Christ of Latter-day Saints (2020).
+of Jesus Christ of Latter-day Saints (2024).
 
 “38. Church Policies and Guidelines,” General Handbook.
 
@@ -472,7 +472,7 @@ counselor who conducts it reports to the mission president, who may then
 authorize or deny the baptism and confirmation.
 
 Approval from the First Presidency is required before a person can be baptized
-if he or she:
+and confirmed if he or she:
 
   * Has committed murder (see 38.2.8.7).
 
@@ -1280,7 +1280,8 @@ woman may not be sealed to another man unless she receives a cancellation of
 the first sealing (see 38.4.1.4).
 
 A living woman who is not currently married or sealed to another man may be
-sealed to a deceased husband. If the marriage ended in divorce, see 38.4.1.2.
+sealed to a deceased husband (see 38.4.1.7). If the marriage ended in divorce,
+see 38.4.1.2.
 
 A living woman who is currently married may not be sealed to a deceased
 husband without First Presidency approval.
@@ -1294,9 +1295,10 @@ this circumstance, the man does not need a sealing clearance from the First
 Presidency unless he was divorced from his previous wife before she died (see
 38.4.1.2).
 
-A living man may be sealed to a deceased wife. If the marriage ended in
-divorce, see 38.4.1.2. Before being sealed to a deceased wife, a man must
-receive written consent from his current wife if he is married.
+A living man may be sealed to a deceased wife if she is not currently sealed
+to another man (see 38.4.1.7). If the marriage ended in divorce, see 38.4.1.2.
+Before being sealed to a deceased wife, a man must receive written consent
+from his current wife if he is married.
 
 See chapter 28 for information about performing ordinances for a deceased
 spouse.
@@ -1386,9 +1388,6 @@ Time-only marriages in the temple are no longer performed (see 27.3.3).
 
 #### Sealing of Deceased Persons
 
-This section applies to deceased persons being sealed to spouses who are also
-deceased. If one of the spouses is still living, see 38.4.1.3.
-
 _Deceased Women._ A deceased woman may be sealed to all men to whom she was
 legally married during her life. The following table shows when these sealings
 may take place.
@@ -1399,7 +1398,8 @@ She was not sealed to a husband in life
 
 She may be sealed to all living or deceased men to whom she was married in
 life. If the man is living, his wife (if he is married) must give written
-consent. If the man is deceased, his widow (if any) must give written consent.  
+consent (see 38.4.1.3). If the man is deceased, his widow (if any) must give
+written consent.  
   
 ---|---  
   
@@ -1413,7 +1413,8 @@ divorced. Each of the men’s widows (if any) must give written consent.
   
 _Deceased Men._ A deceased man may be sealed to all women to whom he was
 legally married during his life if (1) they are deceased or (2) they are
-living and are not sealed to another man.
+living, are not currently married, and are not sealed to another man (see
+38.4.1.3).
 
 Before a deceased man may be sealed to a deceased woman to whom he was married
 in life, the woman’s widower (if there is one) must give written consent.
@@ -1707,42 +1708,42 @@ store.ChurchofJesusChrist.org.
 Allergies
 
 Special garments may be purchased for members who are bedridden, have severe
-physical disabilities, or have allergies to certain fabrics or garments (see
-“Garments and Sacred Clothing,” store.ChurchofJesusChrist.org).
+physical disabilities, or have allergies to certain fabrics or garments. See
+Special Order Garments at ChurchofJesusChrist.org.
 
 Shorter temple robes are available for members who are in wheelchairs or who
-have other needs (see store.ChurchofJesusChrist.org).
+have other needs. See store.ChurchofJesusChrist.org.
 
 38.5.4
 
-### Making Temple Aprons
+### Making Temple Clothing
 
-Members may make their own temple aprons if they use one of the approved apron
-kits. These kits are available from a Church Distribution store or from
-store.ChurchofJesusChrist.org.
-
-Members should not make other ceremonial temple clothing or temple garments.
+Members should not make ceremonial temple clothing or temple garments.
 
 38.5.5
 
-### Wearing and Caring for the Garment
+### Wearing the Garment
 
-Members who receive the endowment make a covenant to wear the temple garment
-throughout their lives.
+The First Presidency has provided the following guidance on wearing the
+garment:
 
-The temple garment is a reminder of covenants made in the temple and, when
-worn properly throughout life, will serve as a protection against temptation
-and evil. The garment should be worn beneath the outer clothing. It should not
-be removed for activities that can reasonably be done while wearing the
-garment, and it should not be modified to accommodate different styles of
-clothing. Endowed members should seek the guidance of the Holy Spirit to
-answer personal questions about wearing the garment.
+“The garment of the holy priesthood reminds us of the veil in the temple, and
+that veil is symbolic of Jesus Christ. When you put on your garment, you put
+on a sacred symbol of Jesus Christ. Wearing it is an outward expression of
+your inner commitment to follow Him. The garment is also a reminder of your
+temple covenants. You should wear the garment day and night throughout your
+life. When it must be removed for activities that cannot reasonably be done
+while wearing the garment, seek to restore it as soon as possible. As you keep
+your covenants, including the sacred privilege to wear the garment as
+instructed in the initiatory ordinances, you will have greater access to the
+Savior’s mercy, protection, strength, and power.”
 
-It is a sacred privilege to wear the garment and doing so is an outward
-expression of an inner commitment to follow the Savior Jesus Christ.
+The garment should be worn beneath the outer clothing. It is a matter of
+personal preference whether other undergarments are worn over or under the
+temple garment.
 
-It is a matter of personal preference whether other undergarments are worn
-over or under the temple garment.
+Members should not modify or alter the garment to accommodate different styles
+of clothing.
 
 See 26.3.3.
 
@@ -1783,7 +1784,7 @@ on specific requirements that undergarments must meet, such as color or
 neckline style. These members may send organization-approved apparel that
 meets garment guidelines to Beehive Clothing to be marked as authorized
 garments. Guidelines and additional instructions are provided on the Garment
-Marking Order Form.
+Guidelines for Military, Law Enforcement, and Firefighters.
 
 38.5.7
 
@@ -2247,7 +2248,10 @@ sperm from anyone but the husband or an egg from anyone but the wife. However,
 this is a personal matter that is ultimately left to the judgment and
 prayerful consideration of a lawfully married man and woman.
 
-See also “Adoption” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For information about the sealing of children who are conceived by artificial
+insemination or in vitro fertilization, see 38.4.2.6.
+
+See also “Adoption” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.6.10
 
@@ -2411,7 +2415,7 @@ blessings of eternal marriage and parenthood in this life (see Mosiah 2:41).
 The Church provides the following resources to better understand and support
 people whose lives are affected by same-sex attraction:
 
-  * “Same-Sex Attraction,” Gospel Topics, topics.ChurchofJesusChrist.org
+  * “Same-Sex Attraction,” Topics and Questions, topics.ChurchofJesusChrist.org
 
   * “Same-Sex Attraction,” Life Help, ChurchofJesusChrist.org
 
@@ -2447,7 +2451,7 @@ children about healthy, righteous sexuality. These conversations should:
 
   * Address the dangers of pornography, the need to avoid it, and how to respond when they encounter it.
 
-For more information, see “Sex Education and Behavior” (Gospel Topics,
+For more information, see “Sex Education and Behavior” (Topics and Questions,
 topics.ChurchofJesusChrist.org).
 
 As part of their responsibility to teach their children, parents should be
@@ -2564,7 +2568,7 @@ In other areas, leaders may contact Family Services staff or the welfare and
 self-reliance manager in the area office for consultation.
 
 Guidance for counseling single expectant parents is also provided at “Unwed
-Pregnancy” (Gospel Topics, topics.ChurchofJesusChrist.org).
+Pregnancy” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 38.6.20
 
@@ -2952,7 +2956,7 @@ resource. For contact information, see 31.3.6.
 
 For information about single expectant parents, see 38.6.19.
 
-For more information, see “Adoption” (Gospel Topics,
+For more information, see “Adoption” (Topics and Questions,
 topics.ChurchofJesusChrist.org).
 
 38.8.2
@@ -3341,8 +3345,8 @@ called survivalism. Efforts to prepare should be motivated by faith, not fear.
 
 Church leaders have counseled members not to go into debt to establish food
 storage. Instead, members should establish a home storage supply and a
-financial reserve over time. See 22.1.4 and “Food Storage” (Gospel Topics,
-topics.ChurchofJesusChrist.org).
+financial reserve over time. See 22.1.4 and “Food Storage” (Topics and
+Questions, topics.ChurchofJesusChrist.org).
 
 38.8.16
 
@@ -4369,10 +4373,11 @@ the stake presidency has the responsibilities outlined in this section. If
 such installations are located in a mission rather than a stake, the mission
 president fulfills these responsibilities.
 
-A member of the stake presidency oversees the pre–military service Church
-orientation in the stake. He ensures the orientation is offered to all members
-entering military service. The stake executive secretary may coordinate this
-orientation. (See 38.9.3.)
+A member of the stake presidency oversees military relations in the stake. He
+may call a man or a woman to serve as the military relations specialist. This
+member does not need to have military experience. He or she ensures that
+resources are provided to support members of the military in the stake. This
+includes the military service orientation (see 38.9.3).
 
 38.9.1.1
 
@@ -4460,19 +4465,20 @@ in the ward.
 
 38.9.3
 
-### Pre–Military Service Church Orientation
+### Military Service Orientation
 
-The pre–military service Church orientation helps members entering military
-service learn what to expect regarding Church services and activities in the
-military. The orientation may be held at the stake or ward level.
+The military service orientation helps members entering and serving in the
+military know what to expect regarding Church services and activities in the
+military. It also teaches them how to strengthen their faith and keep their
+covenants during military service.
 
-A member of the stake presidency or bishopric calls a pre–military service
+A member of the stake presidency or bishopric calls a military service
 instructor to provide the orientation. Preferably this instructor has had
 recent military experience. If a qualified instructor is not available, the
 stake president or bishop contacts the Military Relations and Chaplain
 Services Division for guidance.
 
-For more information, see “Pre–Military Service Church Orientation” on
+For more information, see Military Service Orientation on
 ChurchofJesusChrist.org.
 
 38.9.4

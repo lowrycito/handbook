@@ -1,5 +1,5 @@
 “4. Leadership and Councils in the Church of Jesus Christ,” General Handbook:
-Serving in The Church of Jesus Christ of Latter-day Saints (2021).
+Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “4. Leadership and Councils in the Church of Jesus Christ,” General Handbook.
 

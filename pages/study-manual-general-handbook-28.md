@@ -1,5 +1,5 @@
 “28. Temple Ordinances for the Deceased,” General Handbook: Serving in The
-Church of Jesus Christ of Latter-day Saints (2020).
+Church of Jesus Christ of Latter-day Saints (2024).
 
 “28. Temple Ordinances for the Deceased,” General Handbook.
 

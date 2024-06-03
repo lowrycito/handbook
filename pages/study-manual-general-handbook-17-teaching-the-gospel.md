@@ -1,5 +1,5 @@
 “17. Teaching the Gospel,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2020).
+Christ of Latter-day Saints (2024).
 
 “17. Teaching the Gospel,” General Handbook.
 
@@ -90,7 +90,7 @@ and support home-centered gospel learning and teaching.
 Leaders and teachers encourage members to seek their own inspiration about how
 to study and teach the gospel. Their main resources should be the scriptures
 and general conference messages. Supporting resources can include Come, Follow
-Me—For Individuals and Families and Church magazines.
+Me and Church magazines.
 
 ![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
 
@@ -109,7 +109,7 @@ of the ways they fulfill this responsibility are outlined below.
 
   * As needed, recommend names to the bishopric of ward members to call as teachers in their organizations, following the guidelines in 30.1.
 
-  * Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, 38).
+  * Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, 40).
 
   * Give ongoing support to the teachers in their organizations. Talk to the teachers regularly about their efforts to build faith in the people they teach. If needed, ask the Sunday School president for help.
 
@@ -138,16 +138,37 @@ help as needed. Some options are listed below:
 
   * Members of the Primary presidency could visit Primary classes and counsel with teachers afterward about teaching in the Savior’s way.
 
-The ward council may organize teacher council meetings for parents to help
-them improve gospel teaching in the home. Like other teacher council meetings,
-these are held during the 50-minute class time on Sunday.
-
 The ward council oversees and schedules teacher council meetings. The Sunday
 School president usually leads the meetings. However, the bishopric may ask
 another member to lead them.
 
-For more information, see Teaching in the Savior’s Way, 3, or
-teaching.ChurchofJesusChrist.org.
+For more information, see “Teacher Council Meetings” in Teaching in the
+Savior’s Way (pages 38–39).
 
 ![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+
+17.5
+
+## Teacher Council Meetings for Parents
+
+The ward council may organize teacher council meetings for parents to help
+them improve gospel teaching in the home. Like other teacher council meetings,
+these are held during the 50-minute class time on Sunday.
+
+In these meetings, parents counsel together about how to apply principles of
+Christlike teaching as they teach their children. They use Teaching in the
+Savior’s Way as a resource, including the section titled “Home and Family”
+(pages 30–31). They can also discuss the teaching and scripture study
+suggestions in Come, Follow Me, such as the section titled “Preparing Your
+Children for a Lifetime on God’s Covenant Path.”
+
+The ward council oversees and schedules teacher council meetings for parents.
+They determine whether to invite specific parents to attend or to extend an
+invitation to all parents in the ward.
+
+A member of the Sunday School presidency usually leads the meetings. However,
+the bishopric may ask another member to lead them.
+
+For more information, see “Teacher Council Meetings” in Teaching in the
+Savior’s Way (pages 38–39).
 

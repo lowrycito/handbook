@@ -1,5 +1,5 @@
 “12. Primary,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2020).
+Latter-day Saints (2024).
 
 “12. Primary,” General Handbook.
 
@@ -15,10 +15,9 @@ family holding scriptures
 
 ## Purpose and Organization
 
-Primary is a home-centered, Church-supported organization. It is for children
-ages 18 months to 11 years. At home, parents teach children the gospel. At
-church, Primary leaders and teachers support parents through lessons, music,
-and activities.
+The Primary organization helps God’s children prepare to return to His
+presence. As they embrace the gospel of Jesus Christ, they will “be steadfast
+and immovable, always abounding in good works” (Mosiah 5:15).
 
 12.1.1
 
@@ -42,11 +41,6 @@ Primary helps children:
 
 ### Primary Theme
 
-It is a sacred privilege to teach children. Jesus Christ taught, “Behold your
-little ones” and “feed my lambs” (3 Nephi 17:23; John 21:15). By following
-these invitations, Primary leaders love and teach children in the Savior’s
-way.
-
 The Primary theme is a reminder of the blessings of serving in Primary:
 
 “All thy children shall be taught of the Lord; and great shall be the peace of
@@ -54,7 +48,28 @@ thy children” (Isaiah 54:13; 3 Nephi 22:13).
 
 12.1.3
 
+### Nursery
+
+Nursery helps children 18 months to 3 years feel Heavenly Father’s love and
+learn about His plan of happiness.
+
+Nursery leaders love, teach, and minister to the children. They also ensure
+their safety and well-being.
+
+At least two people should be called for each nursery class. If the nursery
+leaders are not husband and wife, they should be the same gender.
+
+Nursery lasts the entire time scheduled for Primary. For more information, see
+12.1.4 and 12.3.5.
+
+12.1.4
+
 ### Imageicon, guidelines for adaptation Classes
+
+Primary classes help children feel Heavenly Father’s love and learn about His
+plan of happiness. Lessons follow the Come, Follow Me curriculum. On fifth
+Sundays, teachers are encouraged to use “Preparing Children for a Lifetime on
+God’s Covenant Path.”
 
 Primary classes are organized by age and the number of teachers available.
 Units with fewer children or teachers may combine two or more age-groups into
@@ -173,7 +188,7 @@ bishop, parents, and child counsel together about the timing.
 Children may not complete Primary before January of the year they turn 12. Nor
 may young men be ordained deacons before that time.
 
-12.1.4
+12.1.5
 
 ### Singing Time
 
@@ -189,32 +204,64 @@ principles, but they do so primarily through music.
 The Primary presidency and music leader select songs for each month to
 reinforce gospel principles the children are learning in their classes and at
 home. Songs that reinforce these principles are also suggested in Come, Follow
-Me—For Primary.
+Me.
 
 Image
 
 children singing
 
 For more information, see “Instructions for Singing Time and the Children’s
-Sacrament Meeting Presentation.” See also 12.2.1.2 and 12.3.4 in this
-handbook.
+Sacrament Meeting Presentation.” See also 12.1.6 and 12.3.4 in this handbook.
 
-12.1.5
+12.1.6
 
-### Nursery
+### Children’s Sacrament Meeting Presentation
 
-Nursery helps children 18 months to 3 years feel Heavenly Father’s love and
-learn about His plan of happiness.
+The annual children’s sacrament meeting presentation is held during the last
+few months of the year. The children present what they have learned at home
+and at church during the year. They help the congregation focus on Heavenly
+Father, the Savior, and Their teachings.
 
-Nursery leaders love, teach, and minister to the children. They also ensure
-their safety and well-being.
+The Primary presidency and music leader prayerfully plan the presentation. The
+bishopric gives direction. Children may sing, give talks, and share stories,
+scriptures, or testimonies.
 
-At least two people should be called for each nursery class. If the nursery
-leaders are not husband and wife, they should be the same gender. Nursery
-leaders ensure the safety and well-being of the children.
+The presentation may take all or part of the meeting time after the sacrament.
+Units with few children may invite children’s family members to participate.
 
-Nursery lasts the entire time scheduled for Primary. For more information, see
-12.1.3 and 12.3.5.
+Because of the sacredness of sacrament meeting, the presentation should not
+include visuals, costumes, or media presentations.
+
+For more information, see “Instructions for Singing Time and the Children’s
+Sacrament Meeting Presentation” in Come, Follow Me.
+
+12.1.7
+
+### Temple and Priesthood Preparation Meeting
+
+Parents have the primary responsibility to teach their children about the
+temple and the priesthood. To support them, the Primary presidency plans a
+Temple and Priesthood Preparation meeting each year. The bishopric gives
+direction. The meeting is for children in the Valiant 10 class. Parents are
+invited. This meeting has the following purposes:
+
+  * Help children understand priesthood purposes, responsibilities, and blessings.
+
+  * Help children participate in temple and family history work and prepare to make and keep sacred covenants.
+
+  * Help boys prepare to receive the Aaronic Priesthood.
+
+  * Help children prepare to receive a temple recommend.
+
+The meeting may be held during Primary on Sunday, at another time on Sunday,
+or at a different time. A member of the bishopric conducts. At least one
+member of the Primary presidency attends.
+
+If a unit has few children, the meeting may be held under the direction of the
+stake presidency. Some or all of the wards in the stake meet together.
+
+For more information, see Temple and Priesthood Preparation on
+ChurchofJesusChrist.org.
 
 12.2
 
@@ -277,10 +324,9 @@ the gospel at home. These leaders and teachers study the gospel and share with
 the children what they learn. They invite children to share at church what
 they are learning at home.
 
-_Sunday Primary Meetings._ Sunday Primary meetings help children fulfill the
-purposes of Primary (see 12.1.1). A member of the Primary presidency conducts
-the opening. The music leader conducts singing time. Primary teachers teach
-children during classes.
+Sunday Primary meetings help children fulfill the purposes of Primary (see
+12.1.1). A member of the Primary presidency conducts the opening. The music
+leader conducts singing time. Primary teachers teach children during classes.
 
 Primary meetings for children ages 3–11 are held every Sunday for 50 minutes
 while adults and youth attend their classes. The schedule is as follows:
@@ -342,50 +388,6 @@ Nursery for children ages 18 months to 3 years lasts 50 minutes. Behold Your
 Little Ones provides a suggested schedule. Children may start attending
 nursery when they are 18 months old.
 
-_Children’s Sacrament Meeting Presentation._ The annual children’s sacrament
-meeting presentation is held during the last few months of the year. The
-children present what they have learned at home and at church during the year.
-They help the congregation focus on Heavenly Father, the Savior, and Their
-teachings.
-
-The Primary presidency and music leader prayerfully plan the presentation. The
-bishopric gives direction. Children may sing, give talks, and share stories,
-scriptures, or testimonies.
-
-The presentation may take all or part of the meeting time after the sacrament.
-Units with few children may invite children’s family members to participate.
-
-Because of the sacredness of sacrament meeting, the presentation should not
-include visuals, costumes, or media presentations.
-
-See “Instructions for Singing Time and the Children’s Sacrament Meeting
-Presentation” in Come, Follow Me—For Primary for more information.
-
-_Temple and Priesthood Preparation Meeting._ Parents have the primary
-responsibility to teach their children about the temple and the priesthood. To
-support them, the Primary presidency plans a Temple and Priesthood Preparation
-meeting each year. The bishopric gives direction. The meeting is for children
-in the Valiant 10 class. Parents are invited. This meeting has the following
-purposes:
-
-  * Help children understand priesthood purposes, responsibilities, and blessings.
-
-  * Help children participate in temple and family history work and prepare to make and keep sacred covenants.
-
-  * Help boys prepare to receive the Aaronic Priesthood.
-
-  * Help children prepare to receive a temple recommend.
-
-The meeting may be held during Primary on Sunday, at another time on Sunday,
-or at a different time. A member of the bishopric conducts. At least one
-member of the Primary presidency attends.
-
-If a unit has few children, the meeting may be held under the direction of the
-stake presidency. Some or all of the wards in the stake meet together.
-
-See Temple and Priesthood Preparation on ChurchofJesusChrist.org for more
-information.
-
 12.2.1.3
 
 #### Service and Activities
@@ -395,9 +397,8 @@ Primary activities. For general activity guidelines, see chapter 20.
 
 Primary activity leaders plan service and activities that help children
 participate in God’s work of salvation and exaltation. Service and activities
-should build testimonies, strengthen families, and provide opportunities to
-bless others. They should be balanced among four areas of personal growth:
-spiritual, social, physical, and intellectual.
+should be fun and engaging. They build testimonies, strengthen families, and
+foster personal growth.
 
 Primary activities are held at times other than Sundays or Monday evenings.
 Adult leaders help ensure that activities are safe (see
@@ -503,9 +504,8 @@ woman and child looking at computer
 
 ### Bishopric
 
-The bishop’s foremost responsibility is for the rising generation, including
-children. The bishop may assign a counselor to help in his responsibility for
-Primary. The bishop or an assigned counselor meets regularly with the Primary
+The bishop’s foremost responsibility is for the rising generation in his ward.
+The bishop or an assigned counselor meets regularly with the Primary
 president.
 
 The bishop and his counselors respond promptly to recommendations from the
@@ -551,9 +551,8 @@ parents with temple and priesthood preparation for their children.
 
 These presidency members make parents aware of resources in the Gospel Library
 that can help. See, for example, “Preparing Your Children for a Lifetime on
-God’s Covenant Path” in Come, Follow Me—For Individuals and Families.
-Presidency members may work with ministering brothers and sisters, teachers,
-and others to support parents.
+God’s Covenant Path” in Come, Follow Me. Presidency members may work with
+ministering brothers and sisters, teachers, and others to support parents.
 
 The Primary president has the following additional responsibilities. Her
 counselors assist her.
@@ -604,7 +603,7 @@ responsibilities:
 
     * Children who are eligible for baptism.
 
-    * Girls who will advance to Young Women and boys who will be ordained deacons.
+    * Children who will advance from Primary.
 
   * Assign children to give prayers, scriptures, and talks during the opening of Sunday Primary meetings (under the presidency’s direction). She also notifies parents.
 
@@ -615,10 +614,10 @@ responsibilities:
 ### Music Leader and Pianist
 
 The music leader and pianist teach children the gospel of Jesus Christ through
-music during singing time. Music reinforces weekly Come, Follow Me study. The
-following resources may be used:
+music during singing time. Music reinforces weekly study of the scriptures as
+outlined in Come, Follow Me. The following resources may be used:
 
-  * Come, Follow Me—For Primary
+  * Come, Follow Me
 
   * Instructions for Singing Time and the Children’s Sacrament Meeting Program
 
@@ -653,8 +652,7 @@ The music leader can help with music for nursery when invited. An additional
 music leader may be called if needed.
 
 The music leader works with the Primary presidency to help the children
-prepare for the annual children’s sacrament meeting presentation (see
-12.2.1.2).
+prepare for the annual children’s sacrament meeting presentation (see 12.1.6).
 
 See Singing Time on ChurchofJesusChrist.org for more ideas and resources.
 
@@ -662,14 +660,24 @@ See Singing Time on ChurchofJesusChrist.org for more ideas and resources.
 
 ### Teachers and Nursery Leaders
 
+It is a sacred privilege to teach children. Jesus Christ taught, “Behold your
+little ones” and “feed my lambs” (3 Nephi 17:23; John 21:15). By following
+these invitations, Primary leaders love and teach children in the Savior’s
+way.
+
 The Primary presidency recommends to the bishopric men and women to serve as
 Primary teachers and nursery leaders. The bishopric considers these
 recommendations and extends the callings. These members are called to teach
 and minister to specific age-groups of children.
 
-Primary teachers and nursery leaders teach from Come, Follow Me—For Primary
-(ages 3–11) and Behold Your Little Ones (nursery). They follow the principles
-in Teaching in the Savior’s Way and chapter 17 of this handbook.
+Primary teachers teach from Come, Follow Me (ages 3–11). On fifth Sundays,
+they are encouraged to teach lessons from “Preparing Your Children for a
+Lifetime on God’s Covenant Path.”
+
+Nursery leaders teach from Behold Your Little Ones.
+
+Teachers and nursery leaders follow the principles in Teaching in the Savior’s
+Way and chapter 17 of this handbook.
 
 When adults teach children in Church settings, at least two responsible adults
 should be present. The two adults could be two women, two men, or a married

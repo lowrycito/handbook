@@ -294,10 +294,12 @@ Church Organization
       * 12.1. Purpose and OrganizationPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.1.1. PurposesPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.1.2. Primary ThemePrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
-      * 12.1.3. ClassesPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
-      * 12.1.4. Singing TimePrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
-      * 12.1.5. NurseryPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
-    * 12.2. Participating in God’ Work of Salvation and Exaltation
+      * 12.1.3. NurseryPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+      * 12.1.4. ClassesPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+      * 12.1.5. Singing TimePrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+      * 12.1.6. Children’s Sacrament Meeting PresentationPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+      * 12.1.7. Temple and Priesthood Preparation MeetingPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+    * 12.2. Participating in God’s Work of Salvation and Exaltation
 
       * 12.2. Participating in God’s Work of Salvation and ExaltationPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.2.1. Living the Gospel of Jesus ChristPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
@@ -375,11 +377,10 @@ Church Organization
 
       * 15.1. SeminarySeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
       * 15.1.1. TeachersSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
-      * 15.1.2. Seminary OptionsSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
-      * 15.1.3. Buildings, Equipment, and MaterialsSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
-      * 15.1.4. Class Officers and ActivitiesSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
-      * 15.1.5. Credit and GraduationSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
-      * 15.1.6. Released-Time SeminarySeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
+      * 15.1.2. Buildings, Equipment, and MaterialsSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
+      * 15.1.3. Class Officers and ActivitiesSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
+      * 15.1.4. Credit and GraduationSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
+      * 15.1.5. Released-Time SeminarySeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
     * 15.2. Institute
 
       * 15.2. InstituteSeminaries and Institutes of Religion (S&I) assists parents and Church leaders in helping youth and young adults increase their faith in Jesus Christ and His restored gospel. 
@@ -404,6 +405,7 @@ God’s Work of Salvation and Exaltation
       * 17.2. Home-Centered Gospel Learning and TeachingEffective gospel teaching helps people grow in their testimonies and their faith in Heavenly Father and Jesus Christ. 
       * 17.3. Leaders’ ResponsibilitiesEffective gospel teaching helps people grow in their testimonies and their faith in Heavenly Father and Jesus Christ. 
       * 17.4. Teacher Council MeetingsEffective gospel teaching helps people grow in their testimonies and their faith in Heavenly Father and Jesus Christ. 
+      * 17.5 Teacher Council Meetings for ParentsEffective gospel teaching helps people grow in their testimonies and their faith in Heavenly Father and Jesus Christ. 
     * 18\. Performing Priesthood Ordinances and Blessings
 
       * 18.0. IntroductionOrdinances and blessings are sacred acts performed by the authority of the priesthood and in the name of Jesus Christ. As priesthood holders perform ordinances and blessings, they follow the Savior’s example of blessing others. 
@@ -664,23 +666,23 @@ God’s Work of Salvation and Exaltation
         * 23.1.3. InviteInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
       * 23.2. Strengthen New MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
       * 23.3. Strengthen Returning MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-      * 23.4. Stake Leaders
+      * 23.4. Hold Weekly Coordination MeetingsInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+      * 23.5. Stake Leaders
 
-        * 23.4. Stake LeadersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.4.1. Stake PresidencyInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.4.2. Stake Adult Leadership CommitteeInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.4.3. High CouncilorsInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.4.4. Stake Relief Society PresidencyInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-      * 23.5. Ward Leaders
+        * 23.5. Stake LeadersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.1. Stake PresidencyInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.2. Stake Adult Leadership CommitteeInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.3. High CouncilorsInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.5.4. Stake Relief Society PresidencyInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+      * 23.6. Ward Leaders
 
-        * 23.5. Ward LeadersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.1. BishopricInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.2. Elders Quorum and Relief Society PresidenciesInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.3. Ward Mission LeaderInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.4. Ward MissionariesInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.5. Ward Council and Ward Youth CouncilInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.6. Ward Plan for Sharing the Gospel and Strengthening New and Returning MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
-        * 23.5.7. Coordination MeetingsInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6. Ward LeadersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6.1. BishopricInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6.2. Elders Quorum and Relief Society PresidenciesInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6.3. Ward Mission LeaderInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6.4. Ward MissionariesInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6.5. Ward Council and Ward Youth CouncilInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
+        * 23.6.6. Ward Plan for Sharing the Gospel and Strengthening New and Returning MembersInviting all to receive the gospel is part of God’s work of salvation and exaltation. 
     * 24\. Missionary Recommendations and Service
 
       * 24.0. IntroductionTo serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves. 
@@ -737,7 +739,7 @@ God’s Work of Salvation and Exaltation
 
         * 24.9.1. Manuals and FormsTo serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves. 
         * 24.9.2. WebsitesTo serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves. 
-        * 24.9.3. Contact Information for the Missionary DepartmentTo serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves. 
+        * 24.9.3. Contact InformationTo serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves. 
   * Uniting Families for Eternity
 
     * 25\. Temple and Family History Work in the Ward and Stake
@@ -895,14 +897,13 @@ Church Administration
       * 29.3.2. Stake General Priesthood MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
       * 29.3.3. Stake Priesthood Leadership MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
       * 29.3.4. Stake Leadership MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.5. Stake High Priests Quorum MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.6. Stake Presidency MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.7. High Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.8. Stake Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.9. Stake Adult Leadership Committee MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.10. Stake Youth Leadership Committee MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.11. Stake Bishops’ Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
-      * 29.3.12. Other Stake MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.5. Stake Presidency MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.6. High Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.7. Stake Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.8. Stake Adult Leadership Committee MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.9. Stake Youth Leadership Committee MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.10. Stake Bishops’ Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.3.11. Other Stake MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.4. Coordinating Council MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.5. Funerals and Other Services for the Deceased
 
@@ -916,6 +917,7 @@ Church Administration
     * 29.6. Prayers in Church MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.7. Streaming Meetings and Holding Virtual MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.8. Photographs and Video Recordings of MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+    * 29.9. Interpreting for MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
   * 30\. Callings in the Church
 
     * 30.0. IntroductionThe Lord calls men and women to serve in the Church through inspired invitations from His servants. These opportunities to serve are known as callings. 
@@ -1308,8 +1310,8 @@ Church Administration
       * 38.5.1. Temple ClothingThis chapter covers a variety of issues and Church policies. 
       * 38.5.2. Obtaining Temple Clothing and GarmentsThis chapter covers a variety of issues and Church policies. 
       * 38.5.3. Garments and Temple Clothing for Members Who Have Disabilities or AllergiesThis chapter covers a variety of issues and Church policies. 
-      * 38.5.4. Making Temple ApronsThis chapter covers a variety of issues and Church policies. 
-      * 38.5.5. Wearing and Caring for the GarmentThis chapter covers a variety of issues and Church policies. 
+      * 38.5.4. Making Temple ClothingThis chapter covers a variety of issues and Church policies. 
+      * 38.5.5. Wearing the GarmentThis chapter covers a variety of issues and Church policies. 
       * 38.5.6. Wearing the Garment in the MilitaryThis chapter covers a variety of issues and Church policies. 
       * 38.5.7. Disposing of Garments and Ceremonial Temple ClothingThis chapter covers a variety of issues and Church policies. 
       * 38.5.8. Temple Burial ClothingThis chapter covers a variety of issues and Church policies. 
@@ -1408,7 +1410,7 @@ Church Administration
       * 38.9. Military Relations and Chaplain ServicesThis chapter covers a variety of issues and Church policies. 
       * 38.9.1. Stake Military Relations LeadershipThis chapter covers a variety of issues and Church policies. 
       * 38.9.2. Ward Military Relations LeadershipThis chapter covers a variety of issues and Church policies. 
-      * 38.9.3. Pre–Military Service Church OrientationThis chapter covers a variety of issues and Church policies. 
+      * 38.9.3. Military Service OrientationThis chapter covers a variety of issues and Church policies. 
       * 38.9.4. Church Units for Service MembersThis chapter covers a variety of issues and Church policies. 
       * 38.9.5. Group Leaders in Remote Areas or War ZonesThis chapter covers a variety of issues and Church policies. 
       * 38.9.6. Missionary Service and Military ObligationThis chapter covers a variety of issues and Church policies. 

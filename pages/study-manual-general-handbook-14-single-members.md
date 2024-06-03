@@ -1,5 +1,5 @@
 “14. Single Members,” General Handbook: Serving in The Church of Jesus Christ
-of Latter-day Saints (2020).
+of Latter-day Saints (2024).
 
 “14. Single Members,” General Handbook.
 
@@ -247,8 +247,7 @@ Generally, those who participate do not have children at home. In stakes with
 few single members, home evening groups may cross ward boundaries.
 
 In addition, single members may choose to gather virtually or in person for
-home gospel study. Come, Follow Me—For Individuals and Families may be a
-resource.
+home gospel study. Come, Follow Me may be a resource.
 
 All young single adults are encouraged to enroll in institute (see 15.2).
 

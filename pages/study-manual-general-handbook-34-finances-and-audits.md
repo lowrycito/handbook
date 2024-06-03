@@ -1,5 +1,5 @@
 “34. Finances and Audits,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2020).
+Christ of Latter-day Saints (2024).
 
 “34. Finances and Audits,” General Handbook.
 

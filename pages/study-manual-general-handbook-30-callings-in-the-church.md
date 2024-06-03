@@ -1,5 +1,5 @@
 “30. Callings in the Church,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2020).
+Christ of Latter-day Saints (2024).
 
 “30. Callings in the Church,” General Handbook.
 
@@ -99,7 +99,7 @@ baptized and confirmed. New members have a variety of abilities. Leaders
 prayerfully invite them to serve in ways that will help them grow personally
 and bless others. Some members are ready for callings right away. Others might
 prefer temporary assignments that help them prepare to receive callings. See
-also 23.2 and 23.5.1.
+also 23.2 and 23.6.1.
 
 30.1.3
 
@@ -1020,6 +1020,34 @@ Bishop or an assigned counselor
   
 Calling
 
+Interpreters if needed
+
+|
+
+Recommended by
+
+Bishopric
+
+|
+
+Approved by
+
+Bishopric
+
+|
+
+Sustained by1
+
+Ward members
+
+|
+
+Called and set apart by
+
+Bishop or an assigned counselor  
+  
+Calling
+
 Other ward callings
 
 |
@@ -1660,6 +1688,34 @@ Stake president or an assigned counselor or high councilor
 Calling
 
 Stake welfare and self-reliance specialists if needed
+
+|
+
+Recommended by
+
+Stake presidency
+
+|
+
+Approved by
+
+Stake presidency and high council
+
+|
+
+Sustained by1
+
+Members in stake conference
+
+|
+
+Called and set apart by
+
+Stake president or an assigned counselor or high councilor  
+  
+Calling
+
+Stake interpretation coordinator if needed
 
 |
 

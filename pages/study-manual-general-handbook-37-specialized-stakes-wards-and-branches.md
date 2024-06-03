@@ -1,5 +1,5 @@
 “37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in
-The Church of Jesus Christ of Latter-day Saints (2020).
+The Church of Jesus Christ of Latter-day Saints (2024).
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.
 
@@ -72,8 +72,7 @@ serving in leadership positions
 
 Ward
 
-1 for every 20 members (active and less active). There must be a minimum of
-15.
+15
 
 |
 
@@ -170,8 +169,7 @@ serving in leadership positions
 
 Ward
 
-1 for every 20 members (active and less active). There must be a minimum of
-15.
+15
 
 |
 
@@ -239,7 +237,7 @@ Young single adult ward in a young single adult stake
 
   * 125 members (active)
 
-  * 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15.
+  * 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions
 
   
   
@@ -321,7 +319,7 @@ Married student ward
 
   * 125 members (active and less active)
 
-  * 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15.
+  * 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions
 
   
   
@@ -371,8 +369,7 @@ serving in leadership positions
 
 |
 
-1 for every 20 members (active and less active). There must be a minimum of
-15.  
+15  
   
 See 36.4.2 for ward naming guidelines.
 

@@ -1,5 +1,5 @@
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook:
-Serving in The Church of Jesus Christ of Latter-day Saints (2020).
+Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook.
 
@@ -495,7 +495,7 @@ include the following:
 
   7. A time of reverence while those who participated in the baptism change into dry clothes (hymns or Primary songs may be played or sung during this time)
 
-  8. The confirmation of 8-year-old members of record; the confirmation of converts if determined by the bishop (see 18.8)
+  8. The confirmation of 8-year-old members of record; the confirmation of converts (see 18.8)
 
   9. Bearing of testimonies by new converts, if desired
 
@@ -526,8 +526,9 @@ himself.
 
 Under the bishopric’s guidance, the ward mission leader (if one is called) or
 the member of the elders quorum presidency who leads missionary work in the
-ward plans and conducts baptismal services for converts. They coordinate with
-the full-time missionaries.
+ward plans and conducts baptismal services for converts. He also plans the
+confirmation of converts if they will not be confirmed in sacrament meeting.
+He coordinates with the full-time missionaries.
 
 18.7.3
 
@@ -628,14 +629,16 @@ The bishop holds the priesthood keys for confirming 8-year-old members of
 record in his ward. The mission president holds the keys for confirming
 converts (for a definition of a convert baptism, see 31.2.3.2).
 
-The bishop oversees the performance of confirmations. Eight-year-old children
-are typically confirmed on the day they are baptized. Converts are typically
-confirmed in any sacrament meeting in the ward where they live, preferably on
-the Sunday after their baptism. However, the bishop can allow the confirmation
-to take place at the baptismal service as an exception.
+The bishop oversees the confirmations of 8-year-old children of record. These
+children are typically confirmed on the day they are baptized.
 
-A member of the bishopric follows the guidelines in 29.2.1.1 when introducing
-new members.
+The full-time missionaries coordinate with ward leaders to plan the
+confirmation of converts as noted in 18.7.2. Converts may be confirmed at the
+baptismal service or in sacrament meeting in the ward where they live as soon
+as possible after their baptism.
+
+New members are recognized and welcomed as a new member of the ward in the
+sacrament meeting after their confirmation (see 29.2.1.1).
 
 Image
 

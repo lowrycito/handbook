@@ -1,5 +1,5 @@
 “5. General and Area Leadership,” General Handbook: Serving in The Church of
-Jesus Christ of Latter-day Saints (2021).
+Jesus Christ of Latter-day Saints (2024).
 
 “5. General and Area Leadership,” General Handbook: Serving in The Church of
 Jesus Christ of Latter-day Saints.

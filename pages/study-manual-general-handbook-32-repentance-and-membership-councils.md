@@ -1,5 +1,5 @@
 “32. Repentance and Church Membership Councils,” General Handbook: Serving in
-The Church of Jesus Christ of Latter-day Saints (2020).
+The Church of Jesus Christ of Latter-day Saints (2024).
 
 “32. Repentance and Church Membership Councils,” General Handbook.
 
@@ -1336,8 +1336,11 @@ woman praying
 Personal counseling sometimes involves helping members repent of sins related
 to or caused by addictions. These addictions may include substances or a wide
 range of behaviors. Addictions harm individuals, marriages, and families.
-Bishops may counsel members to seek help from Church addiction recovery
-programs and from qualified medical and mental health professionals.
+
+Bishops may counsel members to seek help from the Church’s Healing through the
+Savior: The Addiction Recovery Program and from qualified medical and mental
+health professionals. Only the Church’s official program should be sponsored
+or hosted in Church buildings.
 
 Pornography use is becoming increasingly common. Whether pornography use is
 intensive or occasional, it is harmful. It drives away the Spirit. It weakens
@@ -2378,7 +2381,7 @@ recommends approval (see 6.2.3).
 
     4. Involvement with child pornography when there is a legal conviction
 
-    5. Apostasy
+    5. Apostasy (see 32.6.3.2 for what constitutes apostasy)
 
     6. Plural marriage
 

@@ -1,4 +1,4 @@
-August 2023
+May 2024
 
 # General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
 
@@ -8,11 +8,11 @@ The Church of Jesus Christ of Latter-day Saints
 
 Salt Lake City, Utah
 
-© 2020, 2023 by Intellectual Reserve, Inc.
+© 2020, 2024 by Intellectual Reserve, Inc.
 
 All rights reserved.
 
-Version: 8/23
+Version: 2/24
 
 PD60010241 000
 

@@ -1,5 +1,5 @@
 “11. Young Women,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2020).
+Latter-day Saints (2024).
 
 “11. Young Women,” General Handbook.
 
@@ -146,9 +146,7 @@ together about assignments and other matters.
 
 A class member or adult leader then leads gospel instruction. Class
 presidencies counsel with adult leaders about who should teach. Meeting
-outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young
-Women Classes (see ComeFollowMe.ChurchofJesusChrist.org). Meetings should end
-with a prayer.
+outlines are found in Come, Follow Me. Meetings should end with a prayer.
 
 If a ward has more than one Young Women class, they meet separately. However,
 they may meet together when there is a special need. Young women and young men
@@ -199,7 +197,7 @@ also participate in the following each year:
 
   * A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see FSY.ChurchofJesusChrist.org. For information about ward and stake FSY callings and responsibilities, see FSYLeader.ChurchofJesusChrist.org (for the U.S. and Canada) or the FSY Planning Guide (for all other areas).
 
-  * At least one activity emphasizing the standards in For the Strength of Youth. This event could include both young men and young women. Parents may also be invited.
+  * At least one activity emphasizing the principles in For the Strength of Youth: A Guide for Making Choices. This event could include both young men and young women. Parents may also be invited.
 
 _Age Requirements._ With their parents’ approval, young women may attend
 overnight Young Women camps beginning in January of the year they turn 12.
@@ -297,8 +295,9 @@ of full-time missionary work.
 
 As part of this preparation, the bishopric or stake presidency may organize a
 missionary preparation class. The main resources for this class are the
-scriptures, Missionary Standards for Disciples of Jesus Christ, and  Preach My
-Gospel. This class is not held during regular Sunday meetings.
+scriptures, Missionary Standards for Disciples of Jesus Christ, and Preach My
+Gospel: A Guide to Sharing the Gospel of Jesus Christ. This class is not held
+during regular Sunday meetings.
 
 Missionary.ChurchofJesusChrist.org provides additional resources that can help
 young women who desire to prepare to serve a mission. See chapters 23 and 24
@@ -319,7 +318,7 @@ ways are listed below:
 
   * Prepare to receive temple ordinances, including eternal marriage.
 
-  * Learn about their extended families and ancestors (see  My Family: Stories That Bring Us Together).
+  * Learn about their extended families and ancestors (see My Family: Stories That Bring Us Together).
 
   * Identify ancestors who need temple ordinances (see FamilySearch.org).
 
@@ -337,9 +336,9 @@ ways are listed below:
 
 ### Bishopric
 
-The bishop’s foremost responsibility is to care for the young women and young
-men in his ward. He and his counselors learn their names and understand their
-home circumstances. They meet with each young woman at least twice a year (see
+The bishop’s foremost responsibility is to care for the rising generation in
+his ward. He and his counselors learn their names and understand their home
+circumstances. They meet with each young woman at least twice a year (see
 31.3.1).
 
 The bishop has responsibility for the ward Young Women organization. He meets
@@ -455,7 +454,7 @@ presidencies also have the following responsibilities:
 
   * Get to know and serve each young woman, including those who do not attend class meetings. Be aware of their needs and circumstances.
 
-  * Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see 23.5.7).
+  * Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see 23.4).
 
   * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see 25.2.7).
 
@@ -596,7 +595,7 @@ The stake presidency assigns a high councilor to work with the stake Young
 Women presidency (see 6.5).
 
 The stake Young Women presidency and secretary serve on the stake youth
-leadership committee (see 29.3.10).
+leadership committee (see 29.3.9).
 
 Image
 

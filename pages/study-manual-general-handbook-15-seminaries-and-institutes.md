@@ -1,5 +1,5 @@
 “15. Seminaries and Institutes of Religion,” General Handbook: Serving in The
-Church of Jesus Christ of Latter-day Saints (2020).
+Church of Jesus Christ of Latter-day Saints (2024).
 
 “15. Seminaries and Institutes of Religion,” General Handbook.
 
@@ -16,15 +16,15 @@ young woman raising her hand in class
 ## Introduction
 
 Seminaries and Institutes of Religion (S&I) assists parents and Church leaders
-in helping youth and young adults increase their faith in Jesus Christ and His
-restored gospel. This is done by supporting a home-centered study of the
+in helping youth and young adults deepen their conversion to Jesus Christ and
+His restored gospel. This is done by supporting a home-centered study of the
 scriptures and the words of living prophets and other Church leaders.
 
 Seminary and institute programs are governed by policies established by the
-Church Board of Education, which is directed by the President of the Church.
-The stake presidency carries out these programs in the stake and wards. Stake
-and ward leaders regularly review the participation of their youth in seminary
-and institute programs.
+Church Board of Education. This board is directed by the President of the
+Church. The stake presidency carries out these programs in the stake and
+wards. Stake and ward leaders regularly review the participation of their
+youth in seminary and institute programs.
 
 An S&I representative is assigned to each stake to help leaders administer S&I
 programs.
@@ -37,10 +37,19 @@ Seminary is a four-year program in which youth study the gospel of Jesus
 Christ as found in the scriptures and the teachings of latter-day prophets.
 Seminary students are generally 14–18 years old.
 
+Classes are held on weekdays when school is in session. The number of days the
+seminary class meets each week may be adapted to local conditions. (See
+Seminary Class Options for more information.) Classes or online assignments
+should take approximately four hours per week to complete.
+
 The bishopric, youth leaders, and quorum and class presidencies encourage
 every youth to participate fully in seminary. The bishopric encourages parents
 to register their children each year before seminary classes start. For more
 information, see Seminary Registration on ChurchofJesusChrist.org.
+
+A local board of education may be established where several stakes with
+seminary classes (including home-study classes) are in close proximity and
+have common concerns and challenges. See seminary.ChurchofJesusChrist.org.
 
 15.1.1
 
@@ -62,166 +71,11 @@ or home where a seminary class is being taught. An additional teacher may be
 called, or another responsible adult may be assigned to be present. The second
 adult could be the teacher’s spouse or the parent of a class member. He or she
 should be the same gender as the teacher, unless that person is an adult
-member of the teacher’s family. A teacher should never be alone in a
-classroom, building, or vehicle with a student unless the student is the
-teacher’s child.
+member of the teacher’s family. A teacher should never be alone with a student
+unless the student is the teacher’s child. This applies in any setting, such
+as a classroom, building, virtual gathering, or vehicle.
 
 15.1.2
-
-### Imageicon, guidelines for adaptation Seminary Options
-
-Seminary is most helpful when students can meet with a teacher each weekday.
-However, this may not be possible due to safety issues, travel distance, and
-other factors. Local leaders have the following options for holding seminary.
-
-Option
-
-|
-
-Number of Weekly In-Class Lessons
-
-|
-
-Number of Weekly Home Study or Online Lessons  
-  
----|---|---  
-  
-Option
-
-A
-
-|
-
-Number of Weekly In-Class Lessons
-
-5 (50 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-None  
-  
-Option
-
-B
-
-|
-
-Number of Weekly In-Class Lessons
-
-4 (60 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-None  
-  
-Option
-
-C
-
-|
-
-Number of Weekly In-Class Lessons
-
-4 (50 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-1  
-  
-Option
-
-D
-
-|
-
-Number of Weekly In-Class Lessons
-
-3 (50 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-2  
-  
-Option
-
-E
-
-|
-
-Number of Weekly In-Class Lessons
-
-2 (90 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-1  
-  
-Option
-
-F
-
-|
-
-Number of Weekly In-Class Lessons
-
-2 (50 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-3  
-  
-Option
-
-G
-
-|
-
-Number of Weekly In-Class Lessons
-
-1 (50 minutes)
-
-|
-
-Number of Weekly Home Study or Online Lessons
-
-4  
-  
-Church leaders counsel with their S&I representative to decide which option
-will:
-
-  * Best help students learn the gospel and grow spiritually.
-
-  * Keep students safe.
-
-  * Not burden families unnecessarily.
-
-If meeting with a teacher during the week is difficult, using technology for
-virtual meetings may be considered.
-
-Classes should not be held on Sunday. Exceptions require approval from the
-Church Board of Education. A stake president may recommend to the local S&I
-representative changes to which seminary class option the stake uses. The S&I
-representative takes the recommendation to the Seminaries and Institutes of
-Religion administration. Approval from the administration is necessary before
-implementing the change.
-
-A local board of education may be established where several stakes with
-seminary classes, home-study classes, or both are in close proximity and have
-common concerns and challenges (see seminary.ChurchofJesusChrist.org).
-
-15.1.3
 
 ### Buildings, Equipment, and Materials
 
@@ -233,7 +87,7 @@ should have access to the equipment in the resource center.
 The S&I representative provides materials for teachers and students for each
 class. Students should bring their own scriptures, printed or digital.
 
-15.1.4
+15.1.3
 
 ### Class Officers and Activities
 
@@ -247,7 +101,7 @@ Seminary teachers should not provide activities outside of normal class time
 or away from the classroom. Exceptions require approval from local priesthood
 leaders.
 
-15.1.5
+15.1.4
 
 ### Credit and Graduation
 
@@ -258,9 +112,8 @@ can graduate from seminary.
 
 Some students may have difficulty earning seminary credit due to reading
 challenges or other reasons. The teacher may adapt the requirements to the
-needs of these students. Adaptations for an entire program can be requested by
-the S&I representative. These adaptations require approval from the S&I
-Central Office.
+needs of these students. The S&I representative can request adaptations for an
+entire program. These adaptations require approval from S&I administration.
 
 To graduate from seminary, a student must earn four years of credit and
 receive an ecclesiastical endorsement from a bishopric member. This
@@ -272,32 +125,37 @@ stake presidency member or a high councilor. The S&I representative may help.
 For more information, see A Guide to Seminary and Institute Graduation
 Exercises.
 
-15.1.6
+15.1.5
 
 ### Imageicon, guidelines for adaptation Released-Time Seminary
 
 In some areas of the United States and Canada, local laws allow students to
 leave school and attend seminary during school hours. The Church Board of
-Education approves where this type of seminary is used. For more information
-on released-time seminary, see Released-Time Seminary on
-ChurchofJesusChrist.org.
+Education approves where this type of seminary is used. For more information,
+see Released-Time Seminary on ChurchofJesusChrist.org.
 
 15.2
 
 ## Imageicon, optional resources Institute
 
 Institute provides weekday gospel study classes that strengthen faith and
-testimony in Jesus Christ and His restored gospel. All young single adults
-ages 18–30 should be encouraged to attend institute classes, whether they are
-attending school or not.
+testimony in Jesus Christ and His restored gospel. Stake leaders ensure that
+institute is available for all young single adults ages 18–30.
 
-Campus-based institute classes are not available in many areas. In these
-cases, stake presidents may establish stake-based institute classes.
-Priesthood leaders and S&I personnel coordinate the arrangements.
+All young single adults are encouraged to attend institute classes, whether
+they are attending school or not. They may attend campus-based institute
+classes (if available). They may also attend online institute classes or
+stake-based classes.
 
-Additional guidelines for establishing and operating stake-based institute
-classes, planning for facilities, calling teachers, and recognizing student
-achievement are available at Stake Institute on ChurchofJesusChrist.org.
+See Stake Institute for guidelines on the following:
+
+  * Establishing and operating stake-based institute classes
+
+  * Planning for facilities
+
+  * Calling teachers
+
+  * Recognizing student achievement
 
 15.2.1
 
@@ -305,8 +163,8 @@ achievement are available at Stake Institute on ChurchofJesusChrist.org.
 
 Stake presidencies may desire to provide religion classes for adults ages 31
 years and older. These classes are not a function of S&I and are not called
-institute classes. However, institute curriculum materials may be used for the
-classes.
+institute classes. However, institute curriculum materials may be used for
+them.
 
 Image
 
