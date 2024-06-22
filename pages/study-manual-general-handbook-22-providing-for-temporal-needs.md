@@ -370,7 +370,7 @@ When providing Church assistance, leaders follow the principles in sections
 22.4.1 through 22.4.5. Bishoprics and clerks are encouraged to review the
 video “Sacred Funds, Sacred Responsibilities.”
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F1f%2F68%2F1f68adec25e13e604ae4234089bcf59f283e97be%2F1f68adec25e13e604ae4234089bcf59f283e97be.jpeg/full/!250,/0/default)
 
 Principles for Providing Church Assistance
 

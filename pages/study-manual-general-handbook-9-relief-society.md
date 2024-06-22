@@ -70,7 +70,7 @@ Society should have members with a variety of ages and experience.
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fca%2Fe4%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc.jpeg/full/!250,/0/default)
 
 God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
@@ -164,7 +164,7 @@ love to those in need. Individually and as a Relief Society, they seek ways to
 serve others in the ward and community. Where it is available, JustServe.org
 suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F97%2F4e%2F974e9f17846aa514cea90aec8882cfa486d3363a%2F974e9f17846aa514cea90aec8882cfa486d3363a.jpeg/full/!250,/0/default)
 
 For more information about how members of the Relief Society and elders quorum
 care for those in need, see 22.6.2.
@@ -305,7 +305,7 @@ history coordination meetings (see 25.2.7). They also include an assistant in
 the priests quorum, a presidency member of the oldest Young Women class, and
 temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F88%2F69%2F886999708076dbf09ad533958c83f683c1dc7440%2F886999708076dbf09ad533958c83f683c1dc7440.jpeg/full/!250,/0/default)
 
 9.3
 
@@ -356,7 +356,7 @@ counselors assist her.
 
   * Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See Counseling Resources.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F68%2F7c%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2F687cf39775bd8e56a3a640e9519cac66527ebae8.jpeg/full/!250,/0/default)
 
   * With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see 8.2.3 and 9.2.3).
 

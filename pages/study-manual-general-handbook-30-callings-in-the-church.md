@@ -380,7 +380,7 @@ Approved by
 
 |
 
-Sustained by1
+Sustained by
 
 |
 
@@ -390,7 +390,7 @@ Called and set apart by
   
 Calling
 
-Bishop2
+Bishop
 
 |
 
@@ -406,7 +406,7 @@ First Presidency and Quorum of the Twelve
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -418,7 +418,7 @@ Stake president after receiving approval from the First Presidency (see 30.7)
   
 Calling
 
-Counselors in the bishopric2
+Counselors in the bishopric
 
 |
 
@@ -434,7 +434,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -462,7 +462,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -490,7 +490,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -518,7 +518,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -546,7 +546,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -574,7 +574,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Quorum members (presented in a quorum meeting by the quorum president or an
 assigned counselor)
@@ -604,7 +604,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -632,7 +632,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -660,7 +660,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -691,7 +691,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -719,7 +719,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -750,7 +750,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -778,7 +778,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -806,7 +806,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Quorum members (presented in a quorum meeting by the bishop or an assigned
 counselor)
@@ -835,7 +835,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Quorum members (presented in a quorum meeting by the bishop or an assigned
 counselor)
@@ -865,7 +865,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Quorum members (presented in a quorum meeting by the bishop or an assigned
 counselor)
@@ -894,7 +894,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Class members (presented in a Young Women meeting by the bishop or an assigned
 counselor)
@@ -923,7 +923,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Class members (presented in a Young Women meeting by the bishop or an assigned
 counselor)
@@ -952,7 +952,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -980,7 +980,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -1008,7 +1008,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -1036,7 +1036,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -1064,7 +1064,7 @@ Bishopric
 
 |
 
-Sustained by1
+Sustained by
 
 Ward members
 
@@ -1108,7 +1108,7 @@ Called and set apart by
   
 Calling
 
-Branch president1
+Branch president
 
 |
 
@@ -1136,7 +1136,7 @@ Stake or mission president (or the district president if assigned)
   
 Calling
 
-Counselors in the branch presidency1
+Counselors in the branch presidency
 
 |
 
@@ -1304,7 +1304,7 @@ Approved by
 
 |
 
-Sustained by1
+Sustained by
 
 |
 
@@ -1314,7 +1314,7 @@ Called and set apart by
   
 Calling
 
-Stake president2
+Stake president
 
 |
 
@@ -1330,7 +1330,7 @@ An assigned General Authority or Area Seventy
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1342,7 +1342,7 @@ An assigned General Authority or Area Seventy
   
 Calling
 
-Counselors in a new stake presidency2
+Counselors in a new stake presidency
 
 |
 
@@ -1358,7 +1358,7 @@ An assigned General Authority or Area Seventy
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1370,7 +1370,7 @@ An assigned General Authority or Area Seventy
   
 Calling
 
-New counselor in an existing stake presidency2
+New counselor in an existing stake presidency
 
 |
 
@@ -1386,7 +1386,7 @@ First Presidency
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1414,7 +1414,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1443,7 +1443,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1471,7 +1471,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1500,7 +1500,7 @@ Quorum of the Twelve
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1529,7 +1529,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1557,7 +1557,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1585,7 +1585,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference (they should be sustained both as high councilors
 and as presidents of these organizations)
@@ -1617,7 +1617,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1645,7 +1645,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Not sustained
 
@@ -1675,7 +1675,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1703,7 +1703,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1731,7 +1731,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1759,7 +1759,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1771,7 +1771,7 @@ Stake president or an assigned counselor or high councilor
   
 Calling
 
-Other stake callings3
+Other stake callings
 
 |
 
@@ -1787,7 +1787,7 @@ Stake presidency and high council
 
 |
 
-Sustained by1
+Sustained by
 
 Members in stake conference
 
@@ -1839,7 +1839,7 @@ Called and set apart by
   
 Calling
 
-District president1
+District president
 
 |
 
@@ -1867,7 +1867,7 @@ Mission president
   
 Calling
 
-Counselors in the district presidency1
+Counselors in the district presidency
 
 |
 
@@ -1908,7 +1908,7 @@ District president
 Approved by
 
 Mission presidency (or, when authorized by the mission president, the district
-presidency)2
+presidency)
 
 |
 
@@ -1921,7 +1921,7 @@ Members in district conference
 Called and set apart by
 
 Mission president or an assigned counselor (or, when authorized by the mission
-president, the district president or an assigned counselor)2  
+president, the district president or an assigned counselor)  
   
 Calling
 
