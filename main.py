@@ -6,33 +6,36 @@ from urllib.parse import urlparse
 
 BASE_URL = "https://www.churchofjesuschrist.org"
 
+HEADERS = {
+  'User-Agent':
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+}
+
 
 def url_to_filename(url):
-  # Parse the URL and isolate the path
   parsed_url = urlparse(url)
-  path = parsed_url.path
-
-  # Remove leading and trailing slashes
-  path = path.strip('/')
-
-  # Replace remaining slashes with hyphens
-  path = path.replace('/', '-')
-
+  path = parsed_url.path.strip('/').replace('/', '-')
   return path
 
 
 def get_links(url):
-  # Fetch the HTML of the webpage
-  response = requests.get(f"{BASE_URL}{url}")
+  response = requests.get(f"{BASE_URL}{url}", headers=HEADERS)
   response.encoding = 'utf-8'
 
-  response.raise_for_status()
+  try:
+    response.raise_for_status()
+  except requests.HTTPError as e:
+    print(f"Error fetching {url}: {e}")
+    print("Response content:", response.text)
+    return []
 
-  # Use BeautifulSoup to parse the HTML and find the nav
   soup = BeautifulSoup(response.text, 'html.parser')
   nav = soup.find('nav', class_='manifest')
 
-  # Find all the 'a' tags within the nav
+  if not nav:
+    print(f"No navigation links found in {url}")
+    return []
+
   all_links = [link.get('href').split('#')[0] for link in nav.find_all('a')]
   seen = set()
   links = [x for x in all_links if not (x in seen or seen.add(x))]
@@ -40,32 +43,30 @@ def get_links(url):
 
 
 def html_to_markdown(url):
-  # Fetch the HTML of the webpage
-  response = requests.get(f"{BASE_URL}{url}")
+  response = requests.get(f"{BASE_URL}{url}", headers=HEADERS)
   response.encoding = 'utf-8'
 
-  response.raise_for_status()
+  try:
+    response.raise_for_status()
+  except requests.HTTPError as e:
+    print(f"Error fetching {url}: {e}")
+    print("Response content:", response.text)
+    return
 
-  # Use BeautifulSoup to extract the text
   soup = BeautifulSoup(response.text, 'html.parser')
   content_article = soup.select_one('article')
 
-  # Check if content_article was found
   if content_article is None:
     print(f"No 'article' tag found in {url}")
     return
 
-  # Find all 'a' tags and replace them with their text content
   for a_tag in content_article.find_all('a'):
     if a_tag.get_text():
       a_tag.replace_with(a_tag.get_text())
     else:
       a_tag.decompose()
 
-  # Use html2text to convert the HTML to Markdown
   markdown_text = html2text.html2text(str(content_article))
-
-  # Write the markdown to a file with the url as the name
   file_name = url_to_filename(url)
   with open(f"./pages/{file_name}.md", 'w', encoding='utf-8') as file:
     file.write(markdown_text)
@@ -74,12 +75,15 @@ def html_to_markdown(url):
 handbook_url = "/study/manual/general-handbook?lang=eng"
 html_to_markdown(handbook_url)
 links = get_links(handbook_url)
-for link in links:
-  html_to_markdown(link)
+if links:
+  for link in links:
+    html_to_markdown(link)
 
-with open(f"links.json", 'w') as file:
-  file.write(json.dumps(list(links), indent=4, sort_keys=True))
+  with open(f"links.json", 'w') as file:
+    file.write(json.dumps(list(links), indent=4, sort_keys=True))
 
-print(f"Done! Found {len(links)} links.")
-print(f"Wrote {len(links)} markdown files.")
-print(f"Wrote links.json with {len(links)} links.")
+  print(f"Done! Found {len(links)} links.")
+  print(f"Wrote {len(links)} markdown files.")
+  print(f"Wrote links.json with {len(links)} links.")
+else:
+  print("No links found.")
