@@ -172,7 +172,8 @@ pay tithing.
 Members are encouraged to make their contributions online where possible (see
 donations.ChurchofJesusChrist.org). Members may also give their contributions
 and a completed Tithing and Other Offerings form to the bishop or one of his
-counselors (see 34.5.2).
+counselors (see 34.5.2). If members use a check, it should be payable to The
+Church of Jesus Christ of Latter-day Saints.
 
 34.3.1
 
@@ -322,7 +323,7 @@ may be a common practice in some areas of the world.
 
 The Church accepts (1) stocks, bonds, or other securities that are immediately
 marketable and (2) some marketable real estate. Members should email
-donationsinkind@churchofjesuschrist.org for instructions on how to initiate
+DonationsInKind@ChurchofJesusChrist.org for instructions on how to initiate
 these in-kind donations. If members want to contribute other items, the stake
 president contacts Church headquarters or the area office for approval before
 authorizing the bishop to accept them.
@@ -361,9 +362,8 @@ received.
 
 The stake president and bishop ensure that all Church funds are properly
 handled. This is a sacred responsibility of their callings. General principles
-are outlined in the following sections. Bishoprics and clerks are encouraged
-to review the video “Sacred Funds, Sacred Responsibilities” at least once a
-year.
+are outlined in the following sections. Bishoprics and clerks review the video
+“Sacred Funds, Sacred Responsibilities” at least once a year.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F1f%2F68%2F1f68adec25e13e604ae4234089bcf59f283e97be%2F1f68adec25e13e604ae4234089bcf59f283e97be.jpeg/full/!250,/0/default)
 
@@ -390,10 +390,7 @@ their families, clerks, or other ward members receive these contributions. The
 only exception is when Aaronic Priesthood holders are assigned to collect fast
 offerings (see 34.3.2).
 
-Checks should be made payable to The Church of Jesus Christ of Latter-day
-Saints. Money received by the bishopric should be recorded and deposited as
-soon as possible. Church leaders and members should not leave donations
-unattended.
+Church leaders and members should not leave donations unattended.
 
 34.5.3
 

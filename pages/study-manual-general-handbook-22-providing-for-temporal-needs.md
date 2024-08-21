@@ -367,8 +367,8 @@ dependence. Any assistance given should strengthen members in their efforts to
 become self-reliant.
 
 When providing Church assistance, leaders follow the principles in sections
-22.4.1 through 22.4.5. Bishoprics and clerks are encouraged to review the
-video “Sacred Funds, Sacred Responsibilities.”
+22.4.1 through 22.4.5. Bishoprics and clerks review the video “Sacred Funds,
+Sacred Responsibilities” at least once a year.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F1f%2F68%2F1f68adec25e13e604ae4234089bcf59f283e97be%2F1f68adec25e13e604ae4234089bcf59f283e97be.jpeg/full/!250,/0/default)
 
@@ -520,9 +520,9 @@ to community resources that are equipped to address their needs.
 Based on need, a stake president may appoint one bishop to handle all requests
 arising in the stake from people who are transient or homeless. In some areas
 there is a concentration of stakes with large numbers of people who are
-transient or homeless. In those situations, the Area Presidency may call a
-service missionary to handle their requests for assistance. This person should
-have served as a bishop.
+transient or homeless. In those situations, the Area Presidency may call an
+area welfare and self-reliance specialist to handle their requests for
+assistance. This person should have served as a bishop.
 
 22.5.1.4
 
@@ -950,8 +950,8 @@ misunderstanding of correct principles.
 Principles and practices for providing Church assistance are also discussed in
 the stake bishops’ council (see 22.11).
 
-The stake president ensures that each bishop reviews the training in the video
-“Sacred Funds, Sacred Responsibilities” at least once a year.
+The stake president ensures that bishoprics and clerks review the training in
+the video “Sacred Funds, Sacred Responsibilities” at least once a year.
 
 22.9.1.2
 
@@ -1231,7 +1231,7 @@ Resources
 
   * Stake Welfare and Self-Reliance Resource Centers
 
-  * Employment centers
+  * Employment Services
 
   * BYU–Pathway Worldwide
 

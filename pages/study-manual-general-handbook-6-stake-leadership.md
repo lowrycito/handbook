@@ -190,15 +190,15 @@ councilor participates.
 The stake president also assigns his counselors to oversee stake programs as
 needed. These may include:
 
-  * Seminary and institute.
+  * Seminary and institute (see chapter 15).
 
-  * Programs for young single adults and single adults.
+  * Programs for young single adults and single adults (see 14.1.1).
 
-  * Stake activities.
+  * Stake activities (see 20.3.2).
 
-  * Music.
+  * Music (see 19.5).
 
-  * Meetinghouse facilities.
+  * Meetinghouse facilities (see 35.2.4).
 
 Members of the stake presidency meet regularly with committees, high
 councilors, and specialists in the programs to which they are assigned.
@@ -356,11 +356,12 @@ differences:
 In special circumstances, a district president can be authorized to recommend,
 set apart, and release missionaries. He can also be authorized to conduct
 temple recommend interviews and sign the recommends. He can also be authorized
-to set apart his counselors. If the Area Presidency feels that a district
-president should have this expanded authority, they recommend him to the First
-Presidency. If approval is given, it is for that person, not the position.
-When a new district president is called, this expanded authority does not
-transfer to him.
+to set apart his counselors.
+
+If the Area Presidency feels that a district president should have this
+expanded authority, they recommend him to the First Presidency. If approval is
+given, it is for that person, not the position. When a new district president
+is called, this expanded authority does not transfer to him.
 
 6.4
 
@@ -679,9 +680,11 @@ No copy of any blessing may be retained by the scribe or patriarch. (See
 
 The stake Relief Society, Young Women, Primary, Sunday School, and Young Men
 organizations are each led by a president. These presidents serve under the
-direction of the stake presidency. In large stakes, an organization president
-may recommend one or two counselors and a secretary to serve with him or her.
-The stake presidency considers these recommendations.
+direction of the stake presidency.
+
+In large stakes, an organization president may recommend one or two counselors
+and a secretary to serve with him or her. The stake presidency considers these
+recommendations.
 
 The main responsibilities of these leaders are to assist the stake presidency
 and to instruct and support ward organization presidencies. They do not

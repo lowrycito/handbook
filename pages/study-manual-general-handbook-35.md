@@ -178,8 +178,8 @@ master plans to evaluate future needs for meeting space additions or
 redeployment, which is selling or allowing other uses for meetinghouses and
 property.
 
-See “Providing Meetinghouses and Other Places of Worship” (Meetinghouse
-Facilities Guide) for more information.
+For more information, see “Providing Meetinghouses and Other Places of
+Worship” (Meetinghouse Facilities Guide).
 
 Image
 
@@ -193,9 +193,9 @@ Groundbreaking services may be held before construction. Once complete, new
 buildings and major additions should be dedicated as soon as possible. Leased
 spaces may also be dedicated.
 
-See sections “Groundbreaking Services” and “Dedicating Buildings” in
-“Providing Meetinghouses and Other Places of Worship” (Meetinghouse Facilities
-Guide) for more information.
+For more information, see “Groundbreaking Services” and “Dedicating Buildings”
+in “Providing Meetinghouses and Other Places of Worship” (Meetinghouse
+Facilities Guide).
 
 35.4
 
@@ -220,8 +220,8 @@ The cleaning schedule should not be a burden on the members. For example, if
 travel to the building is challenging, members might clean as part of weekly
 events when they are already at the building.
 
-See “Maintaining Meetinghouses” (Meetinghouse Facilities Guide) for more
-information.
+For more information, see “Maintaining Meetinghouses” (Meetinghouse Facilities
+Guide).
 
 35.4.2
 

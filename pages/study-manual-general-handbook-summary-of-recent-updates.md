@@ -5,195 +5,219 @@ Christ of Latter-day Saints (2024).
 
 # Summary of Recent Updates
 
-## May 2024
+## August 2024
 
-Chapter 6: Stake Leadership
+Chapter 8: Elders Quorum
 
-  * 6.2.1.1. Melchizedek Priesthood (deleted a reference to the stake high priests quorum meeting, which will no longer be held)
+  * 8.2.1.2. Gospel Learning in Quorum Meetings (elders quorum members counsel together at the start of meetings; they may occasionally combine with the Relief Society)
 
-  * 6.8. Stake Specialists (added interpretation coordinator to the list of optional stake specialists)
+  * 8.3.3.2. Responsibilities (added language about helping quorum members understand the blessings of a covenant relationship with God)
 
-Chapter 10: Aaronic Priesthood Quorums
+Chapter 9: Relief Society
 
-  * 10.3. Bishopric (changed “young men and young women” to “rising generation” [see 7.1])
+  * 9.2.1.2. Gospel Learning in Relief Society Meetings (Relief Society members counsel together at the start of meetings; they may occasionally combine with the elders quorum)
+
+  * 9.3.2.2. Responsibilities (added language about helping sisters understand the blessings of a covenant relationship with God)
 
 Chapter 11: Young Women
 
-  * 11.3.1. Bishopric (changed “young women and young men” to “rising generation” [see 7.1])
-
-Chapter 12: Primary
-
-  * 12.1. Purpose and Organization (updated the purpose of Primary)
-
-  * 12.1.2. Primary Theme (moved the first paragraph to 12.3.5)
-
-  * 12.1.3. Nursery (section moved from 12.1.5; new section number is shown; subsequent sections in 12.1 have been renumbered)
-
-  * 12.1.4. Classes (new section number is shown; added a paragraph explaining the curriculum used in Primary classes)
-
-  * 12.1.6. Children’s Sacrament Meeting Presentation (new section; information moved from 12.2.1.2)
-
-  * 12.1.7. Temple and Priesthood Preparation Meeting (new section; information moved from 12.2.1.2)
-
-  * 12.2.1.2. Gospel Learning (moved “Children’s Sacrament Meeting Presentation” to 12.1.6 and “Temple and Priesthood Preparation Meeting” to 12.1.7)
-
-  * 12.2.1.3. Service and Activities (simplified the purposes of service and activities)
-
-  * 12.3.3. Secretary (updated the wording of the bullet point about children who will advance from Primary)
-
-  * 12.3.5. Teachers and Nursery Leaders (added the first paragraph, which was previously in 12.1.2; clarified curriculum for Primary)
+  * 11.3.4.2. Responsibilities (Young Women class presidents now organize the youth to welcome visitors and members)
 
 Chapter 13: Sunday School
 
-  * 13.2.2.2. Responsibilities (updated information about recording Sunday School attendance)
+  * 13.4. Improving Learning and Teaching in the Ward (clarified that a member of the Sunday School presidency usually leads teacher council meetings)
 
-  * 13.5. Improving Learning and Teaching in the Home (updated information about teacher council meetings for parents)
+Chapter 14: Single Members
 
-Chapter 15: Seminaries and Institutes of Religion
+  * 14.0. Introduction (updated age range of young single adults from 18–30 to 18–35; “single adults” now refers to those ages 36 and older)
 
-  * Chapter 15 has been revised to reduce the size of the chapter.
-
-Chapter 16: Living the Gospel of Jesus Christ
-
-  * Chapter 16 has been revised to reduce the size of the chapter.
+  * 14.3. Young Single Adult Wards and Stakes and Single Adult Wards (priesthood leaders may recommend creating separate young single adult wards for those ages 18–25 and 26–35 and single adult wards for those ages 36–45)
 
 Chapter 17: Teaching the Gospel
 
-  * 17.4. Teacher Council Meetings (moved the paragraph about teacher council meetings for parents to 17.5)
-
-  * 17.5. Teacher Council Meetings for Parents (new section)
+  * 17.4. Teacher Council Meetings (clarified that a member of the Sunday School presidency usually leads teacher council meetings)
 
 Chapter 18: Performing Priesthood Ordinances and Blessings
 
-  * 18.7.2. Baptismal Services (clarified planning confirmations of converts)
+  * 18.8.3. Baptism and Confirmation Record and Certificate (replaced “Area Book Planner app” with “Preach My Gospel app”)
 
-  * 18.8. Confirmation and Gift of the Holy Ghost (clarified that bishops hold keys for confirmations of 8-year-old children of record only; revised language to allow converts to be confirmed either at the baptismal service or in sacrament meeting)
+  * 18.16.1. Who Dedicates the Grave (clarified that the priesthood leader who presides at the service authorizes who may dedicate the grave)
 
-Chapter 20: Activities
+Chapter 21: Ministering
 
-  * 20.5.5. Overnight Activities (clarified policies about overnight facilities)
-
-  * 20.7.7. Travel (updated the policy about long-distance travel)
+  * 21.3. Ministering Interviews (provided additional guidelines for ministering interviews in the last bullet)
 
 Chapter 22: Providing for Temporal Needs and Building Self-Reliance
 
-  * Chapter 22 has been revised to reduce the size of the chapter.
+  * 22.4. Principles for Providing Church Assistance (clarified that bishoprics and clerks review the video “Sacred Funds, Sacred Responsibilities” at least once a year)
 
-  * 22.3.4. Minister to Those with Emotional Needs (added reference to Church resource Healing through the Savior: The Addiction Recovery Program)
+  * 22.5.1.3. Assistance to Persons Who Are Transient or Homeless (the Area Presidency may call an area welfare and self-reliance specialist)
 
-  * 22.10.1. Resources Coordinated by the Stake (added reference to Healing through the Savior: The Addiction Recovery Program)
-
-Chapter 23: Sharing the Gospel and Strengthening New and Returning Members
-
-  * 23.1. Share the Gospel (added the video “Simple Ways to Love, Share, and Invite”)
-
-  * 23.1.3. Invite (deleted three videos, which are replaced by new video in 23.1; added new paragraphs referring to “Unite with Members” in Preach My Gospel, inviting others, and sharing Church resources)
-
-  * 23.4. Hold Weekly Coordination Meetings (moved section from 23.5.7; subsequent sections have been renumbered; title and section have been revised; added video)
-
-  * 23.6.3. Ward Mission Leader (new section number is shown; revised bullet 5)
-
-  * 23.6.5. Ward Council and Ward Youth Council (new section number is shown; revised list of resources)
-
-  * 23.5.7. Coordination Meetings (deleted; section moved to 23.4)
+  * 22.9.1.1. Teach Bishops the Principles of Providing Church Assistance (clarified that bishoprics and clerks review the video “Sacred Funds, Sacred Responsibilities” at least once a year)
 
 Chapter 24: Missionary Recommendations and Service
 
-  * 24.2.2. Young Service Missionaries (service missionaries now serve under the direction of a mission president, with the support of service mission leaders and the stake president)
+  * 24.3.5. Role of Family Members and Leaders in Preparing Missionaries (added reference to the section “Follow the Safeguards for Using Technology Righteously” in chapter 2 of Preach My Gospel)
 
-  * 24.2.4. Senior Service Missionaries (stake presidents no longer “give” but “approve” assignments)
+Chapter 25: Temple and Family History Work in the Ward and Stake
 
-  * 24.2.5. Summary of Missionary Assignments (clarified that young service missionaries report to the mission president, through service mission leaders)
+  * 25.0. Introduction (reorganized section and added a sentence to emphasize uniting families for eternity)
 
-  * 24.3.2.1. Repentance (added explanation that the stake president may counsel with the Area Presidency on questions about the length of time needed for repentance)
+  * 25.1. Member and Leader Participation in Temple and Family History Work (bulleted list moved to 25.2)
 
-  * 24.3.4.2. Financing Senior Missionaries Serving Away from Home (clarified information about housing contribution amounts and additional expenses)
+  * 25.1.1. Individual Responsibility for Temple Worship (revised title; added paragraph about scheduling appointments with the temple)
 
-  * 24.3.5. Role of Family Members and Leaders in Preparing Missionaries (added references to Adjusting to Missionary Life and the section “Use Technology Righteously” in chapter 2 of Preach My Gospel)
+  * 25.1.2. Ward and Stake Temple Trips (added paragraph about scheduling appointments with the temple)
 
-  * 24.4.3. Submitting Recommendations (changed when a stake president may submit a recommendation from 120 days before a candidate’s availability to 150 days; clarified bullet 3)
+  * 25.2. Organizing Temple and Family History Work in the Ward (incorporated list items from 25.1, 25.2.1, and 25.2.2 to consolidate information about ward leaders’ responsibilities)
 
-  * 24.4.4. Those Unable to Serve as Full-Time Missionaries (added contact information of Missionary Department)
+  * 25.2.1. Bishopric (revised bulleted list)
 
-  * 24.5.1. Temple Endowment and Temple Service (added language encouraging newly called missionaries to attend the temple as often as circumstances allow)
+  * 25.2.2. Elders Quorum and Relief Society Presidencies (moved some list items to 25.2)
 
-  * 24.7.1. Identifying Opportunities for Service Missionaries (clarified that service mission leaders identify service opportunities for young service missionaries; revised list of examples of service missionary opportunities)
+  * 25.2.4. Ward Temple and Family History Consultants (reordered list items; added references to 25.4.1 and 25.4.2)
 
-  * 24.7.2. Housing and Transportation (clarified instructions about housing)
+  * 25.2.6. Ward Temple and Family History Plan (revised bulleted lists and clarified that wards should not establish quotas or reporting systems)
 
-  * 24.7.3. Training and Supervision (added information about the roles of the stake president, mission president and his wife, and service mission leaders)
+  * 25.2.7. Ward Temple and Family History Coordination Meetings (revised bulleted lists)
 
-  * 24.7.5. Concluding a Service Mission (section revised and expanded)
+  * 25.3.1. Stake Presidency (reordered and revised bulleted list)
 
-  * 24.9.3. Contact Information (title has been revised; added contact information for the Service Mission Office)
+  * 25.3.3. High Councilors (added “FamilySearch center coordinators” and replaced “efforts in indexing” with “family history volunteer efforts”)
+
+  * 25.3.5. Stake Temple and Family History Consultants (replaced “stake indexing efforts” with “volunteer” efforts)
+
+  * 25.3.6. FamilySearch Centers (added information about FamilySearch center coordinators and FamilySearch centers near temples)
+
+  * 25.3.7. FamilySearch Center Coordinator (new section)
+
+  * 25.3.8. Area Temple and Family History Advisers (added “FamilySearch Center Coordinators”; reordered list items to emphasize helping members prepare to go the temple)
+
+  * 25.4.1. FamilySearch.org, Ordinances Ready, and FamilySearch Apps (new section number shown; title revised; section moved up from 25.4.2 to emphasize the preferred FamilySearch resources; section revised)
+
+  * 25.4.2. My Family: Stories That Bring Us Together (moved from 25.4.1 to 25.4.2; minor revisions)
+
+  * 25.4.3. Family History Volunteer Activities (title and section revised to include activities in addition to indexing)
+
+  * 25.5.2. Requirements for Temple Workers (title and section revised because temple volunteers are no longer called; all who work in the temple are temple workers)
+
+  * 25.5.3. Requirements for Temple Volunteers (section deleted)
+
+  * 25.5.3. Calling and Setting Apart Temple Workers (new section number shown; title revised)
+
+  * 25.5.5. Assigning Volunteers (section deleted)
 
 Chapter 26: Temple Recommends
 
-  * 26.3.3.1. Temple Recommend Interview Questions (adjusted question related to wearing the temple garment)
+  * 26.2.2. Lost or Stolen Recommends (section revised)
 
-  * 26.3.3.2. Wearing the Temple Garment (updated statement on wearing the garment)
+  * 26.3.2. Temple Recommend Interviews for Members in Isolated Areas (updated guidelines to allow members of a stake or mission presidency to conduct temple recommend interviews virtually)
 
 Chapter 27: Temple Ordinances for the Living
 
-  * 27.4.4. Who May Attend a Sealing of Living Children to Parents (added clarification to the last paragraph)
+  * Throughout chapter 27, language has been revised to reflect that marriages for time only are no longer performed in temples.
+
+  * 27.2. The Endowment (updated instructions about the garment)
+
+  * 27.3.2.6. Appropriate Clothing for a Temple Sealing (updated guidelines for guests’ clothing)
+
+  * 27.4.4. Who Performs a Sealing of Living Children to Parents (new section; the following section has been renumbered)
+
+Chapter 28: Temples Ordinances for the Deceased
+
+  * 28.2.2.1. Verifying Ordinances Necessary to Receive the Endowment (section deleted to avoid duplicating information in 28.2)
 
 Chapter 29: Meetings in the Church
 
-  * 29.2.1.4. Selecting Speakers (included children among those who may speak in sacrament meeting)
+  * 29.2.1.3. Time before the Meeting (Young Women class presidents now organize the youth to welcome visitors and members)
 
-  * 29.3.5. Stake High Priests Quorum Meeting (deleted because the meeting will no longer be held; subsequent sections have been renumbered)
+  * 29.2.9. Easter and Christmas (new section)
 
-  * 29.7. Streaming Meetings and Holding Virtual Meetings (updated guidelines to allow members to save a copy of a streamed wedding or funeral)
+  * 29.7. Streaming Meetings and Holding Virtual Meetings (simplified guidelines)
 
-  * 29.9. Interpreting for Meetings (new section)
+Chapter 31: Interviews and Other Meetings with Members
 
-Chapter 30: Callings in the Church
+  * 31.1.4. Help the Member Feel Comfortable and Safe (added video; clarified possible locations where leaders can meet with members)
 
-  * 30.8.1. Ward Callings (added “interpreters”)
-
-  * 30.8.3. Stake Callings (added “stake interpretation coordinator”)
-
-Chapter 32: Repentance and Church Membership Councils
-
-  * 32.8.2. Helping People Address Addictions and Pornography Use (added reference to the Church resource Healing through the Savior: The Addiction Recovery Program; only the Church’s official program should be sponsored or hosted in Church buildings)
-
-  * 32.16.1. Membership Councils to Remove Formal Restrictions or Readmit a Person (cross-reference to 32.6.3.2 added to item 9e)
+  * 31.4. Meeting with Members Virtually (simplified guidelines)
 
 Chapter 33: Records and Reports
 
-  * Chapter 33 has been revised to reduce the size of the chapter.
+  * 33.3.2.1. Record-Keeping Responsibilities (added list item about the unit history)
+
+  * 33.3.2.2. Review of Ward Records and Reports (updated guidelines to reflect that membership record audits now occur twice a year; added list item about the unit history)
+
+  * 33.6.19. Audits of Membership Records (updated guidelines to reflect that membership record audits now occur twice a year)
 
 Chapter 36: Creating, Changing, and Naming New Units
 
-  * 36.1. Creating or Changing Stakes and Districts (updated minimum requirements)
+  * 36.1. Creating or Changing Stakes and Districts (updated expected time frame of responses to proposals)
 
-  * 36.2. Changing or Creating Wards and Branches in Stakes (updated minimum requirements)
+  * 36.2. Changing or Creating Wards and Branches in Stakes (updated expected time frame of responses to proposals)
+
+  * 36.4. Naming Church Units (removed outdated contact information)
+
+  * 36.5.2. Ward and Branch Changes (updated contact instructions)
+
+  * 36.6. Basic Unit Program (section revised to include information from the Basic Unit Program Guidebook)
 
 Chapter 37: Specialized Stakes, Wards, and Branches
 
-  * 37.1. Language Wards and Branches (updated minimum requirements)
+  * Throughout chapter 37, the age range of young single adults has been updated from 18–30 to 18–35.
 
-  * 37.2. Young Single Adult Wards and Branches in a Geographic Stake (updated minimum requirements)
+  * 37.1. Language Wards and Branches (clarified guidelines for creating language units)
 
-  * 37.3. Young Single Adult Stakes and Their Wards and Branches (updated minimum requirements)
+  * 37.2. Young Single Adult Wards and Branches in a Geographic Stake (priesthood leaders may recommend creating separate young single adult units for those ages 18–25 and 26–35)
 
-  * 37.4. Married Student Stakes and Wards (updated minimum requirements)
+  * 37.3. Young Single Adult Stakes and Their Wards and Branches (priesthood leaders may recommend creating separate young single adult units for those ages 18–25 and 26–35; see also 37.3.1)
 
-  * 37.5. Single Adult Wards (updated minimum requirements)
+  * 37.5. Single Adult Wards (the age range of those who may be members of a single adult ward has been updated from 30–45 to 36–45; see also 37.5.1)
+
+  * 37.7. Groups in Stakes, Missions, and Areas (clarified guidelines for creating language groups)
 
 Chapter 38: Church Policies and Guidelines
 
-  * 38.4.1.3. Sealing of Living Members after a Spouse’s Death (clarified that a living man may be sealed to a deceased wife “if she is not currently sealed to another man”)
+  * 38.1: Church Participation
 
-  * 38.4.1.7. Sealing of Deceased Persons (clarified that a deceased man may be sealed to living women to whom he was married only if they “are not currently married”)
+    * 38.1.3. Temple Worship (revised title)
 
-  * 38.5.4. Making Temple Clothing (title has been revised; members may no longer make their own temple aprons)
+  * 38.4: Sealing Policies
 
-  * 38.5.5. Wearing the Garment (updated statement on wearing the garment)
+    * 38.4. Sealing Policies (deleted duplicative paragraphs; last two paragraphs moved to 38.4.1 and 38.4.2)
 
-  * 38.6.9. Fertility Treatments (added cross-reference to 38.4.2.6 for information about the sealing of children who are conceived by artificial insemination or in vitro fertilization)
+    * 38.4.1. Sealing of a Husband and Wife (revised title; updated table; added paragraphs moved from 38.4)
 
-  * 38.9.1. Stake Military Relations Leadership (added information about calling a military relations specialist)
+    * 38.4.1.3. Sealing of Living Members after a Spouse’s Death (clarified the circumstances in which a living man may or may not be sealed to a deceased wife)
 
-  * 38.9.3. Military Service Orientation (title has been revised; updated information about this orientation)
+    * 38.4.1.4. Sealing of a Living Member to a Deceased Individual with Whom He or She Cohabited (new section; subsequent sections renumbered)
+
+    * 38.4.1.9. Effects of Divorce (new section number shown; added assurance of God’s promised blessings to His faithful children)
+
+    * 38.4.1.10. Effects of Sealing Cancellation (new section number shown; added assurance of God’s promised blessings to His faithful children; God will not require anyone to remain in a sealed relationship throughout eternity against his or her will)
+
+    * 38.4.2. Sealing Children to Parents (added paragraphs moved from 38.4)
+
+    * 38.4.2.2. Children Who Are Not Born in the Covenant (clarified policies about sealing living children to deceased parents)
+
+  * 38.5: Temple Clothing and Garments
+
+    * 38.5.2. Obtaining Temple Clothing and Garments (added information about bishops using fast-offering funds to help members purchase temple clothing and garments; added information about maternity, nursing, and special-order garments)
+
+    * 38.5.5. Wearing the Garment (added caution against inappropriately displaying the garment)
+
+    * 38.5.6. Caring for the Garment (new section; subsequent sections have been renumbered)
+
+    * 38.5.8. Medical Conditions That May Prevent Members from Wearing the Garment (new section)
+
+  * 38.6: Policies on Moral Issues
+
+    * 38.6.2.1. Abuse Help Line (added contact information for countries in the Europe Central Area)
+
+    * 38.6.23. Individuals Who Identify as Transgender (revised title; clarified polices on Church participation; related changes have been made to sections 26.5.7, 32.14.5, 32.16.1, 38.2.8.6, 38.2.8.9, and 38.2.9.9)
+
+  * 38.8: Administrative Policies
+
+    * 38.8.4. Autographs and Photographs of General Authorities, General Officers, and Area Seventies (clarified that members should not take photographs in chapels during meetings)
+
+    * 38.8.7. Church Magazines (updated subscription instructions)
 

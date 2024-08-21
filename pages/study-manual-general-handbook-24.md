@@ -723,7 +723,7 @@ handbook that pertains to their probable assignment:
 
   * For young service missionaries: Missionary Standards for Disciples of Jesus Christ—Service Missions
 
-  * For all missionaries: the section “Use Technology Righteously” in chapter 2 of Preach My Gospel.
+  * For all missionaries: the sections “Use Technology Righteously” and “Follow the Safeguards for Using Technology” in chapter 2 of Preach My Gospel.
 
 24.4
 
@@ -1100,6 +1100,8 @@ worthiness, or other reasons. Bishops and stake presidents give special
 support to these returned missionaries. Leaders help them work to regain
 health or return to service if possible.
 
+For more information about ending a service mission early, see 24.7.5.
+
 For teaching or service missionaries who are ready to return to service, the
 stake president contacts the Missionary Department to recommend this (see
 24.9.3). Some teaching missionaries who return to service may be reassigned to
@@ -1179,7 +1181,8 @@ the manager of their service assignment (for senior service missionaries).
 The stake president is the ecclesiastical leader for senior and young service
 missionaries. He and the bishop conduct regular worthiness interviews with
 young service missionaries. They also conduct interviews for temple
-recommends, priesthood advancement, and patriarchal blessings when applicable.
+recommends, ordination to priesthood offices, and patriarchal blessings when
+applicable.
 
 The mission president and his wife set the spiritual and behavioral
 expectations of the mission. They counsel regularly with the service mission
@@ -1226,6 +1229,9 @@ notifies the mission president, the service mission leaders, and the area
 service mission specialists. The stake president then contacts the assigned
 in-field representative in the Missionary Department to have each early
 release reviewed and approved by an assigned General Authority.
+
+For information about a service missionary potentially returning to service,
+see 24.6.3.2.
 
 Service missions for young missionaries do not exceed 24 months for men. These
 missions do not exceed 18 months for women.

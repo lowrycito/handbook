@@ -138,9 +138,9 @@ help as needed. Some options are listed below:
 
   * Members of the Primary presidency could visit Primary classes and counsel with teachers afterward about teaching in the Savior’s way.
 
-The ward council oversees and schedules teacher council meetings. The Sunday
-School president usually leads the meetings. However, the bishopric may ask
-another member to lead them.
+The ward council oversees and schedules teacher council meetings. A member of
+the Sunday School presidency usually leads the meetings. However, the
+bishopric may ask another member to lead them.
 
 For more information, see “Teacher Council Meetings” in Teaching in the
 Savior’s Way (pages 38–39).

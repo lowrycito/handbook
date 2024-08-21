@@ -748,7 +748,7 @@ God’s Work of Salvation and Exaltation
       * 25.1. Member and Leader Participation in Temple and Family History Work
 
         * 25.1. Member and Leader Participation in Temple and Family History WorkUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.1.1. Individual Responsibility for Temple AttendanceUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.1.1. Individual Responsibility for Temple WorshipUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
         * 25.1.2. Ward and Stake Temple TripsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.2. Organizing Temple and Family History Work in the Ward
 
@@ -769,19 +769,18 @@ God’s Work of Salvation and Exaltation
         * 25.3.4. Stake Relief Society PresidencyUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
         * 25.3.5. Stake Temple and Family History ConsultantsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
         * 25.3.6. FamilySearch CentersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.3.7. Area Temple and Family History AdvisersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.7. FamilySearch Center CoordinatorUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.3.8. Area Temple and Family History AdvisersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.4. Family History Resources
 
-        * 25.4.1. My Family: Stories That Bring Us TogetherUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.4.2. FamilySearch.org and FamilySearch AppsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.4.3. IndexingUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.4.1. FamilySearch.org, Ordinances Ready, and FamilySearch AppsUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.4.2. My Family: Stories That Bring Us TogetherUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.4.3. Family History Volunteer ActivitiesUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
       * 25.5. Recommending and Calling Temple Workers
 
         * 25.5.1. Recommending Temple WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.2. Requirements for Temple Ordinance WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.3. Requirements for Temple VolunteersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.4. Calling and Setting Apart Ordinance WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
-        * 25.5.5. Assigning VolunteersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.2. Requirements for Temple WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
+        * 25.5.3. Calling and Setting Apart Temple WorkersUniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity. 
     * 26\. Temple Recommends
 
       * 26.0. IntroductionEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
@@ -811,7 +810,7 @@ God’s Work of Salvation and Exaltation
         * 26.5.4. Members Who Have Not Lived in the Same Ward for at Least One YearEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
         * 26.5.5. After Divorce, Separation, or AnnulmentEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
         * 26.5.6. Members Whose Close Relatives Publicly Oppose the Church or Belong to Apostate GroupsEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
-        * 26.5.7. Members Who Identify as TransgenderEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
+        * 26.5.7. Individuals Who Identify as TransgenderEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
         * 26.5.8. Members Who Have Committed a Serious SinEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
         * 26.5.9. Members Who Have Been Readmitted after Church Membership Withdrawal or ResignationEntering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple. 
     * 27\. Temple Ordinances for the Living
@@ -836,9 +835,9 @@ God’s Work of Salvation and Exaltation
 
         * 27.3. Sealing of Husband and WifeThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
         * 27.3.1. Who May Be Sealed in a TempleThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
-        * 27.3.2. Planning and Scheduling a Temple Marriage or SealingThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
+        * 27.3.2. Planning and Scheduling a Temple SealingThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
         * 27.3.3. Marriage in a Temple for Time OnlyThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
-        * 27.3.4. Who May Attend a Temple Marriage or SealingThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
+        * 27.3.4. Who May Attend a Temple SealingThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
         * 27.3.5. Wedding ReceptionsThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
       * 27.4. Sealing Living Children to Parents
 
@@ -846,7 +845,8 @@ God’s Work of Salvation and Exaltation
         * 27.4.1. Issuing a Recommend for Sealing Living Children to ParentsThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
         * 27.4.2. Contacting the TempleThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
         * 27.4.3. Child CareThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
-        * 27.4.4. Who May Attend a Sealing of Living Children to ParentsThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
+        * 27.4.4. Who Performs a Sealing of Living Children to ParentsThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
+        * 27.4.5. Who May Attend a Sealing of Living Children to ParentsThe temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity. 
     * 28\. Temple Ordinances for the Deceased
 
       * 28.0. IntroductionStake presidents and bishops teach members the doctrinal basis of temple work and ensure that members understand waiting periods and other policies related to temple work. 
@@ -891,6 +891,7 @@ Church Administration
       * 29.2.6. Ward Youth Council MeetingLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
       * 29.2.7. Other Ward Meetings and ClassesLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
       * 29.2.8. Schedules for Sunday MeetingsLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
+      * 29.2.9. Easter and ChristmasLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
     * 29.3. Stake Meetings
 
       * 29.3.1. Stake ConferenceLatter-day Saints meet together to worship, edify each other, and teach and learn the gospel. 
@@ -1275,7 +1276,7 @@ Church Administration
       * 38.1. Church ParticipationThis chapter covers a variety of issues and Church policies. 
       * 38.1.1. Attendance at Church MeetingsThis chapter covers a variety of issues and Church policies. 
       * 38.1.2. Becoming a Church MemberThis chapter covers a variety of issues and Church policies. 
-      * 38.1.3. Temple AttendanceThis chapter covers a variety of issues and Church policies. 
+      * 38.1.3. Temple WorshipThis chapter covers a variety of issues and Church policies. 
       * 38.1.4. Unmarried Member Participation and BlessingsThis chapter covers a variety of issues and Church policies. 
       * 38.1.5. Unwed Parents under Age 18This chapter covers a variety of issues and Church policies. 
     * 38.2. Policies for Ordinances and Blessings
@@ -1303,7 +1304,7 @@ Church Administration
     * 38.4. Sealing Policies
 
       * 38.4. Sealing PoliciesThis chapter covers a variety of issues and Church policies. 
-      * 38.4.1. Sealing of a Man and a WomanThis chapter covers a variety of issues and Church policies. 
+      * 38.4.1. Sealing of a Husband and WifeThis chapter covers a variety of issues and Church policies. 
       * 38.4.2. Sealing Children to ParentsThis chapter covers a variety of issues and Church policies. 
     * 38.5. Temple Clothing and Garments
 
@@ -1312,9 +1313,11 @@ Church Administration
       * 38.5.3. Garments and Temple Clothing for Members Who Have Disabilities or AllergiesThis chapter covers a variety of issues and Church policies. 
       * 38.5.4. Making Temple ClothingThis chapter covers a variety of issues and Church policies. 
       * 38.5.5. Wearing the GarmentThis chapter covers a variety of issues and Church policies. 
-      * 38.5.6. Wearing the Garment in the MilitaryThis chapter covers a variety of issues and Church policies. 
-      * 38.5.7. Disposing of Garments and Ceremonial Temple ClothingThis chapter covers a variety of issues and Church policies. 
-      * 38.5.8. Temple Burial ClothingThis chapter covers a variety of issues and Church policies. 
+      * 38.5.6. Caring for the GarmentThis chapter covers a variety of issues and Church policies. 
+      * 38.5.7. Wearing the Garment in the Military, Fire Service, Law Enforcement, or a Similar AgencyThis chapter covers a variety of issues and Church policies. 
+      * 38.5.8. Medical Conditions That May Prevent Members from Wearing the GarmentThis chapter covers a variety of issues and Church policies. 
+      * 38.5.9. Disposing of Garments and Ceremonial Temple ClothingThis chapter covers a variety of issues and Church policies. 
+      * 38.5.10. Temple Burial ClothingThis chapter covers a variety of issues and Church policies. 
     * 38.6. Policies on Moral Issues
 
       * 38.6. Policies on Moral IssuesThis chapter covers a variety of issues and Church policies. 
@@ -1340,7 +1343,7 @@ Church Administration
       * 38.6.20. SuicideThis chapter covers a variety of issues and Church policies. 
       * 38.6.21. Surgical Sterilization (Including Vasectomy)This chapter covers a variety of issues and Church policies. 
       * 38.6.22. Surrogate MotherhoodThis chapter covers a variety of issues and Church policies. 
-      * 38.6.23. Transgender IndividualsThis chapter covers a variety of issues and Church policies. 
+      * 38.6.23. Individuals Who Identify as TransgenderThis chapter covers a variety of issues and Church policies. 
     * 38.7. Medical and Health Policies
 
       * 38.7.1. AutopsiesThis chapter covers a variety of issues and Church policies. 

@@ -527,7 +527,7 @@ himself.
 Under the bishopric’s guidance, the ward mission leader (if one is called) or
 the member of the elders quorum presidency who leads missionary work in the
 ward plans and conducts baptismal services for converts. He also plans the
-confirmation of converts if they will not be confirmed in sacrament meeting.
+confirmation of converts unless they will be confirmed in sacrament meeting.
 He coordinates with the full-time missionaries.
 
 18.7.3
@@ -698,8 +698,8 @@ confirmation, a clerk uses this form to update the child’s membership record
 in LCR.
 
 When a full-time missionary interviews a convert for baptism, he fills out the
-Baptism and Confirmation Record using the Area Book Planner (ABP) app. After
-the baptism and confirmation, the missionaries record the information in ABP
+Baptism and Confirmation Record using the Preach My Gospel app. After the
+baptism and confirmation, the missionaries record the information in the app
 and submit it to the ward clerk electronically. The ward clerk reviews the
 information in LCR and creates the membership record.
 
@@ -1333,15 +1333,15 @@ To dedicate a home, a Melchizedek Priesthood holder:
 ### Who Dedicates the Grave
 
 A person who dedicates a grave should hold the Melchizedek Priesthood and be
-authorized by the priesthood leader who conducts the service.
+authorized by the priesthood leader who presides at the service.
 
 If the family prefers, a graveside prayer may be offered instead of a
 dedicatory prayer. It may be offered by anyone the family chooses.
 
 To act as voice in dedicating a grave, a person who is outside his own ward
-must show a current temple recommend to the priesthood leader who presides
-over the service. Or he may show a Recommend to Perform an Ordinance signed by
-a member of his bishopric.
+must show a current temple recommend to the priesthood leader who presides at
+the service. Or he may show a Recommend to Perform an Ordinance signed by a
+member of his bishopric.
 
 18.16.2
 

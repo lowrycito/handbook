@@ -106,10 +106,6 @@ and by unanimous voice, this council has authority to declare and interpret
 doctrine and establish policy for the Church (see Doctrine and Covenants 1:38;
 107:27–31).
 
-Image
-
-First Presidency and Quorum of the Twelve
-
 5.1.1.2
 
 #### The Seventy
@@ -193,10 +189,6 @@ General Officers may have the following responsibilities:
   * Instruct and support area organization advisers, who serve under the direction of the Area Presidencies (see 5.2.5.1).
 
 Each general Church organization may have a council to assist the Presidency.
-
-Image
-
-Relief Society General Presidency
 
 5.2
 

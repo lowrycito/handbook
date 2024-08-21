@@ -68,8 +68,8 @@ Nursery lasts the entire time scheduled for Primary. For more information, see
 
 Primary classes help children feel Heavenly Father’s love and learn about His
 plan of happiness. Lessons follow the Come, Follow Me curriculum. On fifth
-Sundays, teachers are encouraged to use “Preparing Children for a Lifetime on
-God’s Covenant Path.”
+Sundays, teachers are encouraged to use “Appendix B: For Primary—Preparing
+Children for a Lifetime on God’s Covenant Path.”
 
 Primary classes are organized by age and the number of teachers available.
 Units with fewer children or teachers may combine two or more age-groups into
@@ -482,7 +482,7 @@ are listed below:
 
   * Strive to be worthy to receive a temple recommend at the appropriate age.
 
-  * Prepare to receive ordinances, including eternal marriage.
+  * Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 
   * Learn about their extended families and ancestors (see My Family: Stories That Bring Us Together).
 
@@ -671,8 +671,8 @@ recommendations and extends the callings. These members are called to teach
 and minister to specific age-groups of children.
 
 Primary teachers teach from Come, Follow Me (ages 3–11). On fifth Sundays,
-they are encouraged to teach lessons from “Preparing Your Children for a
-Lifetime on God’s Covenant Path.”
+they are encouraged to teach lessons from “Appendix B: For Primary—Preparing
+Your Children for a Lifetime on God’s Covenant Path.”
 
 Nursery leaders teach from Behold Your Little Ones.
 

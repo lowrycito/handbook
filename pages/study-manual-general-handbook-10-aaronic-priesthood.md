@@ -373,7 +373,7 @@ Some of these ways are listed below:
 
   * Have a current temple recommend.
 
-  * Prepare to receive temple ordinances, including eternal marriage.
+  * Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 
   * Learn about their extended families and ancestors (see My Family: Stories That Bring Us Together).
 
@@ -525,11 +525,11 @@ Image
 young men and women talking
 
 The ward youth council discusses ways to help others build testimonies,
-receive saving ordinances, keep covenants, and become followers of Jesus
-Christ (see Moroni 6:4–5). They counsel together about the needs of the young
-men and young women in the ward. They may discuss activities to meet these
-needs. However, detailed planning of activities should happen in quorum or
-class presidency meetings.
+receive saving ordinances, make and keep covenants, and become followers of
+Jesus Christ (see Moroni 6:4–5). They counsel together about the needs of the
+young men and young women in the ward. They may discuss activities to meet
+these needs. However, detailed planning of activities should happen in quorum
+or class presidency meetings.
 
 See 29.2.6 for more information about the ward youth council.
 

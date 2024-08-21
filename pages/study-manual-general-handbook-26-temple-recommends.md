@@ -16,8 +16,8 @@ bishop interviewing man
 ## Introduction
 
 Entering the house of the Lord is a sacred privilege. Ward and stake leaders
-encourage all members to be worthy of and to have a current temple recommend
-even if they do not live near a temple.
+encourage all members to be worthy of and have a current temple recommend even
+if they do not live near a temple.
 
 Church leaders make every effort to see that all who enter the house of the
 Lord are worthy to do so (see Psalm 24:3–5). Authorized priesthood leaders
@@ -70,13 +70,13 @@ access to temple recommend information in LCR.
 ### Lost or Stolen Recommends
 
 The bishop asks members to notify him as soon as possible if their recommend
-is lost or stolen. He or an assigned counselor or clerk uses LCR to cancel the
-recommend as soon as possible. If this system is not available, the bishop
-contacts the temple office to have the recommend canceled.
+is lost or stolen. If the member is still worthy, the bishop or an assigned
+counselor or clerk logs in to LCR to reprint the recommend. The new recommend
+will expire on the same date as the original.
 
-The bishop or an assigned counselor then conducts a temple recommend interview
-with the member. If the member is worthy, the bishop or assigned counselor
-either reprints the recommend or issues a new one.
+Sometimes a member whose recommend is lost or stolen is no longer living the
+standards of worthiness. In these cases, the bishop cancels the recommend
+immediately (see 26.2.3).
 
 26.2.3
 
@@ -175,14 +175,13 @@ Members in Isolated Areas
 
 Some members live in areas that would require expensive travel or great
 difficulty to meet with a member of the stake or mission presidency. In these
-situations, a temple president may interview the person and sign the
-recommend. Before conducting the interview, he confers with the stake or
-mission president. The bishop, an authorized counselor, or the branch
-president should have already interviewed the member and signed the recommend.
+situations, a member of the stake or mission presidency may meet virtually
+with the member to conduct a temple recommend interview (see 31.4). The leader
+digitally signs the recommend if the member is worthy. A member of the
+bishopric or the branch president then prints the recommend and gives it to
+the member.
 
 This policy also applies to members in the military who are in isolated areas.
-They should first be interviewed by the bishop of their home ward or the unit
-that supports their duty station.
 
 Image
 
@@ -488,24 +487,23 @@ questions appropriately and sincerely.
 
 26.5.7
 
-### Members Who Identify as Transgender
-
-Worthy members who identify as transgender but do not pursue a medical,
-surgical, or social transition to the opposite of their biological sex at
-birth (“sex reassignment”) may receive a temple recommend and temple
-ordinances.
+### Individuals Who Identify as Transgender
 
 Temple ordinances are received according to a person’s biological sex at
-birth. For this reason, the following members may not receive a temple
-recommend, including a recommend for proxy baptisms and confirmations:
+birth. Worthy members who do not pursue surgical, medical, or social
+transition away from their biological sex at birth may receive a temple
+recommend and temple ordinances. (For a definition of social transition, see
+38.6.23.)
 
-  * Members who have received elective medical or surgical intervention to attempt to transition
+Members who have taken steps to transition and then transition back to their
+biological sex at birth and are worthy and committed to keeping God’s
+commandments may receive a temple recommend and temple ordinances.
 
-  * Members who have socially transitioned to the opposite of their biological sex at birth
+Bishops counsel with the stake president to address individual circumstances
+with sensitivity and Christlike love. Stake and mission presidents seek
+counsel from the Area Presidency.
 
-The stake president should counsel with the Area Presidency to address
-individual situations with sensitivity and Christlike love (see 38.6.23 and
-38.7.7).
+For more information, see 38.6.23.
 
 26.5.8
 

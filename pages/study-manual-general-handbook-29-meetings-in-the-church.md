@@ -151,6 +151,11 @@ Before the meeting starts, members of the congregation prepare spiritually for
 the sacrament. They can do this through quiet prayer and pondering. Leaders
 set an example of reverence.
 
+A member of the bishopric invites Young Women class presidencies to organize
+youth to minister by welcoming visitors and members as they enter the chapel.
+Youth make an effort to greet members by name. They also promote reverence by
+answering questions and helping people find seats as needed.
+
 29.2.1.4
 
 #### Selecting Speakers
@@ -562,6 +567,22 @@ the president of his priests quorum, but the two bishops may take turns
 presiding in Sunday quorum meetings. The bishops from both wards attend
 combined ward youth council meetings. After implementing the plan, leaders
 continue to meet regularly to coordinate their efforts.
+
+29.2.9
+
+### Easter and Christmas
+
+On Easter Sunday, sacrament meeting is the only meeting held. The same is true
+when Christmas Day falls on a Sunday. When Christmas falls on another day of
+the week, sacrament meeting is the only meeting held on a Sunday near
+Christmas—usually the Sunday before—as determined by the stake presidency.
+
+In some areas, a major non-Christian holiday is culturally significant. When
+such a holiday falls on a Sunday, the Area Presidency may authorize bishops to
+hold sacrament meeting only on that day.
+
+Stake presidencies may consult with bishops to determine whether to adjust
+start times for sacrament meetings on these Sundays.
 
 29.3
 
@@ -1134,7 +1155,7 @@ and Relief Society. For example, ward members could:
 
   * Help make mortuary and cemetery arrangements, as applicable.
 
-  * Dress the body for burial (see 38.5.8).
+  * Dress the body for burial (see 38.5.10).
 
   * Prepare meals.
 
@@ -1202,7 +1223,7 @@ For information about missionaries returning home to attend a funeral, see
 
 Where possible, deceased members who were endowed should be buried or cremated
 in temple clothing. For information about temple burial clothing and dressing
-the dead, see 38.5.8.
+the dead, see 38.5.10.
 
 If possible, a member of the bishopric accompanies the cortege to the
 cemetery. If the grave will be dedicated, he consults with the family and asks
@@ -1242,77 +1263,27 @@ Father. In English, this includes using the pronouns _Thee_ , _Thy_ , _Thine_
 
 ## Streaming Meetings and Holding Virtual Meetings
 
-When possible, Church members should strive to attend meetings in person.
-However, sometimes this is not possible. Streaming and holding virtual
-meetings make it possible to reach those who otherwise would not be able to
-attend. These people may include (but are not limited to) those who:
+Church members should strive to attend meetings in person. There is a benefit
+in gathering that enhances worship and helps unify members (see 29.0).
 
-  * Live in remote locations or have limited ability to travel.
+When this is not possible due to health or other reasons, streaming and
+holding virtual meetings make it possible to include those who are not able to
+attend. For the benefit of these members and others, the bishop may authorize
+livestreaming of sacrament meetings (see 29.2.1.5), baptismal services,
+funerals, and other ward meetings. The stake president may authorize
+livestreaming of stake conference (see 29.3.1) and other stake meetings. For
+guidance about streaming the sacrament and other ordinances, see 38.2.3.
 
-  * Have physical, mental, or emotional health challenges.
-
-  * Are immunocompromised or in a care facility or hospital.
-
-  * Are essential workers or otherwise are required to work on the Sabbath.
-
-  * Care for someone who is homebound and cannot be left alone.
-
-  * Need sign-language interpretation.
-
-  * Have allergies that put their health at risk in a meeting.
-
-For the benefit of these members and others, the bishop may, as an exception,
-authorize a livestream of sacrament meetings and of funerals and weddings held
-in the meetinghouse. Streams allow others to see and hear a meeting remotely
-but not participate directly.
-
-A livestream of a sacrament meeting should not include the administration of
-the sacrament. The stream should be paused during the sacrament and restarted
-afterward. Or the bishop may move the administration of the sacrament to the
-end of the meeting after the livestream has ended. The meeting would then
-close with a hymn and prayer.
-
-The bishop may authorize a priest or Melchizedek Priesthood holder to
-administer the sacrament in person to those who cannot attend the meeting (see
-18.9.1).
-
-For some meetings, the bishop or stake president may authorize members who
-cannot attend in person to participate virtually. These meetings may include:
-
-  * Leadership meetings, such as presidency or council meetings.
-
-  * Quorum, Relief Society, and Young Women meetings.
-
-  * Sunday School classes.
-
-  * Primary classes and singing time.
-
-Unlike streams, virtual meetings are interactive. Those who join remotely can
-contribute by asking questions, making comments, and participating in other
-ways.
-
-The stake president may authorize a livestream of stake conference to other
-locations in the stake, including to members’ homes when needed. He may also
-authorize stake leaders to join leadership meetings virtually when they cannot
-attend in person (for example, for the reasons listed earlier in this
-section).
-
-Streams and virtual meetings are not meant for the convenience of those who
-could reasonably attend in person. For example, the bishop does not authorize
-streaming of sacrament meeting for ward members who are traveling and could
-attend another ward.
+Similarly, when members cannot attend Sunday classes or leadership meetings in
+person, the bishop or stake president may authorize these members to
+participate virtually.
 
 Ward and stake technology specialists can help leaders set up streams and
 virtual meetings (see 33.10). These individuals can also help members access
 these meetings.
 
-Streams and virtual meetings should not distract from the Spirit. Generally,
-only one device should be used to capture the meeting. Both the device and the
-person using it should be inconspicuous.
-
 Stream recordings of ward and stake meetings should be deleted within one day
-after the meeting. However, members may save a recording of the video stream
-of a funeral service or wedding for personal use.
+after the meeting.
 
 29.8
 

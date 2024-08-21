@@ -316,7 +316,7 @@ ways are listed below:
 
   * Have a current temple recommend.
 
-  * Prepare to receive temple ordinances, including eternal marriage.
+  * Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 
   * Learn about their extended families and ancestors (see My Family: Stories That Bring Us Together).
 
@@ -385,7 +385,7 @@ assist her.
 
   * Teach other Young Women leaders and class presidencies their responsibilities.
 
-  * Counsel with young women about challenges that do not require the bishop or involve abuse (see 32.3, 31.3.1, and 38.6.2).
+  * Counsel with young women about challenges that do not require the bishop or involve abuse (see 32.3, 31.1, 31.3.1, and 38.6.2).
 
   * Mentor class presidencies in their leadership responsibilities. Each class is assisted and overseen by a specific member of the Young Women presidency.
 
@@ -458,6 +458,8 @@ presidencies also have the following responsibilities:
 
   * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see 25.2.7).
 
+  * Organize the youth to minister by welcoming visitors and members as they enter the chapel (see 29.2.1.3).
+
   * Plan and conduct Sunday class meetings (see 11.2.1.2).
 
   * Plan and carry out class service and activities (see 11.2.1.3).
@@ -512,11 +514,11 @@ include:
   * The Young Women president.
 
 The ward youth council discusses ways to help others build testimonies,
-receive saving ordinances, keep covenants, and become consecrated followers of
-Jesus Christ (see Moroni 6:4–5). They counsel together about the needs of the
-young women and young men in the ward. They may discuss activities to meet
-these needs. However, detailed planning of activities should happen in quorum
-or class presidency meetings.
+receive saving ordinances, make and keep covenants, and become consecrated
+followers of Jesus Christ (see Moroni 6:4–5). They counsel together about the
+needs of the young women and young men in the ward. They may discuss
+activities to meet these needs. However, detailed planning of activities
+should happen in quorum or class presidency meetings.
 
 See 29.2.6 for more information about the ward youth council.
 
