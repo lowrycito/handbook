@@ -74,7 +74,7 @@ experience.
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fca%2Fe4%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
@@ -186,7 +186,7 @@ reach out in love to those in need. Individually and as a quorum, they seek
 ways to serve others in the ward and community. Where it is available,
 JustServe.org suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F97%2F4e%2F974e9f17846aa514cea90aec8882cfa486d3363a%2F974e9f17846aa514cea90aec8882cfa486d3363a.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 For more information about how members of the elders quorum and Relief Society
 care for those in need, see 22.6.2.
@@ -330,7 +330,7 @@ member of the Relief Society presidency, an assistant in the priests quorum, a
 presidency member of the oldest Young Women class, and temple and family
 history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F88%2F69%2F886999708076dbf09ad533958c83f683c1dc7440%2F886999708076dbf09ad533958c83f683c1dc7440.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 Image
 

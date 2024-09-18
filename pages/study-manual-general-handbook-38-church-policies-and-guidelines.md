@@ -4599,8 +4599,8 @@ Chaplains may assist the stake president in the following ways:
 ### Ward Military Relations Leadership
 
 A member of the bishopric meets with ward members before they leave for
-military service. He ensures they have an opportunity to attend the
-pre–military service Church orientation (see 38.9.3).
+military service. He ensures they have an opportunity to attend the military
+service orientation (see 38.9.3).
 
 For information about the membership records for a member entering the
 military, see 33.6.9. Some members are assigned to a remote or isolated

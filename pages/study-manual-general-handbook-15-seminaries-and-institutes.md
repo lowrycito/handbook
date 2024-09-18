@@ -140,7 +140,7 @@ see Released-Time Seminary on ChurchofJesusChrist.org.
 
 Institute provides weekday gospel study classes that strengthen faith and
 testimony in Jesus Christ and His restored gospel. Stake leaders ensure that
-institute is available for all young single adults ages 18–30.
+institute is available for all young single adults ages 18–35.
 
 All young single adults are encouraged to attend institute classes, whether
 they are attending school or not. They may attend campus-based institute
@@ -161,7 +161,7 @@ See Stake Institute for guidelines on the following:
 
 ### Other Religion Classes
 
-Stake presidencies may desire to provide religion classes for adults ages 31
+Stake presidencies may desire to provide religion classes for adults ages 36
 years and older. These classes are not a function of S&I and are not called
 institute classes. However, institute curriculum materials may be used for
 them.

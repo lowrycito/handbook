@@ -159,7 +159,7 @@ following:
 
   * The bishopric receives regular updates on the well-being of young single adults. The elders quorum president and Relief Society president discuss the needs of young single adults in ward council meeting. The leaders of the young single adult committee may be invited to attend.
 
-  * The bishopric may organize a ward young single adult committee (see 14.1.2.4). (Single adult committees for those ages 31 and older are organized at the stake level.)
+  * The bishopric may organize a ward young single adult committee (see 14.1.2.4). (Single adult committees for those ages 36 and older are organized at the stake level.)
 
 14.1.2.2
 

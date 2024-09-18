@@ -600,12 +600,12 @@ See 24.6.2.8.
 
 ### Records of Young Single Adults
 
-Young single adults between the ages of 18 and 30 may choose to be members of
+Young single adults between the ages of 18 and 35 may choose to be members of
 either their geographic ward or a young single adult ward if one is assigned
 to the boundaries where they live. The membership record is kept in the ward
 they attend.
 
-These principles also apply to single adults between the ages of 31 and 45 who
+These principles also apply to single adults between the ages of 36 and 45 who
 choose to be members of a single adult ward.
 
 If a young single adult plans to attend a ward temporarily (for example, while

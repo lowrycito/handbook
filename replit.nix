@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.gdb
     pkgs.gir-rs
     pkgs.python310Full
     pkgs.replitPackages.prybar-python310
