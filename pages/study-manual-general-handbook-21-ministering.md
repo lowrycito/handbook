@@ -134,7 +134,7 @@ assignments.
 It is often a blessing to a sister to have a young woman minister to her. It
 can also be a blessing to the young woman.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Ff1%2Fb5%2Ff1b580815f051f57e3454d8185b80a17b364919e%2Ff1b580815f051f57e3454d8185b80a17b364919e.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff1b580815f051f57e3454d8185b80a17b364919e%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 A young man serves as a ministering companion to a Melchizedek Priesthood
 holder when he is ordained to the office of teacher or priest. The bishop
@@ -186,7 +186,7 @@ The Savior had a simple yet profound interview with Peter about feeding His
 sheep (see John 21:15–17). Ministering interviews can be a similar
 opportunity. They also allow leaders to set an example of ministering.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fb3%2F84%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 The elders quorum president and his counselors interview ministering brothers.
 The Relief Society president and her counselors interview ministering sisters.
@@ -221,7 +221,7 @@ Leaders use Leader and Clerk Resources to report ministering interviews.
 The Relief Society and the elders quorum share the work of ministering. They
 do this work in unity.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F1a%2Ff4%2F1af4bcc6ab860d34e72476c78be429a3d80cea79%2F1af4bcc6ab860d34e72476c78be429a3d80cea79.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 Relief Society and elders quorum presidencies meet together at least
 quarterly. They review what they have learned in ministering interviews (see
