@@ -3,6 +3,41 @@ from bs4 import BeautifulSoup
 import html2text
 import json
 from urllib.parse import urlparse
+import os
+import subprocess
+from datetime import datetime
+
+
+def changes_detected():
+  # Check if there are any changes to commit
+  result = subprocess.run(["git", "status", "--porcelain"],
+                          capture_output=True,
+                          text=True)
+  return bool(result.stdout.strip())
+
+
+def git_push():
+  token = os.getenv('GITHUB_TOKEN'
+  repo_url = f"https://{token}@github.com/lowrycito/handbook.git"
+
+  subprocess.run(
+    ["git", "config", "--global", "user.email", "jrlowry@gmail.com"])
+  subprocess.run(["git", "config", "--global", "lowrycito", "John Lowry"])
+
+  # Generate the commit message with the current date and time
+  commit_message = datetime.now().strftime("%m/%d/%Y %H:%M")
+
+  subprocess.run(["git", "add", "."])
+  result = subprocess.run(["git", "commit", "-m", commit_message],
+                          capture_output=True,
+                          text=True)
+
+  if "nothing to commit" not in result.stdout:
+    subprocess.run(["git", "push", repo_url])
+    print("Changes pushed to GitHub successfully.")
+  else:
+    print("No changes to commit.")
+
 
 BASE_URL = "https://www.churchofjesuschrist.org"
 
@@ -85,5 +120,11 @@ if links:
   print(f"Done! Found {len(links)} links.")
   print(f"Wrote {len(links)} markdown files.")
   print(f"Wrote links.json with {len(links)} links.")
+
+  if changes_detected():
+    print("Changes detected. Pushing to GitHub...")
+    git_push()
+  else:
+    print("No changes detected. Skipping push to GitHub.")
 else:
   print("No links found.")
