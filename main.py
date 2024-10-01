@@ -17,7 +17,7 @@ def changes_detected():
 
 
 def git_push():
-  token = os.getenv('GITHUB_TOKEN'
+  token = os.getenv('GITHUB_TOKEN')
   repo_url = f"https://{token}@github.com/lowrycito/handbook.git"
 
   subprocess.run(
