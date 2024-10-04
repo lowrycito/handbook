@@ -27,13 +27,21 @@ def colorize_diff(diff):
   diff = html.escape(diff)
 
   # Convert ANSI color codes to HTML
-  diff = re.sub(r'\x1b\[1m(.*?)\x1b\[m', r'<strong>\1</strong>', diff)
-  diff = re.sub(r'\x1b\[31m(.*?)\x1b\[m',
-                r'<span style="color: red;">\1</span>', diff)
-  diff = re.sub(r'\x1b\[32m(.*?)\x1b\[m',
-                r'<span style="color: green;">\1</span>', diff)
-  diff = re.sub(r'\x1b\[36m(.*?)\x1b\[m',
-                r'<span style="color: cyan;">\1</span>', diff)
+  ansi_color_pattern = re.compile(
+    r'\x1b\[(1|31|32|36)m(.*?)(\x1b\[m|\x1b\[0m)')
+
+  def ansi_to_html(match):
+    code, text, _ = match.groups()
+    if code == '1':
+      return f'<strong>{text}</strong>'
+    elif code == '31':
+      return f'<span style="color: red;">{text}</span>'
+    elif code == '32':
+      return f'<span style="color: green;">{text}</span>'
+    elif code == '36':
+      return f'<span style="color: cyan;">{text}</span>'
+
+  diff = ansi_color_pattern.sub(ansi_to_html, diff)
 
   # Replace newlines with <br> tags
   diff = diff.replace('\n', '<br>')
