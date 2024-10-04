@@ -6,6 +6,42 @@ from urllib.parse import urlparse
 import os
 import subprocess
 from datetime import datetime
+import boto3
+from botocore.exceptions import ClientError
+
+
+def send_email(subject, body):
+  sender = "John Lowry <john@bryt.works>"
+  recipient = "jrlowry@gmail.com"
+  aws_region = os.getenv('AWS_DEFAULT_REGION')
+  # Create a new SES resource and specify a region.
+  client = boto3.client('ses', region_name=aws_region)
+  # Try to send the email.
+  try:
+    response = client.send_email(
+      Destination={
+        'ToAddresses': [
+          recipient,
+        ],
+      },
+      Message={
+        'Body': {
+          'Text': {
+            'Charset': 'UTF-8',
+            'Data': body,
+          },
+        },
+        'Subject': {
+          'Charset': 'UTF-8',
+          'Data': subject,
+        },
+      },
+      Source=sender,
+    )
+  except ClientError as e:
+    print(f"An error occurred: {e.response['Error']['Message']}")
+  else:
+    print(f"Email sent! Message ID: {response['MessageId']}")
 
 
 def changes_detected():
@@ -123,8 +159,11 @@ if links:
 
   if changes_detected():
     print("Changes detected. Pushing to GitHub...")
+    send_email("Handbook changes detected",
+               "Changes detected. Pushing to GitHub...")
     git_push()
   else:
+    send_email("No Handbook changes detected", "No changes detected.")
     print("No changes detected. Skipping push to GitHub.")
 else:
   print("No links found.")
