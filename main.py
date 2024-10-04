@@ -8,17 +8,31 @@ import subprocess
 from datetime import datetime
 import boto3
 from botocore.exceptions import ClientError
+import re
 
 
 def get_git_diff():
   # Get the diff of staged changes
-  result = subprocess.run(["git", "diff", "--staged"],
+  result = subprocess.run(["git", "diff", "--staged", "--color"],
                           capture_output=True,
                           text=True)
   return result.stdout
 
 
-def send_email(subject, body):
+def colorize_diff(diff):
+  # Convert ANSI color codes to HTML
+  diff = diff.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+  diff = re.sub(r'\x1b\[31m(.*?)\x1b\[0m',
+                r'<span style="color: red;">\1</span>', diff)
+  diff = re.sub(r'\x1b\[32m(.*?)\x1b\[0m',
+                r'<span style="color: green;">\1</span>', diff)
+  diff = re.sub(r'\x1b\[36m(.*?)\x1b\[0m',
+                r'<span style="color: cyan;">\1</span>', diff)
+  diff = diff.replace('\n', '<br>')
+  return diff
+
+
+def send_email(subject, body, html_body=None):
   sender = "John Lowry <john@bryt.works>"
   recipient = "jrlowry@gmail.com"
 
@@ -31,25 +45,31 @@ def send_email(subject, body):
                         aws_access_key_id=aws_access_key_id,
                         aws_secret_access_key=aws_secret_access_key)
 
+  message = {
+    'Subject': {
+      'Charset': 'UTF-8',
+      'Data': subject,
+    },
+    'Body': {
+      'Text': {
+        'Charset': 'UTF-8',
+        'Data': body,
+      }
+    }
+  }
+
+  if html_body:
+    message['Body']['Html'] = {
+      'Charset': 'UTF-8',
+      'Data': html_body,
+    }
+
   try:
     response = client.send_email(
       Destination={
-        'ToAddresses': [
-          recipient,
-        ],
+        'ToAddresses': [recipient],
       },
-      Message={
-        'Body': {
-          'Text': {
-            'Charset': 'UTF-8',
-            'Data': body,
-          },
-        },
-        'Subject': {
-          'Charset': 'UTF-8',
-          'Data': subject,
-        },
-      },
+      Message=message,
       Source=sender,
     )
   except ClientError as e:
@@ -166,6 +186,7 @@ def html_to_markdown(url):
     file.write(markdown_text)
 
 
+# Main execution
 handbook_url = "/study/manual/general-handbook?lang=eng"
 html_to_markdown(handbook_url)
 links = get_links(handbook_url)
@@ -184,8 +205,19 @@ if links:
     print("Changes detected. Pushing to GitHub...")
     diff = git_push()
     if diff:
-      email_body = f"Changes detected. Pushing to GitHub...\n\nDiff:\n{diff}"
-      send_email("Handbook changes detected", email_body)
+      plain_body = f"Changes detected. Pushing to GitHub...\n\nDiff:\n{diff}"
+      colorized_diff = colorize_diff(diff)
+      html_body = f"""
+            <html>
+            <body>
+                <p>Changes detected. Pushing to GitHub...</p>
+                <pre style="font-family: monospace, monospace; white-space: pre-wrap; word-wrap: break-word;">
+                {colorized_diff}
+                </pre>
+            </body>
+            </html>
+            """
+      send_email("Handbook changes detected", plain_body, html_body)
     else:
       send_email(
         "Handbook changes detected",
