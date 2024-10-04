@@ -10,13 +10,21 @@ import boto3
 from botocore.exceptions import ClientError
 
 
+def get_git_diff():
+  # Get the diff of staged changes
+  result = subprocess.run(["git", "diff", "--staged"],
+                          capture_output=True,
+                          text=True)
+  return result.stdout
+
+
 def send_email(subject, body):
   sender = "John Lowry <john@bryt.works>"
   recipient = "jrlowry@gmail.com"
 
-  aws_region = os.getenv('AWS_DEFAULT_REGION')
-  aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID')
-  aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
+  aws_region = os.environ['AWS_DEFAULT_REGION']
+  aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
+  aws_secret_access_key = os.environ['AWS_SECRET_ACCESS_KEY']
 
   client = boto3.client('ses',
                         region_name=aws_region,
@@ -61,17 +69,22 @@ def changes_detected():
 
 
 def git_push():
-  token = os.getenv('GITHUB_TOKEN')
+  token = os.environ['GITHUB_TOKEN']
   repo_url = f"https://{token}@github.com/lowrycito/handbook.git"
 
   subprocess.run(
     ["git", "config", "--global", "user.email", "jrlowry@gmail.com"])
   subprocess.run(["git", "config", "--global", "user.name", "John Lowry"])
 
+  # Stage all changes
+  subprocess.run(["git", "add", "."])
+
+  # Get the diff before committing
+  diff = get_git_diff()
+
   # Generate the commit message with the current date and time
   commit_message = datetime.now().strftime("%m/%d/%Y %H:%M")
 
-  subprocess.run(["git", "add", "."])
   result = subprocess.run(["git", "commit", "-m", commit_message],
                           capture_output=True,
                           text=True)
@@ -79,8 +92,10 @@ def git_push():
   if "nothing to commit" not in result.stdout:
     subprocess.run(["git", "push", repo_url])
     print("Changes pushed to GitHub successfully.")
+    return diff
   else:
     print("No changes to commit.")
+    return None
 
 
 BASE_URL = "https://www.churchofjesuschrist.org"
@@ -167,9 +182,14 @@ if links:
 
   if changes_detected():
     print("Changes detected. Pushing to GitHub...")
-    send_email("Handbook changes detected",
-               "Changes detected. Pushing to GitHub...")
-    git_push()
+    diff = git_push()
+    if diff:
+      email_body = f"Changes detected. Pushing to GitHub...\n\nDiff:\n{diff}"
+      send_email("Handbook changes detected", email_body)
+    else:
+      send_email(
+        "Handbook changes detected",
+        "Changes detected, but git push failed or no changes were committed.")
   else:
     send_email("No Handbook changes detected", "No changes detected.")
     print("No changes detected. Skipping push to GitHub.")
