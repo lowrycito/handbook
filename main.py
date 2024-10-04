@@ -9,6 +9,8 @@ from datetime import datetime
 import boto3
 from botocore.exceptions import ClientError
 import re
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 
 def get_git_diff():
@@ -45,33 +47,24 @@ def send_email(subject, body, html_body=None):
                         aws_access_key_id=aws_access_key_id,
                         aws_secret_access_key=aws_secret_access_key)
 
-  message = {
-    'Subject': {
-      'Charset': 'UTF-8',
-      'Data': subject,
-    },
-    'Body': {
-      'Text': {
-        'Charset': 'UTF-8',
-        'Data': body,
-      }
-    }
-  }
+  msg = MIMEMultipart('alternative')
+  msg['Subject'] = subject
+  msg['From'] = sender
+  msg['To'] = recipient
 
+  # Attach plain text part
+  text_part = MIMEText(body, 'plain')
+  msg.attach(text_part)
+
+  # Attach HTML part if provided
   if html_body:
-    message['Body']['Html'] = {
-      'Charset': 'UTF-8',
-      'Data': html_body,
-    }
+    html_part = MIMEText(html_body, 'html')
+    msg.attach(html_part)
 
   try:
-    response = client.send_email(
-      Destination={
-        'ToAddresses': [recipient],
-      },
-      Message=message,
-      Source=sender,
-    )
+    response = client.send_raw_email(Source=sender,
+                                     Destinations=[recipient],
+                                     RawMessage={'Data': msg.as_string()})
   except ClientError as e:
     print(f"An error occurred: {e.response['Error']['Message']}")
     print(f"Error Code: {e.response['Error']['Code']}")
@@ -201,29 +194,41 @@ if links:
   print(f"Wrote {len(links)} markdown files.")
   print(f"Wrote links.json with {len(links)} links.")
 
-  if changes_detected():
-    print("Changes detected. Pushing to GitHub...")
-    diff = git_push()
-    if diff:
-      plain_body = f"Changes detected. Pushing to GitHub...\n\nDiff:\n{diff}"
-      colorized_diff = colorize_diff(diff)
-      html_body = f"""
-            <html>
-            <body>
-                <p>Changes detected. Pushing to GitHub...</p>
-                <pre style="font-family: monospace, monospace; white-space: pre-wrap; word-wrap: break-word;">
-                {colorized_diff}
-                </pre>
-            </body>
-            </html>
-            """
-      send_email("Handbook changes detected", plain_body, html_body)
-    else:
-      send_email(
-        "Handbook changes detected",
-        "Changes detected, but git push failed or no changes were committed.")
+if changes_detected():
+  print("Changes detected. Pushing to GitHub...")
+  diff = git_push()
+  if diff:
+    plain_body = f"Changes detected. Pushing to GitHub...\n\nDiff:\n{diff}"
+    colorized_diff = colorize_diff(diff)
+    html_body = f"""
+      <html>
+      <head>
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+          <style type="text/css">
+              pre {{ 
+                  font-family: monospace, monospace; 
+                  white-space: pre-wrap; 
+                  word-wrap: break-word;
+                  background-color: #f5f5f5;
+                  padding: 10px;
+                  border: 1px solid #ccc;
+                  border-radius: 4px;
+              }}
+          </style>
+      </head>
+      <body>
+          <p>Changes detected. Pushing to GitHub...</p>
+          <pre>
+          {colorized_diff}
+          </pre>
+      </body>
+      </html>
+      """
+    send_email("Handbook changes detected", plain_body, html_body)
   else:
-    send_email("No Handbook changes detected", "No changes detected.")
-    print("No changes detected. Skipping push to GitHub.")
+    send_email(
+      "Handbook changes detected",
+      "Changes detected, but git push failed or no changes were committed.")
 else:
-  print("No links found.")
+  send_email("No Handbook changes detected", "No changes detected.")
+  print("No changes detected. Skipping push to GitHub.")
