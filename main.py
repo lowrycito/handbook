@@ -18,6 +18,10 @@ def send_email(subject, body):
   aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID')
   aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
 
+  print(f"Access Key ID: {os.getenv('AWS_ACCESS_KEY_ID')}")
+  print(f"Secret Access Key: {os.getenv('AWS_SECRET_ACCESS_KEY')}")
+  print(f"Region: {os.getenv('AWS_DEFAULT_REGION')}")
+
   client = boto3.client('ses',
                         region_name=aws_region,
                         aws_access_key_id=aws_access_key_id,
