@@ -13,10 +13,16 @@ from botocore.exceptions import ClientError
 def send_email(subject, body):
   sender = "John Lowry <john@bryt.works>"
   recipient = "jrlowry@gmail.com"
+
   aws_region = os.getenv('AWS_DEFAULT_REGION')
+  aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID')
+  aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
   # Create a new SES resource and specify a region.
-  client = boto3.client('ses', region_name=aws_region)
-  # Try to send the email.
+  client = boto3.client('ses',
+                        region_name=aws_region,
+                        aws_access_key_id=aws_access_key_id,
+                        aws_secret_access_key=aws_secret_access_key)
+
   try:
     response = client.send_email(
       Destination={
