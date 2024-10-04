@@ -18,10 +18,6 @@ def send_email(subject, body):
   aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID')
   aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
 
-  print(f"Access Key ID: {os.getenv('AWS_ACCESS_KEY_ID')}")
-  print(f"Secret Access Key: {os.getenv('AWS_SECRET_ACCESS_KEY')}")
-  print(f"Region: {os.getenv('AWS_DEFAULT_REGION')}")
-
   client = boto3.client('ses',
                         region_name=aws_region,
                         aws_access_key_id=aws_access_key_id,
@@ -70,7 +66,7 @@ def git_push():
 
   subprocess.run(
     ["git", "config", "--global", "user.email", "jrlowry@gmail.com"])
-  subprocess.run(["git", "config", "--global", "lowrycito", "John Lowry"])
+  subprocess.run(["git", "config", "--global", "user.name", "John Lowry"])
 
   # Generate the commit message with the current date and time
   commit_message = datetime.now().strftime("%m/%d/%Y %H:%M")
@@ -179,4 +175,3 @@ if links:
     print("No changes detected. Skipping push to GitHub.")
 else:
   print("No links found.")
-
