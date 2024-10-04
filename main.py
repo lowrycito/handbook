@@ -40,6 +40,8 @@ def send_email(subject, body):
     )
   except ClientError as e:
     print(f"An error occurred: {e.response['Error']['Message']}")
+    print(f"Error Code: {e.response['Error']['Code']}")
+    print(f"Request ID: {e.response['ResponseMetadata']['RequestId']}")
   else:
     print(f"Email sent! Message ID: {response['MessageId']}")
 
