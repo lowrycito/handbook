@@ -11,6 +11,7 @@ from botocore.exceptions import ClientError
 import re
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+import html
 
 
 def get_git_diff():
@@ -22,15 +23,21 @@ def get_git_diff():
 
 
 def colorize_diff(diff):
+  # Encode special characters
+  diff = html.escape(diff)
+
   # Convert ANSI color codes to HTML
-  diff = diff.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-  diff = re.sub(r'\x1b\[31m(.*?)\x1b\[0m',
+  diff = re.sub(r'\x1b\[1m(.*?)\x1b\[m', r'<strong>\1</strong>', diff)
+  diff = re.sub(r'\x1b\[31m(.*?)\x1b\[m',
                 r'<span style="color: red;">\1</span>', diff)
-  diff = re.sub(r'\x1b\[32m(.*?)\x1b\[0m',
+  diff = re.sub(r'\x1b\[32m(.*?)\x1b\[m',
                 r'<span style="color: green;">\1</span>', diff)
-  diff = re.sub(r'\x1b\[36m(.*?)\x1b\[0m',
+  diff = re.sub(r'\x1b\[36m(.*?)\x1b\[m',
                 r'<span style="color: cyan;">\1</span>', diff)
+
+  # Replace newlines with <br> tags
   diff = diff.replace('\n', '<br>')
+
   return diff
 
 
