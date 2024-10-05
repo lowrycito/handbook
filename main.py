@@ -53,7 +53,7 @@ def send_email(subject, body, html_body=None):
   sender = "John Lowry <john@bryt.works>"
   recipient = "jrlowry@gmail.com"
 
-  aws_region = os.environ['AWS_DEFAULT_REGION']
+  aws_region = "us-west-2"
   aws_access_key_id = os.environ['AWS_ACCESS_KEY_ID']
   aws_secret_access_key = os.environ['AWS_SECRET_ACCESS_KEY']
 
