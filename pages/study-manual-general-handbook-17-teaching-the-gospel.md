@@ -30,7 +30,7 @@ Leaders share the following principles of Christlike teaching with teachers in
 their organizations. These principles are explained in more detail in Teaching
 in the Savior’s Way.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F57%2F3d%2F573d78fb7d816b538409e8789b50bf817e76b767%2F573d78fb7d816b538409e8789b50bf817e76b767.jpg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1a7e52bf8a60ea9de595821dd5b10f1bcb34ec7a%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 17.1.1
 
@@ -42,7 +42,7 @@ They pray for those they teach by name, seek to connect with and understand
 them, and focus on individual needs. They reach out to members of their class
 or quorum who do not attend.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F09%2Ff1%2F09f1f8c42ba0421a18df0297064bfb036034ca3f%2Fteaching_in_the_savior_s_way_collection_cover.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F434a471fa5982d5554b66ef6425c9ce97c225795%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 17.1.2
 
@@ -52,7 +52,7 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the
 Spirit. Teachers seek the Spirit’s guidance as they prepare and teach, and
 they strive to live worthy of His influence each day.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd7%2Fc3%2Fd7c339909c4ef5aab6e5b45085421eb7dc18649f%2Fd7c339909c4ef5aab6e5b45085421eb7dc18649f.jpg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F9bb70fa61e2cdbdad472f32b69b7b1989deb0d3a%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 17.1.3
 
@@ -65,7 +65,7 @@ materials. Teachers lead inspired discussions and ensure that their teaching
 is edifying and doctrinally sound. Approved materials are listed in the
 current Instructions for Curriculum on ChurchofJesusChrist.org.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F4c%2Fc4%2F4cc42448edfdb78a84546d903a89826a230b940a%2F4cc42448edfdb78a84546d903a89826a230b940a.jpg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff2041c274a6c24323dcd2eafb9d9b5340160d5ea%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 17.1.4
 
@@ -92,7 +92,7 @@ to study and teach the gospel. Their main resources should be the scriptures
 and general conference messages. Supporting resources can include Come, Follow
 Me and Church magazines.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2F33%2Fa7%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88.jpeg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 17.3
 
@@ -145,7 +145,7 @@ bishopric may ask another member to lead them.
 For more information, see “Teacher Council Meetings” in Teaching in the
 Savior’s Way (pages 38–39).
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd8%2Fa7%2Fd8a7e637c347468a9315648b77e766e2e234579b%2Fd8a7e637c347468a9315648b77e766e2e234579b.jpg/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F0e4a0090ad9bafc2e4980ad0eef908bef8f4461f%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 17.5
 
