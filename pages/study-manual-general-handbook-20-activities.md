@@ -3,9 +3,8 @@ Latter-day Saints (2024).
 
 “20. Activities,” General Handbook.
 
-Image
-
-young woman with water blaster
+![young woman with water
+blaster](https://www.churchofjesuschrist.org/imgs/e4e3ba8c4b2b11eda39feeeeac1e8f756c61f9eb/full/%21100%2C/0/default)
 
 20.
 
@@ -144,9 +143,8 @@ cooperation. They could include arts and crafts displays, talent shows, or
 dance, music, and drama. They could also include celebrations of culture,
 holidays, or local or general Church history.
 
-Image
-
-woman sewing
+![woman
+sewing](https://www.churchofjesuschrist.org/imgs/0e07a9a14b3011edb5aeeeeeac1e7d2aee560ad7/full/%21500%2C/0/default)
 
 20.2.4.3
 
@@ -306,9 +304,8 @@ policies (see 20.7.7). Travel for FSY conferences should comply with Church
 travel policies unless an FSY administrator gives local leaders other
 instructions.
 
-Image
-
-people talking
+![people
+talking](https://www.churchofjesuschrist.org/imgs/0df1627d4b3011ed9883eeeeac1e083928163048/full/%21500%2C/0/default)
 
 20.4
 
@@ -535,9 +532,8 @@ Uniforms should be paid for from the stake or ward budget.
 
 The presentation of team or individual awards or trophies is discouraged.
 
-Image
-
-men playing soccer
+![men playing
+soccer](https://www.churchofjesuschrist.org/imgs/084caebc4b3011eda811eeeeac1e1412f9a0db5e/full/%21500%2C/0/default)
 
 20.5.10
 
@@ -836,9 +832,8 @@ Leaders should be prepared for emergencies. They should also know in advance
 how to contact local law enforcement and emergency services. For more
 information, see “FAQs—What Should I Do?” on ChurchofJesusChrist.org.
 
-Image
-
-group digging in ground
+![group digging in
+ground](https://www.churchofjesuschrist.org/imgs/081b8c9c4b3011eda3b9eeeeac1e4a1bedffde95/full/%21500%2C/0/default)
 
 20.7.6.2
 

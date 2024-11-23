@@ -3,9 +3,8 @@ The Church of Jesus Christ of Latter-day Saints (2024).
 
 “32. Repentance and Church Membership Councils,” General Handbook.
 
-Image
-
-men talking
+![men
+talking](https://www.churchofjesuschrist.org/imgs/e1f218dc4b2b11eda5dbeeeeac1e78ab5f2783bb/full/%21100%2C/0/default)
 
 32.
 
@@ -179,9 +178,8 @@ addressing them.
 
 ## The Role of Judges in Israel
 
-Image
-
-bishop talking to man
+![bishop talking to
+man](https://www.churchofjesuschrist.org/imgs/2092d30b4b3011edb66ceeeeac1e4bfc5b538be8/full/%21500%2C/0/default)
 
 Bishops and stake presidents are called and set apart to be judges in Israel
 (see Doctrine and Covenants 107:72–74). They hold priesthood keys to represent
@@ -238,7 +236,9 @@ on conditions of repentance.
 
 “And how great is his joy in the soul that repenteth!”
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3479b96d622d064fa0a78b903451db54cea7ee33%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3479b96d622d064fa0a78b903451db54cea7ee33%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+6:18
 
 32.4
 
@@ -1159,9 +1159,8 @@ consider include:
 
   * Willingness to follow the counsel of Church leaders.
 
-Image
-
-woman praying
+![woman
+praying](https://www.churchofjesuschrist.org/imgs/14447eab4b3011ed8648eeeeac1e4c2e7f928f44/full/%21500%2C/0/default)
 
 32.7.4
 
@@ -1325,9 +1324,8 @@ only enough information necessary to help the member. The assigned person must
 maintain confidentiality. He or she also informs the bishop of the member’s
 progress and needs.
 
-Image
-
-woman praying
+![woman
+praying](https://www.churchofjesuschrist.org/imgs/148b72c44b3011eda531eeeeac1ecaeed522e0e3/full/%21500%2C/0/default)
 
 32.8.2
 
@@ -1772,9 +1770,8 @@ be in good standing. The bishop or stake president may give counsel and
 caution about future actions. After the council, he continues to give support
 as needed.
 
-Image
-
-couple sitting together
+![couple sitting
+together](https://www.churchofjesuschrist.org/imgs/19e1df734b3011eda1beeeeeac1e292804ad4d42/full/%21500%2C/0/default)
 
 32.11.2
 
@@ -2442,9 +2439,8 @@ person is worthy and sincere in wanting to be readmitted, the person may be
 baptized and confirmed. A Baptism and Confirmation Certificate is not created
 (see 32.14.4).
 
-Image
-
-man taking the sacrament
+![man taking the
+sacrament](https://www.churchofjesuschrist.org/imgs/018ee9db4b3011edbc2aeeeeac1e532e455c9bdc/full/%21500%2C/0/default)
 
 32.17
 

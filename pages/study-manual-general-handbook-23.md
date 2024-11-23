@@ -4,9 +4,8 @@ Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 “23. Sharing the Gospel and Strengthening New and Returning Members,” General
 Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.
 
-Image
-
-people looking at phone
+![people looking at
+phone](https://www.churchofjesuschrist.org/imgs/e20f16bb4b2b11ed9603eeeeac1e5884f94aa6d4/full/%21100%2C/0/default)
 
 23.
 
@@ -27,9 +26,13 @@ exaltation (see 1.2 in this handbook; Matthew 28:19–20). It includes:
 
 ## Share the Gospel
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3ef0b05f415e20f45b275e3be54dcda09d297a66%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3ef0b05f415e20f45b275e3be54dcda09d297a66%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fca2dba890e0c43e81eb5e1c916d42be08b515b51%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+2:32
+
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fca2dba890e0c43e81eb5e1c916d42be08b515b51%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:46
 
 23.1.1
 
@@ -194,7 +197,9 @@ usually covers the following four topics:
 These meetings may be held in person or remotely. Coordination can also happen
 in other ways, including phone calls, texts, and emails.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F94ea44238d7defe712056f812bc9e8a056f3eea5%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F94ea44238d7defe712056f812bc9e8a056f3eea5%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:9
 
 23.5
 
@@ -259,9 +264,8 @@ presidency instructs and supports ward Relief Society presidencies in their
 responsibilities for sharing the gospel and strengthening new and returning
 members.
 
-Image
-
-neighbors talking
+![neighbors
+talking](https://www.churchofjesuschrist.org/imgs/ffca56814b2f11edac4beeeeac1e58709335c0a2/full/%21500%2C/0/default)
 
 23.6
 
@@ -330,7 +334,7 @@ work together. They attend weekly coordination meetings (see 23.4).
 
 23.6.3
 
-### Imageicon, guidelines for adaptation Ward Mission Leader
+###  Ward Mission Leader
 
 The bishopric consults with the stake president to determine whether to call a
 ward mission leader. If they decide to extend this calling, the bishopric

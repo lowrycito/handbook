@@ -3,9 +3,8 @@ of Jesus Christ of Latter-day Saints (2024).
 
 “35. Care and Use of Meetinghouses,” General Handbook.
 
-Image
-
-people vacuuming and washing windows
+![people vacuuming and washing
+windows](https://www.churchofjesuschrist.org/imgs/e444945b4b2b11edb286eeeeac1e260ca20efb60/full/%21100%2C/0/default)
 
 35.
 
@@ -181,9 +180,8 @@ property.
 For more information, see “Providing Meetinghouses and Other Places of
 Worship” (Meetinghouse Facilities Guide).
 
-Image
-
-group of people outside Church building
+![group of people outside Church
+building](https://www.churchofjesuschrist.org/imgs/fe1aaaaa4b2f11ed8648eeeeac1e4c2ec280219d/full/%21500%2C/0/default)
 
 35.3.1
 
@@ -551,9 +549,8 @@ for each area.
 
 For more information, see safety.ChurchofJesusChrist.org.
 
-Image
-
-group eating
+![group
+eating](https://www.churchofjesuschrist.org/imgs/0e0279784b3011ed9012eeeeac1e3ac5efa2716e/full/%21500%2C/0/default)
 
 35.5.7.4
 

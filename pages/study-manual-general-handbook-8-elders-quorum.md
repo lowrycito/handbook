@@ -3,9 +3,8 @@ Latter-day Saints (2024).
 
 “8. Elders Quorum,” General Handbook.
 
-Image
-
-men talking
+![men
+talking](https://www.churchofjesuschrist.org/imgs/eaee0def4b2b11edbce2eeeeac1e2cf28682b7c8/full/%21100%2C/0/default)
 
 8.
 
@@ -62,7 +61,7 @@ For information about unwed parents under age 18, see 38.1.5.
 
 8.1.3
 
-### Imageicon, guidelines for adaptation Adapting to Local Needs
+###  Adapting to Local Needs
 
 Some wards have a very large number of active Melchizedek Priesthood holders.
 For these wards, the stake presidency may organize an additional elders quorum
@@ -74,7 +73,9 @@ experience.
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:42
 
 God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
@@ -118,9 +119,8 @@ Home evenings are an important way to learn the gospel at home. They are
 usually held weekly on Sunday, on Monday evening, or at another time. They
 could include prayers, gospel study, testimonies, singing, and fun activities.
 
-Image
-
-family reading
+![family
+reading](https://www.churchofjesuschrist.org/imgs/07b773994b3011edb66ceeeeac1e4bfc717bb4f2/full/%21500%2C/0/default)
 
 8.2.1.2
 
@@ -186,7 +186,9 @@ reach out in love to those in need. Individually and as a quorum, they seek
 ways to serve others in the ward and community. Where it is available,
 JustServe.org suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:43
 
 For more information about how members of the elders quorum and Relief Society
 care for those in need, see 22.6.2.
@@ -330,11 +332,12 @@ member of the Relief Society presidency, an assistant in the priests quorum, a
 presidency member of the oldest Young Women class, and temple and family
 history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
-Image
+2:49
 
-men looking at picture
+![men looking at
+picture](https://www.churchofjesuschrist.org/imgs/0dec32634b3011edb8dfeeeeac1eac245f9f22a8/full/%21500%2C/0/default)
 
 8.3
 
@@ -513,9 +516,8 @@ As needed, the elders quorum presidency may assign brethren to help with
 elders quorum efforts in other ways. Brethren with short-term assignments do
 not need to be called and set apart.
 
-Image
-
-two men giving someone priesthood blessing
+![two men giving someone priesthood
+blessing](https://www.churchofjesuschrist.org/imgs/2062c25e4b3011edbf70eeeeac1eec56d45c527f/full/%21500%2C/0/default)
 
 8.4
 

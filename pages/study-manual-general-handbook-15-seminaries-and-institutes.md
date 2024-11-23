@@ -3,9 +3,8 @@ Church of Jesus Christ of Latter-day Saints (2024).
 
 “15. Seminaries and Institutes of Religion,” General Handbook.
 
-Image
-
-young woman raising her hand in class
+![young woman raising her hand in
+class](https://www.churchofjesuschrist.org/imgs/e6e4457f4b2b11edb5aeeeeeac1e7d2a2e2a0ed1/full/%21100%2C/0/default)
 
 15.
 
@@ -127,7 +126,7 @@ Exercises.
 
 15.1.5
 
-### Imageicon, guidelines for adaptation Released-Time Seminary
+###  Released-Time Seminary
 
 In some areas of the United States and Canada, local laws allow students to
 leave school and attend seminary during school hours. The Church Board of
@@ -136,7 +135,7 @@ see Released-Time Seminary on ChurchofJesusChrist.org.
 
 15.2
 
-## Imageicon, optional resources Institute
+##  Institute
 
 Institute provides weekday gospel study classes that strengthen faith and
 testimony in Jesus Christ and His restored gospel. Stake leaders ensure that
@@ -166,13 +165,12 @@ years and older. These classes are not a function of S&I and are not called
 institute classes. However, institute curriculum materials may be used for
 them.
 
-Image
-
-women taking notes in a class
+![women taking notes in a
+class](https://www.churchofjesuschrist.org/imgs/193cc5d24b3011ed805deeeeac1ecff80d0cefb1/full/%21500%2C/0/default)
 
 15.3
 
-## Imageicon, optional resources Church Schools and Church Educational System
+##  Church Schools and Church Educational System
 
 For information on Church primary and secondary schools, BYU–Pathway
 Worldwide, and institutions of higher education, see

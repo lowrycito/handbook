@@ -3,9 +3,8 @@ Christ of Latter-day Saints (2024).
 
 “33. Records and Reports,” General Handbook.
 
-Image
-
-men looking at computer
+![men looking at
+computer](https://www.churchofjesuschrist.org/imgs/e30229444b2b11ed9012eeeeac1e3ac514057758/full/%21100%2C/0/default)
 
 33.
 
@@ -180,7 +179,7 @@ See 33.7.
 
 33.3.3
 
-### Imageicon, optional resources Assistant Stake Clerks
+###  Assistant Stake Clerks
 
 The stake president or an assigned counselor may call and set apart one or
 more assistant stake clerks as needed. These brethren should be Melchizedek
@@ -258,9 +257,8 @@ Other record-keeping duties may include:
 
   * Maintaining financial records (see 34.2.2).
 
-Image
-
-baby blessing
+![baby
+blessing](https://www.churchofjesuschrist.org/imgs/169d14b24b3011ed8234eeeeac1e2c0e7d546b47/full/%21500%2C/0/default)
 
 33.4.2.2
 
@@ -285,7 +283,7 @@ See 33.7.
 
 33.4.3
 
-### Imageicon, optional resources Assistant Ward Clerks
+###  Assistant Ward Clerks
 
 Assistant ward clerks may be called as needed. They are recommended by the
 bishopric and called and set apart by a member of the stake presidency or an
@@ -772,9 +770,8 @@ Members may use the Unit History tool to view stories that have been published
 by their ward and stake leaders. Published stories are automatically preserved
 by the Church.
 
-Image
-
-family carrying hay
+![family carrying
+hay](https://www.churchofjesuschrist.org/imgs/354debee37c811ee81f4eeeeac1e0f37707d1a6d/full/%21500%2C/0/default)
 
 33.7.2
 

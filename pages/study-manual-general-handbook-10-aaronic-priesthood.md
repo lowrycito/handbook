@@ -3,9 +3,8 @@ Jesus Christ of Latter-day Saints (2024).
 
 “10. Aaronic Priesthood Quorums,” General Handbook.
 
-Image
-
-young men in church
+![young men in
+church](https://www.churchofjesuschrist.org/imgs/eae693e04b2b11ed88eaeeeeac1e57215fe5ddb8/full/%21100%2C/0/default)
 
 10.
 
@@ -120,7 +119,7 @@ For more information about these keys, see 3.4.1.
 
 10.1.5
 
-### Imageicon, guidelines for adaptation Adapting Quorums to Local Needs
+###  Adapting Quorums to Local Needs
 
 In a ward or branch with few young men, Aaronic Priesthood quorums may meet
 together for instruction and activities.
@@ -191,9 +190,8 @@ strengthen families and homes, and make plans to participate in God’s work of
 salvation and exaltation. The bishopric and youth quorum leaders, supported by
 advisers, plan Sunday meetings.
 
-Image
-
-young men studying
+![young men
+studying](https://www.churchofjesuschrist.org/imgs/1b130c714b3011ed9603eeeeac1e5884241107ec/full/%21500%2C/0/default)
 
 Quorum meetings are held on the second and fourth Sundays of the month. They
 last 50 minutes. Meetings begin with a prayer. A member of the quorum
@@ -277,9 +275,8 @@ based on the number of young women in the ward.
 See FSY.ChurchofJesusChrist.org for information about funding for FSY
 conferences.
 
-Image
-
-young men outside
+![young men
+outside](https://www.churchofjesuschrist.org/imgs/081cec304b3011ed8234eeeeac1e2c0e72854086/full/%21500%2C/0/default)
 
 10.2.1.4
 
@@ -520,9 +517,8 @@ include:
 
   * The Young Women president.
 
-Image
-
-young men and women talking
+![young men and women
+talking](https://www.churchofjesuschrist.org/imgs/082ccab04b3011eda354eeeeac1ee4422da09156/full/%21500%2C/0/default)
 
 The ward youth council discusses ways to help others build testimonies,
 receive saving ordinances, make and keep covenants, and become followers of
@@ -591,7 +587,7 @@ outside of regular Sunday meetings.
 
 10.7
 
-## Imageicon, guidelines for adaptation Stake Young Men Leaders
+##  Stake Young Men Leaders
 
 The stake presidency calls and sets apart a high councilor to be the stake
 Young Men president. The high council members assigned to the Young Women and
@@ -630,9 +626,8 @@ three years thereafter.
 For information about how these guidelines apply to ministering companions,
 see 21.2.2.
 
-Image
-
-young men at church
+![young men at
+church](https://www.churchofjesuschrist.org/imgs/0de4df5e4b3011ed936eeeeeac1e62c4cba0c156/full/%21500%2C/0/default)
 
 10.8.2
 
@@ -664,7 +659,7 @@ ChildrenandYouth.ChurchofJesusChrist.org.
 
 10.8.4
 
-### Imageicon, guidelines for adaptation Gathering Fast Offerings
+###  Gathering Fast Offerings
 
 In wards that are geographically concentrated, the bishop may direct Aaronic
 Priesthood holders to visit members each month and invite them to contribute

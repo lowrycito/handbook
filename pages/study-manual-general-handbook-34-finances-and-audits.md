@@ -3,9 +3,8 @@ Christ of Latter-day Saints (2024).
 
 “34. Finances and Audits,” General Handbook.
 
-Image
-
-child holding envelope
+![child holding
+envelope](https://www.churchofjesuschrist.org/imgs/e255477e4b2b11edbce2eeeeac1e2cf22942414e/full/%21100%2C/0/default)
 
 34.
 
@@ -228,9 +227,8 @@ matters.
 Instructions for tithing declaration are provided by Church headquarters or
 the assigned area office.
 
-Image
-
-family talking to man
+![family talking to
+man](https://www.churchofjesuschrist.org/imgs/0dfc86114b3011eda1beeeeeac1e2928fa199cc1/full/%21500%2C/0/default)
 
 34.3.2
 
@@ -313,7 +311,7 @@ Email: philanthropies@ChurchofJesusChrist.org
 
 34.3.6
 
-### Imageicon, guidelines for adaptation In-Kind Donations, Including Tithing
+###  In-Kind Donations, Including Tithing
 
 The Church normally discourages making in-kind contributions (non-monetary) as
 tithing and other offerings. It is preferable for members to dispose of the
@@ -365,7 +363,9 @@ handled. This is a sacred responsibility of their callings. General principles
 are outlined in the following sections. Bishoprics and clerks review the video
 “Sacred Funds, Sacred Responsibilities” at least once a year.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+22:58
 
 34.5.1
 
@@ -449,9 +449,8 @@ regularly review their donor statements. Where applicable, official tax
 statements are also available at donations.ChurchofJesusChrist.org, from the
 local unit, or from the area office.
 
-Image
-
-woman writing
+![woman
+writing](https://www.churchofjesuschrist.org/imgs/14fdbc8f4b3011ed997deeeeac1e384cf99d4c5e/full/%21500%2C/0/default)
 
 34.5.7
 
@@ -499,7 +498,7 @@ fund.
 
 34.5.7.1
 
-#### Imageicon, optional resources Electronic Payments
+####  Electronic Payments
 
 If the stake or ward uses electronic payments, members are encouraged to enter
 their personal bank account details in the Expense Reimbursement Account
@@ -509,7 +508,7 @@ physical or electronic copies of members’ bank account information details.
 
 34.5.7.2
 
-#### Imageicon, optional resources Checks
+####  Checks
 
 If the stake or ward uses checks, a check should not be signed until it is
 filled out completely. Checkbooks and blank checks should be stored in a
@@ -520,7 +519,7 @@ or the area office.
 
 34.5.7.3
 
-#### Imageicon, optional resources Payment Cards
+####  Payment Cards
 
 If the stake or ward uses payment cards for local unit expenses, they may be
 used for point-of-sale transactions or for withdrawing cash. The card
@@ -532,7 +531,7 @@ All payment card balances should be brought to zero at least annually.
 
 34.5.8
 
-### Imageicon, guidelines for adaptation Cash Boxes
+###  Cash Boxes
 
 The area office provides specific guidelines for units that do not have access
 to a Church-provided bank account.

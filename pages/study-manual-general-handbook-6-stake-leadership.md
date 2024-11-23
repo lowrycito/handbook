@@ -3,9 +3,8 @@ of Latter-day Saints (2024).
 
 “6. Stake Leadership,” General Handbook.
 
-Image
-
-leader talking to family
+![leader talking to
+family](https://www.churchofjesuschrist.org/imgs/e147cf1d4b2b11edac4beeeeac1e587099e687aa/full/%21100%2C/0/default)
 
 6.
 
@@ -137,7 +136,9 @@ president presides at stake meetings unless a General Authority or Area
 Seventy attends. His counselors may conduct these meetings. They may also
 preside if the stake president is absent.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+4:26
 
 6.2.1.5
 
@@ -203,9 +204,8 @@ needed. These may include:
 Members of the stake presidency meet regularly with committees, high
 councilors, and specialists in the programs to which they are assigned.
 
-Image
-
-young woman leadership meeting
+![young woman leadership
+meeting](https://www.churchofjesuschrist.org/imgs/0df99fde4b3011ed8d88eeeeac1ef135aec4acf1/full/%21500%2C/0/default)
 
 6.2.1.7
 
@@ -493,9 +493,8 @@ councilors to speak in sacrament meeting every month. The stake presidency may
 also assign stake organization presidency members to speak in these settings
 (see 6.7.1 and 6.7.2).
 
-Image
-
-men talking
+![men
+talking](https://www.churchofjesuschrist.org/imgs/feee4e624b2f11eda4e1eeeeac1eefa0dae683a2/full/%21500%2C/0/default)
 
 6.5.2
 
@@ -589,9 +588,8 @@ If a stake includes members who speak different languages, bishops and stake
 presidencies may authorize them to go to a patriarch in a nearby stake who can
 give the blessing in the member’s own language.
 
-Image
-
-young woman receiving blessing
+![young woman receiving
+blessing](https://www.churchofjesuschrist.org/imgs/1a6d7da24b3011ed9712eeeeac1ed507911f62f0/full/%21500%2C/0/default)
 
 6.6.3
 
@@ -773,9 +771,8 @@ The stake Primary presidency may occasionally plan stake activities for
 children ages 8 to 11. These activities could be for girls, boys, or both.
 They follow the guidelines in 12.2.1.3.
 
-Image
-
-woman working with kids
+![woman working with
+kids](https://www.churchofjesuschrist.org/imgs/0df6b9b04b3011ed9603eeeeac1e5884d757bfaf/full/%21500%2C/0/default)
 
 6.7.1.4
 
@@ -825,7 +822,7 @@ is given in stake priesthood leadership meetings (see 29.3.3).
 
 6.7.3
 
-### Imageicon, guidelines for adaptation Stake Organization Secretaries
+###  Stake Organization Secretaries
 
 Stake organization secretaries are usually called only in large stakes. A
 member of the stake presidency or an assigned high councilor calls and sets
@@ -844,7 +841,7 @@ have the following responsibilities:
 
 6.8
 
-## Imageicon, optional resources Stake Specialists
+##  Stake Specialists
 
 The stake presidency may call and set apart specialists as needed for purposes
 such as:

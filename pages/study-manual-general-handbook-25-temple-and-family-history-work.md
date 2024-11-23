@@ -3,9 +3,7 @@ Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook.
 
-Image
-
-temple
+![temple](https://www.churchofjesuschrist.org/imgs/e6e09bfa4b2b11ed997deeeeac1e384c326fbc0c/full/%21100%2C/0/default)
 
 25.
 
@@ -156,13 +154,12 @@ member to help lead temple and family history work in the ward. These two
 presidency members work together. They attend ward temple and family history
 coordination meetings (see 25.2.7).
 
-Image
-
-youth outside temple
+![youth outside
+temple](https://www.churchofjesuschrist.org/imgs/1a206f154b3011eda531eeeeac1ecaeef43b20f4/full/%21500%2C/0/default)
 
 25.2.3
 
-### Imageicon, guidelines for adaptation Ward Temple and Family History Leader
+###  Ward Temple and Family History Leader
 
 The bishopric consults with the stake president to determine whether to call a
 ward temple and family history leader. If they decide to extend this calling,
@@ -258,7 +255,9 @@ The bishop reviews and approves the plan. Members of the ward council take the
 lead in implementing it. They report on progress in ward council meetings.
 They also update the plan as needed.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:49
 
 25.2.7
 
@@ -401,8 +400,7 @@ responsibilities for temple and family history work (see 9.2.4).
 
 25.3.5
 
-### Imageicon, guidelines for adaptation Stake Temple and Family History
-Consultants
+###  Stake Temple and Family History Consultants
 
 Stake temple and family history consultants support temple and family history
 work throughout the stake. They serve under the direction of the stake
@@ -422,7 +420,7 @@ assignments:
 
 25.3.6
 
-### Imageicon, guidelines for adaptation FamilySearch Centers
+###  FamilySearch Centers
 
 If resources are available, the stake may organize one or more FamilySearch
 centers. These centers are to help visitors discover, gather information
@@ -523,9 +521,8 @@ sharing, and preserving ancestors’ stories and photographs.
 These resources are also available in the FamilySearch Family Tree app and
 FamilySearch Memories app. See FamilySearch apps for all available apps.
 
-Image
-
-family looking at photos
+![family looking at
+photos](https://www.churchofjesuschrist.org/imgs/016cbbdb4b3011edbf70eeeeac1eec566d069212/full/%21500%2C/0/default)
 
 25.4.2
 

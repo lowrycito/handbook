@@ -3,9 +3,8 @@ Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook.
 
-Image
-
-family walking near temple
+![family walking near
+temple](https://www.churchofjesuschrist.org/imgs/e986408f4b2b11edb8dfeeeeac1eac2405981fb4/full/%21100%2C/0/default)
 
 18.
 
@@ -91,9 +90,8 @@ listed below:
 
   * Patriarchal blessings by ordained patriarchs
 
-Image
-
-baby being blessed
+![baby being
+blessed](https://www.churchofjesuschrist.org/imgs/01948f324b3011edb8dfeeeeac1eac2405e63181/full/%21500%2C/0/default)
 
 18.3
 
@@ -398,7 +396,9 @@ as voice:
 
   6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F49a53d6254aa6fcd562894e44f1c104c00c8cbb9%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F49a53d6254aa6fcd562894e44f1c104c00c8cbb9%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+1:41
 
 18.6.3
 
@@ -423,9 +423,8 @@ ordinances. (See Matthew 3:13–17; John 3:3–7; Acts 2:37–38; 2 Nephi 31:5�
 
 For information about baptism in special circumstances, see 38.2.8.
 
-Image
-
-boy being baptized
+![boy being
+baptized](https://www.churchofjesuschrist.org/imgs/fe8aaa8c4b2f11edb286eeeeac1e260c0b03bd35/full/%21500%2C/0/default)
 
 18.7.1
 
@@ -605,7 +604,9 @@ holder:
 
   6. Helps the person to come up out of the water.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fddf36a81a990dd865ce06ec70b51289dd4dc56e8%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fddf36a81a990dd865ce06ec70b51289dd4dc56e8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:16
 
 18.7.8
 
@@ -640,9 +641,8 @@ as possible after their baptism.
 New members are recognized and welcomed as a new member of the ward in the
 sacrament meeting after their confirmation (see 29.2.1.1).
 
-Image
-
-young woman being confirmed
+![young woman being
+confirmed](https://www.churchofjesuschrist.org/imgs/016a71eb4b3011eda69aeeeeac1e5ed7fd2eb8e2/full/%21500%2C/0/default)
 
 18.8.1
 
@@ -685,7 +685,9 @@ the person’s head. Then the one acting as voice:
 
   6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+1:54
 
 18.8.3
 
@@ -810,9 +812,8 @@ See disability.ChurchofJesusChrist.org for guidelines about food allergies.
 Although the sacrament is for members of the Church, nothing should be done to
 prevent others from partaking of it.
 
-Image
-
-young man passing the sacrament
+![young man passing the
+sacrament](https://www.churchofjesuschrist.org/imgs/ff434c2f4b2f11eda354eeeeac1ee442a150c2b6/full/%21500%2C/0/default)
 
 18.9.4
 
@@ -842,7 +843,9 @@ young man passing the sacrament
 
   12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:32
 
 18.10
 
@@ -991,9 +994,8 @@ in the next stake conference to ratify the ordination (adapting the process
 for sustaining, described above). This includes giving stake members an
 opportunity to sustain or oppose the action.
 
-Image
-
-man being ordained
+![man being
+ordained](https://www.churchofjesuschrist.org/imgs/079e6d5d4b3011eda39feeeeac1e8f75fb74fc13/full/%21500%2C/0/default)
 
 18.10.4
 
@@ -1056,7 +1058,9 @@ instruction about a person’s duties are given before and after the ordination.
 They should not be the focus of the blessing. It is not necessary to have
 prayers, testimonies, or instruction when someone is ordained.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb0103f57a6c5f32c38a34675016a9b86e9c7c7c7%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb0103f57a6c5f32c38a34675016a9b86e9c7c7c7%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+1:58
 
 18.10.6
 
@@ -1149,6 +1153,8 @@ as part of the blessing.
 Melchizedek Priesthood holders must consecrate olive oil before it is used to
 anoint the sick or afflicted (see James 5:14). No other oil may be used.
 
+![icon, optional
+resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)
 Oil vials are available at store.ChurchofJesusChrist.org.
 
 Members should not consume consecrated oil or apply it on afflicted parts of
@@ -1177,7 +1183,9 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 
   5. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F314ea9f316e852f62df7df82a2042c0ce0155326%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F314ea9f316e852f62df7df82a2042c0ce0155326%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+1:12
 
 18.13
 
@@ -1201,9 +1209,8 @@ However, another anointing may also be done.
 Priesthood holders who visit hospitals should not solicit opportunities to
 administer to the sick.
 
-Image
-
-woman receiving a priesthood blessing
+![woman receiving a priesthood
+blessing](https://www.churchofjesuschrist.org/imgs/20adae0c4b3011edb66ceeeeac1e4bfcd054626d/full/%21500%2C/0/default)
 
 18.13.1
 
@@ -1247,7 +1254,9 @@ hands lightly on the person’s head. Then the one who seals the anointing:
 
   4. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:3
 
 18.14
 
@@ -1287,9 +1296,8 @@ Then the one acting as voice:
 
   4. Closes in the name of Jesus Christ.
 
-Image
-
-missionaries giving a blessing to a woman
+![missionaries giving a blessing to a
+woman](https://www.churchofjesuschrist.org/imgs/0de6db314b3011eda732eeeeac1e79548b8314c1/full/%21500%2C/0/default)
 
 18.15
 
@@ -1366,7 +1374,9 @@ to decide whether to dedicate the place where the ashes are kept. He takes
 into account the family’s wishes and local customs and laws. The brother who
 acts as voice adapts the instructions for dedicating a grave.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+1:58
 
 18.17
 
@@ -1419,9 +1429,8 @@ meetings or other public gatherings.
 If a patriarchal blessing does not include a declaration of lineage, the
 patriarch may later give an addendum to declare lineage.
 
-Image
-
-woman receiving a priesthood blessing
+![woman receiving a priesthood
+blessing](https://www.churchofjesuschrist.org/imgs/0e376c2d4b3011eda69aeeeeac1e5ed715509ab9/full/%21500%2C/0/default)
 
 18.17.2
 

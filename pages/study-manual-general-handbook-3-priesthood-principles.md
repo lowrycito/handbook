@@ -3,9 +3,8 @@ Christ of Latter-day Saints (2024).
 
 “3. Priesthood Principles,” General Handbook.
 
-Image
-
-family walking near temple
+![family walking near
+temple](https://www.churchofjesuschrist.org/imgs/e4a5790a4b2b11eda3b9eeeeac1e4a1bad2644e5/full/%21100%2C/0/default)
 
 3.
 
@@ -178,9 +177,8 @@ assignments under the direction of those who hold priesthood keys. Presidents
 of Church organizations preside under the direction of those who hold
 priesthood keys (see 4.2.4).
 
-Image
-
-ward council meeting
+![ward council
+meeting](https://www.churchofjesuschrist.org/imgs/2026cad44b3011eda4e1eeeeac1eefa0dc4c25ee/full/%21500%2C/0/default)
 
 3.4.1.2
 
@@ -290,9 +288,8 @@ is grieved” (Doctrine and Covenants 121:37).
 Some Church callings include a responsibility to preside. For information
 about presiding in the Church, see 4.2.4.
 
-Image
-
-two men and a woman talking
+![two men and a woman
+talking](https://www.churchofjesuschrist.org/imgs/1fe8d7724b3011edb5aeeeeeac1e7d2ae6a188a3/full/%21500%2C/0/default)
 
 3.5
 
@@ -358,9 +355,8 @@ themselves. Where possible, they then return to the temple to perform these
 ordinances vicariously for those who have died. For more information about
 performing ordinances for the deceased, see chapter 28.
 
-Image
-
-woman receiving a priesthood blessing
+![woman receiving a priesthood
+blessing](https://www.churchofjesuschrist.org/imgs/1464d7f24b3011eda732eeeeac1e7954799ca67f/full/%21500%2C/0/default)
 
 3.6
 

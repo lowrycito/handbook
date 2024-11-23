@@ -3,9 +3,8 @@ Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 
 “1. God’s Work of Salvation and Exaltation,” General Handbook.
 
-Image
-
-men building house
+![men building
+house](https://www.churchofjesuschrist.org/imgs/e2a478e84b2b11edbf70eeeeac1eec5658345640/full/%21100%2C/0/default)
 
 1.
 
@@ -92,9 +91,8 @@ Living the gospel of Jesus Christ includes:
 
   * Becoming self-reliant in providing for ourselves and our families, both spiritually and temporally.
 
-Image
-
-sister missionaries teaching woman
+![sister missionaries teaching
+woman](https://www.churchofjesuschrist.org/imgs/ffd7c4004b2f11eda1beeeeeac1e2928a42fbf2b/full/%21500%2C/0/default)
 
 1.2.2
 
@@ -217,9 +215,8 @@ to remember the Savior by partaking of the sacrament (see Moroni 6:4–6;
 Doctrine and Covenants 20:77). Members also care for and minister to one
 another (see Ephesians 2:19).
 
-Image
-
-temple, Tijuana Mexico
+![temple, Tijuana
+Mexico](https://www.churchofjesuschrist.org/imgs/140504aa4b3011edb66ceeeeac1e4bfcd1ff324a/full/%21500%2C/0/default)
 
 1.4
 

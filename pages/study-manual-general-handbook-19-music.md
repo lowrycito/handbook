@@ -3,9 +3,8 @@ Latter-day Saints (2024).
 
 “19. Music,” General Handbook.
 
-Image
-
-woman and child playing piano
+![woman and child playing
+piano](https://www.churchofjesuschrist.org/imgs/eaf1694c4b2b11ed9603eeeeac1e5884e1ea2cb0/full/%21100%2C/0/default)
 
 19.
 
@@ -196,7 +195,7 @@ bring joy to participants and congregations.
 
 19.3.7.1
 
-#### Imageicon, guidelines for adaptation Ward Choirs
+####  Ward Choirs
 
 Where there are enough members, wards may organize choirs that sing in
 sacrament meeting regularly. The bishopric may call a choir director and choir
@@ -220,13 +219,12 @@ copyright owner is contrary to Church policy (see 38.8.11).
 In addition to the ward choir, families and groups of women, men, youth, or
 children may be invited to sing in Church meetings.
 
-Image
-
-choir singing
+![choir
+singing](https://www.churchofjesuschrist.org/imgs/18102caf4b3011edb134eeeeac1e1827a1f470e6/full/%21500%2C/0/default)
 
 19.3.7.2
 
-#### Imageicon, optional resources Stake and Multistake Choirs
+####  Stake and Multistake Choirs
 
 With the approval of stake or area leaders, stake and multistake choirs may be
 organized for stake conferences and other occasions, such as community events.
@@ -275,7 +273,7 @@ she has the following responsibilities:
 
 19.4.3
 
-### Imageicon, optional resources Additional Callings
+###  Additional Callings
 
 In wards that are large enough, the bishopric may call members to serve in the
 following callings. Youth and those of other faiths may be called to serve.
@@ -381,7 +379,7 @@ the following responsibilities:
 
 19.5.3
 
-### Imageicon, optional resources Stake Music Specialists
+###  Stake Music Specialists
 
 Stake music specialists may be called as needed. They may include a stake
 choir director, stake music leader, and stake accompanist. Stake music

@@ -4,9 +4,8 @@ Latter-day Saints (2024).
 
 “2. Supporting Individuals and Families,” General Handbook.
 
-Image
-
-family photo
+![family
+photo](https://www.churchofjesuschrist.org/imgs/e9706e9d4b2b11eda5dbeeeeac1e78abeb028f84/full/%21100%2C/0/default)
 
 2.
 
@@ -180,9 +179,8 @@ love in the family.
 one another as equal partners” (“The Family: A Proclamation to the World”).
 They prayerfully counsel together and with the Lord.
 
-Image
-
-dad teaching family
+![dad teaching
+family](https://www.churchofjesuschrist.org/imgs/142389344b3011ed9f36eeeeac1ec658081f95f1/full/%21500%2C/0/default)
 
 2.2
 
@@ -298,9 +296,8 @@ experiences, and spiritual growth. Leaders encourage and assist them in their
 efforts to learn and live the gospel of Jesus Christ. Leaders also give them
 opportunities to serve in the Church.
 
-Image
-
-couple laughing
+![couple
+laughing](https://www.churchofjesuschrist.org/imgs/171f8b204b3011ed997deeeeac1e384c4725e3b4/full/%21500%2C/0/default)
 
 2.3
 

@@ -3,9 +3,8 @@ of Latter-day Saints (2024).
 
 “9. Relief Society,” General Handbook.
 
-Image
-
-women studying scriptures
+![women studying
+scriptures](https://www.churchofjesuschrist.org/imgs/493d0931c73e11ed9218eeeeac1eb1b2845bb930/full/%21100%2C/0/default)
 
 9.
 
@@ -36,9 +35,8 @@ responsibilities, build unity, and learn and live doctrine.
 The motto of Relief Society is “Charity never faileth” (1 Corinthians 13:8).
 This motto is reflected in the Relief Society’s seal.
 
-Image
-
-Relief Society seal
+![Relief Society
+seal](https://www.churchofjesuschrist.org/imgs/e32c51bca0a8fbe4bbedd25aa5e6983f8801957c/full/%21500%2C/0/default)
 
 9.1.2
 
@@ -59,7 +57,7 @@ For information about unwed parents under age 18, see 38.1.5.
 
 9.1.3
 
-### Imageicon, guidelines for adaptation Adapting to Local Needs
+###  Adapting to Local Needs
 
 Some wards have a very large number of active adult women. For these wards,
 the bishop and stake president may authorize having more than one ward Relief
@@ -70,7 +68,9 @@ Society should have members with a variety of ages and experience.
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:42
 
 God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
@@ -178,14 +178,15 @@ love to those in need. Individually and as a Relief Society, they seek ways to
 serve others in the ward and community. Where it is available, JustServe.org
 suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:43
 
 For more information about how members of the Relief Society and elders quorum
 care for those in need, see 22.6.2.
 
-Image
-
-woman delivering groceries
+![woman delivering
+groceries](https://www.churchofjesuschrist.org/imgs/93f5201384a27a4d27fa339283c1f90342cc8a32/full/%21500%2C/0/default)
 
 9.2.2.1
 
@@ -317,7 +318,9 @@ history coordination meetings (see 25.2.7). They also include an assistant in
 the priests quorum, a presidency member of the oldest Young Women class, and
 temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:49
 
 9.3
 
@@ -368,7 +371,9 @@ counselors assist her.
 
   * Under the bishop’s guidance, counsel with adult members of the ward (see 31.1 and 31.3). Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See Counseling Resources. For information about abuse, see 38.6.2.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:13
 
   * With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see 8.2.3 and 9.2.3).
 
@@ -398,9 +403,8 @@ Relief Society presidents (see 29.3.4).
 Through her service, the ward Relief Society president supports the bishop in
 focusing on the youth and on his unique responsibilities.
 
-Image
-
-ward council meeting
+![ward council
+meeting](https://www.churchofjesuschrist.org/imgs/f67ec2b2b5358d44e42516cbbfa4ade3ee702de2/full/%21500%2C/0/default)
 
 9.3.2.3
 
@@ -473,9 +477,8 @@ As needed, the Relief Society presidency may assign sisters to help with
 Relief Society efforts in other ways. Sisters with short-term assignments do
 not need to be called and set apart.
 
-Image
-
-Relief Society class
+![Relief Society
+class](https://www.churchofjesuschrist.org/imgs/782dee570c7120700dd11a8ef0d07fc3831ed5d6/full/%21500%2C/0/default)
 
 9.4
 
@@ -524,9 +527,8 @@ If the stake has a young single adult committee, a member of the stake Relief
 Society presidency serves on it. The same is true if the stake has a single
 adult committee. (See 14.1.1.2.)
 
-Image
-
-two women smiling
+![two women
+smiling](https://www.churchofjesuschrist.org/imgs/bffa9e3f98262c1af39370d50341f6524250f0d0/full/%21500%2C/0/default)
 
 9.6
 

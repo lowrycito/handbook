@@ -71,9 +71,9 @@ subsection.
 Not all stakes and wards have the same needs. This handbook contains
 guidelines for adaptation as well as optional resources:
 
-  * _Guidelines for adaptation_ ( ) provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
+  * _Guidelines for adaptation_ (![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)) provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
 
-  * _Optional resources_ ( ) contain additional information and direction that may be helpful to stake and ward leaders.
+  * _Optional resources_ (![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)) contain additional information and direction that may be helpful to stake and ward leaders.
 
 Leaders seek inspiration about which guidelines and optional resources to use
 to meet members’ needs.

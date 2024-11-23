@@ -4,9 +4,8 @@ Latter-day Saints (2024).
 “7. The Bishopric,” General Handbook: Serving in The Church of Jesus Christ of
 Latter-day Saints.
 
-Image
-
-man speaking at pulpit
+![man speaking at
+pulpit](https://www.churchofjesuschrist.org/imgs/e4611d0e4b2b11edb5aeeeeeac1e7d2aa7b06ede/full/%21100%2C/0/default)
 
 7.
 
@@ -130,9 +129,8 @@ The bishop’s responsibilities for callings and releases are outlined in
 chapter 30. He may assign his counselors to extend callings and releases as
 outlined in 30.8.
 
-Image
-
-man and woman shaking hands
+![man and woman shaking
+hands](https://www.churchofjesuschrist.org/imgs/07c815734b3011eda531eeeeac1ecaee365ad879/full/%21500%2C/0/default)
 
 7.1.2
 
@@ -261,9 +259,8 @@ differences:
 
   * Counselors in a branch presidency may not issue temple recommends (see 26.3.1).
 
-Image
-
-bishopric meeting
+![bishopric
+meeting](https://www.churchofjesuschrist.org/imgs/2034fba34b3011ed805deeeeac1ecff86b9b6015/full/%21500%2C/0/default)
 
 7.3
 

@@ -4,9 +4,8 @@ Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
 “22. Providing for Temporal Needs and Building Self-Reliance,” General
 Handbook.
 
-Image
-
-man working
+![man
+working](https://www.churchofjesuschrist.org/imgs/eaefe2ab4b2b11edb134eeeeac1e182798e3c4f9/full/%21100%2C/0/default)
 
 22.
 
@@ -76,9 +75,8 @@ This includes doing the following:
 
   * Seek professional help for mental or emotional health challenges as needed.
 
-Image
-
-couple jogging
+![couple
+jogging](https://www.churchofjesuschrist.org/imgs/082bb9434b3011eda4e1eeeeac1eefa0b6afc843/full/%21500%2C/0/default)
 
 22.1.3
 
@@ -159,9 +157,8 @@ The Lord’s storehouse exists in each ward and stake. Leaders can often help
 individuals and families find solutions to their needs by drawing on the
 knowledge, skills, and service offered by ward and stake members.
 
-Image
-
-man teaching young man carpentry
+![man teaching young man
+carpentry](https://www.churchofjesuschrist.org/imgs/a75b02bf3bab11eeaef7eeeeac1e22d9c1492042/full/%21500%2C/0/default)
 
 22.2.2
 
@@ -346,9 +343,8 @@ Sometimes bishops counsel members who need help to repent of sinful behavior.
 This behavior may include sins related to or caused by addictions. In these
 situations, bishops should refer to the guidelines in 32.8.1 and 32.8.2.
 
-Image
-
-couple looking at papers
+![couple looking at
+papers](https://www.churchofjesuschrist.org/imgs/1ac7f9af4b3011ed8d88eeeeac1ef13544fe1817/full/%21500%2C/0/default)
 
 22.4
 
@@ -370,7 +366,9 @@ When providing Church assistance, leaders follow the principles in sections
 22.4.1 through 22.4.5. Bishoprics and clerks review the video “Sacred Funds,
 Sacred Responsibilities” at least once a year.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+22:58
 
 Principles for Providing Church Assistance
 
@@ -687,7 +685,7 @@ directly with the bishop.
 
 22.6.4
 
-### Imageicon, optional resources Ward Welfare and Self-Reliance Specialists
+###  Ward Welfare and Self-Reliance Specialists
 
 Bishoprics may call individuals or couples as ward welfare and self-reliance
 specialists. These specialists support ward leaders in their efforts to care
@@ -1065,7 +1063,7 @@ agent stake operating committee (see 22.9.1.2).
 
 22.9.4
 
-### Imageicon, optional resources Stake Welfare and Self-Reliance Specialists
+###  Stake Welfare and Self-Reliance Specialists
 
 As needed, the stake presidency may call individuals or couples as stake
 welfare and self-reliance specialists.
@@ -1101,7 +1099,7 @@ service in the community.
 
 22.10.1
 
-### Imageicon, optional resources Resources Coordinated by the Stake
+###  Resources Coordinated by the Stake
 
 Based on local availability, the stake council may access or implement any of
 the following optional resources. These resources can help stake members build
@@ -1123,7 +1121,7 @@ self-reliance or participate in community service.
 
 22.10.2
 
-### Imageicon, optional resources Specialized Working Groups
+###  Specialized Working Groups
 
 To help organize and manage the optional resources outlined in 22.10.1, the
 stake presidency may appoint specialized working groups, such as JustServe
@@ -1179,9 +1177,8 @@ help with basic needs. Such resources may include:
 
   * Housing assistance.
 
-Image
-
-group studying
+![group
+studying](https://www.churchofjesuschrist.org/imgs/35bb53c637c811ee9a50eeeeac1e1a38ab252f14/full/%21500%2C/0/default)
 
 22.13
 

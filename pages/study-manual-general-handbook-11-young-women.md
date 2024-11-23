@@ -3,9 +3,8 @@ Latter-day Saints (2024).
 
 “11. Young Women,” General Handbook.
 
-Image
-
-young women outside
+![young women
+outside](https://www.churchofjesuschrist.org/imgs/e6bd0e694b2b11ed9883eeeeac1e0839609dca0b/full/%21100%2C/0/default)
 
 11.
 
@@ -57,7 +56,7 @@ the holy temple.”
 
 11.1.3
 
-### Imageicon, guidelines for adaptation Classes
+###  Classes
 
 Young women become members of a Young Women class beginning in January of the
 year they turn 12.
@@ -74,9 +73,8 @@ possible, one or two counselors and a secretary. In units with sufficient
 young women, classes should be large enough so class presidencies have class
 members to serve.
 
-Image
-
-young women class
+![young women
+class](https://www.churchofjesuschrist.org/imgs/206162ce4b3011edbc2aeeeeac1e532ef0a1ceb2/full/%21500%2C/0/default)
 
 Classes are referred to by the unifying title of “Young Women.” If a ward has
 more than one class, age-groups are used to distinguish classes.
@@ -218,9 +216,8 @@ men are sufficient and equitable. Budget for the young women is based on the
 number of young women in the ward. Budget for Aaronic Priesthood quorums is
 based on the number of young men in the ward.
 
-Image
-
-young women having a water fight
+![young women having a water
+fight](https://www.churchofjesuschrist.org/imgs/19be78ee4b3011eda811eeeeac1e1412be647643/full/%21500%2C/0/default)
 
 See FSY.ChurchofJesusChrist.org for information about funding for FSY
 conferences.
@@ -368,9 +365,8 @@ If a branch does not have a Young Women president, the Relief Society
 president may organize instruction for the young women until a Young Women
 president is called.
 
-Image
-
-woman and young woman talking
+![woman and young woman
+talking](https://www.churchofjesuschrist.org/imgs/17a7cdf44b3011edb8dfeeeeac1eac24a5c00d3f/full/%21500%2C/0/default)
 
 The Young Women president has the following responsibilities. Her counselors
 assist her.
@@ -397,7 +393,7 @@ assist her.
 
 11.3.3
 
-### Imageicon, guidelines for adaptation Secretary
+###  Secretary
 
 If the unit is large enough, the Young Women president recommends to the
 bishop an adult sister to serve as Young Women secretary. She may have the
@@ -524,7 +520,7 @@ See 29.2.6 for more information about the ward youth council.
 
 11.3.5
 
-### Imageicon, guidelines for adaptation Advisers
+###  Advisers
 
 The Young Women presidency may recommend that the bishopric call Young Women
 advisers. Each adviser works with a specific age-group of young women.
@@ -545,13 +541,12 @@ At least two responsible adult women should be present at each class meeting
 and activity. Advisers must complete the training at
 ProtectingChildren.ChurchofJesusChrist.org (see 11.6.1).
 
-Image
-
-young women sewing
+![young women
+sewing](https://www.churchofjesuschrist.org/imgs/081794fb4b3011eda811eeeeac1e14121d3c7976/full/%21500%2C/0/default)
 
 11.3.6
 
-### Imageicon, optional resources Specialists
+###  Specialists
 
 Where needed, the Young Women presidency may recommend that the bishopric call
 specialists to assist with a particular event, such as a camp, a youth
@@ -579,7 +574,7 @@ connections and develop relationships.
 
 11.5
 
-## Imageicon, guidelines for adaptation Stake Young Women Leaders
+##  Stake Young Women Leaders
 
 A member of the stake presidency calls an adult woman to serve as the stake
 Young Women president. If a stake is large enough, she recommends one or two
@@ -599,9 +594,8 @@ Women presidency (see 6.5).
 The stake Young Women presidency and secretary serve on the stake youth
 leadership committee (see 29.3.9).
 
-Image
-
-young women in class
+![young women in
+class](https://www.churchofjesuschrist.org/imgs/186096a64b3011ed88eaeeeeac1e5721fd03d48d/full/%21500%2C/0/default)
 
 11.6
 

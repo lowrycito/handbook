@@ -3,9 +3,8 @@ Latter-day Saints (2024).
 
 “12. Primary,” General Handbook.
 
-Image
-
-family holding scriptures
+![family holding
+scriptures](https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21100%2C/0/default)
 
 12.
 
@@ -64,7 +63,7 @@ Nursery lasts the entire time scheduled for Primary. For more information, see
 
 12.1.4
 
-### Imageicon, guidelines for adaptation Classes
+###  Classes
 
 Primary classes help children feel Heavenly Father’s love and learn about His
 plan of happiness. Lessons follow the Come, Follow Me curriculum. On fifth
@@ -206,9 +205,8 @@ reinforce gospel principles the children are learning in their classes and at
 home. Songs that reinforce these principles are also suggested in Come, Follow
 Me.
 
-Image
-
-children singing
+![children
+singing](https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21500%2C/0/default)
 
 For more information, see “Instructions for Singing Time and the Children’s
 Sacrament Meeting Presentation.” See also 12.1.6 and 12.3.4 in this handbook.
@@ -311,9 +309,8 @@ children in their efforts to become more like Jesus Christ. The Children and
 Youth program is a resource to help children ages 8–11 (see
 ChildrenandYouth.ChurchofJesusChrist.org).
 
-Image
-
-boy and man sawing wood
+![boy and man sawing
+wood](https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21500%2C/0/default)
 
 12.2.1.2
 
@@ -492,9 +489,8 @@ are listed below:
 
   * Participate in indexing with a family member (see FamilySearch.org/indexing).
 
-Image
-
-woman and child looking at computer
+![woman and child looking at
+computer](https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21500%2C/0/default)
 
 12.3
 
@@ -520,7 +516,7 @@ names and understand the home circumstances of each child in the ward.
 
 12.3.2
 
-### Imageicon, guidelines for adaptation Primary Presidency
+###  Primary Presidency
 
 The bishop calls and sets apart an adult woman to serve as the ward Primary
 president. If the unit is large enough, she recommends one or two adult women
@@ -583,7 +579,7 @@ counselors assist her.
 
 12.3.3
 
-### Imageicon, guidelines for adaptation Secretary
+###  Secretary
 
 If the unit is large enough, the Primary president recommends to the bishopric
 an adult woman to serve as the secretary. She has the following
@@ -631,9 +627,8 @@ outlined in Come, Follow Me. The following resources may be used:
 
 The bishopric must approve the use of any other music in Primary.
 
-Image
-
-children singing with chorister
+![children singing with
+chorister](https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21500%2C/0/default)
 
 If a pianist or piano is not available, leaders may use recordings from the
 following sources:
@@ -697,7 +692,7 @@ Teachers and nursery leaders attend quarterly teacher council meetings (see
 
 12.3.6
 
-### Imageicon, guidelines for adaptation Activity Leaders
+###  Activity Leaders
 
 Primary activity leaders minister to children as they plan service and
 activities beginning in January of the year children turn 8 (see 12.2.1.3).
@@ -713,7 +708,7 @@ ProtectingChildren.ChurchofJesusChrist.org. (See 12.5.1.)
 
 12.4
 
-## Imageicon, guidelines for adaptation Stake Primary Leaders
+##  Stake Primary Leaders
 
 The stake presidency calls an adult woman to serve as stake Primary president.
 If a stake is large enough, she recommends one or two adult women to serve as
@@ -729,9 +724,8 @@ presidency. He also instructs bishops in their responsibilities for Primary.
 The stake presidency assigns a high councilor to work with the stake Primary
 presidency (see 6.5).
 
-Image
-
-children singing in sacrament meeting
+![children singing in sacrament
+meeting](https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21500%2C/0/default)
 
 12.5
 
@@ -797,7 +791,7 @@ portray the Savior only in a Nativity scene. For additional guidelines, see
 
 12.5.6
 
-### Imageicon, optional resources CTR Rings
+###  CTR Rings
 
 When children begin the CTR 4 class, the Primary presidency and their Primary
 teacher remind them to “choose the right.” These leaders also give each child

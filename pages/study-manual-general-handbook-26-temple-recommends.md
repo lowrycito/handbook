@@ -3,9 +3,8 @@ Christ of Latter-day Saints (2024).
 
 “26. Temple Recommends,” General Handbook.
 
-Image
-
-bishop interviewing man
+![bishop interviewing
+man](https://www.churchofjesuschrist.org/imgs/e965992e4b2b11ed8234eeeeac1e2c0e4be2189b/full/%21100%2C/0/default)
 
 26.
 
@@ -170,8 +169,7 @@ counselors to conduct these interviews.
 
 26.3.2
 
-### Imageicon, guidelines for adaptation Temple Recommend Interviews for
-Members in Isolated Areas
+###  Temple Recommend Interviews for Members in Isolated Areas
 
 Some members live in areas that would require expensive travel or great
 difficulty to meet with a member of the stake or mission presidency. In these
@@ -183,9 +181,8 @@ the member.
 
 This policy also applies to members in the military who are in isolated areas.
 
-Image
-
-youth outside temple
+![youth outside
+temple](https://www.churchofjesuschrist.org/imgs/17b848ac4b3011ed8648eeeeac1e4c2e67db25d2/full/%21500%2C/0/default)
 
 26.3.3
 
@@ -375,9 +372,8 @@ sealing only if they are (1) endowed and (2) have a current temple recommend.
 See 27.4.4 and 38.4.2 for additional policies on observing sealings and being
 sealed to parents.
 
-Image
-
-youth holding recommends outside temple
+![youth holding recommends outside
+temple](https://www.churchofjesuschrist.org/imgs/01756e6e4b3011ed997deeeeac1e384cffb82417/full/%21500%2C/0/default)
 
 26.5
 

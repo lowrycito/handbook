@@ -3,9 +3,8 @@ Christ of Latter-day Saints (2024).
 
 “29. Meetings in the Church,” General Handbook.
 
-Image
-
-mother and daughter at sacrament meeting
+![mother and daughter at sacrament
+meeting](https://www.churchofjesuschrist.org/imgs/e44a87cd4b2b11eda354eeeeac1ee44242b1665f/full/%21100%2C/0/default)
 
 29.
 
@@ -176,14 +175,12 @@ in sacrament meeting, see 24.5.2 and 24.8.3.
 The bishopric schedules one sacrament meeting each year for a presentation by
 the Primary children. For information about this presentation, see 12.1.6.
 
-Image
-
-man speaking over the pulpit
+![man speaking over the
+pulpit](https://www.churchofjesuschrist.org/imgs/21ffd0934b3011ed8234eeeeac1e2c0e548462f7/full/%21500%2C/0/default)
 
 29.2.1.5
 
-#### Imageicon, guidelines for adaptation Sacrament Services in Unusual
-Situations
+####  Sacrament Services in Unusual Situations
 
 Every member needs the spiritual blessings that come from partaking of the
 sacrament. However, some members are unable to attend sacrament meeting
@@ -306,9 +303,8 @@ could include:
 Other items may include ward organizations and programs, the ward budget,
 reports on assignments, and plans for upcoming meetings and activities.
 
-Image
-
-ward council meeting
+![ward council
+meeting](https://www.churchofjesuschrist.org/imgs/1ca2ad224b3011ed9603eeeeac1e5884c15ef3a4/full/%21500%2C/0/default)
 
 29.2.5
 
@@ -396,7 +392,9 @@ their missions to the ward council (see 24.8.3).
 To understand principles that guide council meetings in the Church, all
 council members should study 4.3 and 4.4.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F51d4964c9ddf04b8ea5c3ef4a4edf0565c3f17ae%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F51d4964c9ddf04b8ea5c3ef4a4edf0565c3f17ae%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+4:37
 
 29.2.6
 
@@ -471,13 +469,12 @@ and returning members are described in 23.4.
 Coordination meetings for temple and family history work are described in
 25.2.7.
 
-Image
-
-council meeting
+![council
+meeting](https://www.churchofjesuschrist.org/imgs/13cbcc454b3011ed88eaeeeeac1e572163796720/full/%21500%2C/0/default)
 
 29.2.8
 
-### Imageicon, guidelines for adaptation Schedules for Sunday Meetings
+###  Schedules for Sunday Meetings
 
 Wards use one of the following two-hour schedules for Sunday meetings.
 
@@ -551,8 +548,6 @@ When two wards meet in the same building and one or both have very few
 children or youth, it may be desirable for the children or youth to attend
 Sunday classes together. The wards’ Sunday meeting schedules could overlap as
 shown below.
-
-Imageoverlapping meeting schedule
 
 This plan may also be considered if the two wards use different languages but
 the children and youth speak the same language.
@@ -910,8 +905,7 @@ For information about participants joining the meeting remotely, see 29.7.
 
 29.3.8
 
-### Imageicon, guidelines for adaptation Stake Adult Leadership Committee
-Meeting
+###  Stake Adult Leadership Committee Meeting
 
 Purpose
 
@@ -948,14 +942,12 @@ committee. These meetings could be extensions of stake council meetings. For
 example, at the end of some stake council meetings, the adult leadership
 committee could meet to continue a discussion about specific matters.
 
-Image
-
-youth council meeting
+![youth council
+meeting](https://www.churchofjesuschrist.org/imgs/07a76e074b3011ed9012eeeeac1e3ac5b5aa5daa/full/%21500%2C/0/default)
 
 29.3.9
 
-### Imageicon, guidelines for adaptation Stake Youth Leadership Committee
-Meeting
+###  Stake Youth Leadership Committee Meeting
 
 Purpose
 
@@ -1046,9 +1038,8 @@ interviews with each bishop (see 6.2.1.2).
 To understand principles that guide council meetings in the Church, all
 council members should study 4.3 and 4.4.
 
-Image
-
-bishopric meeting
+![bishopric
+meeting](https://www.churchofjesuschrist.org/imgs/1f0248044b3011ed9712eeeeac1ed50743d8b5fa/full/%21500%2C/0/default)
 
 29.3.11
 

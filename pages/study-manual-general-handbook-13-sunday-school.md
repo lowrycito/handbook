@@ -3,9 +3,8 @@ of Latter-day Saints (2024).
 
 “13. Sunday School,” General Handbook.
 
-Image
-
-family reading scriptures
+![family reading
+scriptures](https://www.churchofjesuschrist.org/imgs/e97550974b2b11edb66ceeeeac1e4bfc3850015d/full/%21100%2C/0/default)
 
 13.
 
@@ -137,9 +136,8 @@ training within one month of being sustained
 (ProtectingChildren.ChurchofJesusChrist.org). They repeat the training every
 three years thereafter.
 
-Image
-
-youth Sunday School class
+![youth Sunday School
+class](https://www.churchofjesuschrist.org/imgs/08071a3e4b3011edb733eeeeac1e55b8e7450974/full/%21500%2C/0/default)
 
 13.3.1
 
@@ -199,9 +197,8 @@ the Savior’s Way is the main resource for these meetings.
 
 For more information about teacher council meetings for parents, see 17.5.
 
-Image
-
-adult Sunday School class
+![adult Sunday School
+class](https://www.churchofjesuschrist.org/imgs/18b630b24b3011eda1beeeeeac1e2928112e36b1/full/%21500%2C/0/default)
 
 13.6
 

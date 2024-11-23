@@ -3,9 +3,8 @@ The Church of Jesus Christ of Latter-day Saints (2024).
 
 “31. Interviews and Other Meetings with Members,” General Handbook.
 
-Image
-
-men shaking hands
+![men shaking
+hands](https://www.churchofjesuschrist.org/imgs/e6d26b294b2b11edbf70eeeeac1eec5627d56654/full/%21100%2C/0/default)
 
 31.
 
@@ -117,7 +116,9 @@ acting on promptings from the Holy Ghost.
 
 ### Help the Member Feel Comfortable and Safe
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fa0f90cd8b544684d84523c4600e043c19510a706%2Ffull%2F!768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fa0f90cd8b544684d84523c4600e043c19510a706%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:28
 
 Some members have had experiences that make them feel anxious or overwhelmed
 when they meet with a Church leader. Seek ways to help them feel calm, safe,
@@ -409,9 +410,8 @@ repentance” (Moroni 8:11).
 Permission of parents or guardians is required before a minor can be baptized
 (see 38.2.8.2).
 
-Image
-
-man and woman talking
+![man and woman
+talking](https://www.churchofjesuschrist.org/imgs/fe458b414b2f11edbce2eeeeac1e2cf28b264988/full/%21500%2C/0/default)
 
 31.2.3.2
 
@@ -717,9 +717,8 @@ offers encouragement. The member reports on the progress and well-being of the
 people he or she serves. Together they discuss goals, challenges, and
 opportunities. As applicable, they also review budgets and expenses.
 
-Image
-
-women talking
+![women
+talking](https://www.churchofjesuschrist.org/imgs/20a3c3074b3011ed88eaeeeeac1e57217b4c4dbb/full/%21500%2C/0/default)
 
 31.3.4
 

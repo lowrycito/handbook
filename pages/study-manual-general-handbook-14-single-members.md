@@ -3,9 +3,8 @@ of Latter-day Saints (2024).
 
 “14. Single Members,” General Handbook.
 
-Image
-
-people talking
+![people
+talking](https://www.churchofjesuschrist.org/imgs/e3a6a6a94b2b11eda3b9eeeeac1e4a1b59d6ffa5/full/%21100%2C/0/default)
 
 14.
 
@@ -294,9 +293,8 @@ Leaders ensure that all can participate.
 
 For additional activity guidelines, see 20.2 and 20.3.
 
-Image
-
-people playing football
+![people playing
+football](https://www.churchofjesuschrist.org/imgs/0811efad4b3011ed8d88eeeeac1ef13568ca6eaa/full/%21500%2C/0/default)
 
 14.2.2
 
@@ -374,8 +372,7 @@ eternity. For example, they might:
 
 14.3
 
-## Imageicon, guidelines for adaptation Young Single Adult Wards and Stakes
-and Single Adult Wards
+##  Young Single Adult Wards and Stakes and Single Adult Wards
 
 Most single members attend geographic wards. As an exception, where many
 single members live in close proximity, priesthood leaders may recommend
@@ -527,9 +524,8 @@ A person who is separated from his or her spouse or is seeking a divorce
 participates in a geographic ward. He or she may attend a ward or activities
 for single members when his or her divorce decree is final.
 
-Image
-
-woman reading to children
+![woman reading to
+children](https://www.churchofjesuschrist.org/imgs/200512054b3011ed9f36eeeeac1ec65838292a2e/full/%21500%2C/0/default)
 
 14.4.8
 

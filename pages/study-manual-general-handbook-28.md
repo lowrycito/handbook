@@ -3,9 +3,8 @@ Church of Jesus Christ of Latter-day Saints (2024).
 
 “28. Temple Ordinances for the Deceased,” General Handbook.
 
-Image
-
-baptismal font
+![baptismal
+font](https://www.churchofjesuschrist.org/imgs/e98248ea4b2b11edb733eeeeac1e55b8b4fff9c0/full/%21100%2C/0/default)
 
 28.
 
@@ -272,9 +271,8 @@ person who died before age 8 or who was not accountable in life does not need
 to receive any other ordinance before being sealed to his or her parents (see
 18.1, 28.3.2, and 28.3.3).
 
-Image
-
-sealing room
+![sealing
+room](https://www.churchofjesuschrist.org/imgs/0dde9dd34b3011ed88eaeeeeac1e57210d0ce58d/full/%21500%2C/0/default)
 
 28.3
 

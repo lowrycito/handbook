@@ -3,9 +3,8 @@ The Church of Jesus Christ of Latter-day Saints (2024).
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.
 
-Image
-
-people eating outside
+![people eating
+outside](https://www.churchofjesuschrist.org/imgs/e4e4cbfd4b2b11ed8234eeeeac1e2c0ee1ed2604/full/%21100%2C/0/default)
 
 37.
 
@@ -98,9 +97,8 @@ geographic unit if desired (see 29.2.8).
 See 36.3 for language branches in a mission. See 36.4.2 for ward and branch
 naming guidelines.
 
-Image
-
-youth talking
+![youth
+talking](https://www.churchofjesuschrist.org/imgs/15abfdee4b3011edb134eeeeac1e1827ad8bcb9b/full/%21500%2C/0/default)
 
 37.1.1
 
@@ -450,9 +448,8 @@ military.
 
 See 36.4.2 for ward and branch naming guidelines.
 
-Image
-
-women smiling
+![women
+smiling](https://www.churchofjesuschrist.org/imgs/0dffe1724b3011edbce2eeeeac1e2cf266d4c112/full/%21500%2C/0/default)
 
 37.7
 

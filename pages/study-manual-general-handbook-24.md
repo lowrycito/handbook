@@ -4,9 +4,8 @@ Church of Jesus Christ of Latter-day Saints (2024).
 “24. Missionary Recommendations and Service,” General Handbook: Serving in The
 Church of Jesus Christ of Latter-day Saints.
 
-Image
-
-missionaries walking
+![missionaries
+walking](https://www.churchofjesuschrist.org/imgs/8e699b405ee911ed860beeeeac1e3061af53d468/full/%21100%2C/0/default)
 
 24.
 
@@ -173,9 +172,8 @@ willing to accept any assignment.
 
 For more information, see SeniorMissionary.ChurchofJesusChrist.org.
 
-Image
-
-missionary couple teaching woman
+![missionary couple teaching
+woman](https://www.churchofjesuschrist.org/imgs/0843fc2c4b3011eda69aeeeeac1e5ed718171d11/full/%21500%2C/0/default)
 
 24.2.4
 
@@ -545,9 +543,8 @@ to receive professional care for their health challenges (see 31.3.6). A
 candidate who has been prescribed medication must commit to take it throughout
 his or her service as directed by a health care professional.
 
-Image
-
-missionaries teaching family
+![missionaries teaching
+family](https://www.churchofjesuschrist.org/imgs/07e401de4b3011eda39feeeeac1e8f754d613a1b/full/%21500%2C/0/default)
 
 24.3.4
 
@@ -788,9 +785,8 @@ In districts, the mission president or an assigned counselor interviews and
 recommends missionary candidates. District presidents do not conduct these
 interviews.
 
-Image
-
-missionaries talking to man
+![missionaries talking to
+man](https://www.churchofjesuschrist.org/imgs/07e9a72d4b3011edb134eeeeac1e1827d578e63f/full/%21500%2C/0/default)
 
 24.4.3
 
@@ -968,9 +964,8 @@ For airport security and other reasons, families and others are discouraged
 from meeting missionaries at airports when missionaries leave the MTC to their
 mission assignment.
 
-Image
-
-missionary couple teaching women
+![missionary couple teaching
+women](https://www.churchofjesuschrist.org/imgs/0dea0f814b3011ed8234eeeeac1e2c0edbe71e0f/full/%21500%2C/0/default)
 
 24.6.2
 
@@ -1009,7 +1004,7 @@ transportation for missionaries in the area.
 
 24.6.2.4
 
-#### Imageicon, guidelines for adaptation Missionaries in Branch Positions
+####  Missionaries in Branch Positions
 
 In rare situations, missionaries serving away from home may be assigned to
 serve in branch positions. If a branch is in a stake, the missionary is set
@@ -1112,9 +1107,8 @@ press forward on the covenant path as a lifelong disciple of Jesus Christ.
 Leaders also encourage pursuing other important endeavors, such as education
 or employment for young missionaries.
 
-Image
-
-collage of missionaries
+![collage of
+missionaries](https://www.churchofjesuschrist.org/imgs/f231a4892305b931e4985e3a26018376891c6fec/full/%21500%2C/0/default)
 
 24.7
 
@@ -1239,9 +1233,8 @@ missions do not exceed 18 months for women.
 Senior service missionaries may extend their service to a date agreed on by
 the stake president, operations manager, and missionary.
 
-Image
-
-woman speaking over pulpit
+![woman speaking over
+pulpit](https://www.churchofjesuschrist.org/imgs/0df0c63c4b3011edbc2aeeeeac1e532e6b9039da/full/%21500%2C/0/default)
 
 24.8
 

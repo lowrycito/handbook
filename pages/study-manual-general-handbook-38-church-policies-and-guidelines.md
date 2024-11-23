@@ -3232,9 +3232,8 @@ help, members may contact the ward clerk or magazine representative.
 
 ### Church Name, Wordmark, and Symbol
 
-Image
-
-Church wordmark and symbol
+![Church wordmark and
+symbol](https://www.churchofjesuschrist.org/imgs/74fa7e1aaea8d5e63cc12b16c70ebcb25ad76136/full/%21500%2C/0/default)
 
 The Church’s name, wordmark, and symbol are key Church identifiers. They are
 registered as trademarks or are otherwise legally protected worldwide. They

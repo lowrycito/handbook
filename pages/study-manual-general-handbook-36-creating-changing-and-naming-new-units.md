@@ -3,9 +3,8 @@ The Church of Jesus Christ of Latter-day Saints (2024).
 
 “36. Creating, Changing, and Naming New Units,” General Handbook.
 
-Image
-
-man giving a talk in sacrament meeting
+![man giving a talk in sacrament
+meeting](https://www.churchofjesuschrist.org/imgs/e2a0a8584b2b11eda811eeeeac1e14128b213a98/full/%21100%2C/0/default)
 
 36.
 
@@ -234,9 +233,8 @@ endorse it, they submit it for approval. Approval of proposed branch changes
 comes from the First Presidency. Generally, a decision can take up to six
 weeks after receiving a completed proposal.
 
-Image
-
-family at church
+![family at
+church](https://www.churchofjesuschrist.org/imgs/14b9aeae4b3011ed9883eeeeac1e083962380773/full/%21500%2C/0/default)
 
 36.4
 
@@ -366,9 +364,8 @@ email oiservices@ChurchofJesusChrist.org. For help outside the United States
 and Canada, contact the area office. Maps and units are not updated until they
 are recorded by Church headquarters.
 
-Image
-
-people singing in church
+![people singing in
+church](https://www.churchofjesuschrist.org/imgs/1901dfaf4b3011eda39feeeeac1e8f75d6d728da/full/%21500%2C/0/default)
 
 36.6
 

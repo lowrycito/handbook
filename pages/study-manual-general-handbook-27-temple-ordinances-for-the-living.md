@@ -3,9 +3,8 @@ Church of Jesus Christ of Latter-day Saints (2024).
 
 “27. Temple Ordinances for the Living,” General Handbook.
 
-Image
-
-bride and groom
+![bride and
+groom](https://www.churchofjesuschrist.org/imgs/e96d133c4b2b11ed936eeeeeac1e62c428e4ad33/full/%21100%2C/0/default)
 
 27.
 
@@ -83,9 +82,8 @@ living ordinances when they are:
 For information about issuing temple recommends in these circumstances, see
 26.1 and 26.3.1.
 
-Image
-
-children in white clothing
+![children in white
+clothing](https://www.churchofjesuschrist.org/imgs/0dfa3c244b3011ed88eaeeeeac1e5721d6a29111/full/%21500%2C/0/default)
 
 27.1.2
 
@@ -355,9 +353,8 @@ sealing (see 38.3). This pattern may also be followed when a temple marriage
 could cause parents or immediate family members to feel excluded because they
 cannot attend the temple ceremony.
 
-Image
-
-family outside temple
+![family outside
+temple](https://www.churchofjesuschrist.org/imgs/07d8902a4b3011eda811eeeeac1e1412efeb5d00/full/%21500%2C/0/default)
 
 27.3.1
 
@@ -589,9 +586,8 @@ desire to be sealed to their deceased parents, should contact the temple in
 advance to schedule the ordinance (see 27.1.2). In some cases, other temple
 ordinances may need to be performed before the sealing can occur.
 
-Image
-
-young men outside temple
+![young men outside
+temple](https://www.churchofjesuschrist.org/imgs/08165c7d4b3011edb286eeeeac1e260c3b7f4a19/full/%21500%2C/0/default)
 
 27.4.3
 
