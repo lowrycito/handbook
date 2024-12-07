@@ -400,6 +400,8 @@ as voice:
 
 1:41
 
+Naming and Blessing of Children
+
 18.6.3
 
 ### Child Record Form and Blessing Certificate
@@ -608,6 +610,8 @@ holder:
 
 3:16
 
+Baptism of a New Member
+
 18.7.8
 
 ### Baptism Record
@@ -688,6 +692,8 @@ the person’s head. Then the one acting as voice:
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 1:54
+
+Confirming a Recently Baptized Member
 
 18.8.3
 
@@ -846,6 +852,8 @@ sacrament](https://www.churchofjesuschrist.org/imgs/ff434c2f4b2f11eda354eeeeac1e
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:32
+
+Blessing the Sacrament
 
 18.10
 
@@ -1062,6 +1070,8 @@ prayers, testimonies, or instruction when someone is ordained.
 
 1:58
 
+Ordination to the Priesthood
+
 18.10.6
 
 ### Ordination Record and Certificate
@@ -1187,6 +1197,8 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 
 1:12
 
+Consecrating Oil
+
 18.13
 
 ## Administering to the Sick
@@ -1257,6 +1269,8 @@ hands lightly on the person’s head. Then the one who seals the anointing:
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:3
+
+Administering to the Sick
 
 18.14
 
@@ -1377,6 +1391,8 @@ acts as voice adapts the instructions for dedicating a grave.
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 1:58
+
+Dedication of Graves
 
 18.17
 
