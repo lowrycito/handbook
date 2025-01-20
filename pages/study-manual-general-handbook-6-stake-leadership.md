@@ -140,6 +140,8 @@ preside if the stake president is absent.
 
 4:26
 
+Church Handbook Training
+
 6.2.1.5
 
 #### Callings and Releases

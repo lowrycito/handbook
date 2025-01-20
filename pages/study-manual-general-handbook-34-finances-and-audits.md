@@ -367,6 +367,8 @@ are outlined in the following sections. Bishoprics and clerks review the video
 
 22:58
 
+Sacred Funds, Sacred Responsibilities
+
 34.5.1
 
 ### Companionship Principle

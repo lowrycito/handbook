@@ -259,6 +259,8 @@ They also update the plan as needed.
 
 2:49
 
+Helping Members Gain the Vision
+
 25.2.7
 
 ### Ward Temple and Family History Coordination Meetings

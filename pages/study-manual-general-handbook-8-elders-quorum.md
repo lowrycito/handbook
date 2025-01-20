@@ -77,6 +77,8 @@ experience.
 
 3:42
 
+Efforts Magnified as Presidencies Work Together
+
 God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
 
@@ -189,6 +191,8 @@ JustServe.org suggests community service opportunities.
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:43
+
+How to Care for Those in Need
 
 For more information about how members of the elders quorum and Relief Society
 care for those in need, see 22.6.2.
@@ -335,6 +339,8 @@ history consultants.
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:49
+
+Helping Members Gain the Vision
 
 ![men looking at
 picture](https://www.churchofjesuschrist.org/imgs/0dec32634b3011edb8dfeeeeac1eac245f9f22a8/full/%21500%2C/0/default)

@@ -137,6 +137,8 @@ can also be a blessing to the young woman.
 
 2:30
 
+Involving Young Women in Relief Society Ministering
+
 A young man serves as a ministering companion to a Melchizedek Priesthood
 holder when he is ordained to the office of teacher or priest. The bishop
 determines whether the young man is worthy and prepared to be ordained. (See
@@ -190,6 +192,8 @@ opportunity. They also allow leaders to set an example of ministering.
 
 2:34
 
+Using Ministering Interviews to Help Sisters Grow
+
 The elders quorum president and his counselors interview ministering brothers.
 The Relief Society president and her counselors interview ministering sisters.
 A married couple assigned to minister together can meet with elders quorum or
@@ -226,6 +230,8 @@ do this work in unity.
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:49
+
+One Coordinated Effort
 
 Relief Society and elders quorum presidencies meet together at least
 quarterly. They review what they have learned in ministering interviews (see

@@ -240,6 +240,8 @@ on conditions of repentance.
 
 6:18
 
+How to Care for Sin-burdened Members with Love
+
 32.4
 
 ## Confession, Confidentiality, and Reporting to Government Authorities

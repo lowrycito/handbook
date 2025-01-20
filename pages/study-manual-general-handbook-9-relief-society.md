@@ -72,6 +72,8 @@ Society should have members with a variety of ages and experience.
 
 3:42
 
+Efforts Magnified as Presidencies Work Together
+
 God invites all to come unto Christ and participate in His work of salvation
 and exaltation by:
 
@@ -181,6 +183,8 @@ suggests community service opportunities.
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:43
+
+How to Care for Those in Need
 
 For more information about how members of the Relief Society and elders quorum
 care for those in need, see 22.6.2.
@@ -322,6 +326,8 @@ temple and family history consultants.
 
 2:49
 
+Helping Members Gain the Vision
+
 9.3
 
 ## Relief Society Leaders
@@ -374,6 +380,8 @@ counselors assist her.
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:13
+
+Counseling with Women in Times of Need
 
   * With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see 8.2.3 and 9.2.3).
 
