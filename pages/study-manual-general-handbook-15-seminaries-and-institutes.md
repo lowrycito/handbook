@@ -1,5 +1,5 @@
 “15. Seminaries and Institutes of Religion,” General Handbook: Serving in The
-Church of Jesus Christ of Latter-day Saints (2024).
+Church of Jesus Christ of Latter-day Saints (2025).
 
 “15. Seminaries and Institutes of Religion,” General Handbook.
 
@@ -139,12 +139,18 @@ see Released-Time Seminary on ChurchofJesusChrist.org.
 
 Institute provides weekday gospel study classes that strengthen faith and
 testimony in Jesus Christ and His restored gospel. Stake leaders ensure that
-institute is available for all young single adults ages 18–35.
+institute is available for all young adults ages 18–35.
 
-All young single adults are encouraged to attend institute classes, whether
-they are attending school or not. They may attend campus-based institute
-classes (if available). They may also attend online institute classes or
-stake-based classes.
+All young single adults ages 18–35 should be encouraged to attend institute
+classes, whether they are attending school or not. Married young adults are
+also welcome to attend.
+
+Classes are divided by ages 18–25 and 26–35 unless the number of participants
+is insufficient.
+
+BYU Pathway students, including those over 35, are required to attend
+institute. Pathway students ages 18–35 may choose to attend online or in-
+person classes. Students over 35 should attend online classes.
 
 See Stake Institute for guidelines on the following:
 

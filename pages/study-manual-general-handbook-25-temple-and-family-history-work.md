@@ -1,5 +1,5 @@
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook:
-Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook.
 
@@ -29,8 +29,8 @@ and sealing families for eternity (see Matthew 16:19). This work includes:
 
 This chapter guides Church leaders and members on how to unite families for
 eternity through temple and family history work. More information is available
-at “Temples,” “Proxy Baptism,” and “Family History” (Topics and Questions,
-Gospel Library).
+at “Temples,” “Baptisms for the Dead,” and “Family History” (Topics and
+Questions, Gospel Library).
 
 25.1
 

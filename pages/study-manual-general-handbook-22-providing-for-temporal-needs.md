@@ -1,5 +1,5 @@
 “22. Providing for Temporal Needs and Building Self-Reliance,” General
-Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “22. Providing for Temporal Needs and Building Self-Reliance,” General
 Handbook.
@@ -25,6 +25,9 @@ through diligent work and with the help of the Lord. Self-reliance is the
 ability, commitment, and effort to provide the spiritual and temporal
 necessities of life for self and family. As members become more self-reliant,
 they are also better able to serve others.
+
+See In the Lord’s Way: Caring for Members Who Have Temporal or Emotional Needs
+for examples of how to apply the principles in this chapter.
 
 * * *
 
@@ -235,6 +238,9 @@ members’ needs in a way that builds self-reliance:
 
   * Minister to those with emotional needs.
 
+See In the Lord’s Way: Caring for Members Who Have Temporal or Emotional Needs
+for examples of how to apply this pattern.
+
 22.3.1
 
 ### Seek Out Those in Need
@@ -336,8 +342,12 @@ self-reliance manager. (See 31.3.6 for contact information.)
 
 Bishops can refer members who need counseling to a Family Services
 professional, where available. They do this by using a bishop’s order for
-services (see “Bishops’ Orders and Referrals” in LCR). Alternatively, members
-may seek help from reputable professional counselors in the community.
+services (see “Bishops’ Orders and Referrals” in LCR). Relief Society and
+elders quorum presidents can also initiate these referrals. These referrals
+require approval by the bishop.
+
+Alternatively, members may seek help from reputable professional counselors in
+the community.
 
 Sometimes bishops counsel members who need help to repent of sinful behavior.
 This behavior may include sins related to or caused by addictions. In these
@@ -363,8 +373,11 @@ dependence. Any assistance given should strengthen members in their efforts to
 become self-reliant.
 
 When providing Church assistance, leaders follow the principles in sections
-22.4.1 through 22.4.5. Bishoprics and clerks review the video “Sacred Funds,
-Sacred Responsibilities” at least once a year.
+22.4.1 through 22.4.5. See In the Lord’s Way: Caring for Members Who Have
+Temporal or Emotional Needs for examples of how to apply these principles.
+
+Bishoprics and clerks review the video “Sacred Funds, Sacred Responsibilities”
+at least once a year.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
@@ -1254,7 +1267,7 @@ Resources
 
   * Counseling Resources
 
-  * Family Services counseling. In some locations, bishops can refer members to Family Services through “Bishops’ Orders and Referrals” in LCR.
+  * Family Services counseling. In some locations, bishops can refer members to Family Services through “Bishops’ Orders and Referrals” in LCR. Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop.
 
   * Addiction recovery groups and spouse and family support groups
 

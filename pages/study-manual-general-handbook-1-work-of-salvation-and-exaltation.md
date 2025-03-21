@@ -1,5 +1,5 @@
 “1. God’s Plan and Your Role in His Work of Salvation and Exaltation,” General
-Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “1. God’s Work of Salvation and Exaltation,” General Handbook.
 

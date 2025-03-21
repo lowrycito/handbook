@@ -1,5 +1,5 @@
 “14. Single Members,” General Handbook: Serving in The Church of Jesus Christ
-of Latter-day Saints (2024).
+of Latter-day Saints (2025).
 
 “14. Single Members,” General Handbook.
 
@@ -358,7 +358,7 @@ eternity. For example, they might:
 
   * Prepare to make covenants with God by receiving ordinances, including the temple endowment (see 27.2.2).
 
-  * Serve as temple ordinance workers or volunteers (see 25.5).
+  * Serve as temple workers (see 25.5).
 
   * Participate in ordinances for the deceased.
 

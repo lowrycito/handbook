@@ -1,5 +1,5 @@
 “12. Primary,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2024).
+Latter-day Saints (2025).
 
 “12. Primary,” General Handbook.
 
@@ -144,7 +144,7 @@ Age on December 31 of the Previous Year
 
 Class on January 1
 
-CTR 7  
+Valiant 7  
   
 Age on December 31 of the Previous Year
 
@@ -209,7 +209,8 @@ Me.
 singing](https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21500%2C/0/default)
 
 For more information, see “Instructions for Singing Time and the Children’s
-Sacrament Meeting Presentation.” See also 12.1.6 and 12.3.4 in this handbook.
+Sacrament Meeting Presentation” in Come, Follow Me. See also 12.1.6 and 12.3.4
+in this handbook.
 
 12.1.6
 
@@ -381,34 +382,93 @@ In wards with many children, Primary leaders may divide children into two
 groups. One group is in classes while the other group is in singing time. Then
 the two groups change places. Leaders adjust the time as needed.
 
-Nursery for children ages 18 months to 3 years lasts 50 minutes. Behold Your
-Little Ones provides a suggested schedule. Children may start attending
-nursery when they are 18 months old.
+Nursery for children ages 18 months to 3 years lasts 50 minutes. The following
+schedule may be used. Leaders adjust it according to the needs of the
+children.
 
+Part of Meeting
+
+|
+
+Length  
+  
+---|---  
+  
+Part of Meeting
+
+Welcome by nursery leader and opening prayer by nursery child, if possible
+
+|
+
+Length
+
+5 minutes  
+  
+Part of Meeting
+
+Activity (snack, play with simple toys and games, read, and so on)
+
+|
+
+Length
+
+25 minutes  
+  
+Part of Meeting
+
+Lesson from Behold Your Little Ones nursery manual
+
+|
+
+Length
+
+10 minutes  
+  
+Part of Meeting
+
+Singing time
+
+|
+
+Length
+
+10 minutes  
+  
+Part of Meeting
+
+Closing prayer
+
+|  
+  
 12.2.1.3
 
 #### Service and Activities
 
-Beginning in January of the year they turn 8, children may begin attending
-Primary activities. For general activity guidelines, see chapter 20.
+_Activities for All Children._ Primary presidencies may occasionally hold
+activities for all children ages 3 to 11. These activities help children
+participate in God’s work of salvation and exaltation. Activities should be
+fun and engaging. They build testimonies, strengthen families, and foster
+personal growth. For general activity guidelines, see chapter 20.
 
-Primary activity leaders plan service and activities that help children
-participate in God’s work of salvation and exaltation. Service and activities
-should be fun and engaging. They build testimonies, strengthen families, and
-foster personal growth.
+Primary presidencies may also organize an annual community service activity.
+Where possible, this activity focuses on serving children. Valiant-age
+children can help plan it. The activity provides children an opportunity to
+invite friends and ward members to join in community service.
 
-Primary activities are held at times other than Sundays or Monday evenings.
-Adult leaders help ensure that activities are safe (see
-safety.ChurchofJesusChrist.org; see also 20.7 in this handbook). At least two
-responsible adult leaders should be present at all activities (see 12.5.1).
+_Valiant Activities._ Beginning in January of the year they turn 8, children
+may begin attending Valiant activities. Most Valiant activities are held at
+times other than Sundays or Monday evenings. Adult leaders help ensure that
+activities are safe (see safety.ChurchofJesusChrist.org; see also 20.7 in this
+handbook). At least two responsible adult leaders must be present at all
+activities (see 12.5.1).
 
 The following guidelines may be adapted to local circumstances:
 
-  * Primary activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
+  * Valiant activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
 
   * Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.
 
-  * Leaders may choose to plan and hold annual day camps for Primary children ages 8–11. Primary activities, including day camps, do not include overnight stays.
+  * Leaders may choose to plan and hold annual day camps for these children. Valiant activities, including day camps, do not include overnight stays.
 
 All supplies and activities, including day camps, are paid for by the ward
 budget. Travel and expenses should not be excessive.
@@ -692,15 +752,15 @@ Teachers and nursery leaders attend quarterly teacher council meetings (see
 
 12.3.6
 
-###  Activity Leaders
+###  Valiant Activity Leaders
 
-Primary activity leaders minister to children as they plan service and
+Valiant activity leaders minister to children as they plan service and
 activities beginning in January of the year children turn 8 (see 12.2.1.3).
 Service and activities focus on God’s work of salvation and exaltation. They
 are fun and engaging. They build testimonies, strengthen families, and foster
 personal growth.
 
-Primary activity leaders can be the children’s Primary teachers. They can also
+Valiant activity leaders can be the children’s Primary teachers. They can also
 be other members the Primary presidency recommends and the bishopric calls. At
 least two leaders attend each activity. Leaders can be two women, two men, or
 a married couple. Leaders must complete the training at
@@ -769,7 +829,7 @@ in this handbook.
 
 The bishopric and Primary presidency should remember the positive influence of
 worthy men serving in Primary. Men may serve as teachers, nursery leaders,
-music leaders and pianists, and Primary activity leaders.
+music leaders and pianists, and Valiant activity leaders.
 
 12.5.4
 

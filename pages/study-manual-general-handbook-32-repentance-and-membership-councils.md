@@ -1,5 +1,5 @@
 “32. Repentance and Church Membership Councils,” General Handbook: Serving in
-The Church of Jesus Christ of Latter-day Saints (2024).
+The Church of Jesus Christ of Latter-day Saints (2025).
 
 “32. Repentance and Church Membership Councils,” General Handbook.
 
@@ -752,7 +752,7 @@ if he or she has violated temple covenants or if the sin was repetitive.
 
 See 32.6.1.3 for when a council is required for fraudulent acts. See 32.6.3.3
 if a member was involved in embezzlement of Church funds or property. See
-38.8.2 for affinity fraud.
+38.8.2 for affinity fraud. See 32.6.3.4 for misuse of personal data.
 
 32.6.2.4
 
@@ -769,7 +769,8 @@ repent if he or she has violated temple covenants or if the sin was
 repetitive.
 
 See 32.6.1.4 for when a council is required. See 32.6.3.3 if a member was
-involved in embezzlement of Church funds or property.
+involved in embezzlement of Church funds or property. See 32.6.3.4 for misuse
+of personal data.
 
 32.6.2.5
 
@@ -882,7 +883,7 @@ Membership Council Is Required (see 32.6.1)
 
 Membership Council May Be Necessary (see 32.6.2)
 
-  * Robbery, burglary, theft, or embezzlement (see 32.6.3.3 if a member was involved in embezzlement of Church funds or property)
+  * Robbery, burglary, theft, or embezzlement (see 32.6.3.3 if a member was involved in embezzlement of Church funds or property; see 32.6.3.4 if a member was involved in the misuse of personal data)
 
   * Perjury
 
@@ -902,7 +903,7 @@ Membership Council Is Required (see 32.6.1)
 
 Membership Council May Be Necessary (see 32.6.2)
 
-  * Serious sin while holding a position of authority or trust in the Church or the community (see 32.6.3.3 if a member was involved in embezzlement of Church funds or property)
+  * Serious sin while holding a position of authority or trust in the Church or the community (see 32.6.3.3 if a member was involved in embezzlement of Church funds or property; see 32.6.3.4 if a member was involved in the misuse of personal data)
 
   * Serious sin that is widely known
 
@@ -1029,6 +1030,34 @@ request removal of the annotation (see 32.14.5 and 34.7.5). An annotation does
 not mean a membership council or other action has occurred.
 
 32.6.3.4
+
+#### Misuse of Personal Data
+
+Misuse of personal data includes deliberately entering false information in
+Church records or intentionally using or sharing personal data for non-Church
+purposes. If a person with access to Church systems has misused personal data,
+promptly notify the Data Privacy Office at
+DataPrivacyOfficer@ChurchofJesusChrist.org.
+
+In serious cases, the stake president may counsel with the Area Presidency
+about whether a membership council or other action is necessary. Leaders
+consider:
+
+  * The action taken with the personal data.
+
+  * Whether the misuse of personal data was a one-time event or a repetition.
+
+  * Whether rectifying steps have been taken.
+
+  * The person’s level of remorse.
+
+  * The position held by the member (see 32.6.1.4 for members holding a prominent Church position).
+
+In some cases, the First Presidency may direct that the membership record of a
+person who has misused personal data be annotated. This would prevent him or
+her from holding callings with privileged access to personal data.
+
+32.6.3.5
 
 #### Individuals Who Identify as Transgender
 
@@ -2300,9 +2329,9 @@ these needs and encourage and assist family members.
 
 The bishop ensures that caring members are assigned to minister to a person
 whose Church membership has been restricted or withdrawn, as the person
-allows. They also minister to other family members. Individuals under
-membership restrictions may benefit from participating in indexing (see
-25.4.3).
+allows. They also minister to other family members. Individuals with
+membership restrictions may benefit from volunteering in one of the ways shown
+under the “Get Involved” tab in FamilySearch.org.
 
 If the person moves from the ward, the bishop informs the new bishop and
 explains what still needs to occur before Church membership restrictions can

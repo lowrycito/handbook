@@ -1,5 +1,5 @@
 “33. Records and Reports,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2024).
+Christ of Latter-day Saints (2025).
 
 “33. Records and Reports,” General Handbook.
 
@@ -846,8 +846,13 @@ being used.
 Where possible, electronic copies of records, reports, and data should be
 encrypted and password protected. Lost or stolen Church-owned devices or
 storage media should be reported promptly at
-incidents.ChurchofJesusChrist.org. Misuse of Church information should also be
-reported.
+incidents.ChurchofJesusChrist.org. Misuse of Church information, including
+personal data, should also be reported.
+
+A membership council may be necessary in serious cases of misuse of personal
+data (see 32.6.3.4). Such misuse includes deliberately entering false
+information in Church systems or intentionally using or sharing personal data
+for non-Church purposes.
 
 33.9.1.1
 

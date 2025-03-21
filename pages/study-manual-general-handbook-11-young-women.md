@@ -1,5 +1,5 @@
 “11. Young Women,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2024).
+Latter-day Saints (2025).
 
 “11. Young Women,” General Handbook.
 

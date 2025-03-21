@@ -1,5 +1,5 @@
 “29. Meetings in the Church,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2024).
+Christ of Latter-day Saints (2025).
 
 “29. Meetings in the Church,” General Handbook.
 
@@ -89,7 +89,7 @@ Sacrament meeting lasts one hour. It can include the following:
 
   2. _Greeting and welcome._
 
-  3. _Acknowledgment of presiding authorities or other leaders who are visiting._ Presiding authorities and visiting high councilors should be invited to sit on the stand. General Officers are also invited to sit on the stand unless they are attending their home ward.
+  3. _Acknowledgment of the presiding authority and other leaders who may be visiting._ Presiding authorities and visiting high councilors should be invited to sit on the stand. General Officers are also invited to sit on the stand unless they are attending their home ward.
 
   4. _Announcements._ These should be kept to a minimum. Most can be printed, shared electronically, or shared in other meetings.
 

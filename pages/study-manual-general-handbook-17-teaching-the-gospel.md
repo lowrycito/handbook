@@ -1,5 +1,5 @@
 “17. Teaching the Gospel,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2024).
+Christ of Latter-day Saints (2025).
 
 “17. Teaching the Gospel,” General Handbook.
 

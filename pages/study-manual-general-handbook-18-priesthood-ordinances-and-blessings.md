@@ -1,5 +1,5 @@
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook:
-Serving in The Church of Jesus Christ of Latter-day Saints (2024).
+Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook.
 
@@ -996,11 +996,12 @@ action, the bishop or stake president may hear his or her concern in private
 outside of the meeting.
 
 In some cases, a brother may need to be ordained an elder or high priest
-before he can be presented in stake conference. When this happens, he is
-presented in his ward sacrament meeting for sustaining. He is then presented
-in the next stake conference to ratify the ordination (adapting the process
-for sustaining, described above). This includes giving stake members an
-opportunity to sustain or oppose the action.
+before he can be presented in stake conference. When this happens, a member of
+the stake presidency or an assigned high councilor presents him in his ward
+sacrament meeting for sustaining. He is then presented in the next stake
+conference to ratify the ordination (adapting the process for sustaining,
+described above). This includes giving stake members an opportunity to sustain
+or oppose the action.
 
 ![man being
 ordained](https://www.churchofjesuschrist.org/imgs/079e6d5d4b3011eda39feeeeac1e8f75fb74fc13/full/%21500%2C/0/default)

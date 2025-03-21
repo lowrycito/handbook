@@ -1,5 +1,5 @@
 “37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in
-The Church of Jesus Christ of Latter-day Saints (2024).
+The Church of Jesus Christ of Latter-day Saints (2025).
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.
 
@@ -96,6 +96,10 @@ geographic unit if desired (see 29.2.8).
 
 See 36.3 for language branches in a mission. See 36.4.2 for ward and branch
 naming guidelines.
+
+For support regarding the creation of a language _stake_ in the United States
+and Canada, call 1-801-240-1007. Outside the United States and Canada, call
+the area office.
 
 ![youth
 talking](https://www.churchofjesuschrist.org/imgs/15abfdee4b3011edb134eeeeac1e1827ad8bcb9b/full/%21500%2C/0/default)

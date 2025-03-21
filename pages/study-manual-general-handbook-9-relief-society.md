@@ -1,5 +1,5 @@
 “9. Relief Society,” General Handbook: Serving in The Church of Jesus Christ
-of Latter-day Saints (2024).
+of Latter-day Saints (2025).
 
 “9. Relief Society,” General Handbook.
 
@@ -455,13 +455,13 @@ The secretary’s responsibilities could include the following:
 
   * Schedule ministering interviews (see 21.3).
 
-  * Prepare and submit quarterly reports of attendance and the number of ministering interviews held.
+  * Prepare and submit quarterly reports of attendance and the number of ministering interviews held. Attendance reports should include sisters serving in Primary and Young Women.
 
   * Help prepare an annual budget and keep track of expenses.
 
 9.3.4
 
-### Additional Callings
+### Additional Callings and Assignments
 
 The following additional callings may be helpful. The bishop and Relief
 Society president discuss whether they are needed.
@@ -482,8 +482,14 @@ If the bishopric approves, a member of the bishopric calls them. He presents
 them for sustaining in sacrament meeting and sets them apart.
 
 As needed, the Relief Society presidency may assign sisters to help with
-Relief Society efforts in other ways. Sisters with short-term assignments do
-not need to be called and set apart.
+Relief Society efforts in other ways. These assignments could include the
+following:
+
+  * Helping young women progress into Relief Society
+
+  * Serving as a specialist for sisters with specific circumstances, such as widows, young adults, or mothers with young children
+
+Sisters with short-term assignments do not need to be called and set apart.
 
 ![Relief Society
 class](https://www.churchofjesuschrist.org/imgs/782dee570c7120700dd11a8ef0d07fc3831ed5d6/full/%21500%2C/0/default)

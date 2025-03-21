@@ -1,5 +1,5 @@
 “3. Priesthood Principles,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2024).
+Christ of Latter-day Saints (2025).
 
 “3. Priesthood Principles,” General Handbook.
 
@@ -152,20 +152,21 @@ the kingdom of God on earth. The senior living Apostle, the President of the
 Church, is the only person on earth authorized to exercise all of those
 priesthood keys (see Doctrine and Covenants 81:1–2; 107:64–67, 91–92; 132:7).
 
-Under the direction of the President of the Church, the following priesthood
-leaders are given keys so they can preside in their areas of responsibility:
+Under the direction of the President of the Church, the following local
+priesthood leaders are given keys so they can preside in their areas of
+responsibility:
 
-  * Stake and district presidents.
+  * Stake and district presidents
 
-  * Bishops and branch presidents.
+  * Bishops and branch presidents
 
-  * Melchizedek and Aaronic Priesthood quorum presidents.
+  * Melchizedek and Aaronic Priesthood quorum presidents
 
-  * Temple presidents.
+  * Temple presidents
 
-  * Mission presidents and missionary training center presidents.
+  * Mission presidents and missionary training center presidents
 
-  * Church historic site presidents.
+  * Church historic site presidents
 
 These leaders receive priesthood keys when they are set apart to their
 callings.

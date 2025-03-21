@@ -1,5 +1,5 @@
 “8. Elders Quorum,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2024).
+Latter-day Saints (2025).
 
 “8. Elders Quorum,” General Handbook.
 
@@ -492,13 +492,13 @@ The secretary’s responsibilities could include the following:
 
   * Schedule ministering interviews (see 21.3).
 
-  * Prepare and submit quarterly reports of attendance and the number of ministering interviews held.
+  * Prepare and submit quarterly reports of attendance and the number of ministering interviews held. Attendance reports should include brethren serving in Primary and Young Men.
 
   * Help prepare an annual budget and keep track of expenses.
 
 8.3.5
 
-### Additional Callings
+### Additional Callings and Assignments
 
 The following additional callings may be helpful. The bishop and elders quorum
 president discuss whether they are needed.

@@ -193,7 +193,7 @@ Church Organization
       * 8.3.2. High CouncilorThis chapter contains information for leaders of elders and high priests. 
       * 8.3.3. Elders Quorum PresidencyThis chapter contains information for leaders of elders and high priests. 
       * 8.3.4. SecretaryThis chapter contains information for leaders of elders and high priests. 
-      * 8.3.5. Additional CallingsThis chapter contains information for leaders of elders and high priests. 
+      * 8.3.5. Additional Callings and AssignmentsThis chapter contains information for leaders of elders and high priests. 
     * 8.4. Helping Prospective Elders Prepare to Receive the Melchizedek PriesthoodThis chapter contains information for leaders of elders and high priests. 
     * 8.5. Members with DisabilitiesThis chapter contains information for leaders of elders and high priests. 
   * 9\. Relief Society
@@ -216,7 +216,7 @@ Church Organization
       * 9.3.1. BishopRelief Society helps God’s children prepare to return to His presence. 
       * 9.3.2. Relief Society PresidencyRelief Society helps God’s children prepare to return to His presence. 
       * 9.3.3. SecretaryRelief Society helps God’s children prepare to return to His presence. 
-      * 9.3.4. Additional CallingsRelief Society helps God’s children prepare to return to His presence. 
+      * 9.3.4. Additional Callings and AssignmentsRelief Society helps God’s children prepare to return to His presence. 
     * 9.4. Helping Young Women Prepare to Participate in Relief SocietyRelief Society helps God’s children prepare to return to His presence. 
     * 9.5. Stake Relief Society LeadersRelief Society helps God’s children prepare to return to His presence. 
     * 9.6. Additional Guidelines and Policies
@@ -313,7 +313,7 @@ Church Organization
       * 12.3.3. SecretaryPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.3.4. Music Leader and PianistPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
       * 12.3.5. Teachers and Nursery LeadersPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
-      * 12.3.6. Activity LeadersPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
+      * 12.3.6. Valiant Activity LeadersPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
     * 12.4. Stake Primary LeadersPrimary is a home-centered, Church-supported organization for children ages 18 months to 11 years. 
     * 12.5. Additional Guidelines and Policies
 

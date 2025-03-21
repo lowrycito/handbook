@@ -1,5 +1,5 @@
 “30. Callings in the Church,” General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints (2024).
+Christ of Latter-day Saints (2025).
 
 “30. Callings in the Church,” General Handbook.
 

@@ -1,5 +1,5 @@
 “6. Stake Leadership,” General Handbook: Serving in The Church of Jesus Christ
-of Latter-day Saints (2024).
+of Latter-day Saints (2025).
 
 “6. Stake Leadership,” General Handbook.
 
@@ -221,10 +221,14 @@ and community leaders.
 The stake president is the primary Church spokesman to the news media on
 matters that pertain to the stake. He may delegate this role as needed.
 
-The stake president or an assigned counselor may organize and oversee a stake
+The stake president or an assigned counselor may organize a stake
 communication council. This council helps Church leaders build relationships
 with civic and community leaders. It also helps these leaders communicate
 effectively with Church members and the public.
+
+The stake president or an assigned counselor oversees this council as its
+priesthood adviser. Information about this role is provided in Communication
+Councils: A Guide for Priesthood Leaders.
 
 The communication council may include a stake communication director,
 assistant directors, and specialists as needed. They are called and set apart
@@ -240,8 +244,7 @@ The communication council structure differs in the Utah Area. Area Seventies
 in the Utah Area can provide stake presidents with details about this
 structure.
 
-For information about communication callings, see GCN.ChurchofJesusChrist.org
-.
+For information about communication callings, see GCN.ChurchofJesusChrist.org.
 
 6.2.2
 

@@ -1,5 +1,5 @@
 “13. Sunday School,” General Handbook: Serving in The Church of Jesus Christ
-of Latter-day Saints (2024).
+of Latter-day Saints (2025).
 
 “13. Sunday School,” General Handbook.
 

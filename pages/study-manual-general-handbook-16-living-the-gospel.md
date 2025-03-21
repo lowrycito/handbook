@@ -1,5 +1,5 @@
 “Living the Gospel of Jesus Christ,” General Handbook: Serving in The Church
-of Jesus Christ of Latter-day Saints (2024).
+of Jesus Christ of Latter-day Saints (2025).
 
 “Living the Gospel of Jesus Christ,” General Handbook.
 

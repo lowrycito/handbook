@@ -1,6 +1,6 @@
 “2. Supporting Individuals and Families in God’s Work of Salvation and
 Exaltation,” General Handbook: Serving in The Church of Jesus Christ of
-Latter-day Saints (2024).
+Latter-day Saints (2025).
 
 “2. Supporting Individuals and Families,” General Handbook.
 

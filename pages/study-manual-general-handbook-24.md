@@ -1,5 +1,5 @@
 “24. Missionary Recommendations and Service,” General Handbook: Serving in The
-Church of Jesus Christ of Latter-day Saints (2024).
+Church of Jesus Christ of Latter-day Saints (2025).
 
 “24. Missionary Recommendations and Service,” General Handbook: Serving in The
 Church of Jesus Christ of Latter-day Saints.
@@ -677,7 +677,8 @@ Plan.
 
 Family members, bishops, and other leaders help youth prepare to serve a
 mission. Bishops invite each young man to become a missionary, as well as each
-young woman who desires to serve.
+young woman who desires to serve. The following suggestions can help youth
+prepare:
 
   * Help them become effective member missionaries in sharing the gospel before they receive a call to serve.
 
@@ -691,7 +692,7 @@ young woman who desires to serve.
 
   * Encourage them to devote additional time to prayer and study of the scriptures, especially the Book of Mormon.
 
-  * Organize a missionary preparation course.
+  * Organize a missionary preparation course. This can be done at the ward or stake level. Helpful resources can be found in the Missionary Preparation teacher manual.
 
 Family members and leaders encourage senior members to consider senior
 missionary service. This may include helping them:

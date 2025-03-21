@@ -1,5 +1,5 @@
 “27. Temple Ordinances for the Living,” General Handbook: Serving in The
-Church of Jesus Christ of Latter-day Saints (2024).
+Church of Jesus Christ of Latter-day Saints (2025).
 
 “27. Temple Ordinances for the Living,” General Handbook.
 
