@@ -68,9 +68,9 @@ Society should have members with a variety of ages and experience.
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2FDAE5945DAB652657F467E4EB3752ADA50BFB109C%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
-3:42
+3:31
 
 Efforts Magnified as Presidencies Work Together
 

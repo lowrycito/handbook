@@ -689,9 +689,9 @@ the person’s head. Then the one acting as voice:
 
   6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F00855BD6FBBD27BA09FAE6B47EABFA2CBD2E17B2%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
-1:54
+1:55
 
 Confirming a Recently Baptized Member
 
@@ -1067,9 +1067,9 @@ instruction about a person’s duties are given before and after the ordination.
 They should not be the focus of the blessing. It is not necessary to have
 prayers, testimonies, or instruction when someone is ordained.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb0103f57a6c5f32c38a34675016a9b86e9c7c7c7%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4A4E4BDFF2975FCE1424D97CA3AEC60C6242E996%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
-1:58
+1:59
 
 Ordination to the Priesthood
 

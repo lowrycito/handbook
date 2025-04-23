@@ -133,9 +133,9 @@ assignments.
 It is often a blessing to a sister to have a young woman minister to her. It
 can also be a blessing to the young woman.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff1b580815f051f57e3454d8185b80a17b364919e%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F700B568559D764EDBF4FE3A98E2EB05CFFC63C09%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
-2:30
+2:38
 
 Involving Young Women in Relief Society Ministering
 
