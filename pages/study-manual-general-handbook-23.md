@@ -26,13 +26,13 @@ exaltation (see 1.2 in this handbook; Matthew 28:19–20). It includes:
 
 ## Share the Gospel
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3ef0b05f415e20f45b275e3be54dcda09d297a66%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-2:32
+2:33
 
 Principles Love, Share, Invite Discussed
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fca2dba890e0c43e81eb5e1c916d42be08b515b51%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 2:46
 
@@ -201,7 +201,7 @@ usually covers the following four topics:
 These meetings may be held in person or remotely. Coordination can also happen
 in other ways, including phone calls, texts, and emails.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F94ea44238d7defe712056f812bc9e8a056f3eea5%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 2:9
 

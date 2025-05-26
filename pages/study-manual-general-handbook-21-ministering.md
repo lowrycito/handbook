@@ -133,7 +133,7 @@ assignments.
 It is often a blessing to a sister to have a young woman minister to her. It
 can also be a blessing to the young woman.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F700B568559D764EDBF4FE3A98E2EB05CFFC63C09%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 2:38
 
@@ -188,7 +188,7 @@ The Savior had a simple yet profound interview with Peter about feeding His
 sheep (see John 21:15–17). Ministering interviews can be a similar
 opportunity. They also allow leaders to set an example of ministering.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 2:34
 
@@ -227,7 +227,7 @@ Leaders use Leader and Clerk Resources to report ministering interviews.
 The Relief Society and the elders quorum share the work of ministering. They
 do this work in unity.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 2:49
 

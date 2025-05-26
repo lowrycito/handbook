@@ -255,9 +255,9 @@ The bishop reviews and approves the plan. Members of the ward council take the
 lead in implementing it. They report on progress in ward council meetings.
 They also update the plan as needed.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-2:49
+2:45
 
 Helping Members Gain the Vision
 

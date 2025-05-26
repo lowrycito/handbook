@@ -116,9 +116,9 @@ acting on promptings from the Holy Ghost.
 
 ### Help the Member Feel Comfortable and Safe
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fa0f90cd8b544684d84523c4600e043c19510a706%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-3:28
+3:8
 
 Abuse Handbook | Interview Training
 

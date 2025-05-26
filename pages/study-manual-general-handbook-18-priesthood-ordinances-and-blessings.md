@@ -396,7 +396,7 @@ as voice:
 
   6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F49a53d6254aa6fcd562894e44f1c104c00c8cbb9%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 1:41
 
@@ -606,7 +606,7 @@ holder:
 
   6. Helps the person to come up out of the water.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fddf36a81a990dd865ce06ec70b51289dd4dc56e8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 3:16
 
@@ -689,7 +689,7 @@ the person’s head. Then the one acting as voice:
 
   6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F00855BD6FBBD27BA09FAE6B47EABFA2CBD2E17B2%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 1:55
 
@@ -849,7 +849,7 @@ sacrament](https://www.churchofjesuschrist.org/imgs/ff434c2f4b2f11eda354eeeeac1e
 
   12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 3:32
 
@@ -1067,7 +1067,7 @@ instruction about a person’s duties are given before and after the ordination.
 They should not be the focus of the blessing. It is not necessary to have
 prayers, testimonies, or instruction when someone is ordained.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4A4E4BDFF2975FCE1424D97CA3AEC60C6242E996%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 1:59
 
@@ -1194,9 +1194,9 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 
   5. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F314ea9f316e852f62df7df82a2042c0ce0155326%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-1:12
+1:11
 
 Consecrating Oil
 
@@ -1267,7 +1267,7 @@ hands lightly on the person’s head. Then the one who seals the anointing:
 
   4. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 2:3
 
@@ -1389,7 +1389,7 @@ to decide whether to dedicate the place where the ashes are kept. He takes
 into account the family’s wishes and local customs and laws. The brother who
 acts as voice adapts the instructions for dedicating a grave.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 1:58
 

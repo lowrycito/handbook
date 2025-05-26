@@ -236,7 +236,7 @@ on conditions of repentance.
 
 “And how great is his joy in the soul that repenteth!”
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3479b96d622d064fa0a78b903451db54cea7ee33%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F87817A11C1CCDFCE34750B45947B67EDCA5002E0%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 6:18
 

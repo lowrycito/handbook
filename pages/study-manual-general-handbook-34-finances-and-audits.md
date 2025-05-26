@@ -363,7 +363,7 @@ handled. This is a sacred responsibility of their callings. General principles
 are outlined in the following sections. Bishoprics and clerks review the video
 “Sacred Funds, Sacred Responsibilities” at least once a year.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 22:58
 

@@ -136,7 +136,7 @@ president presides at stake meetings unless a General Authority or Area
 Seventy attends. His counselors may conduct these meetings. They may also
 preside if the stake president is absent.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F41f3344b7d3b66c437f0e91e468e89cfae084074%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 4:26
 

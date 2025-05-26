@@ -68,7 +68,7 @@ Society should have members with a variety of ages and experience.
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2FDAE5945DAB652657F467E4EB3752ADA50BFB109C%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
 3:31
 
@@ -180,9 +180,9 @@ love to those in need. Individually and as a Relief Society, they seek ways to
 serve others in the ward and community. Where it is available, JustServe.org
 suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-2:43
+2:46
 
 How to Care for Those in Need
 
@@ -322,9 +322,9 @@ history coordination meetings (see 25.2.7). They also include an assistant in
 the priests quorum, a presidency member of the oldest Young Women class, and
 temple and family history consultants.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F886999708076dbf09ad533958c83f683c1dc7440%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-2:49
+2:45
 
 Helping Members Gain the Vision
 
@@ -377,9 +377,9 @@ counselors assist her.
 
   * Under the bishop’s guidance, counsel with adult members of the ward (see 31.1 and 31.3). Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See Counseling Resources. For information about abuse, see 38.6.2.
 
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+![](https://www.churchofjesuschrist.org/imgs/undefined/full/!250,/0/default)
 
-3:13
+3:12
 
 Counseling with Women in Times of Need
 
