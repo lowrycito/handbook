@@ -182,10 +182,13 @@ def clean_html_for_conversion(content_article):
   for comment in content_article.find_all(string=lambda text: isinstance(text, Comment)):
     comment.extract()
   
-  # Clean up empty elements (but preserve structural elements)
-  for element in content_article.find_all():
-    if not element.get_text(strip=True) and element.name not in ['br', 'hr', 'img', 'td', 'th', 'tr']:
-      element.decompose()
+  # Only remove truly empty elements that are not structural
+  # Be more conservative - only remove elements that are definitely empty and not important
+  empty_tags_to_remove = ['span', 'div']
+  for tag_name in empty_tags_to_remove:
+    for element in content_article.find_all(tag_name):
+      if not element.get_text(strip=True) and not element.find_all() and not element.attrs:
+        element.decompose()
   
   # Fix table structure issues
   for table in content_article.find_all('table'):
@@ -198,7 +201,7 @@ def clean_html_for_conversion(content_article):
         tbody.append(tr.extract())
       table.append(tbody)
   
-  # Remove excessive whitespace and normalize spacing
+  # Only normalize whitespace in text nodes, don't modify structure
   for element in content_article.find_all(string=True):
     if element.parent.name not in ['pre', 'code']:
       normalized = re.sub(r'\s+', ' ', element.strip())
@@ -232,16 +235,16 @@ def html_to_markdown(url, max_retries=3):
   # Clean up the HTML before conversion
   content_article = clean_html_for_conversion(content_article)
 
-  # Configure markdownify with proper settings for better table conversion
+  # Configure markdownify with settings that preserve structure
   markdown_text = md(
     str(content_article),
     heading_style="ATX",           # Use # style headers
     bullets="-",                   # Use - for bullets  
-    wrap=True,                     # Wrap long lines
-    wrap_width=80,                 # Wrap at 80 characters
-    convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'],
+    wrap=False,                    # Don't wrap lines to preserve structure
+    convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'section'],
     escape_asterisks=False,        # Don't escape asterisks unnecessarily
     escape_underscores=False,      # Don't escape underscores unnecessarily
+    strip=['img']                  # Only strip img tags, preserve everything else
   )
   
   # Post-process the markdown to fix common issues
@@ -253,43 +256,29 @@ def html_to_markdown(url, max_retries=3):
 
 
 def post_process_markdown(markdown_text):
-  """Post-process markdown to fix common conversion issues"""
-  # Fix multiple consecutive newlines
-  markdown_text = re.sub(r'\n{3,}', '\n\n', markdown_text)
+  """Post-process markdown to fix common conversion issues while preserving content"""
+  # Only fix excessive newlines (more than 3)
+  markdown_text = re.sub(r'\n{4,}', '\n\n\n', markdown_text)
   
-  # Fix table formatting issues
+  # Fix table formatting issues - be more careful
   lines = markdown_text.split('\n')
   processed_lines = []
-  in_table = False
   
   for i, line in enumerate(lines):
-    # Detect table rows
-    if '|' in line and line.strip().startswith('|') and line.strip().endswith('|'):
-      if not in_table:
-        in_table = True
-        # Add separator row if this looks like a header
-        if i + 1 < len(lines) and '|' in lines[i + 1]:
-          processed_lines.append(line)
-          # Create separator row based on number of columns
-          cols = line.count('|') - 1
-          separator = '|' + '---|' * cols
-          if i + 1 >= len(lines) or not lines[i + 1].strip().startswith('|--'):
-            processed_lines.append(separator)
-          continue
+    # Only add table separators where clearly needed
+    if ('|' in line and line.strip().startswith('|') and line.strip().endswith('|') and 
+        i + 1 < len(lines) and '|' in lines[i + 1] and 
+        not lines[i + 1].strip().startswith('|--')):
       processed_lines.append(line)
+      # Check if next line is also a table row - if so, this might be a header
+      cols = line.count('|') - 1
+      if cols > 0:
+        separator = '|' + '---|' * cols
+        processed_lines.append(separator)
     else:
-      if in_table:
-        in_table = False
-        processed_lines.append('')  # Add blank line after table
       processed_lines.append(line)
   
-  # Fix list formatting
   markdown_text = '\n'.join(processed_lines)
-  markdown_text = re.sub(r'\n(\s*[-*+]\s)', r'\n\n\1', markdown_text)
-  
-  # Fix heading spacing
-  markdown_text = re.sub(r'\n(#{1,6}\s)', r'\n\n\1', markdown_text)
-  markdown_text = re.sub(r'^(#{1,6}\s)', r'\1', markdown_text, flags=re.MULTILINE)
   
   return markdown_text.strip()
 
