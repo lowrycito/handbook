@@ -173,40 +173,17 @@ def get_links(url, max_retries=3):
 
 
 def clean_html_for_conversion(content_article):
-  """Clean up HTML content before conversion to markdown"""
-  # Remove script, style, and other unwanted elements including images
-  for unwanted in content_article(["script", "style", "nav", "aside", "footer", "header", "img"]):
+  """Clean up HTML content before conversion to markdown - be very conservative"""
+  # Only remove elements that definitely don't contribute to content
+  for unwanted in content_article(["script", "style", "nav", "footer", "header"]):
     unwanted.decompose()
   
-  # Remove comments
+  # Remove comments but preserve everything else
   for comment in content_article.find_all(string=lambda text: isinstance(text, Comment)):
     comment.extract()
   
-  # Only remove truly empty elements that are not structural
-  # Be more conservative - only remove elements that are definitely empty and not important
-  empty_tags_to_remove = ['span', 'div']
-  for tag_name in empty_tags_to_remove:
-    for element in content_article.find_all(tag_name):
-      if not element.get_text(strip=True) and not element.find_all() and not element.attrs:
-        element.decompose()
-  
-  # Fix table structure issues
-  for table in content_article.find_all('table'):
-    # Ensure tables have proper structure
-    if not table.find('tbody') and table.find('tr'):
-      # Wrap existing rows in tbody if none exists
-      soup = BeautifulSoup('', 'html.parser')
-      tbody = soup.new_tag('tbody')
-      for tr in table.find_all('tr'):
-        tbody.append(tr.extract())
-      table.append(tbody)
-  
-  # Only normalize whitespace in text nodes, don't modify structure
-  for element in content_article.find_all(string=True):
-    if element.parent.name not in ['pre', 'code']:
-      normalized = re.sub(r'\s+', ' ', element.strip())
-      if normalized != element:
-        element.replace_with(normalized)
+  # Don't remove any structural elements - let markdownify handle them
+  # This preserves section numbers, subsection titles, and all content structure
   
   return content_article
 
@@ -241,9 +218,10 @@ def html_to_markdown(url, max_retries=3):
     heading_style="ATX",           # Use # style headers
     bullets="-",                   # Use - for bullets  
     wrap=False,                    # Don't wrap lines to preserve structure
-    convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'section'],
+    convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'section', 'article', 'aside', 'main', 'header', 'footer', 'nav', 'figure', 'figcaption', 'blockquote', 'pre', 'code', 'a', 'img'],
     escape_asterisks=False,        # Don't escape asterisks unnecessarily
-    escape_underscores=False       # Don't escape underscores unnecessarily
+    escape_underscores=False,      # Don't escape underscores unnecessarily
+    default_title=True             # Include title attributes
   )
   
   # Post-process the markdown to fix common issues
@@ -255,29 +233,12 @@ def html_to_markdown(url, max_retries=3):
 
 
 def post_process_markdown(markdown_text):
-  """Post-process markdown to fix common conversion issues while preserving content"""
-  # Only fix excessive newlines (more than 3)
-  markdown_text = re.sub(r'\n{4,}', '\n\n\n', markdown_text)
+  """Post-process markdown to fix only critical formatting issues"""
+  # Only fix excessive newlines (more than 4 consecutive)
+  markdown_text = re.sub(r'\n{5,}', '\n\n\n\n', markdown_text)
   
-  # Fix table formatting issues - be more careful
-  lines = markdown_text.split('\n')
-  processed_lines = []
-  
-  for i, line in enumerate(lines):
-    # Only add table separators where clearly needed
-    if ('|' in line and line.strip().startswith('|') and line.strip().endswith('|') and 
-        i + 1 < len(lines) and '|' in lines[i + 1] and 
-        not lines[i + 1].strip().startswith('|--')):
-      processed_lines.append(line)
-      # Check if next line is also a table row - if so, this might be a header
-      cols = line.count('|') - 1
-      if cols > 0:
-        separator = '|' + '---|' * cols
-        processed_lines.append(separator)
-    else:
-      processed_lines.append(line)
-  
-  markdown_text = '\n'.join(processed_lines)
+  # Clean up any residual HTML entities
+  markdown_text = html.unescape(markdown_text)
   
   return markdown_text.strip()
 
