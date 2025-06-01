@@ -4,10 +4,10 @@ The Church of Jesus Christ of Latter-day Saints
 
 Salt Lake City, Utah
 
-© 2020, 2025 by Intellectual Reserve, Inc.
+© 2020, 2025 by Intellectual Reserve, Inc.
 
 All rights reserved.
 
-Version:2/25
+Version: 2/25
 
-PD60010241 000
+PD60010241 000

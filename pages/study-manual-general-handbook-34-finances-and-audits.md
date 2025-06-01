@@ -1,8 +1,8 @@
-“34. Finances and Audits,”General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints(2025).
+“34. Finances and Audits,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
-“34. Finances and Audits,”General Handbook.
+“34. Finances and Audits,” General Handbook.
 
-Tithes and offerings allow the Church to pursue God’s work of salvation and exaltation (see1.2). These funds are sacred. They represent the sacrifice and faith of members of the Church (seeMark 12:41–44).
+Tithes and offerings allow the Church to pursue God’s work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3")). These funds are sacred. They represent the sacrifice and faith of members of the Church (see [Mark 12:41–44](/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41 "/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41")).
 
 Some of the uses of tithes and offerings in supporting the Lord’s work include:
 
@@ -12,25 +12,25 @@ Some of the uses of tithes and offerings in supporting the Lord’s work include
 - Supporting the programs of the Church, such as education and family history.
 - Providing food, shelter, and other necessities to people in need.
 
-Stake presidents and bishops have a sacred obligation to oversee Church funds (seeDoctrine and Covenants 72:9–10). These funds should be used only by authorized members for authorized Church purposes. They must be carefully accounted for and protected.
+Stake presidents and bishops have a sacred obligation to oversee Church funds (see [Doctrine and Covenants 72:9–10](/study/scriptures/dc-testament/dc/72?lang=eng&id=p9-p10#p9 "/study/scriptures/dc-testament/dc/72?lang=eng&id=p9-p10#p9")). These funds should be used only by authorized members for authorized Church purposes. They must be carefully accounted for and protected.
 
 The stake president has the following responsibilities for stake finances. He delegates some of this work to his counselors and clerks.
 
 The stake president:
 
-- Teaches and inspires members to pay a full tithe and give generous offerings (see34.3).
-- Ensures that stake funds are properly handled and accounted for (see34.5).
+- Teaches and inspires members to pay a full tithe and give generous offerings (see [34.3](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number6-p285#title_number6 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number6-p285#title_number6")).
+- Ensures that stake funds are properly handled and accounted for (see [34.5](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number19-p324#title_number19 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number19-p324#title_number19")).
 - Reviews the financial statement each month and ensures that any issues are resolved promptly.
 - Ensures that bishoprics, organization leaders, and clerks learn their responsibility for sacred Church funds.
-- Prepares and manages the annual stake budget (see34.6).
-- Ensures that stake budget allowance guidelines are followed (see34.6.2).
+- Prepares and manages the annual stake budget (see [34.6](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number20-p351#title_number20 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number20-p351#title_number20")).
+- Ensures that stake budget allowance guidelines are followed (see [34.6.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22")).
 - Regularly counsels with each bishop to discuss the ward’s finances.
 - Verifies that each ward receives members’ tithing declarations annually.
 - Ensures that passwords to access Church financial systems are never shared.
-- Ensures that the stake audit committee is organized and functioning properly (see34.7.1).
-- Is available to answer questions during audits of stake financial records (see34.7).
-- Reviews audits of stake and ward financial records and ensures that any issues are resolved promptly (see34.7).
-- Ensures that the stake and wards comply with all applicable tax laws (see34.8).
+- Ensures that the stake audit committee is organized and functioning properly (see [34.7.1](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number31-p354#title_number31 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number31-p354#title_number31")).
+- Is available to answer questions during audits of stake financial records (see [34.7](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30")).
+- Reviews audits of stake and ward financial records and ensures that any issues are resolved promptly (see [34.7](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30")).
+- Ensures that the stake and wards comply with all applicable tax laws (see [34.8](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number34-p383#title_number34 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number34-p383#title_number34")).
 
 The stake president assigns the stake clerk or an assistant stake clerk to help with stake financial record keeping. Clerks carefully follow current policies to safeguard Church funds and ensure that Church records are accurate.
 
@@ -38,26 +38,26 @@ The clerk has the following responsibilities:
 
 - Record and deposit any funds received with a member of the stake presidency.
 - Review the financial statement each month and ensure that any issues are resolved promptly.
-- Help the stake presidency prepare the annual stake budget (see34.6.1and34.6.2).
+- Help the stake presidency prepare the annual stake budget (see [34.6.1](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number21-p332#title_number21 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number21-p332#title_number21") and [34.6.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22")).
 - Verify that each ward has submitted the annual tithing declaration report.
-- Participate in financial audits by stake auditors and take corrective actions if needed (see34.7).
+- Participate in financial audits by stake auditors and take corrective actions if needed (see [34.7](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30")).
 - Assist bishoprics with training ward clerks.
 
-Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling stake clerks, see33.3.2and33.3.3.
+Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling stake clerks, see [33.3.2](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number6-p35#title_number6 "/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number6-p35#title_number6") and [33.3.3](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number7-p273#title_number7 "/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number7-p273#title_number7").
 
 The bishop has the following responsibilities for ward finances. He delegates some of this work to his counselors and clerks.
 
 The bishop:
 
-- Teaches and inspires members to pay a full tithe and give generous offerings (see34.3).
-- Ensures that ward funds are properly handled and accounted for (see34.5).
+- Teaches and inspires members to pay a full tithe and give generous offerings (see [34.3](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number6-p285#title_number6 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number6-p285#title_number6")).
+- Ensures that ward funds are properly handled and accounted for (see [34.5](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number19-p324#title_number19 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number19-p324#title_number19")).
 - Reviews the financial statement each month and ensures that any issues are resolved promptly.
 - Ensures that organization leaders and clerks learn their responsibility for sacred Church funds.
-- Prepares and manages the annual ward budget (see34.6).
-- Ensures that ward budget allowance guidelines are followed (see34.6.2).
+- Prepares and manages the annual ward budget (see [34.6](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number20-p351#title_number20 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number20-p351#title_number20")).
+- Ensures that ward budget allowance guidelines are followed (see [34.6.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22")).
 - Meets with ward members annually to receive their tithing declaration.
 - Ensures that passwords to access Church financial systems are never shared.
-- Is available to answer questions during audits of ward financial records and ensures that any issues are resolved promptly (see34.7).
+- Is available to answer questions during audits of ward financial records and ensures that any issues are resolved promptly (see [34.7](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30")).
 
 The bishop assigns the ward clerk or an assistant ward clerk to help with ward financial record keeping. Clerks carefully follow current policies to safeguard Church funds and ensure that Church records are accurate.
 
@@ -65,24 +65,24 @@ The clerk has the following responsibilities:
 
 - Record and deposit any funds received with a member of the bishopric.
 - Review the financial statement each month and ensure that any issues are resolved promptly.
-- Help the bishopric prepare the annual ward budget (see34.6.1and34.6.2).
+- Help the bishopric prepare the annual ward budget (see [34.6.1](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number21-p332#title_number21 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number21-p332#title_number21") and [34.6.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number22-p348#title_number22")).
 - Ensure that members have access to their statements of contributions and assist as needed.
 - Help the bishop prepare and record tithing declarations.
-- Participate in financial audits by stake auditors and take corrective actions if needed (see34.7).
+- Participate in financial audits by stake auditors and take corrective actions if needed (see [34.7](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number30-p373#title_number30")).
 
-Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling ward clerks, see33.4.2and33.4.3.
+Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling ward clerks, see [33.4.2](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number11-p72#title_number11 "/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number11-p72#title_number11") and [33.4.3](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number12-p301#title_number12 "/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number12-p301#title_number12").
 
 Church leaders teach members the principles of tithes and other offerings and encourage members to live these principles. People who are not members of the Church may also make contributions. However, only members of the Church may pay tithing.
 
-Members are encouraged to make their contributions online where possible (seedonations.ChurchofJesusChrist.org). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see34.5.2). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
+Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org "https://donations.churchofjesuschrist.org")). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number76-p291#title_number76 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number76-p291#title_number76")). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
 
-Tithing is the donation of one-tenth of one’s income to God’s Church (seeDoctrine and Covenants 119:3–4;interestis understood to mean income). All members who have income should pay tithing.
+Tithing is the donation of one-tenth of one’s income to God’s Church (see [Doctrine and Covenants 119:3–4](/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3 "/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3"); interest is understood to mean income). All members who have income should pay tithing.
 
-The Lord’s covenant people have lived the law of tithing since ancient times (seeGenesis 14:18–20;Leviticus 27:30–32). The Lord has said, “The tithing of my people … shall be a standing law unto them forever” (Doctrine and Covenants 119:3–4).
+The Lord’s covenant people have lived the law of tithing since ancient times (see [Genesis 14:18–20](/study/scriptures/ot/gen/14?lang=eng&id=p18-p20#p18 "/study/scriptures/ot/gen/14?lang=eng&id=p18-p20#p18"); [Leviticus 27:30–32](/study/scriptures/ot/lev/27?lang=eng&id=p30-p32#p30 "/study/scriptures/ot/lev/27?lang=eng&id=p30-p32#p30")). The Lord has said, “The tithing of my people … shall be a standing law unto them forever” ([Doctrine and Covenants 119:3–4](/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3 "/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3")).
 
-Tithes are holy to the Lord, and members honor Him by paying tithing. This is an expression of faith in God and His promises. Those who pay tithing receive this promise from the Lord: “Prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it” (Malachi 3:10).
+Tithes are holy to the Lord, and members honor Him by paying tithing. This is an expression of faith in God and His promises. Those who pay tithing receive this promise from the Lord: “Prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it” ([Malachi 3:10](/study/scriptures/ot/mal/3?lang=eng&id=p10#p10 "/study/scriptures/ot/mal/3?lang=eng&id=p10#p10")).
 
-Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (seeDoctrine and Covenants 120). Some of these purposes are outlined in34.0.
+Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (see [Doctrine and Covenants 120](/study/scriptures/dc-testament/dc/120?lang=eng "/study/scriptures/dc-testament/dc/120?lang=eng")). Some of these purposes are outlined in [34.0](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number65-p206#title_number65 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number65-p206#title_number65").
 
 The bishop meets with each member during the last few months of each year to receive his or her tithing declaration. In rare circumstances when the bishop is absent, the stake president may authorize one of the bishop’s counselors to fulfill this responsibility.
 
@@ -97,15 +97,17 @@ During tithing declaration, the bishop expresses appreciation to members for the
 
 Instructions for tithing declaration are provided by Church headquarters or the assigned area office.
 
-Church leaders encourage members to live the law of the fast. This includes giving a generous fast offering (see22.2.2).
+![family talking to man](https://www.churchofjesuschrist.org/imgs/0dfc86114b3011eda1beeeeeac1e2928fa199cc1/full/%21500%2C/0/default)
 
-In some wards, the bishop may authorize Aaronic Priesthood holders to collect fast offerings. In deciding this, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
+Church leaders encourage members to live the law of the fast. This includes giving a generous fast offering (see [22.2.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number14-p96#title_number14 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number14-p96#title_number14")).
+
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") In some wards, the bishop may authorize Aaronic Priesthood holders to collect fast offerings. In deciding this, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
 
 Priesthood holders should go in pairs when gathering fast offerings. They deliver fast offerings promptly to a member of the bishopric.
 
 Members should not give other contributions, such as tithing or other offerings, to those who gather fast offerings.
 
-Guidelines for using fast-offering funds are provided in22.5.2.
+Guidelines for using fast-offering funds are provided in [22.5.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number36-p160#title_number36 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number36-p160#title_number36").
 
 Contributions to the ward missionary fund are used primarily to meet the contribution commitments of full-time missionaries from the ward. Excess funds in a ward may be used to meet the commitments of other missionaries in the stake. Excess funds in a stake may be used for other stakes in the coordinating council as directed by the Area Seventy who presides over the council.
 
@@ -115,7 +117,7 @@ Contributions to the General Missionary Fund are used by the Church in its overa
 
 Stake presidents and bishops should send missionary funds that exceed reasonable stake and ward needs to the General Missionary Fund at Church headquarters or to the area office.
 
-For more information about missionary funds and financing missionary service, see24.3.4.
+For more information about missionary funds and financing missionary service, see [24.3.4](/study/manual/general-handbook/24?lang=eng&id=title_number16-p111#title_number16 "/study/manual/general-handbook/24?lang=eng&id=title_number16-p111#title_number16").
 
 Members may contribute financially to additional approved categories. If donors are using the Tithing and Other Offerings form, they write the category name in the “Other” section of the form.
 
@@ -131,11 +133,11 @@ Provo, UT 84604-6080
 
 Telephone: 1-801-356-5300 or 1-800-525-8074
 
-Email:philanthropies@ChurchofJesusChrist.org
+Email: [philanthropies@ChurchofJesusChrist.org](mailto:philanthropies@churchofjesuschrist.org "mailto:philanthropies@churchofjesuschrist.org")
 
 The Church normally discourages making in-kind contributions (non-monetary) as tithing and other offerings. It is preferable for members to dispose of the property themselves and then pay tithing and other donations monetarily. However, in-kind donations may be accepted in certain cases. Such donations may be a common practice in some areas of the world.
 
-The Church accepts (1) stocks, bonds, or other securities that are immediately marketable and (2) some marketable real estate. Members should emailDonationsInKind@ChurchofJesusChrist.orgfor instructions on how to initiate these in-kind donations. If members want to contribute other items, the stake president contacts Church headquarters or the area office for approval before authorizing the bishop to accept them.
+The Church accepts (1) stocks, bonds, or other securities that are immediately marketable and (2) some marketable real estate. Members should email [DonationsInKind@ChurchofJesusChrist.org](mailto:donationsinkind@churchofjesuschrist.org "mailto:donationsinkind@churchofjesuschrist.org") for instructions on how to initiate these in-kind donations. If members want to contribute other items, the stake president contacts Church headquarters or the area office for approval before authorizing the bishop to accept them.
 
 Receipts to members who make in-kind donations are issued only by Church headquarters or the area office.
 
@@ -145,15 +147,17 @@ Stake presidents and bishops inform those who contribute tithes and offerings th
 
 The amount of tithing and other offerings paid by a donor is confidential. Only the bishop and those who are authorized to handle or view these contributions should have access to this information. Stake presidencies, bishoprics, and clerks should never inappropriately discuss a member’s tithing status. Nor should they discuss the total amount of tithing or other offerings received.
 
-The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “Sacred Funds, Sacred Responsibilities” at least once a year.
+The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds "https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds")” at least once a year.
+
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1f68adec25e13e604ae4234089bcf59f283e97be%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 22:58
 
 The companionship principle requires two persons—a member of the bishopric and a clerk, or two members of the bishopric—to be actively involved when recording and disbursing Church funds. This principle is essential to safeguarding sacred funds and protecting Church leaders.
 
-Leaders should protect and never share their passwords (see33.9.1.1).
+Leaders should protect and never share their passwords (see [33.9.1.1](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number73-p368#title_number73 "/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number73-p368#title_number73")).
 
-The Lord has given bishops the sacred trust of receiving and accounting for the tithes and other offerings of the Saints (seeDoctrine and Covenants 42:30–33;119). Only the bishop and his counselors may receive tithes and other offerings. Under no circumstances should their wives, other members of their families, clerks, or other ward members receive these contributions. The only exception is when Aaronic Priesthood holders are assigned to collect fast offerings (see34.3.2).
+The Lord has given bishops the sacred trust of receiving and accounting for the tithes and other offerings of the Saints (see [Doctrine and Covenants 42:30–33](/study/scriptures/dc-testament/dc/42?lang=eng&id=p30-p33#p30 "/study/scriptures/dc-testament/dc/42?lang=eng&id=p30-p33#p30"); [119](/study/scriptures/dc-testament/dc/119?lang=eng "/study/scriptures/dc-testament/dc/119?lang=eng")). Only the bishop and his counselors may receive tithes and other offerings. Under no circumstances should their wives, other members of their families, clerks, or other ward members receive these contributions. The only exception is when Aaronic Priesthood holders are assigned to collect fast offerings (see [34.3.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number8-p268#title_number8 "/study/manual/general-handbook/34-finances-and-audits?lang=eng&id=title_number8-p268#title_number8")).
 
 Church leaders and members should not leave donations unattended.
 
@@ -175,29 +179,31 @@ Additionally, a bishopric member and a clerk, or two members of the bishopric, s
 
 Members who are responsible for Church funds must never leave them in the meetinghouse overnight or leave them unattended at any time, such as during meetings and activities.
 
-Donor Statements of Contributions are available to all members atdonations.ChurchofJesusChrist.org. Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available atdonations.ChurchofJesusChrist.org, from the local unit, or from the area office.
+Donor Statements of Contributions are available to all members at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org "https://donations.churchofjesuschrist.org"). Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org "https://donations.churchofjesuschrist.org"), from the local unit, or from the area office.
+
+![woman writing](https://www.churchofjesuschrist.org/imgs/14fdbc8f4b3011ed997deeeeac1e384cf99d4c5e/full/%21500%2C/0/default)
 
 All stake funds are managed in Church financial systems. The stake president manages the stake finances. His counselors and clerks may assist him. The counselor who serves as chairman of the stake audit committee generally should not be involved in stake financial record keeping.
 
 All ward funds are managed in Church financial systems. The bishop manages the ward finances. His counselors and clerks may assist him.
 
-Payments are generally made by electronic funds transfer or by check. In some areas, units may be approved to use bank cards.
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") Payments are generally made by electronic funds transfer or by check. In some areas, units may be approved to use bank cards.
 
 No stake or ward expenses may be incurred or paid without the presiding officer’s authorization.
 
 Two authorized leaders must approve each payment. One of them must be a member of the stake presidency or bishopric. Although counselors may be authorized to approve payments, the stake president or bishop must review each payment. Leaders should not approve a payment to themselves.
 
-The stake president’s written approval is required before a bishop may use fast offerings or approve a bishop’s order for himself or his family. Written approval from a member of the Area Presidency is required before a bishop may use fast offerings or approve a bishop’s order for the stake president or his family. See22.5.1.2for guidelines.
+The stake president’s written approval is required before a bishop may use fast offerings or approve a bishop’s order for himself or his family. Written approval from a member of the Area Presidency is required before a bishop may use fast offerings or approve a bishop’s order for the stake president or his family. See [22.5.1.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number31-p151#title_number31 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number31-p151#title_number31") for guidelines.
 
 A member requesting reimbursement provides a physical or electronic copy of any receipts or invoices. He or she also includes the purpose, amount, and date of the purchase.
 
-If funds are advanced, the member submits a payment request form, noting the purpose, amount, and date. After the expense has been paid, the member then (1) provides receipts or invoices for the funds spent and (2) returns any unspent funds. Returned funds should be redeposited.
+If funds are advanced, the member submits a payment request form, noting the purpose, amount, and date. After the expense has been paid, the member then (1) provides receipts or invoices for the funds spent and (2) returns any unspent funds. Returned funds should be redeposited.
 
 Authorized leaders and clerks should not approve payments without carefully reviewing the expense and receipts or invoices.
 
 Stakes and wards may not open their own bank accounts or maintain a petty cash fund.
 
-If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations atdonations.ChurchofJesusChrist.org. The ward or stake should never keep physical or electronic copies of members’ bank account information details.
+If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org "https://donations.churchofjesuschrist.org"). The ward or stake should never keep physical or electronic copies of members’ bank account information details.
 
 If the stake or ward uses checks, a check should not be signed until it is filled out completely. Checkbooks and blank checks should be stored in a locked file or cabinet. They must not be left unattended when they are not locked securely. If any blank checks are missing, the stake president or bishop immediately reports the numbers of those checks to Church headquarters or the area office.
 
@@ -238,7 +244,7 @@ Budget funds are allocated quarterly based on attendance in the following catego
 - Primary children ages 7–10
 - Young single adults
 
-It is important to report attendance accurately and on time (see33.5.1.1).
+It is important to report attendance accurately and on time (see [33.5.1.1](/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number60-p87#title_number60 "/study/manual/general-handbook/33-records-and-reports?lang=eng&id=title_number60-p87#title_number60")).
 
 Before each quarterly allocation, the stake president receives information on the amount to be distributed. He then determines how much of the funds are allocated to the wards. He works with bishops in a unified, cooperative manner to ensure the stake and wards are funded fairly and adequately. If unforeseen changes occur that may justify altering original budget allocations, the stake president makes sure that fair adjustments are made.
 
@@ -248,7 +254,7 @@ Priesthood leaders ensure that the budget allocations and activities for young m
 
 Stake presidents and bishops make sure budget allowance funds are spent wisely. Funds should be used to bless people and to further gospel purposes. Leaders also ensure that all expenditures are within the allowance.
 
-Stake and ward budget funds should be used to pay for all activities, programs, manuals, and supplies. Members should not usually pay to participate in activities. Nor should they provide materials, supplies, rental or admission fees, or long-distance transportation at their own expense. Members may provide food if doing so is not a burden (see20.6.1).
+Stake and ward budget funds should be used to pay for all activities, programs, manuals, and supplies. Members should not usually pay to participate in activities. Nor should they provide materials, supplies, rental or admission fees, or long-distance transportation at their own expense. Members may provide food if doing so is not a burden (see [20.6.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number19-p206#title_number19 "/study/manual/general-handbook/20-activities?lang=eng&id=title_number19-p206#title_number19")).
 
 Members who want to contribute additional funds to the Church may not designate them for the stake or ward budget. Instead, leaders encourage them to contribute the funds to fast offerings, missionary funds, humanitarian aid, or other authorized donation categories.
 
@@ -262,7 +268,7 @@ Local leaders are encouraged to hold stake and multistake activities that provid
 
 Funding for most multistake activities comes from the budget funds of the participating stakes. Funding for area activities may come from area or Church headquarters budgets when approved.
 
-For information about special activities and equipment, seechapter 20.
+For information about special activities and equipment, see [chapter 20](/study/manual/general-handbook/20-activities?lang=eng "/study/manual/general-handbook/20-activities?lang=eng").
 
 The stake president appoints a stake audit committee. This committee ensures that stake and ward finances are handled according to Church policy. It consists of one of the stake president’s counselors as chairman and two other stake members who understand or can be trained in financial matters. These brothers or sisters should have current temple recommends.
 
@@ -286,7 +292,7 @@ The unit’s presiding officer and the clerk assigned to finances should be avai
 
 The stake president and stake audit committee review all audits. After their review, the stake audit committee chairman and stake president sign the audits. Audits may be signed and submitted before all of the exceptions are corrected. The stake president and stake audit committee ensure that any audit exceptions are promptly corrected.
 
-The Area Presidency follows the guidelines in theGuide to the Area Audit Programwhen calling an area auditor or assistant area auditor.
+The Area Presidency follows the guidelines in the [Guide to the Area Audit Program](https://assets.churchofjesuschrist.org/c8/df/c8dfbac534c211efba09eeeeac1ebe3c921628a1/2024_auditing_guideline_documents.pdf "https://assets.churchofjesuschrist.org/c8/df/c8dfbac534c211efba09eeeeac1ebe3c921628a1/2024_auditing_guideline_documents.pdf") when calling an area auditor or assistant area auditor.
 
 The stake president or chairman of the stake audit committee should be notified promptly if:
 
@@ -297,13 +303,13 @@ The stake president or the chairman of the audit committee notifies the Church A
 
 The Church Auditing Department (or area controller) sends a loss report form to the stake president or chairman of the audit committee. Under the direction of the Church Auditing Department (or the area controller), the stake president or chairman of the audit committee ensures that the matter is properly examined. He also ensures that the loss form is properly completed and submitted.
 
-After the examination is complete, if the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, membership action should be considered. Guidelines are in32.6.3.3.
+After the examination is complete, if the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, membership action should be considered. Guidelines are in [32.6.3.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number33-p142#title_number33").
 
 If a major misuse of funds is discovered, the stake president or chairman of the audit committee also notifies the Area Presidency.
 
 The stake audit committee may assign the stake clerk or the assistant stake clerk assigned to finances to instruct ward leaders in proper financial policy. He also instructs them in procedures related to exceptions disclosed by audits.
 
-For more information about audit committees, auditors, and audit procedures, see theHelp CenteratChurchofJesusChrist.org. Stake audit committees may direct questions to the assistant area auditor.
+For more information about audit committees, auditors, and audit procedures, see the [Help Center](https://www.churchofjesuschrist.org/help/support "https://www.churchofjesuschrist.org/help/support") at ChurchofJesusChrist.org. Stake audit committees may direct questions to the assistant area auditor.
 
 The tax information in this section applies only in the United States and Canada. If priesthood leaders in the United States and Canada need more information, they should contact the Tax Administration Division:
 
@@ -317,7 +323,7 @@ Telephone: 1-801-240-4405 or 1-800-453-3860, extension 2-4405
 
 Priesthood leaders outside the United States and Canada contact the area office to resolve questions on taxes.
 
-The Church is normally exempt from paying sales, property, income, and other taxes because it is a religious organization. Church buildings and other properties are to be used for the purposes of worship, religious instruction, and other Church-related activities. Stake and ward leaders ensure that Church facilities are not used for political, business, or investment purposes as outlined in the examples in35.5.6.1and35.5.6.3. To do so would violate laws that permit tax exemption of Church property.
+The Church is normally exempt from paying sales, property, income, and other taxes because it is a religious organization. Church buildings and other properties are to be used for the purposes of worship, religious instruction, and other Church-related activities. Stake and ward leaders ensure that Church facilities are not used for political, business, or investment purposes as outlined in the examples in [35.5.6.1](/study/manual/general-handbook/35?lang=eng&id=title_number46-p243#title_number46 "/study/manual/general-handbook/35?lang=eng&id=title_number46-p243#title_number46") and [35.5.6.3](/study/manual/general-handbook/35?lang=eng&id=title_number48-p245#title_number48 "/study/manual/general-handbook/35?lang=eng&id=title_number48-p245#title_number48"). To do so would violate laws that permit tax exemption of Church property.
 
 It is important that stake and ward leaders follow these guidelines to preserve the Church’s tax-exempt status. If one stake or ward misuses the Church’s tax-exempt status, other Church units could be affected.
 
