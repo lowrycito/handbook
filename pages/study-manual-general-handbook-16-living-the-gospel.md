@@ -1,3 +1,8 @@
+---
+title: "16. Living the Gospel of Jesus Christ"
+url: "/study/manual/general-handbook/16-living-the-gospel?lang=eng"
+---
+
 “Living the Gospel of Jesus Christ,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “Living the Gospel of Jesus Christ,” General Handbook.

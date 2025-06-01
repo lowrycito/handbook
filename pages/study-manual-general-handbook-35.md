@@ -1,3 +1,8 @@
+---
+title: "35. Care and Use of Meetinghouses"
+url: "/study/manual/general-handbook/35?lang=eng"
+---
+
 “35. Care and Use of Meetinghouses,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “35. Care and Use of Meetinghouses,” General Handbook.

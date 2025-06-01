@@ -1,3 +1,8 @@
+---
+title: "21. Ministering"
+url: "/study/manual/general-handbook/21-ministering?lang=eng"
+---
+
 “21. Ministering,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “21. Ministering,” General Handbook.

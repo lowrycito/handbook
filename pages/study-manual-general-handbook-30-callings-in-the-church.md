@@ -1,3 +1,8 @@
+---
+title: "30. Callings in the Church"
+url: "/study/manual/general-handbook/30-callings-in-the-church?lang=eng"
+---
+
 “30. Callings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “30. Callings in the Church,” General Handbook.

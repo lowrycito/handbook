@@ -1,3 +1,8 @@
+---
+title: "17. Teaching the Gospel"
+url: "/study/manual/general-handbook/17-teaching-the-gospel?lang=eng"
+---
+
 “17. Teaching the Gospel,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “17. Teaching the Gospel,” General Handbook.

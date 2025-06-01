@@ -1,3 +1,8 @@
+---
+title: "15. Seminaries and Institutes of Religion"
+url: "/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng"
+---
+
 “15. Seminaries and Institutes of Religion,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “15. Seminaries and Institutes of Religion,” General Handbook.

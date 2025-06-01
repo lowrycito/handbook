@@ -1,3 +1,8 @@
+---
+title: "10. Aaronic Priesthood Quorums"
+url: "/study/manual/general-handbook/10-aaronic-priesthood?lang=eng"
+---
+
 “10. Aaronic Priesthood Quorums,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “10. Aaronic Priesthood Quorums,” General Handbook.

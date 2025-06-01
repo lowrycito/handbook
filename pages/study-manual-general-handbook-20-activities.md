@@ -1,3 +1,8 @@
+---
+title: "20. Activities"
+url: "/study/manual/general-handbook/20-activities?lang=eng"
+---
+
 “20. Activities,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “20. Activities,” General Handbook.

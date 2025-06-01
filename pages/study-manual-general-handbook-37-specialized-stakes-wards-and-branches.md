@@ -1,3 +1,8 @@
+---
+title: "37. Specialized Stakes, Wards, and Branches"
+url: "/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng"
+---
+
 “37. Specialized Stakes, Wards, and Branches,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “37. Specialized Stakes, Wards, and Branches,” General Handbook.

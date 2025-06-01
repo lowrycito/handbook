@@ -1,3 +1,8 @@
+---
+title: "23. Sharing the Gospel and Strengthening New and Returning Members"
+url: "/study/manual/general-handbook/23?lang=eng"
+---
+
 “23. Sharing the Gospel and Strengthening New and Returning Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “23. Sharing the Gospel and Strengthening New and Returning Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.

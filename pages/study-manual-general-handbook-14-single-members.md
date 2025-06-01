@@ -1,3 +1,8 @@
+---
+title: "14. Single Members"
+url: "/study/manual/general-handbook/14-single-members?lang=eng"
+---
+
 “14. Single Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “14. Single Members,” General Handbook.

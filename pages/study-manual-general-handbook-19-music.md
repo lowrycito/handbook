@@ -1,3 +1,8 @@
+---
+title: "19. Music"
+url: "/study/manual/general-handbook/19-music?lang=eng"
+---
+
 “19. Music,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “19. Music,” General Handbook.

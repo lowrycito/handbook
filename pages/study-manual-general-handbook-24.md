@@ -1,3 +1,8 @@
+---
+title: "24. Missionary Recommendations and Service"
+url: "/study/manual/general-handbook/24?lang=eng"
+---
+
 “24. Missionary Recommendations and Service,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “24. Missionary Recommendations and Service,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.

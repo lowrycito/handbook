@@ -1,3 +1,8 @@
+---
+title: "25. Temple and Family History Work in the Ward and Stake"
+url: "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng"
+---
+
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “25. Temple and Family History Work in the Ward and Stake,” General Handbook.

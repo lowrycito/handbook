@@ -1,3 +1,8 @@
+---
+title: "13. Sunday School"
+url: "/study/manual/general-handbook/13-sunday-school?lang=eng"
+---
+
 “13. Sunday School,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “13. Sunday School,” General Handbook.

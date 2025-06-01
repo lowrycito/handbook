@@ -1,3 +1,8 @@
+---
+title: "11. Young Women"
+url: "/study/manual/general-handbook/11-young-women?lang=eng"
+---
+
 “11. Young Women,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “11. Young Women,” General Handbook.

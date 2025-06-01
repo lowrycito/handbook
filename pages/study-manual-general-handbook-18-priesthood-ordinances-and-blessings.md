@@ -1,3 +1,8 @@
+---
+title: "18. Performing Priesthood Ordinances and Blessings"
+url: "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng"
+---
+
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “18. Performing Priesthood Ordinances and Blessings,” General Handbook.

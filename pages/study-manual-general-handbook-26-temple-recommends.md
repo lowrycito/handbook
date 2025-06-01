@@ -1,3 +1,8 @@
+---
+title: "26. Temple Recommends"
+url: "/study/manual/general-handbook/26-temple-recommends?lang=eng"
+---
+
 “26. Temple Recommends,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “26. Temple Recommends,” General Handbook.
