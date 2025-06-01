@@ -174,8 +174,8 @@ def get_links(url, max_retries=3):
 
 def clean_html_for_conversion(content_article):
   """Clean up HTML content before conversion to markdown"""
-  # Remove script, style, and other unwanted elements
-  for unwanted in content_article(["script", "style", "nav", "aside", "footer", "header"]):
+  # Remove script, style, and other unwanted elements including images
+  for unwanted in content_article(["script", "style", "nav", "aside", "footer", "header", "img"]):
     unwanted.decompose()
   
   # Remove comments
@@ -243,8 +243,7 @@ def html_to_markdown(url, max_retries=3):
     wrap=False,                    # Don't wrap lines to preserve structure
     convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'section'],
     escape_asterisks=False,        # Don't escape asterisks unnecessarily
-    escape_underscores=False,      # Don't escape underscores unnecessarily
-    strip=['img']                  # Only strip img tags, preserve everything else
+    escape_underscores=False       # Don't escape underscores unnecessarily
   )
   
   # Post-process the markdown to fix common issues
