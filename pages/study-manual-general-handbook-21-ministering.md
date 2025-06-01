@@ -2,6 +2,16 @@
 
 “21. Ministering,” General Handbook.
 
+![men lifting rock](https://www.churchofjesuschrist.org/imgs/e980e95e4b2b11ed805deeeeac1ecff830cc9e22/full/%21100%2C/0/default)
+
+21.
+
+# Ministering
+
+21.0
+
+## Introduction
+
 Ministering means serving others as the Savior did (see [Matthew 20:26–28](/study/scriptures/nt/matt/20?lang=eng&id=p26-p28#p26 "/study/scriptures/nt/matt/20?lang=eng&id=p26-p28#p26")). He loved, taught, prayed for, comforted, and blessed those around Him (see [Acts 10:38](/study/scriptures/nt/acts/10?lang=eng&id=p38#p38 "/study/scriptures/nt/acts/10?lang=eng&id=p38#p38")). As disciples of Jesus Christ, we seek to minister to God’s children.
 
 The Lord wants all members of His Church to receive such care. For this reason, priesthood holders are assigned as ministering brothers to each member household. Ministering sisters are assigned to each adult sister. These assignments help ensure that Church members are remembered and cared for (see [Moroni 6:4](/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4 "/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4")).
@@ -9,6 +19,10 @@ The Lord wants all members of His Church to receive such care. For this reason, 
 Ministering is an important way we keep the commandments to love God and to love our neighbors (see [Matthew 22:36–40](/study/scriptures/nt/matt/22?lang=eng&id=p36-p40#p36 "/study/scriptures/nt/matt/22?lang=eng&id=p36-p40#p36")). It is also a vital way to help accomplish God’s work of salvation and exaltation.
 
 Elders quorum and Relief Society presidencies help ministering brothers and sisters learn how to minister to others. They also give inspiration, guidance, and support. They can do this in ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")), in Sunday meetings, and in personal conversations. They seek inspiration from the scriptures, this chapter, and [ministering.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/ministering "https://www.churchofjesuschrist.org/ministering").
+
+21.1
+
+## Responsibilities of Ministering Sisters and Brothers
 
 Ministering sisters and brothers represent the Lord. They also help members feel the love and support of the bishop and Relief Society or quorum leaders. They are to “watch over” Church members and “be with and strengthen them” ([Doctrine and Covenants 20:53](/study/scriptures/dc-testament/dc/20?lang=eng&id=p53#p53 "/study/scriptures/dc-testament/dc/20?lang=eng&id=p53#p53")).
 
@@ -27,7 +41,15 @@ Ministering sisters and brothers adapt their efforts to the needs and circumstan
 
 There may be needs that ministering brothers or sisters cannot meet alone. In such cases, they counsel with a member of the Relief Society or elders quorum presidency.
 
+21.2
+
+## Organizing Ministering
+
 The Savior gave His disciples meaningful assignments (see [Luke 10:1–17](/study/scriptures/nt/luke/10?lang=eng&id=p1-p17#p1 "/study/scriptures/nt/luke/10?lang=eng&id=p1-p17#p1"); see also [4.2.6](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number10-p43#title_number10 "/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number10-p43#title_number10") in this handbook). Following this pattern, we receive assignments to minister to specific individuals and families. An organized approach to ministering helps give each person opportunities to feel the Savior’s love.
+
+21.2.1
+
+### Making Assignments
 
 Elders quorum and Relief Society presidencies prayerfully consider assignments for ministering brothers and sisters. They take into account the strengths and needs of the members. They also consider the needs of children in the family. They normally assign two brothers or two sisters as companionships. They seek the bishop’s approval for ministering companionships and assignments.
 
@@ -44,6 +66,10 @@ These leaders counsel with the ministering brothers or sisters about the strengt
 
 Ministering brothers and sisters are not called, sustained, or set apart. Their service is part of the covenant they made at baptism (see [Mosiah 18:8–11](/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p11#p8 "/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p11#p8")).
 
+21.2.2
+
+### Ministering Assignments for Youth
+
 Even before they receive ministering assignments, youth minister to others by serving them in Christlike ways. A youth’s service as a ministering sister or brother can be a significant part of helping accomplish God’s work of salvation and exaltation.
 
 A young woman may serve as a ministering companion to a Relief Society sister when the young woman is willing and able. She may begin serving in the year she turns 14. The Relief Society presidency counsels with the young woman, her parents, and the Young Women presidency as they consider ministering assignments.
@@ -53,6 +79,8 @@ It is often a blessing to a sister to have a young woman minister to her. It can
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff1b580815f051f57e3454d8185b80a17b364919e%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:38
+
+Involving Young Women in Relief Society Ministering
 
 A young man serves as a ministering companion to a Melchizedek Priesthood holder when he is ordained to the office of teacher or priest. The bishop determines whether the young man is worthy and prepared to be ordained. (See [10.1.3.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number8-p16#title_number8 "/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number8-p16#title_number8").) The elders quorum presidency counsels with the young man, his parents, and the bishopric as they consider ministering assignments.
 
@@ -66,13 +94,23 @@ Adult companions should avoid situations that might be misunderstood. They use c
 
 ![youth gardening](https://www.churchofjesuschrist.org/imgs/1b0577e34b3011ed9712eeeeac1ed507baa8f9a9/full/%21500%2C/0/default)
 
+21.2.3
+
+### Full-Time Missionaries
+
 If the mission president approves, full-time missionaries can help with ministering. Ward leaders can seek his approval through the stake president. Full-time missionaries are usually assigned to minister to new members, part-member families, and less-active members.
+
+21.3
+
+## Ministering Interviews
 
 The Savior had a simple yet profound interview with Peter about feeding His sheep (see [John 21:15–17](/study/scriptures/nt/john/21?lang=eng&id=p15-p17#p15 "/study/scriptures/nt/john/21?lang=eng&id=p15-p17#p15")). Ministering interviews can be a similar opportunity. They also allow leaders to set an example of ministering.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb384e02c1c4ec600a46ccd3d930fc2288315b515%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:34
+
+Using Ministering Interviews to Help Sisters Grow
 
 The elders quorum president and his counselors interview ministering brothers. The Relief Society president and her counselors interview ministering sisters. A married couple assigned to minister together can meet with elders quorum or Relief Society leaders or both.
 
@@ -89,11 +127,17 @@ Between interviews, ministering brothers and sisters communicate with leaders as
 
 Leaders use [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") to report ministering interviews.
 
+21.4
+
+## Coordinating Ministering Efforts
+
 The Relief Society and the elders quorum share the work of ministering. They do this work in unity.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:49
+
+One Coordinated Effort
 
 Relief Society and elders quorum presidencies meet together at least quarterly. They review what they have learned in ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")). They also coordinate ministering assignments. The two presidents share the responsibility of organizing and conducting the meeting.
 

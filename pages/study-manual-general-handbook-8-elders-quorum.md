@@ -2,13 +2,31 @@
 
 “8. Elders Quorum,” General Handbook.
 
+![men talking](https://www.churchofjesuschrist.org/imgs/eaee0def4b2b11edbce2eeeeac1e2cf28682b7c8/full/%21100%2C/0/default)
+
+8.
+
+# Elders Quorum
+
+8.1
+
+## Purpose and Organization
+
 The Melchizedek Priesthood helps God’s children prepare to return to His presence. It holds “the keys of all the spiritual blessings of the church” ([Doctrine and Covenants 107:18](/study/scriptures/dc-testament/dc/107?lang=eng&id=p18#p18 "/study/scriptures/dc-testament/dc/107?lang=eng&id=p18#p18")).
 
 The offices in the Melchizedek Priesthood are elder, high priest, patriarch, Seventy, and Apostle. This chapter contains information about elders and elders quorums.
 
+8.1.1
+
+### Purpose
+
 Worthy men 18 and older may receive the Melchizedek Priesthood and be ordained to the office of elder. A man ordained to that office enters into a sacred covenant to assist God in accomplishing His work (see [Doctrine and Covenants 84:33–44](/study/scriptures/dc-testament/dc/84?lang=eng&id=p33-p44#p33 "/study/scriptures/dc-testament/dc/84?lang=eng&id=p33-p44#p33")).
 
 Each elder is part of an organized group of priesthood holders called an elders quorum. Members of the elders quorum work together to help accomplish God’s work of salvation and exaltation. They serve others, fulfill priesthood duties, build unity, and learn and live doctrine.
+
+8.1.2
+
+### Membership in the Elders Quorum
 
 Each ward has an elders quorum. It includes the following brethren:
 
@@ -22,11 +40,23 @@ Married men under 18 are prospective elders and are also members of the elders 
 
 For information about unwed parents under age 18, see [38.1.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number216-p2301#title_number216 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number216-p2301#title_number216").
 
+8.1.3
+
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3") Adapting to Local Needs
+
 Some wards have a very large number of active Melchizedek Priesthood holders. For these wards, the stake presidency may organize an additional elders quorum (see [Doctrine and Covenants 107:89](/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89 "/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89")). Each quorum has its own presidency. If possible, each quorum should have members with a variety of ages and experience.
+
+8.2
+
+## Participating in God’s Work of Salvation and Exaltation
+
+
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:31
+
+Efforts Magnified as Presidencies Work Together
 
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
@@ -39,13 +69,25 @@ Elders quorum leaders plan Sunday meetings, activities, ministering, service, an
 
 For more information about God’s work of salvation and exaltation, study [chapter 1](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng").
 
+8.2.1
+
+### Living the Gospel of Jesus Christ
+
 Elders quorum leaders support members in living the gospel of Jesus Christ. They emphasize exercising faith, repenting, increasing in self-reliance, and making covenants with God by receiving ordinances. Such ordinances include the temple endowment. See [1.2.1](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number4-p16#title_number4 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number4-p16#title_number4").
+
+8.2.1.1
+
+#### Gospel Learning at Home
 
 When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me](/study/come-follow-me?lang=eng "/study/come-follow-me?lang=eng") and other resources can supplement their study.
 
 Home evenings are an important way to learn the gospel at home. They are usually held weekly on Sunday, on Monday evening, or at another time. They could include prayers, gospel study, testimonies, singing, and fun activities.
 
 ![family reading](https://www.churchofjesuschrist.org/imgs/07b773994b3011edb66ceeeeac1e4bfc717bb4f2/full/%21500%2C/0/default)
+
+8.2.1.2
+
+#### Gospel Learning in Quorum Meetings
 
 Elders quorums meet on Sundays for the following purposes:
 
@@ -68,9 +110,17 @@ The elders quorum and Relief Society may occasionally combine for a Sunday lesso
 
 For more information, see “[To Sit in Council](https://www.churchofjesuschrist.org/callings/relief-society-organization/my-calling/to-sit-in-council "https://www.churchofjesuschrist.org/callings/relief-society-organization/my-calling/to-sit-in-council").”
 
+8.2.1.3
+
+#### Activities
+
 Elders quorum presidencies may plan activities. The president oversees activities. He may ask a counselor or another quorum member to take the lead in planning and carrying them out (see [8.3.5](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number35-p283#title_number35 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number35-p283#title_number35")). Presidencies discuss activities with the bishop as part of their planning.
 
 Activities should strengthen quorum members’ desires to make and keep covenants and give them opportunities to gather and serve together. Activities should help accomplish the purposes of elders quorums (see [8.1](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number2-p188#title_number2 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number2-p188#title_number2") and [8.1.1](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number3-p180#title_number3 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number3-p180#title_number3")).
+
+8.2.2
+
+### Caring for Those in Need
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](https://www.justserve.org "https://www.justserve.org") suggests community service opportunities.
 
@@ -78,9 +128,19 @@ As followers of Jesus Christ, elders quorum members have a responsibility to rea
 
 2:46
 
+How to Care for Those in Need
+
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52").
 
+8.2.2.1
+
+#### Ministering
+
 Ministering is caring for others as the Savior would. Members of the elders quorum receive ministering assignments from the quorum presidency. For more information, see [chapter 21](/study/manual/general-handbook/21-ministering?lang=eng "/study/manual/general-handbook/21-ministering?lang=eng").
+
+8.2.2.2
+
+#### Short-Term Needs
 
 Ministering brothers seek to understand and respond to the needs of those they serve. Members may need short-term assistance at times of illness, births, deaths, job loss, and other circumstances.
 
@@ -92,17 +152,29 @@ In some locations, bishops have the option to provide members in need with a bis
 
 For more information, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52") and “[Welfare Resources](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org")” in Leader and Clerk Resources.
 
+8.2.2.3
+
+#### Long-Term Needs and Self-Reliance
+
 As coordinated by the bishop, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng") and “[Self-Reliance](/study/books-and-lessons/self-reliance-resources?lang=eng "/study/books-and-lessons/self-reliance-resources?lang=eng")” in the Gospel Library app.
 
 If a person or family needs assistance, the elders quorum and Relief Society presidents counsel together, as coordinated by the bishop, about how to help (see [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number27-p145#title_number27 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number27-p145#title_number27")).
 
 The elders quorum president, Relief Society president, or another leader helps the person or family develop a [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf "https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf"). Ministering brothers or sisters can also help with the plan. Often, other members of the elders quorum or Relief Society have skills or experience that can help. All who assist treat information with confidentiality. For more information, see [22.3.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number26-p117#title_number26 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number26-p117#title_number26") and [22.8](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number86-p209#title_number86 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number86-p209#title_number86").
 
+8.2.2.4
+
+#### When a Ward Member Dies
+
 When a ward member dies, elders quorum and Relief Society presidencies offer comfort and assistance. Under the bishop’s guidance, they can help with the funeral.
 
 If possible, deceased members who were endowed are buried or cremated in temple clothing. The body of a man may be dressed by his wife or by an endowed male family member. If a family member is not available or would prefer not to do the dressing, the bishop may ask the elders quorum president to invite an endowed man to dress the body or oversee the dressing. For more information, see [38.5.10](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number237-p2466#title_number237 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number237-p2466#title_number237").
 
 Elders quorum and Relief Society presidencies, ministering brothers and sisters, and others continue to offer comfort and assistance after the funeral.
+
+8.2.3
+
+### Inviting All to Receive the Gospel
 
 Melchizedek Priesthood holders have a duty to invite all to receive the blessings of the gospel of Jesus Christ (see [Doctrine and Covenants 53:3](/study/scriptures/dc-testament/dc/53?lang=eng&id=p3#p3 "/study/scriptures/dc-testament/dc/53?lang=eng&id=p3#p3")). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active. See [23.2](/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7 "/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7") and [23.3](/study/manual/general-handbook/23?lang=eng&id=title_number8-p33#title_number8 "/study/manual/general-handbook/23?lang=eng&id=title_number8-p33#title_number8").
 
@@ -113,6 +185,10 @@ The elders quorum president assigns a member of the presidency to help lead effo
 This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1](/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15 "/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15") and [23.6.3](/study/manual/general-handbook/23?lang=eng&id=title_number17-p68#title_number17 "/study/manual/general-handbook/23?lang=eng&id=title_number17-p68#title_number17").
 
 The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4](/study/manual/general-handbook/23?lang=eng&id=title_number9-p47#title_number9 "/study/manual/general-handbook/23?lang=eng&id=title_number9-p47#title_number9").
+
+8.2.4
+
+### Uniting Families for Eternity
 
 Melchizedek Priesthood holders support members in uniting families for eternity. This includes:
 
@@ -135,13 +211,35 @@ The ward temple and family history leader, who may be a member of the elders quo
 
 2:45
 
+Helping Members Gain the Vision
+
 ![men looking at picture](https://www.churchofjesuschrist.org/imgs/0dec32634b3011edb8dfeeeeac1eac245f9f22a8/full/%21500%2C/0/default)
+
+8.3
+
+## Elders Quorum Leaders
+
+8.3.1
+
+### Stake Presidency and Bishop
 
 The elders quorum president is directly responsible to the stake presidency. He meets regularly with a member of the presidency to receive direction and report on his responsibilities.
 
 The elders quorum president also receives guidance from the bishop, who is the presiding officer in the ward. They meet regularly. They discuss their efforts in God’s work of salvation and exaltation, including the service of ministering brothers. They also discuss (1) the progress and needs of ward members and (2) elders quorum meetings, instruction, and activities.
 
+8.3.2
+
+### High Councilor
+
 The stake presidency assigns a high councilor to represent them in each elders quorum. His responsibilities are outlined in [6.5](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number19-p190#title_number19 "/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number19-p190#title_number19").
+
+8.3.3
+
+### Elders Quorum Presidency
+
+8.3.3.1
+
+#### Calling an Elders Quorum Presidency
 
 After consulting with the bishop, the stake president calls an elder or high priest to serve as the elders quorum president.
 
@@ -154,6 +252,10 @@ A member of the stake presidency presents members of the elders quorum presidenc
 A member of the elders quorum presidency presents brethren who are called to other quorum callings for sustaining in a quorum meeting (see [8.3.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number12-p275#title_number12 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number12-p275#title_number12") and [8.3.5](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number35-p283#title_number35 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number35-p283#title_number35")).
 
 The stake president sets apart the elders quorum president and confers on him the keys of his calling. For more information about priesthood keys, see [3.4.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number8-p42#title_number8 "/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number8-p42#title_number8"). A member of the stake presidency or high council sets apart the counselors.
+
+8.3.3.2
+
+#### Responsibilities
 
 The elders quorum president has the following responsibilities. His counselors assist him.
 
@@ -177,6 +279,10 @@ The stake presidency and assigned members of the high council teach the elders q
 
 Through his service, the elders quorum president supports the bishop in focusing on the youth and on the bishop’s unique responsibilities.
 
+8.3.3.3
+
+#### Presidency Meeting
+
 The elders quorum presidency and secretary meet regularly. The president conducts these meetings. The high councilor assigned to the quorum periodically attends.
 
 The agenda could include the following items:
@@ -191,6 +297,10 @@ The agenda could include the following items:
 - Consider brethren to serve in callings and assignments.
 - Plan quorum meetings and activities.
 
+8.3.4
+
+### Secretary
+
 With the bishop’s approval, a member of the elders quorum presidency may call a quorum member to be the quorum secretary. He presents him for sustaining in a quorum meeting and sets him apart.
 
 The secretary’s responsibilities could include the following:
@@ -200,6 +310,10 @@ The secretary’s responsibilities could include the following:
 - Schedule ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")).
 - Prepare and submit quarterly reports of attendance and the number of ministering interviews held. Attendance reports should include brethren serving in Primary and Young Men.
 - Help prepare an annual budget and keep track of expenses.
+
+8.3.5
+
+### Additional Callings and Assignments
 
 The following additional callings may be helpful. The bishop and elders quorum president discuss whether they are needed.
 
@@ -214,6 +328,10 @@ If these or other callings are needed, the elders quorum presidency recommends b
 As needed, the elders quorum presidency may assign brethren to help with elders quorum efforts in other ways. Brethren with short-term assignments do not need to be called and set apart.
 
 ![two men giving someone priesthood blessing](https://www.churchofjesuschrist.org/imgs/2062c25e4b3011edbf70eeeeac1eec56d45c527f/full/%21500%2C/0/default)
+
+8.4
+
+## Helping Prospective Elders Prepare to Receive the Melchizedek Priesthood
 
 A prospective elder is a male Church member who has not received the Melchizedek Priesthood and (1) is 19 or older or (2) is younger than 19 and married.
 
@@ -231,5 +349,9 @@ For information about these topics, see “[Melchizedek Priesthood](/study/manua
 This instruction may occur individually or in a class held outside of regular Sunday meetings.
 
 As soon as the bishop and stake president determine that a prospective elder is prepared and worthy, he may be ordained an elder in the Melchizedek Priesthood.
+
+8.5
+
+## Members with Disabilities
 
 The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability "https://www.churchofjesuschrist.org/life/disability"); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number167-p631#title_number167") in this handbook.

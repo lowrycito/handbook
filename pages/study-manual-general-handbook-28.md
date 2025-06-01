@@ -2,6 +2,16 @@
 
 “28. Temple Ordinances for the Deceased,” General Handbook.
 
+![baptismal font](https://www.churchofjesuschrist.org/imgs/e98248ea4b2b11edb733eeeeac1e55b8b4fff9c0/full/%21100%2C/0/default)
+
+28.
+
+# Temple Ordinances for the Deceased
+
+28.0
+
+## Introduction
+
 Uniting families for eternity is part of God’s work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3")). Ordinances performed in temples make it possible for families to be together for eternity and experience a fulness of joy in God’s presence.
 
 For Heavenly Father’s children to return to Him, each of them must repent, become worthy to receive the ordinances of salvation and exaltation, and honor the covenants associated with each ordinance. The ordinances of salvation and exaltation are:
@@ -26,6 +36,10 @@ Church members are blessed when they perform temple ordinances for the deceased.
 
 Stake presidents and bishops help members prepare to have positive experiences performing temple ordinances. They do this by teaching the doctrinal basis of temple work and ensuring that members understand the guidelines for this work. See [chapter 25](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng") for more information.
 
+28.1
+
+## General Guidelines for Performing Proxy Ordinances
+
 Deceased persons who were age 8 or older at the time of their death may have proxy ordinances performed on their behalf. Except as noted in [28.3](/study/manual/general-handbook/28?lang=eng&id=title_number4-p99#title_number4 "/study/manual/general-handbook/28?lang=eng&id=title_number4-p99#title_number4"), proxy ordinances may be performed for all deceased persons as soon as 30 days have passed from their date of death if either of the following applies:
 
 - A close relative of the deceased (undivorced spouse, adult child, parent, or sibling) submits the name for temple ordinances.
@@ -38,6 +52,10 @@ For more information, see the following articles on [FamilySearch.org](https://w
 - “[Individuals for whom I can request temple ordinances](https://www.familysearch.org/help/helpcenter/article/individuals-for-whom-i-can-request-temple-ordinances "https://www.familysearch.org/help/helpcenter/article/individuals-for-whom-i-can-request-temple-ordinances")”
 - “[What is the 110-year policy, and why was it initiated?](https://www.familysearch.org/help/helpcenter/article/what-is-the-110-year-policy-and-why-was-it-initiated "https://www.familysearch.org/help/helpcenter/article/what-is-the-110-year-policy-and-why-was-it-initiated")”
 
+28.1.1
+
+### Preparing the Names of Deceased Persons for Temple Ordinances
+
 Many resources are available to help members identify deceased relatives who need ordinances performed on their behalf (see [25.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number21-p121#title_number21 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number21-p121#title_number21") and [28.3](/study/manual/general-handbook/28?lang=eng&id=title_number4-p99#title_number4 "/study/manual/general-handbook/28?lang=eng&id=title_number4-p99#title_number4")). The following leaders help members learn how to prepare the names of deceased family members for temple ordinances:
 
 - Elders quorum and ward Relief Society presidencies (see [25.2.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8"))
@@ -46,7 +64,15 @@ Many resources are available to help members identify deceased relatives who nee
 
 Where possible, information identifying deceased family members should be entered into [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org") before temple ordinances are performed (see [25.4.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23")).
 
+28.1.1.1
+
+#### Submitting the Names of Family Members
+
 When submitting names for proxy temple ordinances, members should generally submit only the names of persons to whom they are related.
+
+28.1.1.2
+
+#### Submitting the Names of Celebrities and Unauthorized Groups
 
 Generally, Church members should not submit names to [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org") from the following groups:
 
@@ -56,7 +82,15 @@ Generally, Church members should not submit names to [FamilySearch.org](https://
 
 For more information, see the following article on FamilySearch: “[Can I do temple work for victims of the Jewish Holocaust?](https://www.familysearch.org/en/help/helpcenter/article/can-i-do-temple-work-for-victims-of-the-jewish-holocaust "https://www.familysearch.org/en/help/helpcenter/article/can-i-do-temple-work-for-victims-of-the-jewish-holocaust")”
 
+28.1.2
+
+### Who May Participate in Ordinances for the Deceased
+
 All members who have a current temple recommend may participate in baptisms and confirmations for the dead. Endowed members with a current temple recommend may participate in all ordinances for the deceased. See [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9").
+
+28.1.3
+
+### Participation by Members Who Have Physical or Intellectual Disabilities
 
 Members who have disabilities may do temple work for the deceased if they:
 
@@ -66,13 +100,33 @@ Members who have disabilities may do temple work for the deceased if they:
 
 See [27.1.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number6-p18#title_number6 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number6-p18#title_number6") and [27.2.1.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number15-p56#title_number15 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number15-p56#title_number15").
 
+28.1.4
+
+### Scheduling
+
 Members may need to make an appointment before performing ordinances for the deceased. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples "https://www.churchofjesuschrist.org/temples") for each temple’s contact information and scheduling requirements.
+
+28.1.5
+
+### Translation or Interpretation Assistance
 
 See [27.1.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number7-p19#title_number7 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number7-p19#title_number7").
 
+28.1.6
+
+### Clothing to Wear to a Temple
+
 See [27.1.5](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number8-p24#title_number8 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number8-p24#title_number8").
 
+28.1.7
+
+### Child Care
+
 See [27.1.6](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number9-p27#title_number9 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number9-p27#title_number9").
+
+28.2
+
+## Performing Temple Ordinances for Deceased Persons
 
 The following sections explain the ordinances that are performed by proxy for deceased persons in temples. When performing proxy ordinances, a member may act as proxy only for a deceased person who is the same birth sex as the member.
 
@@ -86,6 +140,10 @@ Temple ordinances for the deceased are generally performed in the following orde
 - Sealings
 
 If ordinances for the deceased are completed out of sequence, they do not need to be performed again. They become effective when the prerequisite ordinances are completed.
+
+28.2.1
+
+### Baptisms and Confirmations for the Dead
 
 Any member who has a current temple recommend may be invited to serve in one or more baptistry assignments. Some of the assignments might include:
 
@@ -107,7 +165,15 @@ Only endowed men may be invited to:
 
 Organized groups such as families, wards, and stakes that desire to participate in ordinances in the baptistry normally schedule with the temple in advance (see [28.1.4](/study/manual/general-handbook/28?lang=eng&id=title_number22-p70#title_number22 "/study/manual/general-handbook/28?lang=eng&id=title_number22-p70#title_number22")). One or more adults with current temple recommends should accompany these groups.
 
+28.2.2
+
+### Endowment (Including Initiatory)
+
 When performing proxy endowments for the deceased, the initiatory portion of the endowment is performed and recorded separately (see [27.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11")). Any endowed member with a current temple recommend may act as a proxy to receive these ordinances.
+
+28.2.3
+
+### Sealing to Spouse and Sealing Children to Parents
 
 In the temple, deceased persons may be sealed to spouses to whom they were married in life (see [38.4.1.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number75-p237#title_number75 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number75-p237#title_number75") if either spouse is still living and [38.4.1.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number79-p247#title_number79 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number79-p247#title_number79") if both spouses are deceased). Deceased persons may also have their living or deceased children sealed to them (see [38.4.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number83-p260#title_number83 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number83-p260#title_number83")). An endowed member with a current temple recommend may act as a proxy for sealing ordinances.
 
@@ -115,15 +181,35 @@ The ordinances of baptism, confirmation, initiatory, and endowment are generally
 
 ![sealing room](https://www.churchofjesuschrist.org/imgs/0dde9dd34b3011ed88eaeeeeac1e57210d0ce58d/full/%21500%2C/0/default)
 
+28.3
+
+## Special Circumstances
+
 This section explains circumstances in which some of the guidelines in [28.1](/study/manual/general-handbook/28?lang=eng&id=title_number2-p73#title_number2 "/study/manual/general-handbook/28?lang=eng&id=title_number2-p73#title_number2") may not apply.
+
+28.3.1
+
+### Children Who Died before Birth (Stillborn and Miscarried Children)
 
 Temple ordinances are not needed or performed for children who die before birth. For more information, see [38.7.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number130-p2375#title_number130 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number130-p2375#title_number130").
 
+28.3.2
+
+### Children Who Died before Age Eight
+
 Little children are redeemed through the Atonement of Jesus Christ and “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](/study/scriptures/dc-testament/dc/137?lang=eng&id=p10#p10 "/study/scriptures/dc-testament/dc/137?lang=eng&id=p10#p10")). For this reason, no baptism or endowment is performed for a child who died before age 8. However, sealings to parents may be performed for children who were not born in the covenant or did not receive that ordinance in life (see [18.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number2-p242#title_number2 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number2-p242#title_number2")).
+
+28.3.3
+
+### Deceased Persons Who Had Intellectual Disabilities
 
 Temple ordinances may be performed for deceased persons who are known to have been accountable (see [Doctrine and Covenants 20:71](/study/scriptures/dc-testament/dc/20?lang=eng&id=p71#p71 "/study/scriptures/dc-testament/dc/20?lang=eng&id=p71#p71")). Temple ordinances may also be performed for persons whose accountability is unknown.
 
 If it is clearly known that a deceased person had intellectual disabilities and was not accountable, the only ordinance performed is that of sealing to parents (see [38.2.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number38-p2743#title_number38 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number38-p2743#title_number38")). This is done only if the person was not born in the covenant or was not sealed to his or her parents while living. Other temple ordinances are not needed or performed even if the person lived to be age 8 or older.
+
+28.3.4
+
+### Persons Who Are Presumed Dead
 
 Temple ordinances may be performed for a person who is presumed dead. The ordinances cannot be performed until 10 years have passed since the time the person is presumed dead or legally declared dead. This policy applies to persons who either:
 
@@ -136,9 +222,21 @@ The stake president may contact the Temple Department if he has questions about 
 
 Email: [TempleDepartment@ChurchofJesusChrist.org](mailto:templedepartment@churchofjesuschrist.org "mailto:templedepartment@churchofjesuschrist.org")
 
+28.3.5
+
+### Persons Whose Church Membership Was Withdrawn or Who Resigned Membership
+
 If persons either had their Church membership withdrawn or had resigned membership before they died, First Presidency approval is required before temple ordinances, including restoration of blessings when applicable, can be performed for them. A family member may seek this approval in a letter to the Office of the First Presidency after one year has passed since the person’s death. The letter should explain the circumstances. No form is required. The bishop or stake president may assist with this request as needed.
 
+28.3.5.1
+
+#### Readmission of Deceased Persons Who Were Not Endowed
+
 Deceased persons who were not endowed but whose Church membership was withdrawn or who resigned membership may be readmitted by baptism and confirmation. First Presidency approval is needed, as noted in [28.3.5](/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12 "/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12"). These deceased persons do not need to be sealed to their parents again if they were born in the covenant or sealed to their parents in life.
+
+28.3.5.2
+
+#### Restoration of Temple Blessings for Persons Who Were Endowed
 
 Deceased persons who were endowed but whose Church membership was withdrawn or who resigned membership and were later readmitted by baptism and confirmation can receive their priesthood and temple blessings only through the ordinance of restoration of blessings. Such persons are not ordained to any priesthood office or endowed again, since these blessings are restored through this ordinance.
 

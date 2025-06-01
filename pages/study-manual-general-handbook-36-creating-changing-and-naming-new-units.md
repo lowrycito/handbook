@@ -2,6 +2,16 @@
 
 “36. Creating, Changing, and Naming New Units,” General Handbook.
 
+![man giving a talk in sacrament meeting](https://www.churchofjesuschrist.org/imgs/e2a0a8584b2b11eda811eeeeac1e14128b213a98/full/%21100%2C/0/default)
+
+36.
+
+# Creating, Changing, and Naming New Units
+
+36.0
+
+## Introduction
+
 Church members belong to congregations based on where they live (see [Mosiah 25:17–24](/study/scriptures/bofm/mosiah/25?lang=eng&id=p17-p24#p17 "/study/scriptures/bofm/mosiah/25?lang=eng&id=p17-p24#p17")). These congregations are necessary for organizing and doing the work of the Church under the proper priesthood authority. Leaders of congregations are given priesthood keys to authorize the performance of priesthood ordinances. Congregations also help members strengthen each other’s faith as they worship God, learn the teachings of Jesus Christ, and serve.
 
 Church congregations (also called units) include stakes, districts, wards, and branches. They are created, changed, or discontinued only as needed.
@@ -10,7 +20,13 @@ Leaders work to increase the spiritual strength of members before proposing to c
 
 For support in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
 
+36.1
+
+## Creating or Changing Stakes and Districts
+
 Stakes are created from districts or by dividing existing stakes. A stake or mission president may propose creating a new stake. He first ensures that it will meet the minimum requirements shown in the following table.
+
+Minimum Requirements to Create a Stake
 
 |  |  |
 | --- | --- |
@@ -19,6 +35,8 @@ Stakes are created from districts or by dividing existing stakes. A stake or mis
 | Number of participating adults | 500 |
 | Number of participating youth (recommended, not required) | 100 |
 | Number of wards | 5 |
+
+- For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals "https://lcr.churchofjesuschrist.org/boundary-proposals").”
 
 Districts are created from branches in a mission or an existing stake. There is not a minimum number of members or branches needed to create a district.
 
@@ -30,7 +48,13 @@ A stake or mission president starts a new proposal at “[Boundary and Leadershi
 
 Approval of proposed stake changes comes from the First Presidency and the Quorum of the Twelve. Generally, a decision can take up to eight weeks after receiving a completed proposal.
 
+36.2
+
+## Creating or Changing Wards and Branches in Stakes
+
 Wards and branches in stakes are created from existing units. A stake president may propose creating a new ward or branch in the stake. He first ensures that the new unit will meet the minimum requirements shown in the following table.
+
+Minimum Requirements to Create a Ward or Branch in a Stake
 
 |  | Ward | Branch |
 | --- | --- | --- |
@@ -39,6 +63,8 @@ Wards and branches in stakes are created from existing units. A stake president 
 | Number of participating adults | Ward  100 | Branch  No minimum |
 | Number of participating youth (recommended, not required) | Ward  20 | Branch  No minimum |
 
+- For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals "https://lcr.churchofjesuschrist.org/boundary-proposals").”
+
 A stake president may propose changing a branch into a ward when the unit meets the minimum requirements and he has identified a candidate who could serve as bishop.
 
 A stake president may propose realigning or discontinuing wards and branches when there is a clear need.
@@ -46,6 +72,10 @@ A stake president may propose realigning or discontinuing wards and branches whe
 A stake president starts a new proposal at “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals "https://lcr.churchofjesuschrist.org/boundary-proposals").” If he cannot use the online system, he can download paper forms by clicking on the link.
 
 Approval of proposed ward or branch changes comes from the First Presidency. Generally, a decision can take up to six weeks after receiving a completed proposal.
+
+36.3
+
+## Creating or Changing Branches in Missions
 
 A mission president may propose creating new branches in a mission. There is not a minimum number of members needed to create a branch in a mission. However, new branches generally should have at least four priesthood holders. At least one should be an active, full-tithe-paying Melchizedek Priesthood holder.
 
@@ -70,6 +100,10 @@ In these situations, the Area Presidency reviews the proposal, and if they endor
 
 ![family at church](https://www.churchofjesuschrist.org/imgs/14b9aeae4b3011ed9883eeeeac1e083962380773/full/%21500%2C/0/default)
 
+36.4
+
+## Naming Church Units
+
 The name of a unit should help identify it to those who live in the area. Generally, the names of existing units should not be changed.
 
 If a unit name needs to be changed because of a boundary realignment, the stake or mission president starts a new proposal by using the online system at [Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals "https://lcr.churchofjesuschrist.org/boundary-proposals"). If he cannot use the online system, he can download paper forms by clicking on the link.
@@ -77,6 +111,10 @@ If a unit name needs to be changed because of a boundary realignment, the stake 
 Only the First Presidency can approve these proposals.
 
 Area Presidencies may approve proposals to create and name new branches in missions (see [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4 "/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng&id=title_number4-p28#title_number4")).
+
+36.4.1
+
+### Naming Stakes and Districts
 
 The first word in the stake or district name is one of the following:
 
@@ -102,6 +140,10 @@ When the name of a city is the same as the state, province, or country, it is no
 - Idaho Falls Taylor Mountain Stake, *not* Idaho Falls Idaho Taylor Mountain Stake
 - México City Azteca Stake, *not* México City México Azteca Stake
 
+36.4.2
+
+### Naming Wards and Branches
+
 A ward or branch is named after an identifying characteristic within its boundaries. Some allowable identifying characteristics for ward and branch names are shown below:
 
 - City
@@ -122,15 +164,31 @@ The name of only one identifying characteristic is used in the ward or branch na
 
 The name of the ward or branch should be in the language of the area. If the language does not use the Roman alphabet, a translation using Roman characters should be included in the application.
 
+36.5
+
+## Implementing Proposed Changes
+
+36.5.1
+
+### Stake and District Changes
+
 The approval letter for creating or discontinuing a stake or district generally indicates the date the changes will be made. This date should not be announced until the assigned General Authority discusses the details with the stake or mission president. The actual changes are not announced until the stake or district conference.
 
 Stake or mission presidents notify Church headquarters or their area office after the changes have been made.
+
+36.5.2
+
+### Ward and Branch Changes
 
 After a stake or mission president receives approval for ward or branch changes, he generally has 90 days to present the changes to be sustained by the members. If he needs to delay longer than 90 days, he requests permission from the Office of the First Presidency.
 
 Stake or mission presidents implement the proposal in LCR once the changes have been made. For help in the United States and Canada, call 801-240-6243 or email [oiservices@ChurchofJesusChrist.org](mailto:oiservices@ChurchofJesusChrist.org "mailto:oiservices@ChurchofJesusChrist.org"). For help outside the United States and Canada, contact the area office. Maps and units are not updated until they are recorded by Church headquarters.
 
 ![people singing in church](https://www.churchofjesuschrist.org/imgs/1901dfaf4b3011eda39feeeeac1e8f75d6d728da/full/%21500%2C/0/default)
+
+36.6
+
+## Basic Unit Program
 
 The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see [37.7](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number18-p84#title_number18 "/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng&id=title_number18-p84#title_number18") for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in groups or branches where any of the following conditions apply:
 

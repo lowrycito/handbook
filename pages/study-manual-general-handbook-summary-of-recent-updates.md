@@ -2,6 +2,10 @@
 
 “Summary of Recent Updates,” General Handbook.
 
+# Summary of Recent Updates
+
+## February 2025
+
 Chapter 6: Stake Leadership
 
 - [6.2.1.7](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number11-p122#title_number11 "/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number11-p122#title_number11"). Communication (Public Affairs) (added reference to the new resource Communication Councils: A Guide for Priesthood Leaders)

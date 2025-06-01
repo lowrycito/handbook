@@ -2,6 +2,16 @@
 
 “30. Callings in the Church,” General Handbook.
 
+![people raising right hands](https://www.churchofjesuschrist.org/imgs/e9899beb4b2b11eda3b9eeeeac1e4a1bd307f53a/full/%21100%2C/0/default)
+
+30.
+
+# Callings in the Church
+
+30.0
+
+## Introduction
+
 Heavenly Father gave Jesus Christ a sacred mission to fulfill (see [Luke 4:18–19](/study/scriptures/nt/luke/4?lang=eng&id=p18-p19#p18 "/study/scriptures/nt/luke/4?lang=eng&id=p18-p19#p18"); [John 6:38](/study/scriptures/nt/john/6?lang=eng&id=p38#p38 "/study/scriptures/nt/john/6?lang=eng&id=p38#p38"); [3 Nephi 27:14–16](/study/scriptures/bofm/3-ne/27?lang=eng&id=p14-p16#p14 "/study/scriptures/bofm/3-ne/27?lang=eng&id=p14-p16#p14")). During His ministry, the Savior trusted His disciples with important responsibilities (see [Luke 10:1–9](/study/scriptures/nt/luke/10?lang=eng&id=p1-p9#p1 "/study/scriptures/nt/luke/10?lang=eng&id=p1-p9#p1")). Likewise, the Lord calls men and women to serve in the Church today through inspired invitations from His servants. These opportunities to serve are known as callings.
 
 Callings give members opportunities to feel the joy of serving God by serving His children (see [Mosiah 2:17](/study/scriptures/bofm/mosiah/2?lang=eng&id=p17#p17 "/study/scriptures/bofm/mosiah/2?lang=eng&id=p17#p17")). Callings also help members increase their faith and draw closer to the Lord.
@@ -9,6 +19,14 @@ Callings give members opportunities to feel the joy of serving God by serving Hi
 It is not appropriate to aspire to specific callings in the Church (see [Mark 10:42–45](/study/scriptures/nt/mark/10?lang=eng&id=p42-p45#p42 "/study/scriptures/nt/mark/10?lang=eng&id=p42-p45#p42"); [Doctrine and Covenants 121:34–37](/study/scriptures/dc-testament/dc/121?lang=eng&id=p34-p37#p34 "/study/scriptures/dc-testament/dc/121?lang=eng&id=p34-p37#p34")). Nor do Church members “advance” from one calling to another. After serving in one calling, they should not expect to receive a calling of greater responsibility or prominence. Serving faithfully in a calling is more important than what the calling is. The Lord honors the dedication of all who serve in His Church.
 
 This chapter describes how members are called to serve in the Church and how they are released from their callings. It also includes a Chart of Callings that gives information about issuing specific callings, sustaining members in their callings, and setting them apart (see [30.8](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13")).
+
+30.1
+
+## Determining Whom to Call
+
+30.1.1
+
+### General Guidelines
 
 Those who serve in the Church are called of God (see [Hebrews 5:4](/study/scriptures/nt/heb/5?lang=eng&id=p4#p4 "/study/scriptures/nt/heb/5?lang=eng&id=p4#p4"); [Articles of Faith 1:5](/study/scriptures/pgp/a-of-f/1?lang=eng&id=p5#p5 "/study/scriptures/pgp/a-of-f/1?lang=eng&id=p5#p5")). Leaders seek the guidance of the Spirit in determining whom to call (see also [4.2.6](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number10-p43#title_number10 "/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number10-p43#title_number10")). They also consider:
 
@@ -31,19 +49,35 @@ Before a calling is extended, the bishop carefully reviews the person’s member
 
 Before a stake leader extends a calling, the person’s bishop is consulted to discuss the member’s worthiness and other circumstances that could influence his or her service (such as those described above).
 
+30.1.2
+
+### Callings for New Members
+
 Opportunities to serve help members grow spiritually. Serving together can also help members build close relationships. This is especially important for new members.
 
 Ward leaders give new members opportunities to serve soon after they are baptized and confirmed. New members have a variety of abilities. Leaders prayerfully invite them to serve in ways that will help them grow personally and bless others. Some members are ready for callings right away. Others might prefer temporary assignments that help them prepare to receive callings. See also [23.2](/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7 "/study/manual/general-handbook/23?lang=eng&id=title_number7-p31#title_number7") and [23.6.1](/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15 "/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15").
 
+30.1.3
+
+### Callings for Those Who Are Not Members
+
 People who are not members of the Church may be called to some positions, such as organist, music director, or a calling to help plan activities. However, they should not be called as teachers, as quorum or organization presidency members, or as Primary music leaders.
 
 A person whose membership has been formally restricted or has been withdrawn may not have a calling (see [32.11.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number70-p304#title_number70 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number70-p304#title_number70") and [32.11.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number71-figure7_p20#title_number71 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number71-figure7_p20#title_number71")).
+
+30.1.4
+
+### Confidentiality
 
 Callings and releases are sacred. Because of this, leaders keep information about proposed callings and releases confidential. Leaders share such information at a time and in a setting that is consistent with its sacred nature.
 
 For example, a person who is being considered for a calling is not notified until the calling is issued. This helps avoid embarrassment if the call is not extended.
 
 Additionally, only those who need to know, such as a spouse and an organization presidency that has responsibility for the position, are informed before the person is presented for sustaining.
+
+30.1.5
+
+### Recommendations and Approvals for Callings
 
 The Chart of Callings indicates who may make recommendations for each calling and who gives approval (see [30.8](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13")). In some cases, quorum and organization leaders make recommendations to the stake presidency or bishopric. They do so prayerfully, seeking inspiration about whom to recommend. They may also counsel with the bishopric or stake presidency.
 
@@ -52,6 +86,10 @@ Bishops and stake presidents carefully consider each recommendation, recognizing
 If a bishop or stake president feels inspired to call someone other than the person who was recommended, that does not mean the recommendation was not inspired. It may be that the bishop or stake president had information that was not available to those who made the recommendation.
 
 ![woman reading to child](https://www.churchofjesuschrist.org/imgs/15e1db004b3011edb733eeeeac1e55b8286ad9fb/full/%21500%2C/0/default)
+
+30.2
+
+## Extending a Calling
 
 Receiving a call to serve should be a meaningful spiritual experience for a member. Callings to serve the Lord are sacred and joyful opportunities. Leaders communicate this by the way they extend a calling. They should not extend callings in a casual manner.
 
@@ -76,6 +114,10 @@ If the member is married, the leader invites the spouse to be present when the c
 
 If the calling includes working with children or youth, the leader explains that the member will need to complete the children and youth protection training. This training is available at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth "https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth"). The member should complete it within one month of being sustained and every three years thereafter.
 
+30.3
+
+## Sustaining Members in Callings
+
 Those who are called to most Church positions should be presented for sustaining before they begin serving (see [Doctrine and Covenants 28:13](/study/scriptures/dc-testament/dc/28?lang=eng&id=p13#p13 "/study/scriptures/dc-testament/dc/28?lang=eng&id=p13#p13"); [42:11](/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11 "/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11")). By sustaining those called to serve, members pledge their support and willingness to help.
 
 The Chart of Callings indicates whether sustaining is needed and who participates in it (see [30.8](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13")). The leader who oversaw extending the calling, or a priesthood leader he authorizes, presents the person to be sustained.
@@ -92,13 +134,25 @@ If a member in good standing opposes the calling, the presiding leader or anothe
 
 Only members in good standing may participate in the sustaining. However, if a nonmember or a member who is not in good standing has concerns about the action, he or she may share them with the bishop or stake president in private after the meeting.
 
+30.4
+
+## Setting Apart Members to Serve in Callings
+
 Those who are called to most Church positions should be set apart. The Chart of Callings indicates who may do the setting apart (see [30.8](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13")). This generally happens after members are sustained and before they begin serving.
 
 To set apart a member to a calling means to give him or her the authority to act in that calling (see [3.4.3.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number13-p55#title_number13 "/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number13-p55#title_number13")). A setting apart also includes a blessing and promises guided by the Spirit. For more information, see [18.11](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number36-p174#title_number36 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number36-p174#title_number36").
 
 ![woman receiving priesthood blessing](https://www.churchofjesuschrist.org/imgs/1f64652e4b3011eda69aeeeeac1e5ed7d99566ec/full/%21500%2C/0/default)
 
+30.5
+
+## Length of Service
+
 As much as possible, leaders allow members to serve in their callings long enough to establish strong relationships with those they serve. Members may also need time to learn and grow in their responsibilities. This can be especially important for leaders of youth and children as well as presidents of the Relief Society and elders quorum. The ideal length of service for leaders varies, but two to five years are often sufficient.
+
+30.6
+
+## Releasing Members from Callings
 
 In most cases, members are released from callings when the Lord inspires their leaders to release them. Some members, like stake and mission presidents, are usually released after an established period of time. A person could also be released for other reasons, such as personal and family circumstances.
 
@@ -113,6 +167,10 @@ An authorized priesthood leader announces the release in the same setting where 
 “[Name] has been released as [position]. Those who would like to express thanks for [his or her] service may show it by the uplifted hand.”
 
 The leader does not ask if anyone opposes.
+
+30.7
+
+## Calling, Ordaining, and Setting Apart Bishops
 
 The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
 
@@ -134,9 +192,17 @@ After the First Presidency has approved the recommendation of a man to serve as 
 
 An Area Seventy or General Authority may also call, ordain, and set apart a bishop with approval from the First Presidency.
 
+30.8
+
+## Chart of Callings
+
 The following chart lists selected ward and stake callings. Other callings and service opportunities are described elsewhere in this handbook.
 
 A ward or stake does not need to fill every calling listed in this chart. Leaders determine which callings to fill based on the needs of the unit and those available to serve.
+
+30.8.1
+
+Ward Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
@@ -165,7 +231,14 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 | Calling  Interpreters if needed | Recommended by  Bishopric | Approved by  Bishopric | Sustained by  Ward members | Called and set apart by  Bishop or an assigned counselor |
 | Calling  Other ward callings | Recommended by  Bishopric | Approved by  Bishopric | Sustained by  Ward members | Called and set apart by  Bishop or an assigned counselor |
 
+1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for ratifying as soon as reasonable. He adapts the process described in [30.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number9-p58#title_number9 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number9-p58#title_number9"). This includes providing an opportunity for ward members to oppose the action.
+2. Active sealers in a temple should not be called to serve in bishoprics. Sealers are called under the direction of the President of the Church.
+
 ![Sunday school class](https://www.churchofjesuschrist.org/imgs/5343ce71426411ecbd0feeeeac1efb1d95cbeed3/full/%21500%2C/0/default)
+
+30.8.2
+
+Branch Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
@@ -174,9 +247,15 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 | Calling  [Branch clerk, assistant clerks, and executive secretary](/study/manual/general-handbook/7?lang=eng&id=title_number15-p70#title_number15 "/study/manual/general-handbook/7?lang=eng&id=title_number15-p70#title_number15") | Recommended by  Branch presidency | Approved by  Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Sustained by  Branch members | Called and set apart by  Stake president or an assigned counselor or high councilor (for branches in stakes); district president or a priesthood leader he assigns (for branches in missions) |
 | Calling  [Elders quorum president](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number131-p258#title_number131 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number131-p258#title_number131") | Recommended by  Stake, district, or mission presidency (in consultation with the branch president) | Approved by  Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Sustained by  Branch members | Called and set apart by  Stake or mission president (or the district president if assigned) |
 | Calling  [Counselors in the elders quorum presidency](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number131-p258#title_number131 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number131-p258#title_number131") | Recommended by  Quorum president (in consultation with the branch president) | Approved by  Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Sustained by  Branch members | Called and set apart by  Stake or mission president or an assigned counselor or high councilor (or the district president or another priesthood leader if assigned) |
-| Calling  Other branch callings | Recommended by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting branch president for bishop and branch for ward. | | | | Approved by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting branch president for bishop and branch for ward. | | | | Sustained by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting branch president for bishop and branch for ward. | | | | Called and set apart by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting branch president for bishop and branch for ward. | | | |
+| Calling  Other branch callings | Recommended by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting *branch president* for *bishop* and *branch* for *ward.* | | | | Approved by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting *branch president* for *bishop* and *branch* for *ward.* | | | | Sustained by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting *branch president* for *bishop* and *branch* for *ward.* | | | | Called and set apart by  See [30.8.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number18-figure5_note3_p1#title_number18"), substituting *branch president* for *bishop* and *branch* for *ward.* | | | |
+
+1. Active sealers in a temple should not be called to serve in branch presidencies. Sealers are called under the direction of the President of the Church.
 
 
+
+30.8.3
+
+Stake Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
@@ -198,16 +277,33 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 | Calling  [Stake communication director, assistant directors, and specialists](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number11-p122#title_number11 "/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number11-p122#title_number11") | Recommended by  Stake presidency | Approved by  Stake presidency and high council | Sustained by  Members in stake conference | Called and set apart by  Stake president or an assigned counselor or high councilor |
 | Calling  Other stake callings | Recommended by  Stake presidency | Approved by  Stake presidency and high council | Sustained by  Members in stake conference | Called and set apart by  Stake president or an assigned counselor or high councilor |
 
+1. When, as an exception, new stake officers need to begin their service before the next stake conference, they should be sustained in sacrament meetings. These sustainings should be kept to a minimum. A member of the stake presidency or high council presents the sustainings.
+
+   In rare circumstances, a stake member may need to begin service before he or she can be sustained either in a stake conference or in sacrament meetings. When this happens, the person is presented for ratifying as soon as reasonable, adapting the process described in [30.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number9-p58#title_number9 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number9-p58#title_number9"). This includes providing an opportunity for stake members to oppose the action.
+2. Active sealers in a temple should not be called to serve in stake presidencies. Sealers are called under the direction of the President of the Church.
+3. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
+
 ![couple talking to bishop](https://www.churchofjesuschrist.org/imgs/533acd91426411eca0a3eeeeac1ed90324070af4/full/%21500%2C/0/default)
+
+30.8.4
+
+District Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
 | Calling  [District president](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15 "/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15") | Recommended by  Mission president | Approved by  Area Presidency | Sustained by  Members in district conference | Called and set apart by  Mission president |
 | Calling  [Counselors in the district presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15 "/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number15-p164#title_number15") | Recommended by  District president | Approved by  Mission presidency | Sustained by  Members in district conference | Called and set apart by  Mission president or an assigned counselor |
 | Calling  District councilor | Recommended by  District president | Approved by  Mission presidency (or, when authorized by the mission president, the district presidency) | Sustained by  Members in district conference | Called and set apart by  Mission president or an assigned counselor (or, when authorized by the mission president, the district president or an assigned counselor) |
-| Calling  Other district callings | Recommended by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting district president for stake president and district for stake. | | | | Approved by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting district president for stake president and district for stake. | | | | Sustained by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting district president for stake president and district for stake. | | | | Called and set apart by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting district president for stake president and district for stake. | | | |
+| Calling  Other district callings | Recommended by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting *district president* for *stake president* and *district* for *stake.* | | | | Approved by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting *district president* for *stake president* and *district* for *stake.* | | | | Sustained by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting *district president* for *stake president* and *district* for *stake.* | | | | Called and set apart by  See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number114-figure1_note3_p1#title_number114"), substituting *district president* for *stake president* and *district* for *stake.* | | | |
+
+1. Active sealers in a temple should not be called to serve in district presidencies. Sealers are called under the direction of the President of the Church.
+2. In areas with no missions, the Area Presidency performs this function.
 
 
+
+30.8.5
+
+Military Service Member Group Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |

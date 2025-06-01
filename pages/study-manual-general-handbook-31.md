@@ -2,15 +2,33 @@
 
 “31. Interviews and Other Meetings with Members,” General Handbook.
 
+![men shaking hands](https://www.churchofjesuschrist.org/imgs/e6d26b294b2b11edbf70eeeeac1eec5627d56654/full/%21100%2C/0/default)
+
+31.
+
+# Interviews and Other Meetings with Members
+
+31.0
+
+## Introduction
+
 Jesus Christ often ministered to others one by one (see, for example, [John 4:5–26](/study/scriptures/nt/john/4?lang=eng&id=p5-p26#p5 "/study/scriptures/nt/john/4?lang=eng&id=p5-p26#p5"); [3 Nephi 17:21](/study/scriptures/bofm/3-ne/17?lang=eng&id=p21#p21 "/study/scriptures/bofm/3-ne/17?lang=eng&id=p21#p21")). He loves each of God’s children. He helps them individually.
 
 As a Church leader and servant of Jesus Christ, you also have opportunities to help God’s children, individually, in their spiritual progress. One important way you can do this is through interviews and other one-on-one meetings. Some of your most meaningful service will happen one on one. In these settings, you can give Christlike love, lifting up “the hands which hang down” and strengthening “the feeble knees” ([Doctrine and Covenants 81:5](/study/scriptures/dc-testament/dc/81?lang=eng&id=p5#p5 "/study/scriptures/dc-testament/dc/81?lang=eng&id=p5#p5")).
 
-In this chapter, the term interview refers to a meeting between a leader and an individual to determine whether the person should participate in an ordinance or receive a calling (see [31.2](/study/manual/general-handbook/31?lang=eng&id=title_number12-p191#title_number12 "/study/manual/general-handbook/31?lang=eng&id=title_number12-p191#title_number12")). In general, these interviews are conducted by a member of the bishopric or stake presidency. The term interview also refers to ministering interviews conducted by a member of the Relief Society or elders quorum presidency (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")).
+In this chapter, the term *interview* refers to a meeting between a leader and an individual to determine whether the person should participate in an ordinance or receive a calling (see [31.2](/study/manual/general-handbook/31?lang=eng&id=title_number12-p191#title_number12 "/study/manual/general-handbook/31?lang=eng&id=title_number12-p191#title_number12")). In general, these interviews are conducted by a member of the bishopric or stake presidency. The term *interview* also refers to ministering interviews conducted by a member of the Relief Society or elders quorum presidency (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")).
 
 In addition to these interviews, there are many other reasons a Church leader may meet with individual members (see [31.3](/study/manual/general-handbook/31?lang=eng&id=title_number20-p254#title_number20 "/study/manual/general-handbook/31?lang=eng&id=title_number20-p254#title_number20")). For example, the bishopric has regularly scheduled meetings with each youth in the ward (see [31.3.1](/study/manual/general-handbook/31?lang=eng&id=title_number25-p229#title_number25 "/study/manual/general-handbook/31?lang=eng&id=title_number25-p229#title_number25")). Even if you do not serve in a bishopric, the bishop may ask you to meet with a member who is in need to provide ongoing support and ministering. Or a member may come to you when he or she is facing a personal or family challenge.
 
 This chapter can help all leaders who have opportunities to meet with individual members. These leaders can include Relief Society, elders quorum, and Young Women leaders, ministering brothers and sisters, or others the bishop assigns.
+
+31.1
+
+## Guiding Principles
+
+31.1.1
+
+### Prepare Spiritually
 
 If you have the responsibility to meet with a member, the Lord will bless you with the inspiration you need as you seek it. Prepare yourself spiritually through prayer, scripture study, and righteous living. Listen to the whisperings of the Holy Ghost. He will guide you with impressions, thoughts, and feelings. He can help you remember teachings you have studied in the scriptures and the words of latter-day prophets that can help the person you are meeting with (see [Doctrine and Covenants 84:85](/study/scriptures/dc-testament/dc/84?lang=eng&id=p85#p85 "/study/scriptures/dc-testament/dc/84?lang=eng&id=p85#p85"); [100:5–8](/study/scriptures/dc-testament/dc/100?lang=eng&id=p5-p8#p5 "/study/scriptures/dc-testament/dc/100?lang=eng&id=p5-p8#p5")).
 
@@ -24,15 +42,33 @@ During the interview or meeting, an issue or question may arise that you don’t
 
 If the member has committed a serious sin, refer him or her to the bishop.
 
+31.1.2
+
+### Help the Member Feel God’s Love
+
 As a Church leader, you represent the Savior. An important part of His mission is to communicate God’s love to His children (see [John 3:16–17](/study/scriptures/nt/john/3?lang=eng&id=p16-p17#p16 "/study/scriptures/nt/john/3?lang=eng&id=p16-p17#p16")). When members come to you for an interview or for help with a personal challenge, often what they need most is to know that Heavenly Father loves them. This love can strengthen them and inspire them to come unto Christ, repent of sin, and make good choices.
 
 The scriptures and the words of latter-day prophets invite the Spirit and teach pure doctrine. Use them often, with sensitivity and love, when you meet with members. Use them to inspire and encourage, not to condemn, coerce, or cause fear (see [Luke 9:56](/study/scriptures/nt/luke/9?lang=eng&id=p56#p56 "/study/scriptures/nt/luke/9?lang=eng&id=p56#p56")).
 
 Schedule plenty of time for the meeting. The member should not feel that you are too busy. Give him or her your full attention.
 
+31.1.3
+
+### Help the Member Draw upon the Savior’s Power
+
 Jesus Christ took upon Himself our sins “that he might blot out [our] transgressions according to the power of his deliverance” ([Alma 7:13](/study/scriptures/bofm/alma/7?lang=eng&id=p13#p13 "/study/scriptures/bofm/alma/7?lang=eng&id=p13#p13")). He also took upon Himself our afflictions, pain, and infirmities “that he may know … how to succor his people” (see [Alma 7:11–12](/study/scriptures/bofm/alma/7?lang=eng&id=p11-p12#p11 "/study/scriptures/bofm/alma/7?lang=eng&id=p11-p12#p11")).
 
 Encourage members to turn to Him. Help them draw upon His power to strengthen, comfort, and redeem. This power comes by exercising faith in Jesus Christ, following His example, receiving priesthood ordinances, keeping covenants, and acting on promptings from the Holy Ghost.
+
+31.1.4
+
+### Help the Member Feel Comfortable and Safe
+
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fa0f90cd8b544684d84523c4600e043c19510a706%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+3:8
+
+Abuse Handbook | Interview Training
 
 Some members have had experiences that make them feel anxious or overwhelmed when they meet with a Church leader. Seek ways to help them feel calm, safe, and comfortable. Find out from the member what you can do to help.
 
@@ -46,15 +82,27 @@ Do not share confidential information with anyone—including your spouse or oth
 
 For more information about confidentiality, including legal information, see [32.4.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number12-p446#title_number12 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number12-p446#title_number12").
 
+31.1.5
+
+### Ask Inspired Questions and Listen Carefully
+
 When meeting with a member, ask questions that help you understand his or her situation. Give the member opportunities to express his or her thoughts and feelings freely.
 
 While the member is talking, listen carefully and attentively. Seek to understand fully before responding. If needed, ask follow-up questions to be sure you understand. But don’t probe unnecessarily.
 
 Listening helps establish trust. It helps others feel understood, valued, and loved. People often need someone they trust to listen as they work through challenges. Listening can also help you open your heart to promptings from the Holy Ghost.
 
+31.1.6
+
+### Encourage Self-Reliance
+
 Because of your love for the members, you may want to immediately offer solutions to their problems. However, you will bless them more by helping them find their own solutions and make their own decisions (see [Doctrine and Covenants 9:8](/study/scriptures/dc-testament/dc/9?lang=eng&id=p8#p8 "/study/scriptures/dc-testament/dc/9?lang=eng&id=p8#p8")).
 
 Help them analyze their problems or questions within the context of the gospel of Jesus Christ and the plan of salvation. Teach them how to seek the Lord’s guidance through the scriptures, the words of living prophets, and personal revelation. In this way, you help members prepare to face other challenges in the future. They will also be better able to help others, including their families.
+
+31.1.7
+
+### Support Efforts to Repent
 
 Sometimes a member may seek help repenting of sin. There is much you can do to inspire faith in Jesus Christ and encourage the member to seek forgiveness.
 
@@ -68,6 +116,10 @@ To help them fulfill their role, bishops and stake presidents are blessed with t
 
 Although confession occurs with a “judge in Israel,” with permission of the member, other leaders can give support in his or her efforts to repent. This is especially helpful when repentance will take significant time. See the last part of [32.8.1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number51-p197#title_number51 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number51-p197#title_number51") for guidelines.
 
+31.1.8
+
+### Respond Appropriately to Abuse
+
 Abuse cannot be tolerated in any form. Take reports of abuse seriously. If you become aware that someone has been abused, report the abuse to civil authorities and counsel with the bishop. Guidelines for reporting and responding to abuse are provided in [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number92-p323#title_number92 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number92-p323#title_number92").
 
 For information about what bishops and stake presidents should do when they become aware of abuse, see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number93-p293#title_number93 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number93-p293#title_number93").
@@ -76,12 +128,24 @@ For information about helping victims of abuse, see “[Abuse (Help for the Vict
 
 For information about helping victims of rape or other sexual assault, see [38.6.18.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number222-p2340#title_number222 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number222-p2340#title_number222").
 
+31.2
+
+## Interviews
+
+31.2.1
+
+### Purposes of Interviews
+
 In general, Church leaders interview members to determine whether they:
 
 - Are prepared to receive or participate in an ordinance.
 - Should be called to a position in the Church.
 
 Most interviews of this kind are conducted by a member of the bishopric or stake presidency. They cannot be delegated to other ward leaders. However, a stake president may delegate some interviews to high councilors as outlined in the Chart of Callings (see [30.8](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number13-figure12_p15#title_number13")).
+
+31.2.2
+
+### Types of Interviews
 
 The bishop is called as “a common judge” in his ward ([Doctrine and Covenants 107:74](/study/scriptures/dc-testament/dc/107?lang=eng&id=p74#p74 "/study/scriptures/dc-testament/dc/107?lang=eng&id=p74#p74"); see also [7.1.3](/study/manual/general-handbook/7?lang=eng&id=title_number9-p37#title_number9 "/study/manual/general-handbook/7?lang=eng&id=title_number9-p37#title_number9")). The stake president also serves as a common judge (see [6.2.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number13-p50#title_number13 "/study/manual/general-handbook/6-stake-leadership?lang=eng&id=title_number13-p50#title_number13")). These leaders hold priesthood keys for authorizing ordinances. For these reasons, there are certain interviews only they can conduct. They can delegate other interviews to counselors. The following table lists who can conduct each interview.
 
@@ -96,6 +160,14 @@ Full-time missionaries interview converts for baptism and confirmation (see [31.
 
 Members of elders quorum and Relief Society presidencies conduct ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")).
 
+31.2.3
+
+### Baptism and Confirmation Interviews
+
+31.2.3.1
+
+#### Children Who Are Members of Record
+
 The bishop holds the priesthood keys for baptizing 8-year-old members of record in his ward. For this reason, he or an assigned counselor interviews the following persons for baptism:
 
 - Children age 8 who are members of record.
@@ -107,6 +179,10 @@ In the interview, the bishopric member ensures that the child understands the pu
 Permission of parents or guardians is required before a minor can be baptized (see [38.2.8.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number262-p2779#title_number262 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number262-p2779#title_number262")).
 
 ![man and woman talking](https://www.churchofjesuschrist.org/imgs/fe458b414b2f11edbce2eeeeac1e2cf28b264988/full/%21500%2C/0/default)
+
+31.2.3.2
+
+#### Converts
 
 The mission president holds the priesthood keys for baptizing converts. For this reason, a full-time missionary interviews:
 
@@ -137,13 +213,25 @@ For instructions if the person answers affirmatively to question 5 or 6, see [
 
 If the person is prepared for baptism, the interviewer fills out the Baptism and Confirmation Record (see [18.8.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number26-p106#title_number26 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number26-p106#title_number26")).
 
+31.2.4
+
+### Interviews for Ordination to an Office in the Aaronic Priesthood
+
 The bishop holds the priesthood keys for conferring the Aaronic Priesthood. He also holds the keys for ordaining to the offices of deacon, teacher, and priest. The bishop or an assigned counselor interviews those who are to be ordained deacons or teachers to determine if they are spiritually prepared. The bishop interviews those who are to be ordained priests.
 
 For more information, see [18.10.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number63-p279#title_number63 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number63-p279#title_number63").
 
+31.2.5
+
+### Temple Recommend Interviews
+
 The temple is the house of the Lord. Entering the temple and participating in ordinances there is a sacred privilege. This privilege is reserved for those who are spiritually prepared and striving to live the Lord’s standards, as determined by authorized priesthood leaders.
 
 To make this determination, priesthood leaders interview the member using the questions in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") (see also the guidelines in [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9")). Leaders should not add or remove any requirements. However, they may adapt the questions to the age and circumstances of the member.
+
+31.2.6
+
+### Interviews for Ordination to an Office in the Melchizedek Priesthood
 
 The stake president holds the priesthood keys for conferring the Melchizedek Priesthood. He also holds the keys for ordaining to the offices of elder and high priest.
 
@@ -178,6 +266,10 @@ A man who receives the Melchizedek Priesthood enters into the oath and covenant 
 13. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
 14. Do you consider yourself worthy to be ordained to an office in the Melchizedek Priesthood?
 
+31.3
+
+## Other Opportunities for Leaders to Meet with Members
+
 Leaders have many opportunities to meet with members individually. For example:
 
 - Members may ask to meet with a Church leader when they need spiritual guidance or have weighty personal problems. In some cases, the leader may feel prompted to arrange a meeting with a member. Members are discouraged from contacting General Authorities about personal matters (see [38.8.25](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number165-p583#title_number165 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number165-p583#title_number165")).
@@ -196,6 +288,10 @@ When leaders meet with members, they follow the principles in [31.1](/study/manu
 
 For helpful information about specific topics that may arise when meeting with members, see [Counseling Resources](/study/manual/counseling-resources?lang=eng "/study/manual/counseling-resources?lang=eng") in the Gospel Library. Leaders can also refer members to the information in [Life Help](/study/life-help?lang=eng "/study/life-help?lang=eng").
 
+31.3.1
+
+### Meeting with Youth
+
 The bishop’s foremost responsibility is to help the rising generation in his ward progress spiritually. One important way he does this is by meeting with the youth individually (or with another adult present; see [31.1.4](/study/manual/general-handbook/31?lang=eng&id=title_number6-p80#title_number6 "/study/manual/general-handbook/31?lang=eng&id=title_number6-p80#title_number6")). The bishop or one of his counselors meets with each youth twice a year. At least one of these meetings each year should be with the bishop. Beginning the year the youth turns 16, both meetings during the year should be with the bishop if possible.
 
 In addition to these meetings, youth should feel free to counsel with the bishop whenever they need guidance or support. The bishop strives to build strong, trusting relationships with the youth so they feel comfortable counseling with him.
@@ -203,6 +299,10 @@ In addition to these meetings, youth should feel free to counsel with the bishop
 The Young Women president also has a responsibility to minister to individual young women. She can do this by meeting with young women one on one (or with another adult present; see [31.1.4](/study/manual/general-handbook/31?lang=eng&id=title_number6-p80#title_number6 "/study/manual/general-handbook/31?lang=eng&id=title_number6-p80#title_number6")).
 
 When they meet with youth, leaders follow the principles in [31.1](/study/manual/general-handbook/31?lang=eng&id=title_number2-p92#title_number2 "/study/manual/general-handbook/31?lang=eng&id=title_number2-p92#title_number2"). Many of these principles are especially important when meeting with youth.
+
+31.3.1.1
+
+#### Communicating with Parents
 
 In their efforts to strengthen the youth, leaders work closely with parents. They seek to support parents in their responsibility for teaching their children the gospel of Jesus Christ.
 
@@ -213,6 +313,10 @@ Leaders share the following information with the youth and his or her parents be
 - To help youth prepare spiritually, interviews are required for sacred matters such as temple recommends, priesthood ordinations, and mission calls. Leaders work with parents to help youth prepare for these interviews.
 - Parents encourage their children to counsel with the bishop or another Church leader when they need help with spiritual guidance or with repentance.
 - When a youth meets with a Church leader, a parent or another adult must be present. The youth may invite the adult to join the meeting or wait outside the room.
+
+31.3.1.2
+
+#### Topics to Discuss
 
 The main purpose of meetings with youth is to build faith in Heavenly Father and Jesus Christ and help the youth follow Them. These meetings should be uplifting spiritual experiences. Leaders strive to help each youth feel loved, encouraged, and inspired to become more like the Savior.
 
@@ -236,9 +340,17 @@ The youth and the leader could discuss:
 
 When discussing obedience to the commandments, leaders may refer to temple recommend interview questions and the booklet [For the Strength of Youth](/study/manual/for-the-strength-of-youth?lang=eng "/study/manual/for-the-strength-of-youth?lang=eng"). They ensure that discussions about moral cleanliness do not encourage curiosity or experimentation.
 
+31.3.2
+
+### Meeting with Young Single Adults
+
 The bishop places high priority on the spiritual progress of young single adults in his ward. He or an assigned counselor meets with each young single adult at least once a year.
 
 The bishopric member and young single adult may discuss relevant items in [31.3.1.2](/study/manual/general-handbook/31?lang=eng&id=title_number27-p229#title_number27 "/study/manual/general-handbook/31?lang=eng&id=title_number27-p229#title_number27"). They could also discuss matters of special importance to young adults, such as developing self-reliance.
+
+31.3.3
+
+### Meeting with Members to Discuss Their Callings and Responsibilities
 
 Stake presidencies, bishoprics, and other leaders meet individually with members who report to them about their callings. For example:
 
@@ -252,17 +364,29 @@ In these meetings, the leader inspires and instructs the member in his or her re
 
 ![women talking](https://www.churchofjesuschrist.org/imgs/20a3c3074b3011ed88eaeeeeac1e57217b4c4dbb/full/%21500%2C/0/default)
 
+31.3.4
+
+### Meeting with Members to Discuss Temporal Needs and Self-Reliance
+
 Caring for those in need is part of God’s work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3")). As leaders meet with members who have temporal needs, they help them address short-term needs and build long-term self-reliance (see [22.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number23-p128#title_number23 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number23-p128#title_number23")).
 
 The bishop may assign others in the ward, such as the Relief Society and elders quorum presidencies, to meet with members who have temporal needs. However, only the bishop can approve the use of fast-offering funds (see [22.6.1](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number44-p178#title_number44 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number44-p178#title_number44")).
 
 Additional principles and policies for helping those with temporal needs are described in [chapter 22](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng").
 
+31.3.5
+
+### Meeting with Members about Marriage and Divorce
+
 Church leaders should not counsel a person whom to marry. Nor should they counsel a person whether or not to divorce his or her spouse. While divorce is an appropriate option in some situations, such decisions must remain with the individual.
 
 Following the guidance of the Spirit, Church leaders often meet with couples and individuals who are separating or getting a divorce. Leaders can also seek to help a couple strengthen their marriage. They teach about the strength and healing that come from keeping covenants they have made with the Lord and living His teachings. These teachings include faith, repentance, forgiveness, love, and prayer.
 
 A member who is separated from his or her spouse or is going through a divorce should not date until the divorce is final.
+
+31.3.6
+
+### Professional Counseling and Therapy
 
 Church leaders are not called to be professional counselors or to provide therapy. The assistance they give is spiritual, focusing on the strengthening, comforting, redeeming power of Jesus Christ. In addition to this important and inspired help, some members may benefit from professional counseling where it is available. Such counseling or therapy can help members understand and respond to life’s challenges in healthy ways.
 
@@ -285,6 +409,10 @@ In the United States and Canada, bishops and stake presidents may contact Family
 In other areas, leaders may contact Family Services staff or the welfare and self-reliance manager in the area office.
 
 If members cannot pay for professional counseling on their own or through insurance, bishops may use fast offerings to assist (see [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number27-p145#title_number27 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number27-p145#title_number27")).
+
+31.4
+
+## Meeting with Members Virtually
 
 Usually, leaders meet with members in person for interviews and to provide spiritual help and ministering. When meeting in person is not practical, leaders can meet with members virtually for interviews and to provide spiritual help and ministering.
 

@@ -2,14 +2,32 @@
 
 “23. Sharing the Gospel and Strengthening New and Returning Members,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints.
 
+![people looking at phone](https://www.churchofjesuschrist.org/imgs/e20f16bb4b2b11ed9603eeeeac1e5884f94aa6d4/full/%21100%2C/0/default)
+
+23.
+
+# Sharing the Gospel and Strengthening New and Returning Members
+
+23.0
+
+## Introduction
+
 Inviting all to receive the gospel is part of God’s work of salvation and exaltation (see [1.2](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number3-p28#title_number3") in this handbook; [Matthew 28:19–20](/study/scriptures/nt/matt/28?lang=eng&id=p19-p20#p19 "/study/scriptures/nt/matt/28?lang=eng&id=p19-p20#p19")). It includes:
 
 - Participating in missionary work and serving as missionaries.
 - Helping new and returning Church members progress along the covenant path.
 
+23.1
+
+## Share the Gospel
+
+
+
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3ef0b05f415e20f45b275e3be54dcda09d297a66%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:33
+
+Principles Love, Share, Invite Discussed
 
 
 
@@ -17,13 +35,27 @@ Inviting all to receive the gospel is part of God’s work of salvation and exal
 
 2:46
 
+Simple Ways to Love Share and Invite
+
+23.1.1
+
+### Love
+
 We are all children of Heavenly Father, who loves His children perfectly. He offers everyone the opportunity to be filled with His love through Jesus Christ and His gospel (see [John 3:16](/study/scriptures/nt/john/3?lang=eng&id=p16#p16 "/study/scriptures/nt/john/3?lang=eng&id=p16#p16"); [2 Nephi 26:24–28](/study/scriptures/bofm/2-ne/26?lang=eng&id=p24-p28#p24 "/study/scriptures/bofm/2-ne/26?lang=eng&id=p24-p28#p24"); [Alma 26:37](/study/scriptures/bofm/alma/26?lang=eng&id=p37#p37 "/study/scriptures/bofm/alma/26?lang=eng&id=p37#p37"); [Articles of Faith 1:3](/study/scriptures/pgp/a-of-f/1?lang=eng&id=p3#p3 "/study/scriptures/pgp/a-of-f/1?lang=eng&id=p3#p3")).
 
 One way we show our love for God is by loving and serving His children (see [Matthew 22:36–39](/study/scriptures/nt/matt/22?lang=eng&id=p36-p39#p36 "/study/scriptures/nt/matt/22?lang=eng&id=p36-p39#p36"); [25:40](/study/scriptures/nt/matt/25?lang=eng&id=p40#p40 "/study/scriptures/nt/matt/25?lang=eng&id=p40#p40")). We strive to love and serve as Jesus Christ did. This love inspires us to reach out to people of all religions, races, and cultures (see [Acts 10:34](/study/scriptures/nt/acts/10?lang=eng&id=p34#p34 "/study/scriptures/nt/acts/10?lang=eng&id=p34#p34"); [2 Nephi 26:33](/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33 "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33")).
 
+23.1.2
+
+### Share
+
 Because we love God and His children, we naturally want to share the blessings He has given us (see [John 13:34–35](/study/scriptures/nt/john/13?lang=eng&id=p34-p35#p34 "/study/scriptures/nt/john/13?lang=eng&id=p34-p35#p34")) and help gather Israel. We seek to help people feel the joy that we feel (see [Alma 36:24](/study/scriptures/bofm/alma/36?lang=eng&id=p24#p24 "/study/scriptures/bofm/alma/36?lang=eng&id=p24#p24")). As disciples of Jesus Christ, we hold up His light (see [3 Nephi 18:24–25](/study/scriptures/bofm/3-ne/18?lang=eng&id=p24-p25#p24 "/study/scriptures/bofm/3-ne/18?lang=eng&id=p24-p25#p24")). We speak openly of the Savior and His influence in our lives (see [Doctrine and Covenants 60:2](/study/scriptures/dc-testament/dc/60?lang=eng&id=p2#p2 "/study/scriptures/dc-testament/dc/60?lang=eng&id=p2#p2")).
 
 We share love, gospel truths, time, experiences, and Church programs to bless God’s children and help them draw closer to the Savior. We share these things in normal and natural ways as part of personal, online, and other interactions.
+
+23.1.3
+
+### Invite
 
 The Savior invites all to receive His gospel and prepare for eternal life (see [Alma 5:33–34](/study/scriptures/bofm/alma/5?lang=eng&id=p33-p34#p33 "/study/scriptures/bofm/alma/5?lang=eng&id=p33-p34#p33")). As His disciples, we follow His example, inviting all to “come unto Christ, and be perfected in him” ([Moroni 10:32](/study/scriptures/bofm/moro/10?lang=eng&id=p32#p32 "/study/scriptures/bofm/moro/10?lang=eng&id=p32#p32")).
 
@@ -54,6 +86,10 @@ Ward and stake leaders counsel together to identify (1) needs in the community 
 
 The principles of loving, sharing, and inviting apply also to strengthening new and returning members.
 
+23.2
+
+## Strengthen New Members
+
 Joining the Church is both wonderful and challenging for many. It brings great blessings, but it also requires adjusting to new beliefs, new habits, and new relationships (see [1 Thessalonians 1:6](/study/scriptures/nt/1-thes/1?lang=eng&id=p6#p6 "/study/scriptures/nt/1-thes/1?lang=eng&id=p6#p6")).
 
 Each new member needs friendship, opportunities to serve, and spiritual nourishment. As members of the Church, we give new members our love and support (see [Mosiah 18:8–10](/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8 "/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8")). We help them feel a sense of belonging in the Church. We help them progress along the covenant path and become more deeply “converted unto the Lord” ([Alma 23:6](/study/scriptures/bofm/alma/23?lang=eng&id=p6#p6 "/study/scriptures/bofm/alma/23?lang=eng&id=p6#p6")). We help them be “nourished by the good word of God, to keep them in the right way, … relying alone upon the merits of Christ” ([Moroni 6:4](/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4 "/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4")).
@@ -67,9 +103,17 @@ We can also help new members:
 - Find names of ancestors and prepare to receive temple ordinances for them.
 - Grow through fulfilling Church assignments and participating in the many other opportunities the Church offers.
 
+23.3
+
+## Strengthen Returning Members
+
 Some members choose to stop participating in the Church. “Unto such,” said the Savior, “shall ye continue to minister; for ye know not but what they will return and repent, and come unto me with full purpose of heart, and I shall heal them; and ye shall be the means of bringing salvation unto them” ([3 Nephi 18:32](/study/scriptures/bofm/3-ne/18?lang=eng&id=p32#p32 "/study/scriptures/bofm/3-ne/18?lang=eng&id=p32#p32")). These words apply to all who, for any reason, need continued ministering.
 
 Members who are not fully participating are more likely to return if they have strong relationships with Church members. Our love and support can help them overcome challenges. Like new members, they need friendship, opportunities to serve, and spiritual nourishment. Understanding their circumstances and challenges can help us minister to them with sensitivity and love.
+
+23.4
+
+## Hold Weekly Coordination Meetings
 
 Every week, brief informal meetings are held to coordinate efforts to share the gospel and strengthen new and returning members. If a ward mission leader is called, he conducts these meetings. Otherwise, the member of the elders quorum presidency who fills this role conducts.
 
@@ -94,6 +138,16 @@ These meetings may be held in person or remotely. Coordination can also happen i
 
 2:9
 
+Weekly Missionary Coordination Examples
+
+23.5
+
+## Stake Leaders
+
+23.5.1
+
+### Stake Presidency
+
 The stake president holds the keys in the stake for sharing the gospel and strengthening new and returning members. He and his counselors give overall direction for these efforts. He ensures that this work is discussed regularly in stake meetings.
 
 Usually monthly, the stake president meets with the mission president to coordinate efforts between the stake and ward leaders and the full-time missionaries. Others who may attend include:
@@ -102,6 +156,10 @@ Usually monthly, the stake president meets with the mission president to coordin
 - Assigned high councilors.
 - The stake Relief Society president.
 - Missionaries assigned by the mission president.
+
+23.5.2
+
+### Stake Adult Leadership Committee
 
 The stake adult leadership committee includes:
 
@@ -113,11 +171,27 @@ These leaders instruct and support elders quorum and ward Relief Society preside
 
 For more about this committee’s meetings, see [29.3.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number58-p153#title_number58 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number58-p153#title_number58").
 
+23.5.3
+
+### High Councilors
+
 The stake presidency may assign high councilors to instruct and support elders quorum presidencies and ward mission leaders. One or more high councilors may be assigned to lead these efforts. However, all high councilors have these responsibilities for the wards and quorums to which they are assigned.
+
+23.5.4
+
+### Stake Relief Society Presidency
 
 Under the direction of the stake president, the stake Relief Society presidency instructs and supports ward Relief Society presidencies in their responsibilities for sharing the gospel and strengthening new and returning members.
 
 ![neighbors talking](https://www.churchofjesuschrist.org/imgs/ffca56814b2f11edac4beeeeac1e58709335c0a2/full/%21500%2C/0/default)
+
+23.6
+
+## Ward Leaders
+
+23.6.1
+
+### Bishopric
 
 The bishopric coordinates with the elders quorum and Relief Society presidencies as they lead the ward’s efforts in sharing the gospel and strengthening new and returning members. These leaders counsel together regularly.
 
@@ -130,6 +204,10 @@ The bishop interviews new members of the appropriate age for a temple recommend 
 The bishopric coordinates with other leaders to ensure that new and returning members have opportunities to serve. Such opportunities can help these members grow spiritually and feel the Lord’s power in their lives. Service can also help members feel joy and build close relationships with others in the ward.
 
 Service opportunities should be based on the member’s needs and abilities. In some cases, a calling is appropriate. In others, a less formal assignment is best.
+
+23.6.2
+
+### Elders Quorum and Relief Society Presidencies
 
 The elders quorum and Relief Society presidencies lead the ward’s day-to-day efforts to share the gospel and strengthen new and returning members (see [8.2.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128") and [9.2.3](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10 "/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10")). The elders quorum presidency leads these efforts for members of the elders quorum. The Relief Society presidency leads the efforts for members of the Relief Society. They work together to lead these efforts with the ward council, under the coordination of the bishop.
 
@@ -144,6 +222,10 @@ These leaders have the following responsibilities:
 
 The elders quorum president and Relief Society president each assign a presidency member to help lead these efforts. These two presidency members work together. They attend weekly coordination meetings (see [23.4](/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22 "/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22")).
 
+23.6.3
+
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") Ward Mission Leader
+
 The bishopric consults with the stake president to determine whether to call a ward mission leader. If they decide to extend this calling, the bishopric counsels with the elders quorum and Relief Society presidents in determining whom to call.
 
 The ward mission leader should be a Melchizedek Priesthood holder. If a ward mission leader is not called, a member of the elders quorum presidency fills this role.
@@ -157,11 +239,19 @@ The ward mission leader supports the elders quorum presidency and Relief Society
 - Seek opportunities to help full-time missionaries fulfill their purpose by sharing the gospel and building relationships with members. Where approved, this may include eating meals with members (preferably with part-member families and new and returning members when possible; see [24.6.2.3](/study/manual/general-handbook/24?lang=eng&id=title_number36-p179#title_number36 "/study/manual/general-handbook/24?lang=eng&id=title_number36-p179#title_number36")).
 - Work with the ward temple and family history leader and consultants to help those who are learning the gospel, new members, and returning members engage in temple and family history work.
 
+23.6.4
+
+### Ward Missionaries
+
 Ward missionaries help ward members experience the joy of sharing the gospel as described in [23.1](/study/manual/general-handbook/23?lang=eng&id=title_number3-p22#title_number3 "/study/manual/general-handbook/23?lang=eng&id=title_number3-p22#title_number3"). They serve under the direction of the ward mission leader or the member of the elders quorum presidency who fills this role. The elders quorum and Relief Society presidents may suggest members who could serve.
 
 Ward missionaries teach by word and example how to love others, share their faith, and invite others to receive the blessings of the gospel. They also help ward members minister to new and returning members.
 
 Ward missionaries participate in weekly coordination meetings (see [23.4](/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22 "/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22")).
+
+23.6.5
+
+### Ward Council and Ward Youth Council
 
 Sharing the gospel and strengthening new and returning members should be discussed regularly in ward council meetings. The bishop may ask the elders quorum or Relief Society president to lead these discussions, which should focus on individuals. The bishop may invite the ward mission leader to attend ward council meetings.
 
@@ -173,6 +263,10 @@ The council may discuss the ward’s plan for sharing the gospel and strengtheni
 For more about the ward council, see [29.2.5](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number8-p54#title_number8 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number8-p54#title_number8").
 
 The ward youth council gives special attention to (1) youth who are new and returning members and (2) youth being taught by the missionaries. The council also discusses ways the youth can participate in the ward’s plan for sharing the gospel and strengthening all new and returning members. For more about the ward youth council, see [29.2.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number9-p63#title_number9 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number9-p63#title_number9").
+
+23.6.6
+
+### Ward Plan for Sharing the Gospel and Strengthening New and Returning Members
 
 Each ward should have a simple plan for sharing the gospel and strengthening new and returning members. This plan can help guide meetings, service, and activities. It can include plans and ideas for:
 
