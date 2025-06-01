@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 from markdownify import markdownify as md
 import json
 from urllib.parse import urlparse
@@ -172,6 +172,42 @@ def get_links(url, max_retries=3):
   return links
 
 
+def clean_html_for_conversion(content_article):
+  """Clean up HTML content before conversion to markdown"""
+  # Remove script, style, and other unwanted elements
+  for unwanted in content_article(["script", "style", "nav", "aside", "footer", "header"]):
+    unwanted.decompose()
+  
+  # Remove comments
+  for comment in content_article.find_all(string=lambda text: isinstance(text, Comment)):
+    comment.extract()
+  
+  # Clean up empty elements (but preserve structural elements)
+  for element in content_article.find_all():
+    if not element.get_text(strip=True) and element.name not in ['br', 'hr', 'img', 'td', 'th', 'tr']:
+      element.decompose()
+  
+  # Fix table structure issues
+  for table in content_article.find_all('table'):
+    # Ensure tables have proper structure
+    if not table.find('tbody') and table.find('tr'):
+      # Wrap existing rows in tbody if none exists
+      soup = BeautifulSoup('', 'html.parser')
+      tbody = soup.new_tag('tbody')
+      for tr in table.find_all('tr'):
+        tbody.append(tr.extract())
+      table.append(tbody)
+  
+  # Remove excessive whitespace and normalize spacing
+  for element in content_article.find_all(string=True):
+    if element.parent.name not in ['pre', 'code']:
+      normalized = re.sub(r'\s+', ' ', element.strip())
+      if normalized != element:
+        element.replace_with(normalized)
+  
+  return content_article
+
+
 def html_to_markdown(url, max_retries=3):
   for attempt in range(max_retries):
     try:
@@ -194,26 +230,68 @@ def html_to_markdown(url, max_retries=3):
     return
 
   # Clean up the HTML before conversion
-  # Remove script and style elements
-  for script in content_article(["script", "style"]):
-    script.decompose()
-  
-  # Clean up empty elements
-  for element in content_article.find_all():
-    if not element.get_text(strip=True) and not element.name in ['br', 'hr', 'img']:
-      element.decompose()
+  content_article = clean_html_for_conversion(content_article)
 
-  # Configure markdownify to handle tables and other elements better
+  # Configure markdownify with proper settings for better table conversion
   markdown_text = md(
     str(content_article),
-    heading_style="ATX",  # Use # style headers
-    bullets="-",          # Use - for bullets
-    strip=['a'],          # Strip links but keep text
-    convert=['table', 'th', 'td', 'tr', 'thead', 'tbody'],  # Ensure tables are converted
+    heading_style="ATX",           # Use # style headers
+    bullets="-",                   # Use - for bullets  
+    wrap=True,                     # Wrap long lines
+    wrap_width=80,                 # Wrap at 80 characters
+    convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'],
+    escape_asterisks=False,        # Don't escape asterisks unnecessarily
+    escape_underscores=False,      # Don't escape underscores unnecessarily
   )
+  
+  # Post-process the markdown to fix common issues
+  markdown_text = post_process_markdown(markdown_text)
+  
   file_name = url_to_filename(url)
   with open(f"./pages/{file_name}.md", 'w', encoding='utf-8') as file:
     file.write(markdown_text)
+
+
+def post_process_markdown(markdown_text):
+  """Post-process markdown to fix common conversion issues"""
+  # Fix multiple consecutive newlines
+  markdown_text = re.sub(r'\n{3,}', '\n\n', markdown_text)
+  
+  # Fix table formatting issues
+  lines = markdown_text.split('\n')
+  processed_lines = []
+  in_table = False
+  
+  for i, line in enumerate(lines):
+    # Detect table rows
+    if '|' in line and line.strip().startswith('|') and line.strip().endswith('|'):
+      if not in_table:
+        in_table = True
+        # Add separator row if this looks like a header
+        if i + 1 < len(lines) and '|' in lines[i + 1]:
+          processed_lines.append(line)
+          # Create separator row based on number of columns
+          cols = line.count('|') - 1
+          separator = '|' + '---|' * cols
+          if i + 1 >= len(lines) or not lines[i + 1].strip().startswith('|--'):
+            processed_lines.append(separator)
+          continue
+      processed_lines.append(line)
+    else:
+      if in_table:
+        in_table = False
+        processed_lines.append('')  # Add blank line after table
+      processed_lines.append(line)
+  
+  # Fix list formatting
+  markdown_text = '\n'.join(processed_lines)
+  markdown_text = re.sub(r'\n(\s*[-*+]\s)', r'\n\n\1', markdown_text)
+  
+  # Fix heading spacing
+  markdown_text = re.sub(r'\n(#{1,6}\s)', r'\n\n\1', markdown_text)
+  markdown_text = re.sub(r'^(#{1,6}\s)', r'\1', markdown_text, flags=re.MULTILINE)
+  
+  return markdown_text.strip()
 
 
 # Ensure pages directory exists
