@@ -173,17 +173,17 @@ def get_links(url, max_retries=3):
 
 
 def clean_html_for_conversion(content_article):
-  """Clean up HTML content before conversion to markdown - be very conservative"""
-  # Only remove elements that definitely don't contribute to content
-  for unwanted in content_article(["script", "style", "nav", "footer", "header"]):
+  """Minimal cleaning - preserve ALL content within article tag"""
+  # Only remove script and style tags that don't contain content
+  for unwanted in content_article(["script", "style"]):
     unwanted.decompose()
   
-  # Remove comments but preserve everything else
+  # Remove HTML comments only
   for comment in content_article.find_all(string=lambda text: isinstance(text, Comment)):
     comment.extract()
   
-  # Don't remove any structural elements - let markdownify handle them
-  # This preserves section numbers, subsection titles, and all content structure
+  # Preserve ALL other elements including nav, header, footer, aside, etc.
+  # These contain important structural information and content
   
   return content_article
 
@@ -212,16 +212,18 @@ def html_to_markdown(url, max_retries=3):
   # Clean up the HTML before conversion
   content_article = clean_html_for_conversion(content_article)
 
-  # Configure markdownify with settings that preserve structure
+  # Configure markdownify to convert ALL elements and preserve structure
   markdown_text = md(
     str(content_article),
     heading_style="ATX",           # Use # style headers
     bullets="-",                   # Use - for bullets  
     wrap=False,                    # Don't wrap lines to preserve structure
-    convert=['table', 'thead', 'tbody', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'em', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'section', 'article', 'aside', 'main', 'header', 'footer', 'nav', 'figure', 'figcaption', 'blockquote', 'pre', 'code', 'a', 'img'],
+    # Convert ALL common HTML elements to preserve complete structure
+    convert=['table', 'thead', 'tbody', 'tfoot', 'tr', 'th', 'td', 'div', 'p', 'br', 'strong', 'b', 'em', 'i', 'u', 'strike', 'del', 'ins', 'ul', 'ol', 'li', 'dl', 'dt', 'dd', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'section', 'article', 'aside', 'main', 'header', 'footer', 'nav', 'figure', 'figcaption', 'blockquote', 'pre', 'code', 'a', 'img', 'iframe', 'cite', 'abbr', 'acronym', 'address', 'big', 'small', 'sub', 'sup', 'q', 'samp', 'kbd', 'var', 'dfn', 'time', 'mark', 'ruby', 'rt', 'rp'],
     escape_asterisks=False,        # Don't escape asterisks unnecessarily
     escape_underscores=False,      # Don't escape underscores unnecessarily
-    default_title=True             # Include title attributes
+    default_title=True,            # Include title attributes
+    strip=None                     # Don't strip any tags - convert everything
   )
   
   # Post-process the markdown to fix common issues
