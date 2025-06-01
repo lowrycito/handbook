@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import html2text
+from markdownify import markdownify as md
 import json
 from urllib.parse import urlparse
 import os
@@ -12,6 +12,11 @@ import re
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import html
+import logging
+import time
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 def get_git_diff():
@@ -140,16 +145,19 @@ def url_to_filename(url):
   return path
 
 
-def get_links(url):
-  response = requests.get(f"{BASE_URL}{url}", headers=HEADERS)
-  response.encoding = 'utf-8'
-
-  try:
-    response.raise_for_status()
-  except requests.HTTPError as e:
-    print(f"Error fetching {url}: {e}")
-    print("Response content:", response.text)
-    return []
+def get_links(url, max_retries=3):
+  for attempt in range(max_retries):
+    try:
+      response = requests.get(f"{BASE_URL}{url}", headers=HEADERS, timeout=30)
+      response.encoding = 'utf-8'
+      response.raise_for_status()
+      break
+    except requests.RequestException as e:
+      logging.warning(f"Attempt {attempt + 1} failed for {url}: {e}")
+      if attempt == max_retries - 1:
+        logging.error(f"Failed to fetch {url} after {max_retries} attempts")
+        return []
+      time.sleep(2 ** attempt)  # Exponential backoff
 
   soup = BeautifulSoup(response.text, 'html.parser')
   nav = soup.find('nav', class_='manifest')
@@ -164,38 +172,56 @@ def get_links(url):
   return links
 
 
-def html_to_markdown(url):
-  response = requests.get(f"{BASE_URL}{url}", headers=HEADERS)
-  response.encoding = 'utf-8'
-
-  try:
-    response.raise_for_status()
-  except requests.HTTPError as e:
-    print(f"Error fetching {url}: {e}")
-    print("Response content:", response.text)
-    return
+def html_to_markdown(url, max_retries=3):
+  for attempt in range(max_retries):
+    try:
+      response = requests.get(f"{BASE_URL}{url}", headers=HEADERS, timeout=30)
+      response.encoding = 'utf-8'
+      response.raise_for_status()
+      break
+    except requests.RequestException as e:
+      logging.warning(f"Attempt {attempt + 1} failed for {url}: {e}")
+      if attempt == max_retries - 1:
+        logging.error(f"Failed to fetch {url} after {max_retries} attempts")
+        return
+      time.sleep(2 ** attempt)
 
   soup = BeautifulSoup(response.text, 'html.parser')
   content_article = soup.select_one('article')
 
   if content_article is None:
-    print(f"No 'article' tag found in {url}")
+    logging.warning(f"No 'article' tag found in {url}")
     return
 
-  for a_tag in content_article.find_all('a'):
-    if a_tag.get_text():
-      a_tag.replace_with(a_tag.get_text())
-    else:
-      a_tag.decompose()
+  # Clean up the HTML before conversion
+  # Remove script and style elements
+  for script in content_article(["script", "style"]):
+    script.decompose()
+  
+  # Clean up empty elements
+  for element in content_article.find_all():
+    if not element.get_text(strip=True) and not element.name in ['br', 'hr', 'img']:
+      element.decompose()
 
-  markdown_text = html2text.html2text(str(content_article))
+  # Configure markdownify to handle tables and other elements better
+  markdown_text = md(
+    str(content_article),
+    heading_style="ATX",  # Use # style headers
+    bullets="-",          # Use - for bullets
+    strip=['a'],          # Strip links but keep text
+    convert=['table', 'th', 'td', 'tr', 'thead', 'tbody'],  # Ensure tables are converted
+  )
   file_name = url_to_filename(url)
   with open(f"./pages/{file_name}.md", 'w', encoding='utf-8') as file:
     file.write(markdown_text)
 
 
+# Ensure pages directory exists
+os.makedirs('./pages', exist_ok=True)
+
 # Main execution
 handbook_url = "/study/manual/general-handbook?lang=eng"
+logging.info("Starting handbook scraping process")
 html_to_markdown(handbook_url)
 links = get_links(handbook_url)
 if links:
