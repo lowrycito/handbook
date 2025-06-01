@@ -1,115 +1,53 @@
-“0. Introductory Overview,”General Handbook: Serving in The Church of Jesus
-Christ of Latter-day Saints(2025).
+“0. Introductory Overview,”General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints(2025).
 
 “0. Introductory Overview,”General Handbook.
 
-The Lord taught, “Let every man learn his duty, and to act in the office in
-which he is appointed, in all diligence” (Doctrine and Covenants 107:99). As a
-leader in The Church of Jesus Christ of Latter-day Saints, you should seek
-personal revelation to help you learn and fulfill the duties of your calling.
+The Lord taught, “Let every man learn his duty, and to act in the office in which he is appointed, in all diligence” (Doctrine and Covenants 107:99). As a leader in The Church of Jesus Christ of Latter-day Saints, you should seek personal revelation to help you learn and fulfill the duties of your calling.
 
-Studying the scriptures and the teachings of latter-day prophets will help you
-understand and fulfill your duties. As you study the words of God, you will be
-more receptive to the influence of the Spirit (seeDoctrine and Covenants 84:85).
+Studying the scriptures and the teachings of latter-day prophets will help you understand and fulfill your duties. As you study the words of God, you will be more receptive to the influence of the Spirit (seeDoctrine and Covenants 84:85).
 
-You also learn your duties by studying the instructions in this handbook. These
-instructions can invite revelation if they are used to provide an understanding
-of principles, policies, and procedures to apply while seeking the guidance of
-the Spirit.
+You also learn your duties by studying the instructions in this handbook. These instructions can invite revelation if they are used to provide an understanding of principles, policies, and procedures to apply while seeking the guidance of the Spirit.
 
-General Handbook: Serving in The Church of Jesus Christ of Latter-day
-Saintsprovides guidance for general and local Church leaders. It is divided into
-sections:
+General Handbook: Serving in The Church of Jesus Christ of Latter-day Saintsprovides guidance for general and local Church leaders. It is divided into sections:
 
+- Doctrinal Foundation:These chapters present doctrine and principles fundamental to serving in the Church. They explain:
 
-- Doctrinal Foundation:These chapters present doctrine and principles fundamental
-  to serving in the Church. They explain:
-
-
-  - God’s plan of happiness, His work of salvation and exaltation, and the purpose
-    of the Church.
-
-  - The role of the family in God’s plan, His work of salvation and exaltation in
-    the home, and the relationship between the home and the Church.
-
+  - God’s plan of happiness, His work of salvation and exaltation, and the purpose of the Church.
+  - The role of the family in God’s plan, His work of salvation and exaltation in the home, and the relationship between the home and the Church.
   - Priesthood principles.
-
   - Principles for leading in the Savior’s Church.
-
-- Church Organization:These chapters provide instructions for stake presidencies
-  and bishoprics, priesthood quorum leaders, stake and ward organization leaders,
-  and others who serve in the Church.
-
-- God’s Work of Salvation and Exaltation:These chapters instruct on the core work
-  of the Church:
-
+- Church Organization:These chapters provide instructions for stake presidencies and bishoprics, priesthood quorum leaders, stake and ward organization leaders, and others who serve in the Church.
+- God’s Work of Salvation and Exaltation:These chapters instruct on the core work of the Church:
 
   - Living the gospel of Jesus Christ
-
   - Caring for those in need
-
   - Inviting all to receive the gospel
-
   - Uniting families for eternity
+- Church Administration:These chapters present additional guidelines for administering the Church. Subjects include meetings, callings, records, finances, and policies.
 
-- Church Administration:These chapters present additional guidelines for
-  administering the Church. Subjects include meetings, callings, records,
-  finances, and policies.
+The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instruction about who may be sealed in a temple is provided in27.3.1. The number27refers to the chapter, the number3refers to a section in that chapter, and the number1refers to a subsection.
 
-The headings and subheadings in this handbook are numbered to make topics easy
-to find and reference. For example, instruction about who may be sealed in a
-temple is provided in27.3.1. The number27refers to the chapter, the
-number3refers to a section in that chapter, and the number1refers to a
-subsection.
+Not all stakes and wards have the same needs. This handbook contains guidelines for adaptation as well as optional resources:
 
-Not all stakes and wards have the same needs. This handbook contains guidelines
-for adaptation as well as optional resources:
+- Guidelines for adaptation() provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
+- Optional resources() contain additional information and direction that may be helpful to stake and ward leaders.
 
+Leaders seek inspiration about which guidelines and optional resources to use to meet members’ needs.
 
-- Guidelines for adaptation() provide direction on how to adapt Church
-  organizations and programs to units with differing needs and resources.
+This handbook will be updated periodically. A list of recent changes is available in the “Summary of Recent Updates.”
 
-- Optional resources() contain additional information and direction that may be
-  helpful to stake and ward leaders.
+When questions arise that are not addressed in the scriptures, the words of the living prophets, or this handbook, Church members should rely on their covenants with God, the counsel of their local leaders, and the inspiration of the Spirit for guidance.
 
-Leaders seek inspiration about which guidelines and optional resources to use to
-meet members’ needs.
-
-This handbook will be updated periodically. A list of recent changes is
-available in the “Summary of Recent Updates.”
-
-When questions arise that are not addressed in the scriptures, the words of the
-living prophets, or this handbook, Church members should rely on their covenants
-with God, the counsel of their local leaders, and the inspiration of the Spirit
-for guidance.
-
-If leaders have questions about information in this handbook or about issues it
-does not address, they counsel with their immediate presiding authority.
+If leaders have questions about information in this handbook or about issues it does not address, they counsel with their immediate presiding authority.
 
 Except where indicated otherwise:
 
-
-- The termsbishopandbishopricin this handbook refer also to branch presidents and
-  branch presidencies. The termsstake presidentandstake presidencyrefer also to
-  district presidents and district presidencies. For a summary of how the
-  authority of district presidents differs from that of stake presidents, see6.3.
-
-- References to wards and stakes generally also apply to branches, districts, and
-  missions.
-
+- The termsbishopandbishopricin this handbook refer also to branch presidents and branch presidencies. The termsstake presidentandstake presidencyrefer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see6.3.
+- References to wards and stakes generally also apply to branches, districts, and missions.
 - References to Sunday apply to whichever day the Sabbath is observed locally.
-
 - The termunitrefers to wards and branches.
-
 - References to parents generally also apply to legal guardians.
 
-The callings of bishop and branch president are not equivalent in authority and
-responsibility, nor are the callings of stake president and district president.
-The bishop is an office in the priesthood, and ordination is authorized only by
-the First Presidency. Stake presidents are called by General Authorities and
-Area Seventies.
+The callings of bishop and branch president are not equivalent in authority and responsibility, nor are the callings of stake president and district president. The bishop is an office in the priesthood, and ordination is authorized only by the First Presidency. Stake presidents are called by General Authorities and Area Seventies.
 
-Some chapters in this handbook include instructions to contact Church
-headquarters or the area office. The instruction to contact Church headquarters
-applies to those in the United States and Canada. The instruction to contact the
-area office applies to those outside the United States and Canada.
+Some chapters in this handbook include instructions to contact Church headquarters or the area office. The instruction to contact Church headquarters applies to those in the United States and Canada. The instruction to contact the area office applies to those outside the United States and Canada.
