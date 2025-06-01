@@ -1,0 +1,100 @@
+Latest Changes
+Files Changed
+42
+Added Lines
++9558
+Removed Lines
+-167
+John Lowry avatar
+John Lowry
+
+just now
+
+06/01/2025 01:05
+
+Changed Markdown Files
+pages/study-manual-general-handbook-0-introductory-overview.md
+Changed
+pages/study-manual-general-handbook-1-work-of-salvation-and-exaltation.md
+Changed
+pages/study-manual-general-handbook-10-aaronic-priesthood.md
+Changed
+pages/study-manual-general-handbook-11-young-women.md
+Changed
+pages/study-manual-general-handbook-12-primary.md
+Changed
+pages/study-manual-general-handbook-13-sunday-school.md
+Changed
+pages/study-manual-general-handbook-14-single-members.md
+Changed
+pages/study-manual-general-handbook-15-seminaries-and-institutes.md
+Changed
+pages/study-manual-general-handbook-16-living-the-gospel.md
+Changed
+pages/study-manual-general-handbook-17-teaching-the-gospel.md
+Changed
+pages/study-manual-general-handbook-18-priesthood-ordinances-and-blessings.md
+Changed
+pages/study-manual-general-handbook-19-music.md
+Changed
+pages/study-manual-general-handbook-2-supporting-individuals-and-families.md
+Changed
+pages/study-manual-general-handbook-20-activities.md
+Changed
+pages/study-manual-general-handbook-21-ministering.md
+Changed
+pages/study-manual-general-handbook-22-providing-for-temporal-needs.md
+Changed
+pages/study-manual-general-handbook-23.md
+Changed
+pages/study-manual-general-handbook-24.md
+Changed
+pages/study-manual-general-handbook-25-temple-and-family-history-work.md
+Changed
+pages/study-manual-general-handbook-26-temple-recommends.md
+Changed
+pages/study-manual-general-handbook-27-temple-ordinances-for-the-living.md
+Changed
+pages/study-manual-general-handbook-28.md
+Changed
+pages/study-manual-general-handbook-29-meetings-in-the-church.md
+Changed
+pages/study-manual-general-handbook-3-priesthood-principles.md
+Changed
+pages/study-manual-general-handbook-30-callings-in-the-church.md
+Changed
+pages/study-manual-general-handbook-31.md
+Changed
+pages/study-manual-general-handbook-32-repentance-and-membership-councils.md
+Changed
+pages/study-manual-general-handbook-33-records-and-reports.md
+Changed
+pages/study-manual-general-handbook-34-finances-and-audits.md
+Changed
+pages/study-manual-general-handbook-35.md
+Changed
+pages/study-manual-general-handbook-36-creating-changing-and-naming-new-units.md
+Changed
+pages/study-manual-general-handbook-37-specialized-stakes-wards-and-branches.md
+Changed
+pages/study-manual-general-handbook-38-church-policies-and-guidelines.md
+Changed
+pages/study-manual-general-handbook-4-leadership-in-the-church-of-jesus-christ.md
+Changed
+pages/study-manual-general-handbook-5-general-and-area-leadership.md
+Changed
+pages/study-manual-general-handbook-6-stake-leadership.md
+Changed
+pages/study-manual-general-handbook-7.md
+Changed
+pages/study-manual-general-handbook-8-elders-quorum.md
+Changed
+pages/study-manual-general-handbook-9-relief-society.md
+Changed
+pages/study-manual-general-handbook-summary-of-recent-updates.md
+Changed
+pages/study-manual-general-handbook-title-page.md
+Changed
+pages/study-manual-general-handbook.md
+Changed
+pages/study-manual-general-handbook-6-stake-leadership.md
