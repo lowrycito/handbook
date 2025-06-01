@@ -1,0 +1,690 @@
+<article data-asset-id="0799bf6611f0400fb9a4c1fdd64522b0" data-aid="142434653" data-aid-version="35" data-content-type="chapter" data-uri="/manual/general-handbook/12-primary" itemscope="" itemtype="http://schema.org/Chapter" lang="eng" data-bcp47-lang="en" data-orig-id="0799bf6611f0400fb9a4c1fdd64522b0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="global-template-mobile_lesson" id="main"><div class="body" style="--increment: 1;"><iframe class="IsolatedDom-sc-h3zeen-0 kmHRJp"></iframe><p class="reference" data-aid="142434655" id="reference1" style="--height: 0px;">“12. Primary,” <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints</cite> (2025).</p>
+<p class="short-reference" data-aid="142434657" id="short_reference1" style="--height: 0px;">“12. Primary,” <cite>General Handbook</cite>.</p>
+<header>
+<div><div class="imageWrapper-wTPPD"><img id="img1" data-img-id="e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7" data-assetid="e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7" data-missing-asset="false" data-width="100" data-height="56" data-aspect-ratio="1.7857142857142858" data-public-title="Scriptures and Technology, Mumbai India" data-public-description="Scriptures and Technology, Mumbai India" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="family holding scriptures" class="imageWithModal-ILaMF" height="56" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21100%2C/0/default" srcset="https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/e971f53e4b2b11edac4beeeeac1e5870bcc7dbc7/full/%21640%2C/0/default 640w" width="100"></div></div>
+<p class="title-number" data-aid="142434659" id="title_number1" style="--height: 16.796875px;">12.</p>
+<h1 data-aid="142434661" id="title1" style="--height: 50.3984375px;">Primary</h1>
+</header>
+<div class="body-block">
+<section id="sec1" style="--height: 5134.21875px;">
+<header>
+<p class="title-number" data-aid="142434668" id="title_number2" style="--height: 16.796875px;">12.1</p>
+<h2 data-aid="143116232" id="title2" style="--height: 38.3984375px;">Purpose and Organization</h2>
+</header>
+<p data-aid="143116233" id="p1" style="--height: 115.1875px;">The Primary organization helps God’s children prepare to return to His presence. As they embrace the gospel of Jesus Christ, they will “be steadfast and immovable, always abounding in good works” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p15#p15">Mosiah 5:15</a>).</p>
+<section id="sec2" style="--height: 407.96875px;">
+<header>
+<p class="title-number" data-aid="143116234" id="title_number3" style="--height: 16.796875px;">12.1.1</p>
+<h3 data-aid="143116235" id="title3" style="--height: 24px;">Purposes</h3>
+</header>
+<p data-aid="143116236" id="p2" style="--height: 28.796875px;">Primary helps children:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116237" id="p3" style="--height: 57.59375px;">Feel their Heavenly Father’s love and learn about His plan of happiness.</p>
+</li>
+<li>
+<p data-aid="143116238" id="p4" style="--height: 57.59375px;">Learn about Jesus Christ and His role in Heavenly Father’s plan.</p>
+</li>
+<li>
+<p data-aid="143116239" id="p5" style="--height: 28.796875px;">Learn and live the gospel of Jesus Christ.</p>
+</li>
+<li>
+<p data-aid="142434689" id="p6" style="--height: 28.796875px;">Feel, recognize, and act on the influence of the Holy Ghost.</p>
+</li>
+<li>
+<p data-aid="142434694" id="p7" style="--height: 28.796875px;">Prepare for, make, and keep sacred covenants.</p>
+</li>
+<li>
+<p data-aid="143116240" id="p8" style="--height: 28.796875px;">Participate in God’s work of salvation and exaltation.</p>
+</li>
+</ul>
+</section>
+<section id="sec3" style="--height: 183.984375px;">
+<header>
+<p class="title-number" data-aid="143116241" id="title_number4" style="--height: 16.796875px;">12.1.2</p>
+<h3 data-aid="143116242" id="title4" style="--height: 24px;">Primary Theme</h3>
+</header>
+<p data-aid="143116244" id="p10" style="--height: 57.59375px;">The Primary theme is a reminder of the blessings of serving in Primary:</p>
+<p data-aid="143116245" id="p11" style="--height: 57.59375px;">“All thy children shall be taught of the Lord; and great shall be the peace of thy children” (<a class="scripture-ref" href="/study/scriptures/ot/isa/54?lang=eng&amp;id=p13#p13">Isaiah 54:13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p13#p13">3&nbsp;Nephi 22:13</a>).</p>
+</section>
+<section id="sec4" style="--height: 359.96875px;">
+<header>
+<p class="title-number" data-aid="143965508" id="title_number32" style="--height: 16.796875px;">12.1.3</p>
+<h3 data-aid="143965509" id="title32" style="--height: 24px;">Nursery</h3>
+</header>
+<p data-aid="143965510" id="p176" style="--height: 57.59375px;">Nursery helps children 18&nbsp;months to 3&nbsp;years feel Heavenly Father’s love and learn about His plan of happiness.</p>
+<p data-aid="147470791" id="p181" style="--height: 57.59375px;">Nursery leaders love, teach, and minister to the children. They also ensure their safety and well-being.</p>
+<p data-aid="143965512" id="p177" style="--height: 86.390625px;">At least two people should be called for each nursery class. If the nursery leaders are not husband and wife, they should be the same gender.</p>
+<p data-aid="143965513" id="p178" style="--height: 57.59375px;">Nursery lasts the entire time scheduled for Primary. For more information, see <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number5-p172#title_number5">12.1.4</a> and <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number20-p151#title_number20">12.3.5</a>.</p>
+</section>
+<section id="sec5" style="--height: 1510.75px;">
+<header>
+<p class="title-number" data-aid="143116246" id="title_number5" style="--height: 16.796875px;">12.1.4</p>
+<h3 data-aid="142435550" id="title5" style="--height: 48.5px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><div class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></div></a> Classes</h3>
+</header>
+<p data-aid="160548235" id="p194" style="--height: 143.984375px;">Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the <a href="/study/come-follow-me?lang=eng"><cite>Come, Follow Me</cite></a> curriculum. On fifth Sundays, teachers are encouraged to use “<a class="cross-ref" href="/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng">Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path</a>.”</p>
+<p data-aid="143116247" id="p12" style="--height: 143.984375px;">Primary classes are organized by age and the number of teachers available. Units with fewer children or teachers may combine two or more age-groups into one class. In larger units, Primary leaders may form more than one class for an age-group and more than one nursery.</p>
+<p data-aid="143116248" id="p13" style="--height: 86.390625px;">When there are enough children, they are divided into classes based on their age on December&nbsp;31 of the previous year, as shown on the following chart:</p>
+<table class="vertical-axis"><thead><tr><th>
+<p class="label" data-aid="142435658" id="p14" style="--height: 39.1875px;">Age on December&nbsp;31 of the Previous Year</p>
+</th><th>
+<p class="label" data-aid="142435667" id="p15" style="--height: 19.59375px;">Class on January&nbsp;1</p>
+</th></tr></thead><tbody><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="143116249" id="p16" style="--height: 19.59375px;">2</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="143116250" id="p17" style="--height: 39.1875px;">Nursery (children join nursery at 18&nbsp;months)</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142435676" id="p18" style="--height: 19.59375px;">3</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436685" id="p19" style="--height: 19.59375px;">Sunbeam</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436694" id="p20" style="--height: 19.59375px;">4</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436701" id="p21" style="--height: 19.59375px;">CTR&nbsp;4</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436712" id="p22" style="--height: 19.59375px;">5</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436718" id="p23" style="--height: 19.59375px;">CTR&nbsp;5</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436728" id="p24" style="--height: 19.59375px;">6</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436736" id="p25" style="--height: 19.59375px;">CTR&nbsp;6</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436745" id="p26" style="--height: 19.59375px;">7</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436754" id="p27" style="--height: 19.59375px;">Valiant&nbsp;7</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436763" id="p28" style="--height: 19.59375px;">8</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436772" id="p29" style="--height: 19.59375px;">Valiant&nbsp;8</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436780" id="p30" style="--height: 19.59375px;">9</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436788" id="p31" style="--height: 19.59375px;">Valiant&nbsp;9</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="142435658" id="p14" style="--height: 0px;">Age on December&nbsp;31 of the Previous Year</p>
+</div>
+<p data-aid="142436797" id="p32" style="--height: 19.59375px;">10</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="142435667" id="p15" style="--height: 0px;">Class on January&nbsp;1</p>
+</div>
+<p data-aid="142436803" id="p33" style="--height: 19.59375px;">Valiant&nbsp;10</p>
+</td></tr></tbody></table>
+<p data-aid="143116251" id="p34" style="--height: 115.1875px;">Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn&nbsp;12. They may receive a <a to="[object Object]" href="https://www.churchofjesuschrist.org/tools/help/prepare-ordinance-certificates">certificate of advancement</a>. These certificates may be generated in Leader and Clerk Resources.</p>
+<p data-aid="143116252" id="p35" style="--height: 86.390625px;">In some circumstances, an 11-year-old may not be ready to leave Primary. The bishop, parents, and child counsel together about the timing.</p>
+<p data-aid="143116253" id="p172" style="--height: 86.390625px;">Children may not complete Primary before January of the year they turn&nbsp;12. Nor may young men be ordained deacons before that time.</p>
+</section>
+<section id="sec6" style="--height: 881.2890625px;">
+<header>
+<p class="title-number" data-aid="143965505" id="title_number31" style="--height: 16.796875px;">12.1.5</p>
+<h3 data-aid="142435513" id="title31" style="--height: 24px;">Singing Time</h3>
+</header>
+<p data-aid="143965506" id="p174" style="--height: 143.984375px;">Singing time helps children feel Heavenly Father’s love and learn about His plan of happiness. As children sing about gospel principles, the Holy Ghost testifies of their truthfulness. The words and music will stay in the children’s minds and hearts throughout their lives.</p>
+<p data-aid="147470786" id="p179" style="--height: 115.1875px;">Singing time is different from class time. During singing time, children learn as they actively engage in singing. Primary music leaders teach gospel principles, but they do so primarily through music.</p>
+<p data-aid="147470788" id="p180" style="--height: 115.1875px;">The Primary presidency and music leader select songs for each month to reinforce gospel principles the children are learning in their classes and at home. Songs that reinforce these principles are also suggested in <a href="/study/come-follow-me?lang=eng"><cite>Come, Follow Me</cite></a>.</p>
+<div><div class="imageWrapper-wTPPD"><img id="img2" data-img-id="018574004b3011ed9712eeeeac1ed5077b180cfe" data-assetid="018574004b3011ed9712eeeeac1ed5077b180cfe" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-title="Primary" data-public-description="Series of images of children in Primary in Congo" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="children singing" class="imageWithModal-ILaMF" height="281" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21500%2C/0/default" srcset="https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/018574004b3011ed9712eeeeac1ed5077b180cfe/full/%21640%2C/0/default 640w" width="500"></div></div>
+<p data-aid="143965507" id="p175" style="--height: 86.390625px;">For more information, see “<a class="cross-ref" href="/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng">Instructions for Singing Time and the Children’s Sacrament Meeting Presentation</a>” in <cite>Come, Follow Me</cite>. See also <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number33-p195#title_number33">12.1.6</a> and <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number19-p145#title_number19">12.3.4</a> in this handbook.</p>
+</section>
+<section id="sec7" style="--height: 606.34375px;">
+<header>
+<p class="title-number" data-aid="160548236" id="title_number33" style="--height: 16.796875px;">12.1.6</p>
+<h3 data-aid="160548237" id="title33" style="--height: 24px;">Children’s Sacrament Meeting Presentation</h3>
+</header>
+<p data-aid="143116281" id="p63" style="--height: 143.984375px;">The annual children’s sacrament meeting presentation is held during the last few months of the year. The children present what they have learned at home and at church during the year. They help the congregation focus on Heavenly Father, the Savior, and Their teachings.</p>
+<p data-aid="143116282" id="p64" style="--height: 86.390625px;">The Primary presidency and music leader prayerfully plan the presentation. The bishopric gives direction. Children may sing, give talks, and share stories, scriptures, or testimonies.</p>
+<p data-aid="143116283" id="p65" style="--height: 86.390625px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></span></a> The presentation may take all or part of the meeting time after the sacrament. Units with few children may invite children’s family members to participate.</p>
+<p data-aid="143116284" id="p66" style="--height: 86.390625px;">Because of the sacredness of sacrament meeting, the presentation should not include visuals, costumes, or media presentations.</p>
+<p data-aid="160548238" id="p195" style="--height: 86.390625px;">For more information, see “<a class="cross-ref" href="/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng">Instructions for Singing Time and the Children’s Sacrament Meeting Presentation</a>” in <cite>Come, Follow Me</cite>.</p>
+</section>
+<section id="sec8" style="--height: 769.53125px;">
+<header>
+<p class="title-number" data-aid="160548239" id="title_number34" style="--height: 16.796875px;">12.1.7</p>
+<h3 data-aid="160548240" id="title34" style="--height: 24px;">Temple and Priesthood Preparation Meeting</h3>
+</header>
+<p data-aid="143116286" id="p68" style="--height: 172.78125px;">Parents have the primary responsibility to teach their children about the temple and the priesthood. To support them, the Primary presidency plans a Temple and Priesthood Preparation meeting each year. The bishopric gives direction. The meeting is for children in the Valiant&nbsp;10 class. Parents are invited. This meeting has the following purposes:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116287" id="p69" style="--height: 57.59375px;">Help children understand priesthood purposes, responsibilities, and blessings.</p>
+</li>
+<li>
+<p data-aid="143116288" id="p70" style="--height: 57.59375px;">Help children participate in temple and family history work and prepare to make and keep sacred covenants.</p>
+</li>
+<li>
+<p data-aid="143116289" id="p71" style="--height: 28.796875px;">Help boys prepare to receive the Aaronic Priesthood.</p>
+</li>
+<li>
+<p data-aid="143116290" id="p72" style="--height: 28.796875px;">Help children prepare to receive a temple recommend.</p>
+</li>
+</ul>
+<p data-aid="143116291" id="p73" style="--height: 115.1875px;">The meeting may be held during Primary on Sunday, at another time on Sunday, or at a different time. A member of the bishopric conducts. At least one member of the Primary presidency attends.</p>
+<p data-aid="143116292" id="p74" style="--height: 86.390625px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></span></a> If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.</p>
+<p data-aid="143116293" id="p75" style="--height: 57.59375px;">For more information, see <a to="[object Object]" href="https://www.churchofjesuschrist.org/callings/primary-organization/my-calling/temple-and-priesthood-preparation">Temple and Priesthood Preparation</a> on <span class="language" lang="eng">ChurchofJesusChrist.org</span>.</p>
+</section>
+</section>
+<section id="sec9" style="--height: 6759.109375px;">
+<header>
+<p class="title-number" data-aid="142434708" id="title_number6" style="--height: 16.796875px;">12.2</p>
+<h2 data-aid="143116254" id="title6" style="--height: 76.796875px;">Participating in God’s Work of Salvation and Exaltation</h2>
+</header>
+<p data-aid="143116255" id="p36" style="--height: 28.796875px;">God invites all to come unto Christ and assist in His work by:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116256" id="p37" style="--height: 28.796875px;">Living the gospel of Jesus Christ.</p>
+</li>
+<li>
+<p data-aid="143116257" id="p38" style="--height: 28.796875px;">Caring for those in need.</p>
+</li>
+<li>
+<p data-aid="143116258" id="p39" style="--height: 28.796875px;">Inviting all to receive the gospel.</p>
+</li>
+<li>
+<p data-aid="143116259" id="p40" style="--height: 28.796875px;">Uniting families for eternity.</p>
+</li>
+</ul>
+<p data-aid="143116260" id="p41" style="--height: 86.390625px;">Primary helps children, families, leaders, and teachers participate in this work. For more information about God’s work of salvation and exaltation, study <a class="cross-ref" href="/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng">chapter&nbsp;1</a>.</p>
+<section id="sec10" style="--height: 4455.5234375px;">
+<header>
+<p class="title-number" data-aid="142434723" id="title_number7" style="--height: 16.796875px;">12.2.1</p>
+<h3 data-aid="143116261" id="title7" style="--height: 24px;">Living the Gospel of Jesus Christ</h3>
+</header>
+<section id="sec11" style="--height: 1013.2734375px;">
+<header>
+<p class="title-number" data-aid="142434739" id="title_number8" style="--height: 16.796875px;">12.2.1.1</p>
+<h4 data-aid="143116262" id="title8" style="--height: 21.59375px;">Roles of Parents and Leaders</h4>
+</header>
+<p data-aid="143116263" id="p42" style="--height: 115.1875px;">Parents are responsible to teach their children the gospel and help them live it (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p25-p28#p25">Doctrine and Covenants 68:25–28</a>). Primary leaders and teachers support parents in this responsibility as follows:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116264" id="p43" style="--height: 57.59375px;">Ensure that Primary lessons, singing time, and service and activities help children follow the example of the Savior.</p>
+</li>
+<li>
+<p data-aid="143116265" id="p44" style="--height: 28.796875px;">Help children prepare for baptism and confirmation.</p>
+</li>
+<li>
+<p data-aid="143116266" id="p45" style="--height: 28.796875px;">Help boys prepare for priesthood ordination.</p>
+</li>
+<li>
+<p data-aid="143116267" id="p46" style="--height: 57.59375px;">Help children prepare to receive a temple recommend and temple ordinances.</p>
+</li>
+<li>
+<p data-aid="143116268" id="p47" style="--height: 57.59375px;">Teach children about the blessings of sharing the gospel, including full-time missionary service.</p>
+</li>
+</ul>
+<p data-aid="143116269" id="p48" style="--height: 57.59375px;">Leaders should be sensitive to children who lack family support for gospel living.</p>
+<p data-aid="143116270" id="p49" style="--height: 143.984375px;">Parents and leaders strive to be good examples to children. They encourage children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see <a to="[object Object]" href="https://childrenandyouth.churchofjesuschrist.org">ChildrenandYouth.ChurchofJesusChrist.org</a>).</p>
+<div><div class="imageWrapper-wTPPD"><img id="img3" data-img-id="13a3359c4b3011edbf70eeeeac1eec56b5c56e26" data-assetid="13a3359c4b3011edbf70eeeeac1eec56b5c56e26" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-title="Child with Tools" data-public-description="Boy in blue shirt and safety goggles, sawing lumber on workbench, while grandfather holds plank down.  (horiz)" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="boy and man sawing wood" class="imageWithModal-ILaMF" height="281" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21500%2C/0/default" srcset="https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/13a3359c4b3011edbf70eeeeac1eec56b5c56e26/full/%21640%2C/0/default 640w" width="500"></div></div>
+</section>
+<section id="sec12" style="--height: 1482.4375px;">
+<header>
+<p class="title-number" data-aid="142434766" id="title_number9" style="--height: 16.796875px;">12.2.1.2</p>
+<h4 data-aid="143116271" id="title9" style="--height: 21.59375px;">Gospel Learning</h4>
+</header>
+<p data-aid="143116272" id="p50" style="--height: 143.984375px;">Primary leaders and teachers encourage children and their families to learn the gospel at home. These leaders and teachers study the gospel and share with the children what they learn. They invite children to share at church what they are learning at home.</p>
+<p data-aid="143116273" id="p51" style="--height: 115.1875px;">Sunday Primary meetings help children fulfill the purposes of Primary (see <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number3-p8#title_number3">12.1.1</a>). A member of the Primary presidency conducts the opening. The music leader conducts singing time. Primary teachers teach children during classes.</p>
+<p data-aid="143116274" id="p52" style="--height: 86.390625px;">Primary meetings for children ages 3–11 are held every Sunday for 50&nbsp;minutes while adults and youth attend their classes. The schedule is as follows:</p>
+<table class="vertical-axis"><thead><tr><th colspan="1" rowspan="1">
+<p class="label" data-aid="143116275" id="p170" style="--height: 19.59375px;">Part of Meeting</p>
+</th><th colspan="1" rowspan="1">
+<p class="label" data-aid="143116276" id="p171" style="--height: 19.59375px;">Length</p>
+</th></tr></thead><tbody><tr><td><div class="card-label">
+<p class="label" data-aid="143116275" id="p170" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="143116277" id="p53" style="--height: 39.1875px;">Opening (prayer, scripture or Article of Faith, and talk—all given by children)</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="143116276" id="p171" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="142435423" id="p54" style="--height: 19.59375px;">5&nbsp;minutes</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="143116275" id="p170" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="143965515" id="p55" style="--height: 19.59375px;">Singing time</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="143116276" id="p171" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="142435441" id="p56" style="--height: 19.59375px;">20&nbsp;minutes</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="143116275" id="p170" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="142435468" id="p57" style="--height: 19.59375px;">Transition to classes</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="143116276" id="p171" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="142435459" id="p58" style="--height: 19.59375px;">5&nbsp;minutes</p>
+</td></tr><tr><td><div class="card-label">
+<p class="label" data-aid="143116275" id="p170" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="143116278" id="p59" style="--height: 19.59375px;">Classes and closing prayer</p>
+</td><td><div class="card-label">
+<p class="label" data-aid="143116276" id="p171" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="142435477" id="p60" style="--height: 19.59375px;">20&nbsp;minutes</p>
+</td></tr></tbody></table>
+<p data-aid="143116279" id="p61" style="--height: 115.1875px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></span></a> In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.</p>
+<p data-aid="143116280" id="p62" style="--height: 86.390625px;">Nursery for children ages 18&nbsp;months to 3&nbsp;years lasts 50&nbsp;minutes. The following schedule may be used. Leaders adjust it according to the needs of the children.</p>
+<table class="vertical-axis"><thead><tr><th colspan="1" rowspan="1">
+<p class="label" data-aid="164980452" id="p_awHVN" style="--height: 19.59375px;">Part of Meeting</p>
+</th><th colspan="1" rowspan="1">
+<p class="label" data-aid="164980453" id="p_hxaXW" style="--height: 19.59375px;">Length</p>
+</th></tr></thead><tbody><tr><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980452" id="p_awHVN" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="164980454" id="p_z5LV7" style="--height: 39.1875px;">Welcome by nursery leader and opening prayer by nursery child, if possible</p>
+</td><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980453" id="p_hxaXW" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="164980455" id="p_q9oPi" style="--height: 19.59375px;">5 minutes</p>
+</td></tr><tr><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980452" id="p_awHVN" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="164980456" id="p_gfdbz" style="--height: 39.1875px;">Activity (snack, play with simple toys and games, read, and so on)</p>
+</td><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980453" id="p_hxaXW" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="164980457" id="p_nsMTI" style="--height: 19.59375px;">25 minutes</p>
+</td></tr><tr><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980452" id="p_awHVN" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="164980458" id="p_urEgG" style="--height: 39.1875px;">Lesson from <cite><a class="cross-ref" href="/study/manual/behold-your-little-ones-nursery-manual?lang=eng">Behold Your Little Ones</a></cite> nursery manual</p>
+</td><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980453" id="p_hxaXW" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="164980459" id="p_sXfM8" style="--height: 19.59375px;">10 minutes</p>
+</td></tr><tr><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980452" id="p_awHVN" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="164980460" id="p_q9Zgj" style="--height: 19.59375px;">Singing time</p>
+</td><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980453" id="p_hxaXW" style="--height: 0px;">Length</p>
+</div>
+<p data-aid="164980461" id="p_b9XUQ" style="--height: 19.59375px;">10 minutes</p>
+</td></tr><tr><td colspan="1" rowspan="1"><div class="card-label">
+<p class="label" data-aid="164980452" id="p_awHVN" style="--height: 0px;">Part of Meeting</p>
+</div>
+<p data-aid="164980462" id="p_ui1Ti" style="--height: 19.59375px;">Closing prayer</p>
+</td><td colspan="1" rowspan="1"></td></tr></tbody></table>
+</section>
+<section id="sec13" style="--height: 1317.46875px;">
+<header>
+<p class="title-number" data-aid="143116294" id="title_number10" style="--height: 16.796875px;">12.2.1.3</p>
+<h4 data-aid="143116295" id="title10" style="--height: 21.59375px;">Service and Activities</h4>
+</header>
+<p data-aid="143116296" id="p76" style="--height: 172.78125px;"><i>Activities for All Children.</i> Primary presidencies may occasionally hold activities for all children ages&nbsp;3 to&nbsp;11. These activities help children participate in God’s work of salvation and exaltation. Activities should be fun and engaging. They build testimonies, strengthen families, and foster personal growth. For general activity guidelines, see <a class="cross-ref" href="/study/manual/general-handbook/20-activities?lang=eng">chapter&nbsp;20</a>.</p>
+<p data-aid="164980463" id="p_uoMoZ" style="--height: 143.984375px;">Primary presidencies may also organize an annual community service activity. Where possible, this activity focuses on serving children. Valiant-age children can help plan it. The activity provides children an opportunity to invite friends and ward members to join in community service.</p>
+<p data-aid="143116298" id="p78" style="--height: 201.578125px;"><i>Valiant Activities.</i> Beginning in January of the year they turn 8, children may begin attending Valiant activities. Most Valiant activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see <a to="[object Object]" href="https://safety.churchofjesuschrist.org">safety.ChurchofJesusChrist.org</a>; see also <a class="cross-ref" href="/study/manual/general-handbook/20-activities?lang=eng&amp;id=title_number41-p290#title_number41">20.7</a> in this handbook). At least two responsible adult leaders must be present at all activities (see <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number24-p159#title_number24">12.5.1</a>).</p>
+<p data-aid="143116299" id="p79" style="--height: 57.59375px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></span></a> The following guidelines may be adapted to local circumstances:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116300" id="p80" style="--height: 86.390625px;">Valiant activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.</p>
+</li>
+<li>
+<p data-aid="143116301" id="p81" style="--height: 86.390625px;">Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.</p>
+</li>
+<li>
+<p data-aid="143116302" id="p82" style="--height: 86.390625px;">Leaders may choose to plan and hold annual day camps for these children. Valiant activities, including day camps, do not include overnight stays.</p>
+</li>
+</ul>
+<p data-aid="143116303" id="p83" style="--height: 86.390625px;">All supplies and activities, including day camps, are paid for by the ward budget. Travel and expenses should not be excessive.</p>
+<p data-aid="143116304" id="p173" style="--height: 86.390625px;">The bishopric ensures that the budget and activities for boys and girls in Primary are sufficient and equitable. Budget is allocated according to the number of children.</p>
+<p data-aid="143116305" id="p84" style="--height: 115.1875px;">For more information, see <a to="[object Object]" href="https://childrenandyouth.churchofjesuschrist.org">ChildrenandYouth.ChurchofJesusChrist.org</a>. See also <a to="[object Object]" href="https://www.justserve.org"><span class="language" lang="eng">JustServe.org</span></a>, where it is available. These resources provide service and activity ideas.</p>
+</section>
+<section id="sec14" style="--height: 485.546875px;">
+<header>
+<p class="title-number" data-aid="143116306" id="title_number11" style="--height: 16.796875px;">12.2.1.4</p>
+<h4 data-aid="143116307" id="title11" style="--height: 21.59375px;">Personal Development</h4>
+</header>
+<p data-aid="143116308" id="p85" style="--height: 230.375px;">In their efforts to become more like the Savior, children—beginning in the year they turn&nbsp;8—are invited to set goals to grow spiritually, socially, physically, and intellectually (see <a class="scripture-ref" href="/study/scriptures/nt/luke/2?lang=eng&amp;id=p52#p52">Luke 2:52</a>). With help from parents, children seek inspiration to discover what to work on. They make plans, act on their plans, and reflect on what they learn. Leaders offer support as needed. However, they should not track the children’s goals or progress.</p>
+<p data-aid="143116309" id="p86" style="--height: 115.1875px;">Beginning in the year they turn&nbsp;8, children are encouraged to complete at least one goal in each of the four areas each year. They can use <cite><a class="cross-ref" href="/study/manual/personal-development-childrens-guidebook?lang=eng">Personal Development: Children’s Guidebook</a></cite> to set and record goals.</p>
+<p data-aid="143116310" id="p87" style="--height: 57.59375px;">For more information, see <a to="[object Object]" href="https://childrenandyouth.churchofjesuschrist.org">ChildrenandYouth.ChurchofJesusChrist.org</a>.</p>
+</section>
+</section>
+<section id="sec15" style="--height: 225.578125px;">
+<header>
+<p class="title-number" data-aid="142434801" id="title_number12" style="--height: 16.796875px;">12.2.2</p>
+<h3 data-aid="143116311" id="title12" style="--height: 24px;">Caring for Those in Need</h3>
+</header>
+<p data-aid="143116312" id="p88" style="--height: 172.78125px;">Children should have regular opportunities to serve others in and with their families and during Primary activities. Ideas for service can be found at <a to="[object Object]" href="https://childrenandyouth.churchofjesuschrist.org">ChildrenandYouth.ChurchofJesusChrist.org</a>. Where it is available, <a to="[object Object]" href="https://www.justserve.org"><span class="language" lang="eng">JustServe.org</span></a> suggests opportunities for service in the community.</p>
+</section>
+<section id="sec16" style="--height: 551.953125px;">
+<header>
+<p class="title-number" data-aid="142434989" id="title_number13" style="--height: 16.796875px;">12.2.3</p>
+<h3 data-aid="143116313" id="title13" style="--height: 24px;">Inviting All to Receive the Gospel</h3>
+</header>
+<p data-aid="143116314" id="p89" style="--height: 57.59375px;">Children can invite all to receive the gospel in many ways. Some of these ways are listed below:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116315" id="p90" style="--height: 28.796875px;">Set a good example as disciples of Jesus Christ.</p>
+</li>
+<li>
+<p data-aid="143116316" id="p91" style="--height: 28.796875px;">Share their testimonies with friends and family members.</p>
+</li>
+<li>
+<p data-aid="143116317" id="p92" style="--height: 28.796875px;">Minister to less-active class members.</p>
+</li>
+<li>
+<p data-aid="143116318" id="p93" style="--height: 57.59375px;">Invite friends to attend church, activities, or baptisms or to be taught by the missionaries.</p>
+</li>
+<li>
+<p data-aid="143116319" id="p94" style="--height: 143.984375px;">Invite friends to participate in the Children and Youth program. Leaders work closely with parents of these children to help them understand the program and determine how they and their children would like to be involved.</p>
+</li>
+<li>
+<p data-aid="143116320" id="p95" style="--height: 57.59375px;">Invite friends and family members to attend the annual children’s sacrament meeting presentation.</p>
+</li>
+</ul>
+</section>
+<section id="sec17" style="--height: 670.34375px;">
+<header>
+<p class="title-number" data-aid="142435061" id="title_number14" style="--height: 16.796875px;">12.2.4</p>
+<h3 data-aid="143116321" id="title14" style="--height: 24px;">Uniting Families for Eternity</h3>
+</header>
+<p data-aid="143116322" id="p96" style="--height: 57.59375px;">Children can help unite families for eternity in many ways. Some of these ways are listed below:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116323" id="p97" style="--height: 57.59375px;">Honor their parents and set an example of Christlike living in their home.</p>
+</li>
+<li>
+<p data-aid="143116324" id="p98" style="--height: 28.796875px;">Prepare to have their own eternal family.</p>
+</li>
+<li>
+<p data-aid="143116325" id="p99" style="--height: 57.59375px;">Strive to be worthy to receive a temple recommend at the appropriate age.</p>
+</li>
+<li>
+<p data-aid="143116326" id="p100" style="--height: 57.59375px;">Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.</p>
+</li>
+<li>
+<p data-aid="143116327" id="p101" style="--height: 57.59375px;">Learn about their extended families and ancestors (see <cite><a to="[object Object]" href="https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf">My Family: Stories That Bring Us Together</a></cite>).</p>
+</li>
+<li>
+<p data-aid="143116328" id="p102" style="--height: 57.59375px;">Identify ancestors who need temple ordinances (see <a to="[object Object]" href="https://www.familysearch.org"><span class="language" lang="eng">FamilySearch.org</span></a>).</p>
+</li>
+<li>
+<p data-aid="143116329" id="p103" style="--height: 57.59375px;">Prepare to participate in baptisms and confirmations for the dead.</p>
+</li>
+<li>
+<p data-aid="143116330" id="p104" style="--height: 57.59375px;">Participate in indexing with a family member (see <a to="[object Object]" href="https://www.familysearch.org/indexing"><span class="language" lang="eng">FamilySearch.org/indexing</span></a>).</p>
+</li>
+</ul>
+</section>
+<div><div class="imageWrapper-wTPPD"><img id="img5" data-img-id="0e0894014b3011ed9712eeeeac1ed5077a370c71" data-assetid="0e0894014b3011ed9712eeeeac1ed5077a370c71" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-title="Single Mother and Daughter Watching Video" data-public-description="Single Mother and Daughter Watching Video" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="woman and child looking at computer" class="imageWithModal-ILaMF" height="281" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21500%2C/0/default" srcset="https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21640%2C/0/default 640w" width="500"></div></div>
+</section>
+<section id="sec18" style="--height: 6765.484375px;">
+<header>
+<p class="title-number" data-aid="142435183" id="title_number15" style="--height: 16.796875px;">12.3</p>
+<h2 data-aid="142434713" id="title15" style="--height: 38.3984375px;">Ward Primary Leadership</h2>
+</header>
+<section id="sec19" style="--height: 487.953125px;">
+<header>
+<p class="title-number" data-aid="142435199" id="title_number16" style="--height: 16.796875px;">12.3.1</p>
+<h3 data-aid="142434728" id="title16" style="--height: 24px;">Bishopric</h3>
+</header>
+<p data-aid="143116331" id="p105" style="--height: 86.390625px;">The bishop’s foremost responsibility is for the <a class="cross-ref" href="/study/manual/general-handbook/7?lang=eng&amp;id=p9#p9">rising generation</a> in his ward. The bishop or an assigned counselor meets regularly with the Primary president.</p>
+<p data-aid="143116332" id="p106" style="--height: 230.375px;">The bishop and his counselors respond promptly to recommendations from the Primary presidency for those to be called to serve in Primary. The bishopric works with the presidency to maintain continuity in teachers and music leaders. When possible, members in these callings should serve long enough to establish loving, trusted relationships with the children. Such relationships help nourish testimonies in the hearts of children.</p>
+<p data-aid="143116333" id="p108" style="--height: 86.390625px;">The bishop and his counselors regularly attend Primary. They also learn the names and understand the home circumstances of each child in the ward.</p>
+</section>
+<section id="sec20" style="--height: 2253.09375px;">
+<header>
+<p class="title-number" data-aid="142435221" id="title_number17" style="--height: 16.796875px;">12.3.2</p>
+<h3 data-aid="142434807" id="title17" style="--height: 48.5px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><div class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></div></a> Primary Presidency</h3>
+</header>
+<p data-aid="143116334" id="p109" style="--height: 143.984375px;">The bishop calls and sets apart an adult woman to serve as the ward Primary president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see <a class="cross-ref" href="/study/manual/general-handbook/30-callings-in-the-church?lang=eng">chapter&nbsp;30</a>). The bishopric considers her recommendations and extends the callings.</p>
+<p data-aid="143116335" id="p110" style="--height: 57.59375px;">The Primary presidency receives orientation and ongoing support from the stake Primary presidency.</p>
+<p data-aid="143116336" id="p111" style="--height: 201.578125px;">In a small unit, the Primary president may be the only called leader in Primary. In this case, she works with parents to organize lessons, singing time, and activities. She also ensures that at least two responsible adults are present at all meetings and activities. If the unit is large enough, additional callings might be filled in this order: counselors, music leader, teachers and nursery leaders, secretary, and activity leaders.</p>
+<p data-aid="142437254" id="p112" style="--height: 86.390625px;">If a branch does not have a Primary president, the Relief Society president may help parents organize instruction for children until a Primary president is called.</p>
+<p data-aid="148648743" id="p185" style="--height: 86.390625px;">The Primary presidency helps parents prepare children to enter and progress along the covenant path. This is one of their most important responsibilities.</p>
+<p data-aid="148648744" id="p186" style="--height: 172.78125px;">To accomplish this, the Primary president may assign a member of the presidency to help parents prepare their children to be baptized and confirmed. The Primary president may assign another presidency member to help parents with temple and priesthood preparation for their children.</p>
+<p data-aid="148648745" id="p187" style="--height: 172.78125px;">These presidency members make parents aware of resources in the Gospel Library that can help. See, for example, “<a class="cross-ref" href="/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng">Preparing Your Children for a Lifetime on God’s Covenant Path</a>” in <cite>Come, Follow Me</cite>. Presidency members may work with ministering brothers and sisters, teachers, and others to support parents.</p>
+<p data-aid="143116337" id="p113" style="--height: 57.59375px;">The Primary president has the following additional responsibilities. Her counselors assist her.</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116338" id="p114" style="--height: 172.78125px;">Serve on the ward council. She serves as (1)&nbsp;a ward council member who helps address needs in the ward and find solutions and (2)&nbsp;a representative of the Primary. She helps the ward council know the name and home circumstances of each child in order to enhance ministering to children and families. See <a class="cross-ref" href="/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&amp;id=title_number8-p54#title_number8">29.2.5</a>.</p>
+</li>
+<li>
+<p data-aid="143116339" id="p115" style="--height: 57.59375px;">Regularly hold Primary presidency meetings and meet with the bishop or his assigned counselor.</p>
+</li>
+<li>
+<p data-aid="143116340" id="p116" style="--height: 57.59375px;">Submit recommendations to the bishopric for adult men and women to serve in Primary.</p>
+</li>
+<li>
+<p data-aid="147470792" id="p183" style="--height: 57.59375px;">Help the ward council know of children who will be eligible to be baptized in the next year (see <a class="cross-ref" href="/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&amp;id=title_number14-p50#title_number14">18.7.1.1</a>).</p>
+</li>
+<li>
+<p data-aid="147470795" id="p184" style="--height: 57.59375px;">Help plan baptismal services for children of record when asked (see <a class="cross-ref" href="/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&amp;id=title_number16-p71#title_number16">18.7.2</a>).</p>
+</li>
+<li>
+<p data-aid="143116341" id="p117" style="--height: 57.59375px;">Plan and conduct the opening of Sunday Primary meetings.</p>
+</li>
+<li>
+<p data-aid="143116342" id="p118" style="--height: 57.59375px;">Minister to individual children, teachers, and leaders in Primary.</p>
+</li>
+<li>
+<p data-aid="143116343" id="p119" style="--height: 115.1875px;">Teach Primary leaders and teachers their responsibilities and support them in those responsibilities by orienting them to their callings (see <cite>Teaching in the Savior’s Way</cite> [2016],&nbsp;<a class="cross-ref" href="/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng">38</a>).</p>
+</li>
+<li>
+<p data-aid="143116344" id="p120" style="--height: 57.59375px;">Help Primary leaders and teachers during class time, singing time, and transitions.</p>
+</li>
+<li>
+<p data-aid="143116345" id="p121" style="--height: 57.59375px;">Visit Primary classes and arrange for teachers to attend teacher council meetings.</p>
+</li>
+<li>
+<p data-aid="143116346" id="p122" style="--height: 86.390625px;">Help introduce the Children and Youth program to children turning&nbsp;8 and to their parents. This could occur in their homes or their Primary class (see <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number30-p169#title_number30">12.5.7</a>).</p>
+</li>
+<li>
+<p data-aid="143116347" id="p123" style="--height: 57.59375px;">Oversee the records, reports, budget, and finances of Primary.</p>
+</li>
+</ul>
+</section>
+<section id="sec21" style="--height: 870.828125px;">
+<header>
+<p class="title-number" data-aid="142435300" id="title_number18" style="--height: 16.796875px;">12.3.3</p>
+<h3 data-aid="142437242" id="title18" style="--height: 48.5px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><div class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></div></a> Secretary</h3>
+</header>
+<p data-aid="143116348" id="p124" style="--height: 86.390625px;">If the unit is large enough, the Primary president recommends to the bishopric an adult woman to serve as the secretary. She has the following responsibilities:</p>
+<ul class="bullet">
+<li>
+<p data-aid="142435016" id="p125" style="--height: 86.390625px;">Help the Primary presidency prepare agendas for presidency meetings. She attends these meetings, takes notes, and keeps track of assignments.</p>
+</li>
+<li>
+<p data-aid="143116349" id="p126" style="--height: 57.59375px;">Work closely with teachers and leaders to keep accurate attendance records.</p>
+</li>
+<li>
+<p data-aid="154050909" id="p193" style="--height: 86.390625px;">Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary.</p>
+</li>
+<li>
+<p data-aid="143116350" id="p127" style="--height: 28.796875px;">Make sure the Primary presidency is aware of:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116351" id="p128" style="--height: 28.796875px;">New children and visitors.</p>
+</li>
+<li>
+<p data-aid="143116352" id="p129" style="--height: 57.59375px;">Children coming into nursery and children moving from nursery to the Sunbeam class.</p>
+</li>
+<li>
+<p data-aid="143116353" id="p130" style="--height: 28.796875px;">Children who are eligible for baptism.</p>
+</li>
+<li>
+<p data-aid="143116354" id="p131" style="--height: 28.796875px;">Children who will advance from Primary.</p>
+</li>
+</ul>
+</li>
+<li>
+<p data-aid="143116355" id="p132" style="--height: 86.390625px;">Assign children to give prayers, scriptures, and talks during the opening of Sunday Primary meetings (under the presidency’s direction). She also notifies parents.</p>
+</li>
+<li>
+<p data-aid="143116356" id="p133" style="--height: 57.59375px;">Help the Primary presidency prepare a budget, account for expenses, and track Children and Youth materials.</p>
+</li>
+</ul>
+</section>
+<section id="sec22" style="--height: 1434.8515625px;">
+<header>
+<p class="title-number" data-aid="142435324" id="title_number19" style="--height: 16.796875px;">12.3.4</p>
+<h3 data-aid="143116357" id="title19" style="--height: 24px;">Music Leader and Pianist</h3>
+</header>
+<p data-aid="143116358" id="p134" style="--height: 115.1875px;">The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly study of the scriptures as outlined in <a href="/study/come-follow-me?lang=eng"><cite>Come, Follow Me</cite></a>. <a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="eb9f42669cb91222bcb4f3e6f13a40b7e87b167e" data-assetid="eb9f42669cb91222bcb4f3e6f13a40b7e87b167e" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Optional Icon" data-public-description="Icon with two arrows on it. One pointing to the right. Represents &quot;options.&quot;" srcset="https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, optional resources" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default" width="100"></span></a> The following resources may be used:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143116359" id="p135" style="--height: 28.796875px;"><a href="/study/come-follow-me?lang=eng"><cite>Come, Follow Me</cite></a></p>
+</li>
+<li>
+<p data-aid="143116360" id="p136" style="--height: 57.59375px;"><a class="cross-ref" href="/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng"><cite>Instructions for Singing Time and the Children’s Sacrament Meeting Program</cite></a></p>
+</li>
+<li>
+<p data-aid="143116361" id="p137" style="--height: 28.796875px;"><cite><a class="cross-ref" href="/study/manual/childrens-songbook?lang=eng">Children’s Songbook</a></cite></p>
+</li>
+<li>
+<p data-aid="143116362" id="p138" style="--height: 28.796875px;"><cite><a class="cross-ref" href="/study/manual/hymns?lang=eng">Hymns</a></cite></p>
+</li>
+<li>
+<p data-aid="143116363" id="p139" style="--height: 28.796875px;"><a to="[object Object]" href="https://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music">Primary Music Collections</a> on <span class="language" lang="eng">ChurchofJesusChrist.org</span></p>
+</li>
+<li>
+<p data-aid="143116364" id="p140" style="--height: 57.59375px;">“<a to="[object Object]" href="https://www.churchofjesuschrist.org/media/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine">Primary Singing Time—Music Can Teach Doctrine</a>” (MediaLibrary.ChurchofJesusChrist.org)</p>
+</li>
+</ul>
+<p data-aid="143116365" id="p141" style="--height: 57.59375px;">The bishopric must approve the use of any other music in Primary.</p>
+<div><div class="imageWrapper-wTPPD"><img id="img4" data-img-id="0df225cd4b3011eda811eeeeac1e141251004aea" data-assetid="0df225cd4b3011eda811eeeeac1e141251004aea" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-description="Primary sharing time" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="children singing with chorister" class="imageWithModal-ILaMF" height="281" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21500%2C/0/default" srcset="https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0df225cd4b3011eda811eeeeac1e141251004aea/full/%21640%2C/0/default 640w" width="500"></div></div>
+<p data-aid="143116366" id="p142" style="--height: 57.59375px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></span></a> If a pianist or piano is not available, leaders may use recordings from the following sources:</p>
+<ul class="bullet">
+<li>
+<p data-aid="148648746" id="p188" style="--height: 28.796875px;">Sacred Music app</p>
+</li>
+<li>
+<p data-aid="148648748" id="p189" style="--height: 28.796875px;">Gospel Library app</p>
+</li>
+<li>
+<p data-aid="148648749" id="p190" style="--height: 28.796875px;"><a to="[object Object]" href="https://www.churchofjesuschrist.org/music">Music.ChurchofJesusChrist.org</a></p>
+</li>
+<li>
+<p data-aid="148648751" id="p191" style="--height: 28.796875px;">CDs at <a to="[object Object]" href="https://store.churchofjesuschrist.org">store.ChurchofJesusChrist.org</a></p>
+</li>
+</ul>
+<p data-aid="148648753" id="p192" style="--height: 28.796875px;">Children can also sing without accompaniment.</p>
+<p data-aid="143116367" id="p143" style="--height: 57.59375px;">The music leader can help with music for nursery when invited. An additional music leader may be called if needed.</p>
+<p data-aid="143116368" id="p144" style="--height: 86.390625px;">The music leader works with the Primary presidency to help the children prepare for the annual children’s sacrament meeting presentation (see <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number33-p195#title_number33">12.1.6</a>).</p>
+<p data-aid="143116369" id="p145" style="--height: 57.59375px;">See <a to="[object Object]" href="https://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time">Singing Time</a> on <span class="language" lang="eng">ChurchofJesusChrist.org</span> for more ideas and resources.</p>
+</section>
+<section id="sec23" style="--height: 1044.703125px;">
+<header>
+<p class="title-number" data-aid="143116370" id="title_number20" style="--height: 16.796875px;">12.3.5</p>
+<h3 data-aid="142435156" id="title20" style="--height: 24px;">Teachers and Nursery Leaders</h3>
+</header>
+<p data-aid="143116243" id="p196" style="--height: 115.1875px;">It is a sacred privilege to teach children. Jesus Christ taught, “Behold your little ones” and “feed my lambs” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/17?lang=eng&amp;id=p23#p23">3&nbsp;Nephi 17:23</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/21?lang=eng&amp;id=p15#p15">John 21:15</a>). By following these invitations, Primary leaders love and teach children in the Savior’s way.</p>
+<p data-aid="143116371" id="p146" style="--height: 143.984375px;">The Primary presidency recommends to the bishopric men and women to serve as Primary teachers and nursery leaders. The bishopric considers these recommendations and extends the callings. These members are called to teach and minister to specific age-groups of children.</p>
+<p data-aid="143116372" id="p147" style="--height: 115.1875px;">Primary teachers teach from <a href="/study/come-follow-me?lang=eng"><cite>Come, Follow Me</cite></a> (ages 3–11). On fifth Sundays, they are encouraged to teach lessons from “<a class="cross-ref" href="/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng">Appendix B: For Primary—Preparing Your Children for a Lifetime on God’s Covenant Path</a>.”</p>
+<p data-aid="160548241" id="p197" style="--height: 28.796875px;">Nursery leaders teach from <cite><a class="cross-ref" href="/study/manual/behold-your-little-ones-nursery-manual?lang=eng">Behold Your Little Ones</a></cite>.</p>
+<p data-aid="160548242" id="p198" style="--height: 57.59375px;">Teachers and nursery leaders follow the principles in <a class="cross-ref" href="/study/manual/teaching-in-the-saviors-way-2022?lang=eng"><cite>Teaching in the Savior’s Way</cite></a> and <a class="cross-ref" href="/study/manual/general-handbook/17-teaching-the-gospel?lang=eng">chapter&nbsp;17</a> of this handbook.</p>
+<p data-aid="143116373" id="p148" style="--height: 172.78125px;">When adults teach children in Church settings, at least two responsible adults should be present. The two adults could be two women, two men, or a married couple. If this is not possible, leaders should combine classes. Leaders and teachers must complete the training at <a to="[object Object]" href="https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth">ProtectingChildren.ChurchofJesusChrist.org</a>. (See <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number24-p159#title_number24">12.5.1</a>.)</p>
+<p data-aid="143116374" id="p149" style="--height: 28.796875px;">Youth should not teach in Primary, including as substitutes.</p>
+<p data-aid="143116375" id="p150" style="--height: 143.984375px;">Primary teachers and nursery leaders stay with the children throughout Primary, including singing time and transitions. During singing time, teachers participate with their classes. Teachers should remain with young children after Primary until a family member comes for them.</p>
+<p data-aid="143116376" id="p151" style="--height: 57.59375px;">Teachers and nursery leaders attend quarterly teacher council meetings (see <a class="cross-ref" href="/study/manual/general-handbook/13-sunday-school?lang=eng&amp;id=title_number14-p121#title_number14">13.4</a>).</p>
+</section>
+<section id="sec24" style="--height: 438.859375px;">
+<header>
+<p class="title-number" data-aid="143116377" id="title_number21" style="--height: 16.796875px;">12.3.6</p>
+<h3 data-aid="142437248" id="title21" style="--height: 48.5px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><div class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></div></a> Valiant Activity Leaders</h3>
+</header>
+<p data-aid="143116378" id="p152" style="--height: 172.78125px;">Valiant activity leaders minister to children as they plan service and activities beginning in January of the year children turn&nbsp;8 (see <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number10-p84#title_number10">12.2.1.3</a>). Service and activities focus on God’s work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.</p>
+<p data-aid="143116379" id="p153" style="--height: 172.78125px;">Valiant activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at <a to="[object Object]" href="https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth">ProtectingChildren.ChurchofJesusChrist.org</a>. (See <a class="cross-ref" href="/study/manual/general-handbook/12-primary?lang=eng&amp;id=title_number24-p159#title_number24">12.5.1</a>.)</p>
+</section>
+</section>
+<section id="sec25" style="--height: 853.4921875px;">
+<header>
+<p class="title-number" data-aid="142435352" id="title_number22" style="--height: 16.796875px;">12.4</p>
+<h2 data-aid="142437071" id="title22" style="--height: 77.796875px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><div class="imageWrapper-wTPPD"><img data-img-id="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-assetid="27e2854ed6828522f00e45c6ce90134d5ca4ab00" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Adaptation Icon" data-public-description="Two arrows pointing in opposite directions. Represents adaptation." srcset="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, guidelines for adaptation" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default" width="100"></div></a> Stake Primary Leaders</h2>
+</header>
+<p data-aid="143116380" id="p154" style="--height: 230.375px;">The stake presidency calls an adult woman to serve as stake Primary president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Primary presidency and secretary, see <a class="cross-ref" href="/study/manual/general-handbook/6-stake-leadership?lang=eng&amp;id=title_number32-p251#title_number32">6.7.1</a>, <a class="cross-ref" href="/study/manual/general-handbook/6-stake-leadership?lang=eng&amp;id=title_number35-p248#title_number35">6.7.1.3</a>, and <a class="cross-ref" href="/study/manual/general-handbook/6-stake-leadership?lang=eng&amp;id=title_number38-p268#title_number38">6.7.3</a>.</p>
+<p data-aid="143116381" id="p155" style="--height: 115.1875px;">A counselor in the stake presidency has responsibility for Primary in the stake. He also has responsibility for the work of the stake Primary presidency. He also instructs bishops in their responsibilities for Primary.</p>
+<p data-aid="143116382" id="p156" style="--height: 57.59375px;">The stake presidency assigns a high councilor to work with the stake Primary presidency (see <a class="cross-ref" href="/study/manual/general-handbook/6-stake-leadership?lang=eng&amp;id=title_number19-p190#title_number19">6.5</a>).</p>
+<div><div class="imageWrapper-wTPPD"><img id="img6" data-img-id="1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb" data-assetid="1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-title="Primary" data-public-description="Korean Primary children singing in a chapel during a sacrament meeting presentation." sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="children singing in sacrament meeting" class="imageWithModal-ILaMF" height="281" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21500%2C/0/default" srcset="https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1aa35aaf4b3011ed936eeeeeac1e62c4c677f4fb/full/%21640%2C/0/default 640w" width="500"></div></div>
+</section>
+<section id="sec26" style="--height: 2123.5234375px;">
+<header>
+<p class="title-number" data-aid="142436857" id="title_number23" style="--height: 16.796875px;">12.5</p>
+<h2 data-aid="142437291" id="title23" style="--height: 38.3984375px;">Additional Guidelines and Policies</h2>
+</header>
+<section id="sec27" style="--height: 270.375px;">
+<header>
+<p class="title-number" data-aid="142436875" id="title_number24" style="--height: 16.796875px;">12.5.1</p>
+<h3 data-aid="143116383" id="title24" style="--height: 24px;">Safeguarding Children</h3>
+</header>
+<p data-aid="143116384" id="p158" style="--height: 86.390625px;">When adults are interacting with children in Church settings, at least two responsible adults should be present. It may be necessary to combine classes to make this possible.</p>
+<p data-aid="143116385" id="p159" style="--height: 115.1875px;">All adults who work with children must complete the children and youth protection training within one month of being sustained (<a to="[object Object]" href="https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth">ProtectingChildren.ChurchofJesusChrist.org</a>). They repeat the training every three years thereafter.</p>
+</section>
+<section id="sec28" style="--height: 532.75px;">
+<header>
+<p class="title-number" data-aid="142436919" id="title_number25" style="--height: 16.796875px;">12.5.2</p>
+<h3 data-aid="142437392" id="title25" style="--height: 24px;">Children Who Have Special Needs</h3>
+</header>
+<p data-aid="143116386" id="p160" style="--height: 115.1875px;">When a child has a long illness, disability, or special need, Primary leaders talk with parents and the bishopric. Together they make a plan to support the family and help the child participate in Primary.</p>
+<p data-aid="143116387" id="p161" style="--height: 86.390625px;">Children with disabilities typically attend their regular Primary class. As necessary, additional teachers may be called to assist.</p>
+<p data-aid="143116388" id="p162" style="--height: 143.984375px;">Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn&nbsp;12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.</p>
+<p data-aid="143116389" id="p163" style="--height: 86.390625px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><span class="imageWrapper-wTPPD"><img data-img-id="eb9f42669cb91222bcb4f3e6f13a40b7e87b167e" data-assetid="eb9f42669cb91222bcb4f3e6f13a40b7e87b167e" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Optional Icon" data-public-description="Icon with two arrows on it. One pointing to the right. Represents &quot;options.&quot;" srcset="https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, optional resources" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default" width="100"></span></a> For more information, see <a to="[object Object]" href="https://www.churchofjesuschrist.org/life/disability">disability.ChurchofJesusChrist.org</a>; see also <a class="cross-ref" href="/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;id=title_number167-p631#title_number167">38.8.27</a> in this handbook.</p>
+</section>
+<section id="sec29" style="--height: 167.984375px;">
+<header>
+<p class="title-number" data-aid="142436974" id="title_number26" style="--height: 16.796875px;">12.5.3</p>
+<h3 data-aid="142437303" id="title26" style="--height: 24px;">Men Serving in Primary</h3>
+</header>
+<p data-aid="143116390" id="p164" style="--height: 115.1875px;">The bishopric and Primary presidency should remember the positive influence of worthy men serving in Primary. Men may serve as teachers, nursery leaders, music leaders and pianists, and Valiant activity leaders.</p>
+</section>
+<section id="sec30" style="--height: 196.78125px;">
+<header>
+<p class="title-number" data-aid="143116391" id="title_number27" style="--height: 16.796875px;">12.5.4</p>
+<h3 data-aid="143116392" id="title27" style="--height: 24px;">Restroom Safety</h3>
+</header>
+<p data-aid="143116393" id="p165" style="--height: 143.984375px;">Leaders and teachers should encourage parents to take their children to the restroom before Primary. During Primary, a young child must be taken to the restroom by a parent or legal guardian. Leaders and teachers should not take children into the restroom.</p>
+</section>
+<section id="sec31" style="--height: 167.984375px;">
+<header>
+<p class="title-number" data-aid="143116394" id="title_number28" style="--height: 16.796875px;">12.5.5</p>
+<h3 data-aid="143116395" id="title28" style="--height: 24px;">Role-Playing Activities</h3>
+</header>
+<p data-aid="143116396" id="p166" style="--height: 115.1875px;">Leaders and teachers should be careful when acting out sacred events in Primary. Heavenly Father and the Holy Ghost are not portrayed. Children may portray the Savior only in a Nativity scene. For additional guidelines, see <a class="cross-ref" href="/study/manual/general-handbook/20-activities?lang=eng&amp;id=title_number35-p186#title_number35">20.5.6</a>.</p>
+</section>
+<section id="sec32" style="--height: 163.6875px;">
+<header>
+<p class="title-number" data-aid="143116397" id="title_number29" style="--height: 16.796875px;">12.5.6</p>
+<h3 data-aid="143116398" id="title29" style="--height: 48.5px;"><a class="cross-ref" href="/study/manual/general-handbook/0-introductory-overview?lang=eng&amp;id=title_number3#title_number3"><div class="imageWrapper-wTPPD"><img data-img-id="eb9f42669cb91222bcb4f3e6f13a40b7e87b167e" data-assetid="eb9f42669cb91222bcb4f3e6f13a40b7e87b167e" data-missing-asset="false" data-width="100" data-height="100" data-aspect-ratio="1.0" data-public-title="Optional Icon" data-public-description="Icon with two arrows on it. One pointing to the right. Represents &quot;options.&quot;" srcset="https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default 100w" sizes="(max-width: 272px) 184px, (max-width: 639px) calc(100vw - 88px), (max-width: 735px) 552px, (min-width: 736px) 512px, 552px" alt="icon, optional resources" class="icon" height="100" loading="lazy" src="https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default" width="100"></div></a> CTR Rings</h3>
+</header>
+<p data-aid="143116399" id="p167" style="--height: 86.390625px;">When children begin the CTR&nbsp;4 class, the Primary presidency and their Primary teacher remind them to “choose the right.” These leaders also give each child a green <a to="[object Object]" href="https://store.churchofjesuschrist.org/usa/en/ctr-ring/5638675502.p">CTR ring</a>.</p>
+</section>
+<section id="sec33" style="--height: 356.765625px;">
+<header>
+<p class="title-number" data-aid="143116400" id="title_number30" style="--height: 16.796875px;">12.5.7</p>
+<h3 data-aid="143116401" id="title30" style="--height: 24px;">Introducing the Children and Youth Program</h3>
+</header>
+<p data-aid="143116402" id="p168" style="--height: 230.375px;">At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn&nbsp;8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the <a to="[object Object]" href="https://www.churchofjesuschrist.org/youth/childrenandyouth/emblems">emblems of belonging</a> and a copy of <cite><a class="cross-ref" href="/study/manual/personal-development-childrens-guidebook?lang=eng">Personal Development: Children’s Guidebook</a></cite>. These resources are available at <a to="[object Object]" href="https://store.churchofjesuschrist.org/top-cat/units-and-callings/children-and-youth/emblems-of-belonging/5637160411.c">store.ChurchofJesusChrist.org</a>.</p>
+<p data-aid="143116403" id="p169" style="--height: 57.59375px;">For more information, see <a to="[object Object]" href="https://www.churchofjesuschrist.org/youth/childrenandyouth">ChildrenandYouth.ChurchofJesusChrist.org</a>.</p>
+</section>
+</section>
+</div></div></article>
