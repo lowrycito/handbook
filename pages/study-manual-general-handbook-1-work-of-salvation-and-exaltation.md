@@ -1,37 +1,23 @@
-“1. God’s Plan and Your Role in His Work of Salvation and Exaltation,” General
-Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
+“1. God’s Plan and Your Role in His Work of Salvation and Exaltation,”General
+Handbook: Serving in The Church of Jesus Christ of Latter-day Saints(2025).
 
-“1. God’s Work of Salvation and Exaltation,” General Handbook.
-
-![men building
-house](https://www.churchofjesuschrist.org/imgs/e2a478e84b2b11edbf70eeeeac1eec5658345640/full/%21100%2C/0/default)
-
-1.
-
-# God’s Plan and Your Role in His Work of Salvation and Exaltation
-
-1.0
-
-## Introduction
+“1. God’s Work of Salvation and Exaltation,”General Handbook.
 
 You have been called to serve in The Church of Jesus Christ of Latter-day
 Saints. Thank you for your service. You will bless lives and experience joy as
 you serve faithfully.
 
 This handbook will help you learn principles of Christlike service and
-understand your responsibilities. You will be most effective when you align
-your service in the Church with the work of God the Father and His Son, Jesus
-Christ. This chapter will help you gain a vision of:
+understand your responsibilities. You will be most effective when you align your
+service in the Church with the work of God the Father and His Son, Jesus Christ.
+This chapter will help you gain a vision of:
 
-  * God’s plan of happiness.
 
-  * God’s work of salvation and exaltation.
+- God’s plan of happiness.
 
-  * The purpose of The Church of Jesus Christ of Latter-day Saints.
+- God’s work of salvation and exaltation.
 
-1.1
-
-## God’s Plan of Happiness
+- The purpose of The Church of Jesus Christ of Latter-day Saints.
 
 Heavenly Father provided the plan of happiness to enable us to enjoy all His
 blessings. His work and glory is to “bring to pass the immortality and eternal
@@ -39,197 +25,126 @@ life of man” (Moses 1:39). Immortality is to live forever with a resurrected
 physical body. Eternal life, or exaltation, is to become like God and live in
 His presence eternally as families.
 
-God’s Work and Glory
-
-“For behold, this is my work and my glory—to bring to pass the immortality and
-eternal life of man” (Moses 1:39).
-
 Jesus Christ is central to God’s plan. Because of Heavenly Father’s infinite
-love for us, He sent His Son to redeem us from sin and death through His
-atoning sacrifice (see John 3:16). Through His Atonement, Jesus Christ ensures
-that each of us born on earth will be resurrected and gain immortality.
+love for us, He sent His Son to redeem us from sin and death through His atoning
+sacrifice (seeJohn 3:16). Through His Atonement, Jesus Christ ensures that each
+of us born on earth will be resurrected and gain immortality.
 
-To receive eternal life, we must “come unto Christ” (Moroni 10:32). The
-Savior’s Atonement makes it possible for us to be cleansed from sin and have
-our hearts changed so we can receive eternal life and a fulness of joy.
-Heavenly Father wants all of His children to choose to return to Him.
+To receive eternal life, we must “come unto Christ” (Moroni 10:32). The Savior’s
+Atonement makes it possible for us to be cleansed from sin and have our hearts
+changed so we can receive eternal life and a fulness of joy. Heavenly Father
+wants all of His children to choose to return to Him.
 
-1.2
-
-## God’s Work of Salvation and Exaltation
-
-As we come unto Christ and help others do the same, we participate in God’s
-work of salvation and exaltation. This work is guided by the two great
-commandments to love God and to love our neighbors (see Matthew 22:37–39).
+As we come unto Christ and help others do the same, we participate in God’s work
+of salvation and exaltation. This work is guided by the two great commandments
+to love God and to love our neighbors (seeMatthew 22:37–39).
 
 God’s work of salvation and exaltation focuses on four divinely appointed
 responsibilities. These are outlined below.
 
-God’s Work of Salvation and Exaltation
-
-We come unto Christ and assist in God’s work by:
-
-  * Living the gospel of Jesus Christ.
-
-  * Caring for those in need.
-
-  * Inviting all to receive the gospel.
-
-  * Uniting families for eternity.
-
 This handbook will help you understand these four aspects of God’s work.
-
-1.2.1
-
-### Living the Gospel of Jesus Christ
 
 Living the gospel of Jesus Christ includes:
 
-  * Exercising faith in Christ, repenting daily, making covenants with God as we receive the ordinances of salvation and exaltation, and enduring to the end by keeping those covenants (see 3.5.1).
 
-  * Learning and teaching the gospel of Jesus Christ at home and at church.
+- Exercising faith in Christ, repenting daily, making covenants with God as we
+  receive the ordinances of salvation and exaltation, and enduring to the end by
+  keeping those covenants (see3.5.1).
 
-  * Becoming self-reliant in providing for ourselves and our families, both spiritually and temporally.
+- Learning and teaching the gospel of Jesus Christ at home and at church.
 
-![sister missionaries teaching
-woman](https://www.churchofjesuschrist.org/imgs/ffd7c4004b2f11eda1beeeeeac1e2928a42fbf2b/full/%21500%2C/0/default)
-
-1.2.2
-
-### Caring for Those in Need
+- Becoming self-reliant in providing for ourselves and our families, both
+  spiritually and temporally.
 
 Caring for those in need includes:
 
-  * Serving and ministering to individuals, families, and communities.
 
-  * Sharing resources, including Church assistance, with those in need.
+- Serving and ministering to individuals, families, and communities.
 
-  * Helping others become self-reliant.
+- Sharing resources, including Church assistance, with those in need.
 
-1.2.3
-
-### Inviting All to Receive the Gospel
+- Helping others become self-reliant.
 
 Inviting all to receive the gospel includes:
 
-  * Participating in missionary work and serving as missionaries.
 
-  * Helping new and returning Church members progress along the covenant path.
+- Participating in missionary work and serving as missionaries.
 
-1.2.4
-
-### Uniting Families for Eternity
+- Helping new and returning Church members progress along the covenant path.
 
 Uniting families for eternity includes:
 
-  * Making covenants as we receive our own temple ordinances.
 
-  * Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God.
+- Making covenants as we receive our own temple ordinances.
 
-  * Going to the temple regularly, where possible, to worship God and perform ordinances for His children.
+- Discovering our deceased ancestors and performing ordinances for them in the
+  temple so they can make covenants with God.
 
-1.3
+- Going to the temple regularly, where possible, to worship God and perform
+  ordinances for His children.
 
-## The Purpose of the Church
+Jesus Christ established His Church to enable individuals and families to assist
+God in fulfilling His work of salvation and exaltation (seeEphesians 4:11–13;
+see also2.2in this handbook). To help accomplish this divine purpose, the Church
+and its leaders provide:
 
-Jesus Christ established His Church to enable individuals and families to
-assist God in fulfilling His work of salvation and exaltation (see Ephesians
-4:11–13; see also 2.2 in this handbook). To help accomplish this divine
-purpose, the Church and its leaders provide:
 
-  * Priesthood authority and keys.
+- Priesthood authority and keys.
 
-  * Covenants and ordinances.
+- Covenants and ordinances.
 
-  * Prophetic direction.
+- Prophetic direction.
 
-  * Scriptures.
+- Scriptures.
 
-  * Gospel learning and teaching support.
+- Gospel learning and teaching support.
 
-  * Service and leadership opportunities.
+- Service and leadership opportunities.
 
-  * A community of Saints.
-
-1.3.1
-
-### Priesthood Authority and Keys
+- A community of Saints.
 
 Through the priesthood, God accomplishes His work of salvation and exaltation.
 The priesthood authority and keys needed to direct God’s work on earth were
-restored to the Prophet Joseph Smith (see Doctrine and Covenants 110:11–16;
-112:30; see also 3.1 in this handbook). These keys are held by Church leaders
-today. These leaders call and authorize others to assist in God’s work (see
-Doctrine and Covenants 107:8, 65–67).
-
-1.3.2
-
-### Covenants and Ordinances
+restored to the Prophet Joseph Smith (seeDoctrine and Covenants
+110:11–16;112:30; see also3.1in this handbook). These keys are held by Church
+leaders today. These leaders call and authorize others to assist in God’s work
+(seeDoctrine and Covenants 107:8, 65–67).
 
 In Heavenly Father’s plan, we make covenants as we receive the ordinances of
-salvation and exaltation, such as baptism (see John 3:5; see also chapter 18
-in this handbook). These covenants and ordinances are essential for us to
-become more like God and return to dwell in His presence (see Doctrine and
-Covenants 84:19–22).
-
-1.3.3
-
-### Prophetic Direction
+salvation and exaltation, such as baptism (seeJohn 3:5; see alsochapter 18in
+this handbook). These covenants and ordinances are essential for us to become
+more like God and return to dwell in His presence (seeDoctrine and Covenants
+84:19–22).
 
 Through His chosen prophets, God reveals truth and provides inspired guidance
-and warnings (see Amos 3:7; Doctrine and Covenants 1:4). This guidance helps
-us enter and remain on the path leading to eternal life.
+and warnings (seeAmos 3:7;Doctrine and Covenants 1:4). This guidance helps us
+enter and remain on the path leading to eternal life.
 
-1.3.4
-
-### Scriptures
-
-Under the direction of the Lord’s prophets and apostles, the Church provides
-and preserves the word of God as found in the holy scriptures. The scriptures
-testify of Christ, teach His gospel, and help us exercise faith in Him (see
-Jacob 7:10–11; Helaman 15:7).
-
-1.3.5
-
-### Gospel Learning and Teaching Support
+Under the direction of the Lord’s prophets and apostles, the Church provides and
+preserves the word of God as found in the holy scriptures. The scriptures
+testify of Christ, teach His gospel, and help us exercise faith in Him (seeJacob
+7:10–11;Helaman 15:7).
 
 The Church supports individuals and families in their responsibility to learn
 the truths of the gospel and teach these truths to family members and others
-(see Doctrine and Covenants 88:77–78, 118; see also 2.2.3 in this handbook).
+(seeDoctrine and Covenants 88:77–78, 118; see also2.2.3in this handbook).
 
-1.3.6
+Through callings and assignments in the Church, God gives members opportunities
+to serve and lead. The Church provides structure to help care for members in
+need and to give humanitarian relief to others (seeMosiah 18:27–29).
 
-### Service and Leadership Opportunities
-
-Through callings and assignments in the Church, God gives members
-opportunities to serve and lead. The Church provides structure to help care
-for members in need and to give humanitarian relief to others (see Mosiah
-18:27–29).
-
-1.3.7
-
-### A Community of Saints
-
-As a community of Saints, Church members gather regularly to worship God and
-to remember the Savior by partaking of the sacrament (see Moroni 6:4–6;
-Doctrine and Covenants 20:77). Members also care for and minister to one
-another (see Ephesians 2:19).
-
-![temple, Tijuana
-Mexico](https://www.churchofjesuschrist.org/imgs/140504aa4b3011edb66ceeeeac1e4bfcd1ff324a/full/%21500%2C/0/default)
-
-1.4
-
-## Your Role in God’s Work
+As a community of Saints, Church members gather regularly to worship God and to
+remember the Savior by partaking of the sacrament (seeMoroni 6:4–6;Doctrine and
+Covenants 20:77). Members also care for and minister to one another
+(seeEphesians 2:19).
 
 As a leader in the Church, you are called to teach and support those you serve
-as they assist God in His work of salvation and exaltation (see 1.2). Having a
+as they assist God in His work of salvation and exaltation (see1.2). Having a
 clear understanding of God’s work, of what He invites you to do, and of the
 purpose of His Church will help you focus your efforts in bringing souls to
 Christ.
 
 Prayerfully seek to know how you can help bring about God’s purposes in the
-lives of those you serve. God will direct you through the promptings of the
-Holy Ghost (see 2 Nephi 32:5). Laboring with the Lord in His vineyard will
-bring you great joy (see Jacob 5:70–72).
-
+lives of those you serve. God will direct you through the promptings of the Holy
+Ghost (see2 Nephi 32:5). Laboring with the Lord in His vineyard will bring you
+great joy (seeJacob 5:70–72).
