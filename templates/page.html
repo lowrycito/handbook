@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>General Handbook</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; display: flex; }
+        .sidebar { width: 300px; background-color: #f8f9fa; padding: 20px; height: 100vh; overflow-y: auto; border-right: 1px solid #ddd; }
+        .content { flex: 1; padding: 20px; overflow-y: auto; height: 100vh; }
+        .navigation { list-style: none; padding: 0; margin: 0; }
+        .navigation li { margin: 5px 0; }
+        .navigation a { text-decoration: none; color: #0066cc; padding: 8px 12px; display: block; border-radius: 4px; font-size: 14px; }
+        .navigation a:hover { background-color: #e9ecef; }
+        .navigation a.current { background-color: #0066cc; color: white; }
+        h1 { color: #333; margin-top: 0; }
+        .sidebar h2 { color: #333; margin-top: 0; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>General Handbook</h2>
+        <ul class="navigation">
+            {% for item in navigation %}
+                <li>
+                    <a href="/page/{{ item.filename }}" 
+                       {% if item.filename == current_file %}class="current"{% endif %}>
+                        {{ item.label }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="content">
+        {{ content|safe }}
+    </div>
+</body>
+</html>

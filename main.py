@@ -209,6 +209,14 @@ def html_to_markdown(url, max_retries=3):
     logging.warning(f"No 'article' tag found in {url}")
     return
 
+  # Extract the page title for metadata
+  title_tag = soup.find('title')
+  page_title = title_tag.get_text().strip() if title_tag else "Untitled"
+  
+  # Clean up title - remove "General Handbook" suffix if present
+  if " | General Handbook" in page_title:
+    page_title = page_title.replace(" | General Handbook", "")
+  
   # Clean up the HTML before conversion
   content_article = clean_html_for_conversion(content_article)
 
@@ -229,9 +237,17 @@ def html_to_markdown(url, max_retries=3):
   # Post-process the markdown to fix common issues
   markdown_text = post_process_markdown(markdown_text)
   
+  # Add metadata header to markdown
+  metadata_header = f"""---
+title: "{page_title}"
+url: "{url}"
+---
+
+"""
+  
   file_name = url_to_filename(url)
   with open(f"./pages/{file_name}.md", 'w', encoding='utf-8') as file:
-    file.write(markdown_text)
+    file.write(metadata_header + markdown_text)
 
 
 def post_process_markdown(markdown_text):
@@ -257,12 +273,53 @@ if links:
   for link in links:
     html_to_markdown(link)
 
+  # Create navigation index with clean labels
+  navigation_index = []
+  for link in links:
+    filename = url_to_filename(link)
+    # Extract chapter number and title from URL
+    if 'general-handbook/' in link:
+      chapter_part = link.split('general-handbook/')[-1].split('?')[0]
+      if chapter_part.startswith(('0-', '1-', '2-', '3-')):
+        # Extract number and convert title
+        parts = chapter_part.split('-', 1)
+        if len(parts) == 2:
+          number = parts[0]
+          title = parts[1].replace('-', ' ').title()
+          label = f"{number}: {title}"
+        else:
+          label = chapter_part.replace('-', ' ').title()
+      elif chapter_part.isdigit() or (chapter_part.split('-')[0].isdigit() and len(chapter_part.split('-')) > 1):
+        # Handle numbered chapters like "12-primary"
+        if '-' in chapter_part:
+          parts = chapter_part.split('-', 1)
+          number = parts[0]
+          title = parts[1].replace('-', ' ').title()
+          label = f"{number}: {title}"
+        else:
+          label = f"{chapter_part}: Chapter {chapter_part}"
+      else:
+        # Handle special pages like "title-page", "summary-of-recent-updates"
+        label = chapter_part.replace('-', ' ').title()
+    else:
+      label = filename.replace('-', ' ').title()
+    
+    navigation_index.append({
+      "filename": f"{filename}.md",
+      "label": label,
+      "url": link
+    })
+
   with open(f"links.json", 'w') as file:
     file.write(json.dumps(list(links), indent=4, sort_keys=True))
+  
+  with open(f"navigation.json", 'w') as file:
+    file.write(json.dumps(navigation_index, indent=4))
 
   print(f"Done! Found {len(links)} links.")
   print(f"Wrote {len(links)} markdown files.")
   print(f"Wrote links.json with {len(links)} links.")
+  print(f"Wrote navigation.json with clean labels.")
 
 if changes_detected():
   print("Changes detected. Pushing to GitHub...")
