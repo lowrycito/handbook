@@ -1,8 +1,3 @@
----
-title: "22. Providing for Temporal Needs and Building Self-Reliance"
-url: "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng"
----
-
 “22. Providing for Temporal Needs and Building Self-Reliance,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “22. Providing for Temporal Needs and Building Self-Reliance,” General Handbook.

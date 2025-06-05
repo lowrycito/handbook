@@ -1,8 +1,3 @@
----
-title: "34. Finances and Audits"
-url: "/study/manual/general-handbook/34-finances-and-audits?lang=eng"
----
-
 “34. Finances and Audits,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “34. Finances and Audits,” General Handbook.

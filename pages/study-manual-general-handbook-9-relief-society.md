@@ -1,8 +1,3 @@
----
-title: "9. Relief Society"
-url: "/study/manual/general-handbook/9-relief-society?lang=eng"
----
-
 “9. Relief Society,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “9. Relief Society,” General Handbook.

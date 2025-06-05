@@ -1,8 +1,3 @@
----
-title: "28. Temple Ordinances for the Deceased"
-url: "/study/manual/general-handbook/28?lang=eng"
----
-
 “28. Temple Ordinances for the Deceased,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “28. Temple Ordinances for the Deceased,” General Handbook.

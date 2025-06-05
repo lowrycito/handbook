@@ -1,8 +1,3 @@
----
-title: "12. Primary"
-url: "/study/manual/general-handbook/12-primary?lang=eng"
----
-
 “12. Primary,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “12. Primary,” General Handbook.

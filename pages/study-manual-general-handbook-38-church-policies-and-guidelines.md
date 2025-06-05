@@ -1,8 +1,3 @@
----
-title: "38. Church Policies and Guidelines"
-url: "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng"
----
-
 “38. Church Policies and Guidelines,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “38. Church Policies and Guidelines,” General Handbook.

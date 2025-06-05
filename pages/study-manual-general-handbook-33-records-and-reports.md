@@ -1,8 +1,3 @@
----
-title: "33. Records and Reports"
-url: "/study/manual/general-handbook/33-records-and-reports?lang=eng"
----
-
 “33. Records and Reports,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “33. Records and Reports,” General Handbook.

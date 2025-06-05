@@ -1,8 +1,3 @@
----
-title: "36. Creating, Changing, and Naming New Units"
-url: "/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng"
----
-
 “36. Creating, Changing, and Naming New Units,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “36. Creating, Changing, and Naming New Units,” General Handbook.

@@ -1,8 +1,3 @@
----
-title: "32. Repentance and Church Membership Councils"
-url: "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng"
----
-
 “32. Repentance and Church Membership Councils,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “32. Repentance and Church Membership Councils,” General Handbook.

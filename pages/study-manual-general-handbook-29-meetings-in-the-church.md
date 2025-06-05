@@ -1,8 +1,3 @@
----
-title: "29. Meetings in the Church"
-url: "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng"
----
-
 “29. Meetings in the Church,” General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints (2025).
 
 “29. Meetings in the Church,” General Handbook.
