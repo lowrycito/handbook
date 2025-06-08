@@ -523,7 +523,7 @@ Leaders should plan well in advance to allow time to prepare the certificates.
 
 Children and youth may not participate in a Church activity without the permission of their parents or guardians. For Church activities that include an overnight stay, lengthy travel, or higher than ordinary risks, written consent is necessary. Some activities may require additional planning to reduce risks. Safety should always be an important consideration. See [20.7.6.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number53-p261#title_number53 "/study/manual/general-handbook/20-activities?lang=eng&id=title_number53-p261#title_number53").
 
-Parents and guardians give this consent by signing the [Permission and Medical Release form](https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/pd60004035_000_interactive.pdf "https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/pd60004035_000_interactive.pdf"). The person who leads the activity should have a signed form for each participant.
+Parents and guardians give this consent by signing the [Permission and Medical Release form](https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/parental_or_guardian_permission_medical_release.pdf "https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/parental_or_guardian_permission_medical_release.pdf"). The person who leads the activity should have a signed form for each participant.
 
 20.7.5
 

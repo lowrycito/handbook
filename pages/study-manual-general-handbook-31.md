@@ -68,8 +68,6 @@ Encourage members to turn to Him. Help them draw upon His power to strengthen, c
 
 3:8
 
-Abuse Handbook | Interview Training
-
 Some members have had experiences that make them feel anxious or overwhelmed when they meet with a Church leader. Seek ways to help them feel calm, safe, and comfortable. Find out from the member what you can do to help.
 
 Always give the member the option of having someone else be present during an interview or meeting. When meeting with a member of the opposite sex, a child, or a youth, ensure that a parent or another adult is present. He or she may join the meeting or wait outside the room, depending on the preferences of the member with whom you are meeting.

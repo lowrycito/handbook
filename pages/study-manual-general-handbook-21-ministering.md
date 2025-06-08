@@ -80,8 +80,6 @@ It is often a blessing to a sister to have a young woman minister to her. It can
 
 2:38
 
-Involving Young Women in Relief Society Ministering
-
 A young man serves as a ministering companion to a Melchizedek Priesthood holder when he is ordained to the office of teacher or priest. The bishop determines whether the young man is worthy and prepared to be ordained. (See [10.1.3.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number8-p16#title_number8 "/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number8-p16#title_number8").) The elders quorum presidency counsels with the young man, his parents, and the bishopric as they consider ministering assignments.
 
 In some cases, youth may be assigned as a third member of a ministering companionship. Leaders may assign the youth to help minister to some or all of the individuals and families assigned to the companionship.
@@ -110,8 +108,6 @@ The Savior had a simple yet profound interview with Peter about feeding His shee
 
 2:34
 
-Using Ministering Interviews to Help Sisters Grow
-
 The elders quorum president and his counselors interview ministering brothers. The Relief Society president and her counselors interview ministering sisters. A married couple assigned to minister together can meet with elders quorum or Relief Society leaders or both.
 
 These interviews are held at least once each quarter. They may be held at any time during the quarter. Preferably, interviews are held in person and with both members of the companionship. Youth with ministering assignments should be included if possible.
@@ -136,8 +132,6 @@ The Relief Society and the elders quorum share the work of ministering. They do 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F120cb0d5bdd5e7e6b9516a04814ee29c6e59d755%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:49
-
-One Coordinated Effort
 
 Relief Society and elders quorum presidencies meet together at least quarterly. They review what they have learned in ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4 "/study/manual/general-handbook/21-ministering?lang=eng&id=title_number4-p29#title_number4")). They also coordinate ministering assignments. The two presidents share the responsibility of organizing and conducting the meeting.
 

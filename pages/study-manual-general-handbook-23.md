@@ -21,21 +21,13 @@ Inviting all to receive the gospel is part of God’s work of salvation and exal
 
 ## Share the Gospel
 
-
-
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3ef0b05f415e20f45b275e3be54dcda09d297a66%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:33
 
-Principles Love, Share, Invite Discussed
-
-
-
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fca2dba890e0c43e81eb5e1c916d42be08b515b51%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:46
-
-Simple Ways to Love Share and Invite
 
 23.1.1
 
@@ -137,8 +129,6 @@ These meetings may be held in person or remotely. Coordination can also happen i
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F94ea44238d7defe712056f812bc9e8a056f3eea5%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:9
-
-Weekly Missionary Coordination Examples
 
 23.5
 

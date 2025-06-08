@@ -238,10 +238,6 @@ Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities
 
 22:58
 
-Sacred Funds, Sacred Responsibilities
-
-
-
 Principles for Providing Church Assistance
 
 - Encourage personal and family responsibility.

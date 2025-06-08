@@ -169,8 +169,6 @@ The bishop reviews and approves the plan. Members of the ward council take the l
 
 2:45
 
-Helping Members Gain the Vision
-
 25.2.7
 
 ### Ward Temple and Family History Coordination Meetings

@@ -48,13 +48,9 @@ Some wards have a very large number of active adult women. For these wards, the 
 
 ## Participating in God’s Work of Salvation and Exaltation
 
-
-
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fcae4ace5c8cce80f8c4e06fe281c42dbc6d1e9fc%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:31
-
-Efforts Magnified as Presidencies Work Together
 
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
@@ -123,8 +119,6 @@ As followers of Jesus Christ, sisters have a responsibility to reach out in love
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F974e9f17846aa514cea90aec8882cfa486d3363a%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:46
-
-How to Care for Those in Need
 
 For more information about how members of the Relief Society and elders quorum care for those in need, see [22.6.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number52-p185#title_number52").
 
@@ -203,8 +197,6 @@ The assigned member of the Relief Society presidency participates in coordinatio
 
 2:45
 
-Helping Members Gain the Vision
-
 9.3
 
 ## Relief Society Leaders
@@ -243,8 +235,6 @@ The Relief Society president has the following responsibilities. Her counselors 
   ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F687cf39775bd8e56a3a640e9519cac66527ebae8%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
   3:12
-
-  Counseling with Women in Times of Need
 - With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number128-p228#title_number128") and [9.2.3](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10 "/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number10-p163#title_number10")).
 - With the elders quorum presidency, help lead temple and family history work in the ward (see [8.2.4](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number129-p235#title_number129 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number129-p235#title_number129") and [9.2.4](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number11-p168#title_number11 "/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number11-p168#title_number11")).
 - Coordinate the Relief Society’s efforts to strengthen young adult sisters in the ward, both single and married. One counselor may be assigned to serve with young single adults (see [14.1.2.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number9-p36#title_number9 "/study/manual/general-handbook/14-single-members?lang=eng&id=title_number9-p36#title_number9")).

@@ -22,8 +22,6 @@ Leaders share the following principles of Christlike teaching with teachers in t
 
 3:45
 
-Welcome Teachers
-
 17.1.1
 
 ### Love Those You Teach
@@ -33,8 +31,6 @@ Everything the Savior does is an expression of His love (see [2 Nephi 26:24](/s
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F434a471fa5982d5554b66ef6425c9ce97c225795%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:19
-
-Love Those You Teach
 
 17.1.2
 
@@ -46,8 +42,6 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the Spir
 
 3:47
 
-Prepare And Teach By The Spirit
-
 17.1.3
 
 ### Teach the Doctrine
@@ -57,8 +51,6 @@ The Savior taught His Father’s doctrine. Following the Savior’s example, tea
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Ff2041c274a6c24323dcd2eafb9d9b5340160d5ea%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:33
-
-Teach The Doctrine
 
 17.1.4
 
@@ -77,8 +69,6 @@ Leaders and teachers encourage members to seek their own inspiration about how t
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F33a7ba2be7e697a9f5638ea06f5bc6c0f7d24f88%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:35
-
-Invite Diligent Learning
 
 17.3
 
@@ -117,8 +107,6 @@ For more information, see “[Teacher Council Meetings](/study/manual/teaching-i
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F0e4a0090ad9bafc2e4980ad0eef908bef8f4461f%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 6:7
-
-Introduction To Teacher Council Meetings
 
 17.5
 

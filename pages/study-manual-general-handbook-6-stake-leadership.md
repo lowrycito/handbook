@@ -93,8 +93,6 @@ The stake presidency plans the stake meetings listed in [29.3](/study/manual/gen
 
 4:26
 
-Church Handbook Training
-
 6.2.1.5
 
 #### Callings and Releases

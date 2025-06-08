@@ -235,8 +235,6 @@ The stake president and bishop ensure that all Church funds are properly handled
 
 22:58
 
-Sacred Funds, Sacred Responsibilities
-
 34.5.1
 
 ### Companionship Principle

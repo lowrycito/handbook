@@ -157,8 +157,6 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 
 1:41
 
-Naming and Blessing of Children
-
 18.6.3
 
 ### Child Record Form and Blessing Certificate
@@ -288,8 +286,6 @@ To perform the ordinance of baptism, a priest or Melchizedek Priesthood holder:
 
 3:16
 
-Baptism of a New Member
-
 18.7.8
 
 ### Baptism Record
@@ -342,8 +338,6 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fae69c48312f40940553a4803902c47a5f1d77625%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 1:55
-
-Confirming a Recently Baptized Member
 
 18.8.3
 
@@ -431,8 +425,6 @@ Although the sacrament is for members of the Church, nothing should be done to p
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F4f841668b3ba3b9a41844fbfaaf60211e6eb92cd%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 3:32
-
-Blessing the Sacrament
 
 18.10
 
@@ -560,8 +552,6 @@ An ordination is an opportunity to give a blessing. Detailed counsel and instruc
 
 1:59
 
-Ordination to the Priesthood
-
 18.10.6
 
 ### Ordination Record and Certificate
@@ -643,8 +633,6 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 
 1:11
 
-Consecrating Oil
-
 18.13
 
 ## Administering to the Sick
@@ -691,8 +679,6 @@ To seal the anointing, one or more Melchizedek Priesthood holders place their ha
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fb7140b5ce7d8fe0ab26ae0049c5c8d79599da7fa%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:3
-
-Administering to the Sick
 
 18.14
 
@@ -779,8 +765,6 @@ If a Church member’s body is cremated, the presiding leader uses his judgment 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F1916dd979a69b484d9a9d8186e2dab5ef3a24dfb%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 1:58
-
-Dedication of Graves
 
 18.17
 

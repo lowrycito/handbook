@@ -261,8 +261,6 @@ To understand principles that guide council meetings in the Church, all council 
 
 4:37
 
-Ward Council Meeting
-
 29.2.6
 
 ### Ward Youth Council Meeting
