@@ -297,7 +297,7 @@ All Church overnight activities must include at least two adult leaders.
 
 When adult priesthood holders attend Young Women activities, they must stay in facilities separate from the young women.
 
-Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/2d/98/2d9801c0fdc111ebbb5eeeeeac1e9b2a98a7c28a/event_and_activity_plan.pdf "https://assets.churchofjesuschrist.org/2d/98/2d9801c0fdc111ebbb5eeeeeac1e9b2a98a7c28a/event_and_activity_plan.pdf") for all overnight activities.
+Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/4g/2c/4g2cqqrzuu6ktrwtl7zd1xo4uimj2xyoetqgrha5/event_and_activity_plan_form_update.pdf "https://assets.churchofjesuschrist.org/4g/2c/4g2cqqrzuu6ktrwtl7zd1xo4uimj2xyoetqgrha5/event_and_activity_plan_form_update.pdf") for all overnight activities.
 
 Overnight activities at Church meetinghouses or meetinghouse grounds are not approved.
 
@@ -602,7 +602,7 @@ Participants should not travel long distances (more than a few hours) for activi
 
 Travel practices and the application of guidelines in this section should be consistent among units in the same area or coordinating council. Stake presidents may discuss and agree on travel practices during coordinating council meetings.
 
-Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschrist.org/callings/church-safety-and-health/event-and-activity-plan "https://www.churchofjesuschrist.org/callings/church-safety-and-health/event-and-activity-plan") for activities that involve long-distance travel.
+Leaders fill out an [Event and Activity Plan form](https://assets.churchofjesuschrist.org/4g/2c/4g2cqqrzuu6ktrwtl7zd1xo4uimj2xyoetqgrha5/event_and_activity_plan_form_update.pdf "https://assets.churchofjesuschrist.org/4g/2c/4g2cqqrzuu6ktrwtl7zd1xo4uimj2xyoetqgrha5/event_and_activity_plan_form_update.pdf") for activities that involve long-distance travel.
 
 When a Church activity for youth involves long-distance travel or staying overnight, parents or guardians must give written permission for their children to participate (see [20.7.4](/study/manual/general-handbook/20-activities?lang=eng&id=title_number50-p255#title_number50 "/study/manual/general-handbook/20-activities?lang=eng&id=title_number50-p255#title_number50")). Responsible adult supervision must be provided (see [20.7.1](/study/manual/general-handbook/20-activities?lang=eng&id=title_number42-p234#title_number42 "/study/manual/general-handbook/20-activities?lang=eng&id=title_number42-p234#title_number42")).
 

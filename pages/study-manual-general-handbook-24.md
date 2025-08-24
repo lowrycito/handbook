@@ -18,7 +18,7 @@ To serve the Lord as a missionary is a sacred privilege. It brings eternal bless
 
 Mission calls include an assignment to teach the gospel, support the work of Church departments or units, or serve in the local community.
 
-The Lord asks every worthy, able young man to prepare for and serve a mission. For Latter-day Saint young men, missionary service is a priesthood responsibility (see [Doctrine and Covenants 36:1, 4–7](/study/scriptures/dc-testament/dc/36?lang=eng&id=p1,4-p7#p1 "/study/scriptures/dc-testament/dc/36?lang=eng&id=p1,4-p7#p1")).
+The Lord asks every worthy, able young man to prepare for and serve a mission. For Latter-day Saint young men, missionary service is a priesthood responsibility (see [Doctrine and Covenants 36:1, 4–7](/study/scriptures/dc-testament/dc/36?lang=eng&id=p1,p4-p7#p1 "/study/scriptures/dc-testament/dc/36?lang=eng&id=p1,p4-p7#p1")).
 
 The Lord also welcomes worthy, able young women to serve missions if they desire. For young women, a mission is a powerful, but optional, opportunity. Preparing for a mission will bless a young woman whether she decides to serve as a missionary or not.
 
@@ -30,7 +30,7 @@ Senior missionaries are also needed and are encouraged to prepare to serve.
 
 Each missionary is called to assist Heavenly Father and Jesus Christ in Their work. Missionaries represent Jesus Christ and His restored Church. They selflessly serve the Lord in a labor of love among His children. Teaching and service missions bless both the missionary and others. (See [Matthew 16:25](/study/scriptures/nt/matt/16?lang=eng&id=p25#p25 "/study/scriptures/nt/matt/16?lang=eng&id=p25#p25"); [22:36–40](/study/scriptures/nt/matt/22?lang=eng&id=p36-p40#p36 "/study/scriptures/nt/matt/22?lang=eng&id=p36-p40#p36").)
 
-Mission calls are extended to members who desire to serve, are worthy, and are able. These members strive to serve the Lord with all their “heart, might, mind and strength.” They develop “faith, hope, charity and love.” They keep their “eye single to the glory of God.” As they do these things, the Lord will qualify them for the work. ([Doctrine and Covenants 4:2, 5](/study/scriptures/dc-testament/dc/4?lang=eng&id=p2,5#p2 "/study/scriptures/dc-testament/dc/4?lang=eng&id=p2,5#p2"); see [verses 1–7](/study/scriptures/dc-testament/dc/4?lang=eng&id=p1-p7#p1 "/study/scriptures/dc-testament/dc/4?lang=eng&id=p1-p7#p1").)
+Mission calls are extended to members who desire to serve, are worthy, and are able. These members strive to serve the Lord with all their “heart, might, mind and strength.” They develop “faith, hope, charity and love.” They keep their “eye single to the glory of God.” As they do these things, the Lord will qualify them for the work. ([Doctrine and Covenants 4:2, 5](/study/scriptures/dc-testament/dc/4?lang=eng&id=p2,p5#p2 "/study/scriptures/dc-testament/dc/4?lang=eng&id=p2,p5#p2"); see [verses 1–7](/study/scriptures/dc-testament/dc/4?lang=eng&id=p1-p7#p1 "/study/scriptures/dc-testament/dc/4?lang=eng&id=p1-p7#p1").)
 
 Missionaries represent the Lord and must be called by proper authority (see [Doctrine and Covenants 42:11](/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11 "/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11"); [Articles of Faith 1:5](/study/scriptures/pgp/a-of-f/1?lang=eng&id=p5#p5 "/study/scriptures/pgp/a-of-f/1?lang=eng&id=p5#p5")). The call to serve a mission is generally extended by the President of the Church. For senior service missionaries, the call is extended by the stake president.
 
@@ -140,7 +140,7 @@ The following table summarizes the types of missionary assignments.
 
 ## Preparing and Qualifying to Serve a Mission
 
-Prospective missionaries are encouraged to serve a mission because of their love for the Lord and His children. They should be familiar with the [missionary recommendation interview questions](/study/liahona/2018/08/youth/before-you-are-called-to-serve/interview-questions?lang=eng "/study/liahona/2018/08/youth/before-you-are-called-to-serve/interview-questions?lang=eng").
+Prospective missionaries are encouraged to serve a mission because of their love for the Lord and His children. They should be familiar with the [missionary recommendation interview questions](/study/manual/missionary-interview-questions/interview-questions?lang=eng "/study/manual/missionary-interview-questions/interview-questions?lang=eng").
 
 24.3.1
 
@@ -183,7 +183,7 @@ A person who receives a mission call or begins missionary service without repent
 
 ### Physical, Mental, and Emotional Health
 
-Missionary work is challenging. Physical, mental, and emotional demands can be stressful. Missionaries often work in unfamiliar conditions. Health may be affected by a change in diet, climate, or living conditions. The missionary schedule is also demanding. (See [Alma 17:5](/study/scriptures/bofm/alma/17?lang=eng&id=p5#p5 "/study/scriptures/bofm/alma/17?lang=eng&id=p5#p5"); [26:27–28, 30](/study/scriptures/bofm/alma/26?lang=eng&id=p27-p28,30#p27 "/study/scriptures/bofm/alma/26?lang=eng&id=p27-p28,30#p27").)
+Missionary work is challenging. Physical, mental, and emotional demands can be stressful. Missionaries often work in unfamiliar conditions. Health may be affected by a change in diet, climate, or living conditions. The missionary schedule is also demanding. (See [Alma 17:5](/study/scriptures/bofm/alma/17?lang=eng&id=p5#p5 "/study/scriptures/bofm/alma/17?lang=eng&id=p5#p5"); [26:27–28, 30](/study/scriptures/bofm/alma/26?lang=eng&id=p27-p28,p30#p27 "/study/scriptures/bofm/alma/26?lang=eng&id=p27-p28,p30#p27").)
 
 Young teaching missionaries must be committed and physically, mentally, and emotionally able to work the full missionary schedule. (See Missionary Standards for Disciples of Jesus Christ [2019], [2.4](/study/manual/missionary-standards-for-disciples-of-jesus-christ/02-missionary-organization-and-activities?lang=eng&id=title_number22-p164#title_number22 "/study/manual/missionary-standards-for-disciples-of-jesus-christ/02-missionary-organization-and-activities?lang=eng&id=title_number22-p164#title_number22").)
 
@@ -299,7 +299,7 @@ Family members and leaders encourage all missionary candidates to study:
 Family members and leaders help all candidates commit to follow missionary standards. They encourage candidates to study the missionary standards handbook that pertains to their probable assignment:
 
 - For young teaching missionaries: [Missionary Standards for Disciples of Jesus Christ](/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng "/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng")
-- For young service missionaries: Missionary Standards for Disciples of Jesus Christ—Service Missions
+- For young service missionaries: [Missionary Standards for Disciples of Jesus Christ—Service Missions](/study/manual/missionary-standards-service-missionaries-2025?lang=eng "/study/manual/missionary-standards-service-missionaries-2025?lang=eng")
 - For all missionaries: the sections “[Use Technology Righteously](/study/manual/preach-my-gospel-2023/04-chapter-2?lang=eng&id=title7-p23#title7 "/study/manual/preach-my-gospel-2023/04-chapter-2?lang=eng&id=title7-p23#title7")” and “[Follow the Safeguards for Using Technology](/study/manual/preach-my-gospel-2023/04-chapter-2?lang=eng&id=title8-p45#title8 "/study/manual/preach-my-gospel-2023/04-chapter-2?lang=eng&id=title8-p45#title8")” in chapter 2 of Preach My Gospel.
 
 24.4
@@ -320,7 +320,7 @@ Health assessments are reviewed by the area office and the Missionary Department
 
 ### Interviews and Recommendation Forms
 
-The bishop and stake president conduct thorough, spiritually searching, and uplifting interviews with each candidate. They use the [missionary recommendation interview questions](/study/liahona/2018/08/youth/before-you-are-called-to-serve/interview-questions?lang=eng "/study/liahona/2018/08/youth/before-you-are-called-to-serve/interview-questions?lang=eng"). They discuss the candidate’s:
+The bishop and stake president conduct thorough, spiritually searching, and uplifting interviews with each candidate. They use the [missionary recommendation interview questions](/study/manual/missionary-interview-questions/interview-questions?lang=eng "/study/manual/missionary-interview-questions/interview-questions?lang=eng"). They discuss the candidate’s:
 
 - Testimony of Jesus Christ and His restored gospel (see [24.3.1](/study/manual/general-handbook/24?lang=eng&id=title_number11-p84#title_number11 "/study/manual/general-handbook/24?lang=eng&id=title_number11-p84#title_number11")).
 - Meeting the standards of worthiness (see [24.3.2](/study/manual/general-handbook/24?lang=eng&id=title_number12-p90#title_number12 "/study/manual/general-handbook/24?lang=eng&id=title_number12-p90#title_number12")).
@@ -531,7 +531,7 @@ Some teaching and service missionaries are released early for health, worthiness
 
 For more information about ending a service mission early, see [24.7.5](/study/manual/general-handbook/24?lang=eng&id=title_number50-p205#title_number50 "/study/manual/general-handbook/24?lang=eng&id=title_number50-p205#title_number50").
 
-For teaching or service missionaries who are ready to return to service, the stake president contacts the Missionary Department to recommend this (see [24.9.3](/study/manual/general-handbook/24?lang=eng&id=title_number62-p235#title_number62 "/study/manual/general-handbook/24?lang=eng&id=title_number62-p235#title_number62")). Some teaching missionaries who return to service may be reassigned to a different teaching mission or to a service mission.
+For teaching or service missionaries who are ready to return to service, the stake president contacts the Missionary Department to recommend this (see [24.9.3](/study/manual/general-handbook/24?lang=eng&id=title_number62-p252#title_number62 "/study/manual/general-handbook/24?lang=eng&id=title_number62-p252#title_number62")). Some teaching missionaries who return to service may be reassigned to a different teaching mission or to a service mission.
 
 When returning to service is not possible, leaders encourage the member to press forward on the covenant path as a lifelong disciple of Jesus Christ. Leaders also encourage pursuing other important endeavors, such as education or employment for young missionaries.
 
@@ -588,7 +588,7 @@ The mission president refers matters of personal worthiness to the missionary’
 
 Young service missionaries do not attend an MTC. They receive virtual training, along with training at their places of service.
 
-For more about training and supervision, see Missionary Standards for Disciples of Jesus Christ—Service Missions.
+For more about training and supervision, see [Missionary Standards for Disciples of Jesus Christ—Service Missions](/study/manual/missionary-standards-service-missionaries-2025?lang=eng "/study/manual/missionary-standards-service-missionaries-2025?lang=eng").
 
 24.7.4
 
@@ -691,10 +691,10 @@ Leaders promptly give ministering assignments and callings to recently released 
 
 - [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ](/study/manual/preach-my-gospel-2023?lang=eng "/study/manual/preach-my-gospel-2023?lang=eng")
 - [Missionary Standards for Disciples of Jesus Christ](/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng "/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng")
-- Missionary Standards for Disciples of Jesus Christ—Service Missions
+- [Missionary Standards for Disciples of Jesus Christ—Service Missions](/study/manual/missionary-standards-service-missionaries-2025?lang=eng "/study/manual/missionary-standards-service-missionaries-2025?lang=eng")
 - [Adjusting to Missionary Life](/study/manual/resource-booklet-adjusting-to-missionary-life?lang=eng "/study/manual/resource-booklet-adjusting-to-missionary-life?lang=eng")
 - [Adjusting to Service Missionary Life: Resource Booklet](/study/manual/adjusting-to-service-missionary-life-resource-booklet?lang=eng "/study/manual/adjusting-to-service-missionary-life-resource-booklet?lang=eng")
-- [Missionary recommendation interview questions](/study/liahona/2018/08/youth/before-you-are-called-to-serve/interview-questions?lang=eng "/study/liahona/2018/08/youth/before-you-are-called-to-serve/interview-questions?lang=eng")
+- [Missionary recommendation interview questions](/study/manual/missionary-interview-questions/interview-questions?lang=eng "/study/manual/missionary-interview-questions/interview-questions?lang=eng")
 - [My Plan: A Guide for the Returned Missionary and Mentor](/study/manual/my-plan-a-guide-for-the-returned-missionary-and-mentor?lang=eng "/study/manual/my-plan-a-guide-for-the-returned-missionary-and-mentor?lang=eng")
 
 24.9.2
