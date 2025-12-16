@@ -62,19 +62,19 @@ Single women ages 19–29 may serve as teaching missionaries. They usually serve
 
 ### Young Service Missionaries
 
-Young service missionaries are assigned to serve in the Church and the community while living at home. These assignments are made by Apostles through revelation. They are extended to candidates whose circumstances are best suited for a service mission (see [24.3.3](/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15 "/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15")).
+Young service missionaries are assigned to serve in the Church and the community while living at home. These assignments are made by Apostles through revelation. They are extended to candidates whose circumstances are best suited for a service missionary assignment (see [24.3.3](/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15 "/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15")).
 
 These individuals have the same standards for preparation and worthiness as those who are assigned to a teaching mission. All young missionary candidates are recommended through the same process.
 
-Service missionaries serve locally under the direction of a mission president, with the close support of service mission leaders. The stake president provides support in ecclesiastical matters (see [24.7.3](/study/manual/general-handbook/24?lang=eng&id=title_number48-p201#title_number48 "/study/manual/general-handbook/24?lang=eng&id=title_number48-p201#title_number48")).
+Service missionaries serve locally under the direction of a mission president, with the close support of service missionary advisers. The stake president provides support in ecclesiastical matters (see [24.7.3](/study/manual/general-handbook/24?lang=eng&id=title_number48-p201#title_number48 "/study/manual/general-handbook/24?lang=eng&id=title_number48-p201#title_number48")).
 
-With the help of their service mission leaders, each service missionary receives assignments that are tailored to his or her circumstances. Assignments are also based on service opportunities (see [24.7.1](/study/manual/general-handbook/24?lang=eng&id=title_number46-aside5_p7#title_number46 "/study/manual/general-handbook/24?lang=eng&id=title_number46-aside5_p7#title_number46")). These missionaries serve to the full extent of their capacity.
+With the help of their service missionary advisers, each service missionary receives assignments that are tailored to his or her circumstances. Assignments are also based on service opportunities (see [24.7.1](/study/manual/general-handbook/24?lang=eng&id=title_number46-aside5_p7#title_number46 "/study/manual/general-handbook/24?lang=eng&id=title_number46-aside5_p7#title_number46")). These missionaries serve to the full extent of their capacity.
 
 Single men ages 18–25 may serve as service missionaries. They usually serve for 24 months.
 
 Single women ages 19–29 may serve as service missionaries. They usually serve for 18 months.
 
-Service missions for young missionaries are not yet available in all areas of the world. For a list of areas where service missions are available, see [ChurchofJesusChrist.org/service-missionary](https://www.churchofjesuschrist.org/service-missionary "https://www.churchofjesuschrist.org/service-missionary"). That website also provides more information on service missions. Where service missions are not available, young members may serve in the same capacity as senior service missionaries (see [24.2.4](/study/manual/general-handbook/24?lang=eng&id=title_number8-p39#title_number8 "/study/manual/general-handbook/24?lang=eng&id=title_number8-p39#title_number8")).
+Service missionary assignments are not yet available in all areas of the world. For a list of areas where service missionary assignments are available, see [ChurchofJesusChrist.org/service-missionary](https://www.churchofjesuschrist.org/service-missionary "https://www.churchofjesuschrist.org/service-missionary"). That website also provides more information on service missionary assignments. Where service missionary assignments are not available, young members may serve in the same capacity as senior service missionaries (see [24.2.4](/study/manual/general-handbook/24?lang=eng&id=title_number8-p39#title_number8 "/study/manual/general-handbook/24?lang=eng&id=title_number8-p39#title_number8")).
 
 24.2.3
 
@@ -82,9 +82,7 @@ Service missions for young missionaries are not yet available in all areas of th
 
 Married members ages 40 and older may be called as senior missionaries as a couple if they do not have dependent children.
 
-Single women ages 40 and older may also be called as senior missionaries if they do not have children living at home.
-
-Single men ages 40 and older may not serve as senior missionaries. However, they may serve as senior service missionaries. (See [24.2.4](/study/manual/general-handbook/24?lang=eng&id=title_number8-p39#title_number8 "/study/manual/general-handbook/24?lang=eng&id=title_number8-p39#title_number8").)
+Single men and women ages 40 and older may also be called as senior missionaries if they do not have minor children living at home.
 
 All senior missionaries are encouraged to find people to teach and help them prepare for baptism. Senior missionaries may also be assigned to support:
 
@@ -133,7 +131,7 @@ The following table summarizes the types of missionary assignments.
 | Is set apart by | Young Teaching Missionary (see 24.2.1)  Stake president | Young Service Missionary (see 24.2.2)  Stake president | Senior Missionary (see 24.2.3)  Stake president | Senior Service Missionary (see 24.2.4)  Stake president or counselor |
 | Lives | Young Teaching Missionary (see 24.2.1)  Away from home | Young Service Missionary (see 24.2.2)  At home | Senior Missionary (see 24.2.3)  Away from home or at home | Senior Service Missionary (see 24.2.4)  At home |
 | Ecclesiastical leader | Young Teaching Missionary (see 24.2.1)  Mission president or historic site president | Young Service Missionary (see 24.2.2)  Stake president | Senior Missionary (see 24.2.3)  Mission, temple, or historic site president; or Area President | Senior Service Missionary (see 24.2.4)  Stake president |
-| Reports to | Young Teaching Missionary (see 24.2.1)  Mission president or historic site president | Young Service Missionary (see 24.2.2)  Mission president, through the service mission leaders | Senior Missionary (see 24.2.3)  Mission, temple, or historic site president; Area President; visitors’ center director; or a Church department or facilities manager | Senior Service Missionary (see 24.2.4)  Operation manager of the service assignment |
+| Reports to | Young Teaching Missionary (see 24.2.1)  Mission president or historic site president | Young Service Missionary (see 24.2.2)  Mission president, through the service missionary advisers | Senior Missionary (see 24.2.3)  Mission, temple, or historic site president; Area President; visitors’ center director; or a Church department or facilities manager | Senior Service Missionary (see 24.2.4)  Operation manager of the service assignment |
 | Age requirements | Young Teaching Missionary (see 24.2.1)  18–25 (men) 19–29 (women) | Young Service Missionary (see 24.2.2)  18–25 (men)  19–29 (women) | Senior Missionary (see 24.2.3)  40 or older if married or if a single sister | Senior Service Missionary (see 24.2.4)  26 or older |
 
 24.3
@@ -152,7 +150,7 @@ Prospective missionaries strive to strengthen their conversion to Jesus Christ a
 - Strengthen their testimony of the restored gospel of Jesus Christ (see [Alma 5:45–47](/study/scriptures/bofm/alma/5?lang=eng&id=p45-p47#p45 "/study/scriptures/bofm/alma/5?lang=eng&id=p45-p47#p45")).
 - Live the doctrine of Christ by “choosing to repent and work righteousness” ([Alma 13:10](/study/scriptures/bofm/alma/13?lang=eng&id=p10#p10 "/study/scriptures/bofm/alma/13?lang=eng&id=p10#p10"); see also [2 Nephi 31:9–21](/study/scriptures/bofm/2-ne/31?lang=eng&id=p9-p21#p9 "/study/scriptures/bofm/2-ne/31?lang=eng&id=p9-p21#p9")).
 - Pray, study the scriptures (especially the Book of Mormon) and teachings of the living prophets, and keep the commandments (see [Alma 17:2–3](/study/scriptures/bofm/alma/17?lang=eng&id=p2-p3#p2 "/study/scriptures/bofm/alma/17?lang=eng&id=p2-p3#p2")).
-- Participate in temple and family history work (see [Doctrine and Covenants 109:22](/study/scriptures/dc-testament/dc/109?lang=eng&id=p22#p22 "/study/scriptures/dc-testament/dc/109?lang=eng&id=p22#p22")).
+- Participate in uniting families for eternity through temple and family history work (see [Doctrine and Covenants 109:22](/study/scriptures/dc-testament/dc/109?lang=eng&id=p22#p22 "/study/scriptures/dc-testament/dc/109?lang=eng&id=p22#p22")).
 - Participate in seminary or institute (for youth and young adults).
 
 24.3.2
@@ -205,9 +203,9 @@ Financial sacrifice is part of missionary service (see [Mark 1:17–18](/study/s
 
 #### Financing Young Missionaries Serving Away from Home
 
-Young candidates who have prepared according to their ability should not be delayed from serving for financial reasons. Those who need financial help to meet expected contribution commitments can receive it from extended family and friends.
+Any young man or young woman who has a desire to serve God and has prepared according to his or her ability should not be delayed from serving for financial reasons.
 
-If need remains, the bishop or stake president may ask members in the ward or stake to contribute to the ward missionary fund.
+The bishop counsels with the missionary and his or her family to determine the financial contribution they can make. If need remains, the bishop or stake president may ask members in the ward or stake to contribute to the ward missionary fund. If need remains, the bishop or stake president may ask members in the ward or stake to contribute to the ward missionary fund.
 
 Local unit budgets and fast-offering funds may not be used.
 
@@ -216,7 +214,9 @@ Local unit budgets and fast-offering funds may not be used.
 - Missionaries from some countries participate in the equalized contribution program. This means the same amount is contributed for each missionary regardless of where he or she serves. The amount is identified at Church headquarters. Leaders may contact the Missionary Department (see [24.9.3](/study/manual/general-handbook/24?lang=eng&id=title_number62-p235#title_number62 "/study/manual/general-handbook/24?lang=eng&id=title_number62-p235#title_number62")) or the area office for a list of countries in this program and the equalized amount.
 - In other countries, the bishop, stake president, missionary, and family counsel together about the monthly contribution amount. The bishop and stake president consider guidance from the Area Presidency. They encourage appropriate financial sacrifice and self-reliance based on the circumstances of the missionary and his or her family. They agree on a contribution amount and record it in the missionary recommendation. The missionary and his or her family commit to follow through. Others may also contribute to this amount only if they live in the missionary’s home country (see “[Ward Missionary Fund](/study/manual/general-handbook/24?lang=eng&id=aside2_title1-aside2_p2#aside2_title1 "/study/manual/general-handbook/24?lang=eng&id=aside2_title1-aside2_p2#aside2_title1")” later in this section).
 
-Contributions are made to the ward missionary fund. Bishops verify that the funds are contributed each month. Funds beyond the monthly amount should not be contributed in advance. Funds contributed in advance cannot be refunded if a missionary returns home early.
+Contributions are made to the ward missionary fund. The bishop may adjust the committed contribution based on family circumstances.
+
+Bishops verify that the funds are contributed each month. Funds beyond the monthly amount should not be contributed in advance. Funds contributed in advance cannot be refunded if a missionary returns home early.
 
 *Expenses in the field.* Each month, young missionaries receive adequate funds from the mission to provide for healthy food, transportation, and other living expenses. These funds are sacred. Missionaries use them only for mission-related purposes. They should not be used for personal expenses, saved, or sent to family members or others. Missionaries return to the mission any funds they do not need.
 
@@ -320,18 +320,25 @@ Health assessments are reviewed by the area office and the Missionary Department
 
 ### Interviews and Recommendation Forms
 
-The bishop and stake president conduct thorough, spiritually searching, and uplifting interviews with each candidate. They use the [missionary recommendation interview questions](/study/manual/missionary-interview-questions/interview-questions?lang=eng "/study/manual/missionary-interview-questions/interview-questions?lang=eng"). They discuss the candidate’s:
+The bishop and stake president review the readiness guidelines and standards of worthiness in the [Missionary Recommendation System](https://missionaryrecommendations.churchofjesuschrist.org "https://missionaryrecommendations.churchofjesuschrist.org"). They then conduct thorough, spiritually searching, and uplifting interviews with each candidate.
+
+They first discuss the candidate’s:
+
+- Physical, mental, and emotional health readiness (see [24.3.3](/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15 "/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15")).
+- Financial situation (see [24.3.4](/study/manual/general-handbook/24?lang=eng&id=title_number16-p111#title_number16 "/study/manual/general-handbook/24?lang=eng&id=title_number16-p111#title_number16")).
+
+If these matters are in order, the bishop and stake president then use the [missionary recommendation interview questions](/study/manual/missionary-interview-questions/interview-questions?lang=eng "/study/manual/missionary-interview-questions/interview-questions?lang=eng") to discuss the candidate’s:
 
 - Testimony of Jesus Christ and His restored gospel (see [24.3.1](/study/manual/general-handbook/24?lang=eng&id=title_number11-p84#title_number11 "/study/manual/general-handbook/24?lang=eng&id=title_number11-p84#title_number11")).
 - Meeting the standards of worthiness (see [24.3.2](/study/manual/general-handbook/24?lang=eng&id=title_number12-p90#title_number12 "/study/manual/general-handbook/24?lang=eng&id=title_number12-p90#title_number12")).
-- Physical, mental, and emotional health readiness (see [24.3.3](/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15 "/study/manual/general-handbook/24?lang=eng&id=title_number15-p93#title_number15")).
-- Financial readiness (see [24.3.4](/study/manual/general-handbook/24?lang=eng&id=title_number16-p111#title_number16 "/study/manual/general-handbook/24?lang=eng&id=title_number16-p111#title_number16")).
 
-The bishop and stake president also review information about standards of worthiness and health readiness in the [Missionary Online Recommendation System](https://missionaryrecommendations.churchofjesuschrist.org "https://missionaryrecommendations.churchofjesuschrist.org"). If a stake president in the United States or Canada has questions, he contacts the Missionary Department (see [24.9.3](/study/manual/general-handbook/24?lang=eng&id=title_number62-p235#title_number62 "/study/manual/general-handbook/24?lang=eng&id=title_number62-p235#title_number62")). Elsewhere, he contacts the area office. The bishop and stake president do not add any eligibility standards. Nor do they change the interview questions.
+The bishop and stake president do not add any eligibility standards. Nor do they change the interview questions.
+
+If the bishop and stake president have concerns about a candidate’s readiness or meeting the standards of worthiness, they counsel together and with the person. With a young candidate’s permission, they may also counsel with his or her parents. Depending on the person’s physical, mental, or emotional health, they may discuss the possibility of being assigned as a service missionary. The bishop and stake president do not submit a recommendation until the person has repented of serious sin (see [24.3.2.1](/study/manual/general-handbook/24?lang=eng&id=title_number13-p89#title_number13 "/study/manual/general-handbook/24?lang=eng&id=title_number13-p89#title_number13")).
 
 The information in the recommendation form contributes to the revelatory process of mission calls. Leaders ensure that all information requested is fully disclosed.
 
-If the bishop and stake president have concerns about a candidate meeting the standards of worthiness or about his or her health readiness, they counsel together and with the person. With a young candidate’s permission, they may also counsel with his or her parents. The bishop and stake president do not submit a recommendation until the person has repented of serious sin (see [24.3.2.1](/study/manual/general-handbook/24?lang=eng&id=title_number13-p89#title_number13 "/study/manual/general-handbook/24?lang=eng&id=title_number13-p89#title_number13")). Depending on the person’s physical, mental, or emotional health, they may discuss the possibility of being assigned as a service missionary.
+If a stake president in the United States or Canada has questions, he contacts the Missionary Department (see [24.9.3](/study/manual/general-handbook/24?lang=eng&id=title_number62-p252#title_number62 "/study/manual/general-handbook/24?lang=eng&id=title_number62-p252#title_number62")). Elsewhere, he contacts the area office.
 
 In urgent cases when the bishop or stake president is unavailable, he may authorize one of his counselors to conduct these interviews.
 
@@ -357,7 +364,9 @@ Missionary recommendations are usually submitted through the home ward and stake
 
 ### Those Unable to Serve as Full-Time Missionaries
 
-Sometimes a member who desires to serve and is recommended for missionary service may not be called as a teaching or service missionary. This may be due to health challenges, not meeting the standards of worthiness, legal issues, or other circumstances. The bishop and stake president express love and gratitude for the member’s willingness to serve. Leaders may address questions to the Missionary Department at 801-240-2179 or [Missionary.Prefield@ChurchofJesusChrist.org](mailto:Missionary.Prefield@ChurchofJesusChrist.org "mailto:Missionary.Prefield@ChurchofJesusChrist.org").
+Sometimes a member who desires to serve and is recommended for missionary service may not be called as a teaching or service missionary. This may be due to health challenges, not meeting the standards of worthiness, legal issues, or other circumstances. The bishop and stake president express love and gratitude for the member’s willingness to serve.
+
+Leaders may address questions to the Missionary Department at 801-240-2222 or [Missionary.Prefield@ChurchofJesusChrist.org](mailto:Missionary.Prefield@ChurchofJesusChrist.org "mailto:Missionary.Prefield@ChurchofJesusChrist.org").
 
 The stake president and bishop encourage the member to press forward on the covenant path as a lifelong disciple of Jesus Christ. They also encourage pursuing other important endeavors, such as education or employment for young members.
 
@@ -411,7 +420,11 @@ The setting apart and accompanying blessing should not be recorded. However, the
 
 The stake president explains that the person should follow missionary standards after being set apart.
 
-A missionary’s setting apart is for the call to serve, not for a specific missionary assignment. If a missionary’s assignment is changed, he or she is not set apart again. If a missionary is released and is later approved to return to service (see [24.6.3.2](/study/manual/general-handbook/24?lang=eng&id=title_number44-p192#title_number44 "/study/manual/general-handbook/24?lang=eng&id=title_number44-p192#title_number44")), he or she is set apart again as a missionary.
+A missionary’s setting apart is for the call to serve, not for a specific missionary assignment. If a missionary’s assignment is changed, he or she is not set apart again.
+
+If a missionary is released and is later approved to return to service (see [24.6.3.2](/study/manual/general-handbook/24?lang=eng&id=title_number44-p192#title_number44 "/study/manual/general-handbook/24?lang=eng&id=title_number44-p192#title_number44")), he or she is set apart again as a missionary.
+
+If circumstances do not permit setting apart a missionary before he or she begins service, the stake president should contact the Missionary Department for direction at 801-240-2222 or [Missionary.Prefield@ChurchofJesusChrist.org](mailto:Missionary.Prefield@ChurchofJesusChrist.org "mailto:Missionary.Prefield@ChurchofJesusChrist.org").
 
 Setting Apart a Missionary
 
@@ -539,7 +552,7 @@ When returning to service is not possible, leaders encourage the member to press
 
 24.7
 
-## Service Missions
+## Service Missionaries
 
 24.7.1
 
@@ -547,9 +560,9 @@ When returning to service is not possible, leaders encourage the member to press
 
 For senior service missionaries, the bishop, stake president, and missionaries counsel together to identify local opportunities to serve.
 
-For young service missionaries, the service mission leaders identify appropriate service opportunities. The missionary’s parents or guardians generally participate in the discussion.
+For young service missionaries, the service missionary advisers identify appropriate service opportunities. The missionary’s parents or guardians may participate in the discussion.
 
-Service may be provided in person or remotely using technology. Leaders may use the following resources to find information about service opportunities:
+Service may be provided in person or remotely using technology. Advisers may use the following resources to find information about service opportunities:
 
 - Internet: [ChurchofJesusChrist.org/service-missionary](https://www.churchofjesuschrist.org/service-missionary "https://www.churchofjesuschrist.org/service-missionary") or [SeniorMissionary.ChurchofJesusChrist.org](https://seniormissionary.churchofjesuschrist.org/srsite/catalog "https://seniormissionary.churchofjesuschrist.org/srsite/catalog")
 - Phone: 1-801-240-4914
@@ -561,7 +574,8 @@ Examples of Service Missionary Opportunities
 - *Family History:* FamilySearch community support; FamilySearch records preservation (such as indexing, reviewing, and imaging); FamilySearch center support (young service missionaries only at stake-level centers)
 - *Member and Leader Support:* Supporting wards and stakes in helping accomplish God’s work of salvation and exaltation, as directed by Area Presidencies
 - *Seminaries and Institutes:* Office work, recruiting and enrollment, social media, and events support
-- *Temples:* Temple workers whose responsibilities may include laundry, housekeeping, office, interior maintenance, or groundskeeping
+- *Temples:* Temple workers (whose responsibilities may include performing ordinances or helping with laundry, housekeeping, office, interior maintenance, or groundskeeping tasks) and temple patrons
+- *Teach Missionary Lessons* (for young service missionaries): As approved by the mission president, participate in teaching lessons
 - *Welfare:* Bishops’ storehouses, production facilities, farms, Deseret Industries, and employment centers
 - *BYU–Pathway Worldwide:* Facilitate student gatherings, increase local awareness about BYU–Pathway, and minister to students.
 - *Church Departments* (in-person or virtual, depending on the operation and the missionary’s location): Welfare and Self-Reliance Services, Church History, and Family History
@@ -578,15 +592,15 @@ Young service missionaries should not spend the night or live in teaching missio
 
 ### Training and Supervision
 
-Service missionaries are trained and supervised at the place where they serve. They also receive day-to-day supervision, help, and training about their duties from the service mission leaders (for young service missionaries) or the manager of their service assignment (for senior service missionaries).
+Service missionaries are trained and supervised at the place where they serve. They also receive day-to-day supervision, help, and training about their duties from the service missionary advisers (for young service missionaries) or the manager of their service assignment (for senior service missionaries).
 
 The stake president is the ecclesiastical leader for senior and young service missionaries. He and the bishop conduct regular worthiness interviews with young service missionaries. They also conduct interviews for temple recommends, ordination to priesthood offices, and patriarchal blessings when applicable.
 
-The mission president and his wife set the spiritual and behavioral expectations of the mission. They counsel regularly with the service mission leaders who oversee the missionary’s schedule, assignments, and overall health. Together they help the missionary understand and follow service missionary standards.
+The mission president and his wife set the spiritual and behavioral expectations of the mission. They counsel regularly with the service missionary advisers who oversee the missionary’s schedule, assignments, and overall health. Together they help the missionary understand and follow service missionary standards.
 
 The mission president refers matters of personal worthiness to the missionary’s stake president.
 
-Young service missionaries do not attend an MTC. They receive virtual training, along with training at their places of service.
+Young service missionaries participate in a virtual MTC experience.
 
 For more about training and supervision, see [Missionary Standards for Disciples of Jesus Christ—Service Missions](/study/manual/missionary-standards-service-missionaries-2025?lang=eng "/study/manual/missionary-standards-service-missionaries-2025?lang=eng").
 
@@ -594,21 +608,19 @@ For more about training and supervision, see [Missionary Standards for Disciples
 
 ### Service Missionaries in Ward or Stake Callings
 
-The bishop or stake president may give ward or stake callings to service missionaries if the callings do not interfere with the mission assignments or schedule. For young service missionaries, these leaders coordinate with the service mission leaders.
+The bishop or stake president may give ward or stake callings to service missionaries if the callings do not interfere with the mission assignments or schedule. For young service missionaries, these leaders coordinate with the service missionary advisers.
 
 24.7.5
 
-### Concluding a Service Mission
+### Concluding a Service Missionary Assignment
 
 Young service missionaries are typically called to serve for 18 or 24 months. It is anticipated that each missionary will complete the time of service indicated in his or her assignment.
 
-In some circumstances, after a missionary has received the call, the missionary, parents, and service mission leaders may counsel together to identify an alternative release date. The service mission leaders submit any proposed change to this date to the mission president. If he approves the change, the service mission leaders notify the missionary’s stake president of the new release date.
-
-Sometimes a service missionary needs to end his or her mission early for health, worthiness, or other reasons. In these situations, the stake president notifies the mission president, the service mission leaders, and the area service mission specialists. The stake president then contacts the assigned in-field representative in the Missionary Department to have each early release reviewed and approved by an assigned General Authority.
+Sometimes a service missionary needs to end his or her mission early for health, worthiness, or other reasons. In these situations, the stake president notifies the mission president, the service missionary advisers, and the area service missionary coordinator. The stake president then contacts the assigned in-field representative in the Missionary Department to have each early release reviewed and approved by an assigned General Authority. The in-field representative can be reached at [ServiceMissionaryIFR@ChurchofJesusChrist.org](mailto:ServiceMissionaryIFR@ChurchofJesusChrist.org "mailto:ServiceMissionaryIFR@ChurchofJesusChrist.org").
 
 For information about a service missionary potentially returning to service, see [24.6.3.2](/study/manual/general-handbook/24?lang=eng&id=title_number44-p192#title_number44 "/study/manual/general-handbook/24?lang=eng&id=title_number44-p192#title_number44").
 
-Service missions for young missionaries do not exceed 24 months for men. These missions do not exceed 18 months for women.
+Service missionary assignments for young missionaries do not exceed 24 months for men. These assignments do not exceed 18 months for women.
 
 Senior service missionaries may extend their service to a date agreed on by the stake president, operations manager, and missionary.
 
@@ -626,7 +638,7 @@ Senior service missionaries may extend their service to a date agreed on by the 
 
 #### Young Missionaries Serving Away from Home
 
-For instructions on temple recommends for young missionaries returning home, see [26.5.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number20-p72#title_number20 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number20-p72#title_number20").
+For instructions on temple recommends for young missionaries returning home, see [26.5.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number20-p72#title_number20 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number20-p72#title_number20").
 
 24.8.1.2
 
@@ -638,7 +650,7 @@ The mission president may conduct a temple recommend interview when needed. If t
 
 #### Service Missionaries
 
-Young and senior service missionaries arrange through local leaders for interviews to renew temple recommends (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
+Young and senior service missionaries arrange through local leaders for interviews to renew temple recommends (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
 
 24.8.2
 

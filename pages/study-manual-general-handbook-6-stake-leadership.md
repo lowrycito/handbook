@@ -216,7 +216,7 @@ In each member district, a Melchizedek Priesthood holder is called as the distri
 - With the mission president’s approval, a district president may interview a brother to be ordained an elder. This approval must be given for each situation. A district president or someone under his direction may also (1) present a brother for sustaining and (2) perform the ordination (see [18.10.1.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number62-p277#title_number62 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number62-p277#title_number62"), [18.10.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number64-p286#title_number64 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number64-p286#title_number64"), and [18.10.4](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number33-p146#title_number33 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number33-p146#title_number33")). However, a district president cannot ordain patriarchs, high priests, or bishops.
 - With the mission president’s approval, a district president may set apart branch presidents (see [18.11](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number36-p174#title_number36 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number36-p174#title_number36")). This approval must be given for each situation.
 - He does not release full-time missionaries. However, he may participate with a member of the mission presidency in the release interview. If travel or time constraints make it very difficult for a member of the mission presidency to release a specific missionary, the mission president may authorize the district president to do so (see [24.8.2](/study/manual/general-handbook/24?lang=eng&id=title_number56-aside6_p2#title_number56 "/study/manual/general-handbook/24?lang=eng&id=title_number56-aside6_p2#title_number56")).
-- He does not conduct temple recommend interviews or sign temple recommends (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
+- He does not conduct temple recommend interviews or sign temple recommends (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10") and [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")).
 - He does not convene a membership council unless authorized by the mission president (see [32.9.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number59-p250#title_number59 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number59-p250#title_number59")).
 - He does not usually deal directly with the Area Presidency. Instead, he works through the mission presidency.
 
@@ -256,7 +256,7 @@ The stake clerk is called and set apart by the stake president or an assigned co
 
 ## High Council
 
-The stake presidency calls 12 high priests to form the stake high council (see [Doctrine and Covenants 102:1](/study/scriptures/dc-testament/dc/102?lang=eng&id=p1#p1 "/study/scriptures/dc-testament/dc/102?lang=eng&id=p1#p1"); [124:131](/study/scriptures/dc-testament/dc/124?lang=eng&id=p131#p131 "/study/scriptures/dc-testament/dc/124?lang=eng&id=p131#p131")). If an elder is called to serve on the high council, he is ordained a high priest before he is set apart.
+The stake presidency calls 12 high priests to form the stake high council (see [Doctrine and Covenants 102:1](/study/scriptures/dc-testament/dc/102?lang=eng&id=p1#p1 "/study/scriptures/dc-testament/dc/102?lang=eng&id=p1#p1"); [124:131](/study/scriptures/dc-testament/dc/124?lang=eng&id=p131#p131 "/study/scriptures/dc-testament/dc/124?lang=eng&id=p131#p131")). If an elder is called to serve on the high council, he is ordained a high priest before he is set apart. (In a district, elders or high priests may serve on the district council; see [30.8.4](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number21-figure8_note2_p1#title_number21 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number21-figure8_note2_p1#title_number21").)
 
 Under the direction of the stake presidency, high councilors help with God’s work of salvation and exaltation in the stake. Their responsibilities are described in the following sections.
 
@@ -325,12 +325,11 @@ The stake presidency calls and sets apart a high councilor to be the stake Young
 A patriarch is an office in the Melchizedek Priesthood. Patriarchs are called and ordained to give patriarchal blessings to worthy members of the Church. This section outlines the stake president’s responsibilities for the stake patriarch. For information about patriarchal blessings, see the following sources:
 
 - Sections [18.17](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number54-p240#title_number54 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number54-p240#title_number54") and [38.2.10](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number48-p2860#title_number48 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number48-p2860#title_number48") in this handbook
-- Information and Suggestions for Patriarchs
-- Worldwide Leadership Training Meeting: The Patriarch
+- Information and Suggestions for Patriarchs (a resource for stake presidents and patriarchs)
 
 See Information and Suggestions for Patriarchs for information about:
 
-- Patriarchs who are given nonfunctioning status.
+- Patriarchs who are given “not actively serving” status.
 - Patriarchs who move to another stake.
 
 6.6.1
@@ -343,11 +342,13 @@ The Quorum of the Twelve Apostles directs the calling of stake patriarchs (see [
 
 If the Quorum of the Twelve Apostles approves the recommendation, the stake president may be authorized to interview and call the patriarch. He then presents the patriarch’s name for sustaining in the general session of the next stake conference.
 
-The stake president ordains the patriarch. He does not delegate this responsibility to a counselor. No others should stand with him during the ordination. A new patriarch is first ordained to that office and then set apart to serve in a specific stake. A previously ordained patriarch who is being returned to functioning status is not ordained again. However, he is set apart.
+In some cases, a man may need to be ordained a patriarch before he can be presented for sustaining in stake conference. When this happens, he is presented for sustaining in a sacrament meeting in each ward in the stake. He may then be ordained. He is then presented in the next stake conference to ratify the ordination. This includes giving stake members an opportunity to sustain or oppose the action.
+
+When authorized, the stake president ordains the patriarch. He does not delegate this responsibility to a counselor. No others should stand with him during the ordination. A new patriarch is first ordained to that office and then set apart to serve in a specific stake. A previously ordained patriarch who is being returned to actively serving status is not ordained again. However, he is presented to be sustained and set apart.
 
 The ordination must be recorded in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") before the patriarch can access the online tools for patriarchs.
 
-A functioning patriarch is a member of the stake high priests quorum.
+An actively serving patriarch is a member of the stake high priests quorum.
 
 6.6.2
 
@@ -356,7 +357,7 @@ A functioning patriarch is a member of the stake high priests quorum.
 The Quorum of the Twelve normally does not approve calling a second patriarch for a stake unless one patriarch is unable to give the number of blessings requested. Nor does the Quorum of the Twelve normally approve an additional patriarch because a stake:
 
 - Is geographically large.
-- Includes members who do not speak the majority language.
+- Includes a small number of members who do not speak the majority language.
 
 If a stake includes members who speak different languages, bishops and stake presidencies may authorize them to go to a patriarch in a nearby stake who can give the blessing in the member’s own language.
 
@@ -368,8 +369,8 @@ If a stake includes members who speak different languages, bishops and stake pre
 
 The stake president instructs a newly called patriarch before he begins giving blessings. He teaches the patriarch about the sacred, revelatory nature of his office. He carefully reviews with the patriarch the instructions in the following sources:
 
-- Information and Suggestions for Patriarchs
-- Worldwide Leadership Training Meeting: The Patriarch
+- Sections [18.17](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number54-p240#title_number54 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number54-p240#title_number54") and [38.2.10](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number48-p2860#title_number48 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number48-p2860#title_number48") in this handbook
+- Information and Suggestions for Patriarchs (a resource for stake presidents and patriarchs)
 
 6.6.4
 
@@ -401,7 +402,7 @@ The stake president ensures that after the patriarch has given the recipient a c
 
 ### Patriarchs Who Are Called to Another Church Position
 
-A patriarch may not be called to a position of Church administration unless the Quorum of the Twelve Apostles approves the call in advance. Such positions include a member of a bishopric; high council; or stake, mission, or temple presidency. If approval is given, the patriarch is given nonfunctioning status.
+A patriarch may not be called to a position of Church administration unless the Quorum of the Twelve Apostles approves the call in advance. Such positions include a member of a bishopric; high council; or stake, mission, or temple presidency. If approval is given, the patriarch is given “not actively serving” status.
 
 A patriarch may be called to serve in other callings without approval from the Quorum of the Twelve. He may also serve as a sealer or temple ordinance worker.
 
@@ -452,7 +453,7 @@ The stake Relief Society presidency has the following additional responsibilitie
 
 - Serve on the stake adult leadership committee (see [29.3.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number58-p153#title_number58 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number58-p153#title_number58")). If a secretary is called, she is also invited.
 - Teach ward Relief Society presidents the principles of ministering and caring for those in need. Help them understand their role in helping bishops with temporal and self-reliance matters.
-- Teach ward Relief Society presidencies about their responsibilities for missionary work (see [23.6.2](/study/manual/general-handbook/23?lang=eng&id=title_number16-p61#title_number16 "/study/manual/general-handbook/23?lang=eng&id=title_number16-p61#title_number16")) and temple and family history work (see [25.2.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8")).
+- Teach ward Relief Society presidencies about their responsibility to help lead the ward’s efforts to share the gospel (see [23.6.2](/study/manual/general-handbook/23?lang=eng&id=title_number16-p61#title_number16 "/study/manual/general-handbook/23?lang=eng&id=title_number16-p61#title_number16")) and participate in temple and family history work (see [25.2.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number8-p38#title_number8")).
 - Strengthen single adult sisters in the stake. If the stake has a young single adult committee, a member of the presidency serves on it. The same is true if the stake has a single adult committee. (See [14.1.1.2](/study/manual/general-handbook/14-single-members?lang=eng&id=title_number6-p28#title_number6 "/study/manual/general-handbook/14-single-members?lang=eng&id=title_number6-p28#title_number6").)
 - Coordinate stake Relief Society efforts during emergencies.
 

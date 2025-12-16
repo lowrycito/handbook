@@ -1,4 +1,4 @@
-February 2025
+November 2025
 
 # General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints
 
@@ -12,6 +12,6 @@ Salt Lake City, Utah
 
 All rights reserved.
 
-Version: 2/25
+Version: 11/25
 
 PD60010241 000

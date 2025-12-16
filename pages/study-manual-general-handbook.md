@@ -701,6 +701,9 @@ Church Organization
     - [#### 12.1.7. Temple and Priesthood Preparation Meeting
 
       Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.](/study/manual/general-handbook/12-primary?lang=eng#title_number34 "/study/manual/general-handbook/12-primary?lang=eng#title_number34")
+    - [#### 12.1.8. Baptism and Confirmation Preparation Meeting
+
+      Primary is a home-centered, Church-supported organization for children ages 18 months to 11 years.](/study/manual/general-handbook/12-primary?lang=eng#p_hE4oC "/study/manual/general-handbook/12-primary?lang=eng#p_hE4oC")
   - 12.2. Participating in God’s Work of Salvation and Exaltation
 
     - [#### 12.2. Participating in God’s Work of Salvation and Exaltation
@@ -1438,7 +1441,7 @@ God’s Work of Salvation and Exaltation
       - [#### 22.3.2. Help Members Assess and Address Short-Term Needs
 
         Members of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another.](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng#title_number25 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng#title_number25")
-      - [#### 22.3.3. Help Members Build Long-Term Self-Reliance
+      - [#### 22.3.3. Help Members Build Self-Reliance
 
         Members of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” (Mosiah 18:8–9). Caring for those who have temporal needs is part of God’s work of salvation and exaltation. This responsibility applies to all members of the Church as they minister to one another.](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng#title_number26 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng#title_number26")
       - [#### 22.3.4. Minister to Those with Emotional Needs
@@ -1568,9 +1571,14 @@ God’s Work of Salvation and Exaltation
     - [#### 23.3. Strengthen Returning Members
 
       Inviting all to receive the gospel is part of God’s work of salvation and exaltation.](/study/manual/general-handbook/23?lang=eng#title_number8 "/study/manual/general-handbook/23?lang=eng#title_number8")
-    - [#### 23.4. Hold Weekly Coordination Meetings
+    - 23.4. Hold Weekly Missionary Coordination Meetings
 
-      Inviting all to receive the gospel is part of God’s work of salvation and exaltation.](/study/manual/general-handbook/23?lang=eng#title_number22 "/study/manual/general-handbook/23?lang=eng#title_number22")
+      - [#### 23.4. Hold Weekly Missionary Coordination Meetings
+
+        Inviting all to receive the gospel is part of God’s work of salvation and exaltation.](/study/manual/general-handbook/23?lang=eng#title_number22 "/study/manual/general-handbook/23?lang=eng#title_number22")
+      - [#### 23.4.1. My Covenant Path and Covenant Path Progress Report
+
+        Inviting all to receive the gospel is part of God’s work of salvation and exaltation.](/study/manual/general-handbook/23?lang=eng#p_jvqG3 "/study/manual/general-handbook/23?lang=eng#p_jvqG3")
     - 23.5. Stake Leaders
 
       - [#### 23.5. Stake Leaders
@@ -1704,7 +1712,7 @@ God’s Work of Salvation and Exaltation
       - [#### 24.6.3. Returning Home from a Mission
 
         To serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves.](/study/manual/general-handbook/24?lang=eng#title_number42 "/study/manual/general-handbook/24?lang=eng#title_number42")
-    - 24.7. Service Missions
+    - 24.7. Service Missionaries
 
       - [#### 24.7.1. Identifying Opportunities for Service Missionaries
 
@@ -1718,7 +1726,7 @@ God’s Work of Salvation and Exaltation
       - [#### 24.7.4. Service Missionaries in Ward or Stake Callings
 
         To serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves.](/study/manual/general-handbook/24?lang=eng#title_number49 "/study/manual/general-handbook/24?lang=eng#title_number49")
-      - [#### 24.7.5. Concluding a Service Mission
+      - [#### 24.7.5. Concluding a Service Missionary Assignment
 
         To serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves.](/study/manual/general-handbook/24?lang=eng#title_number50 "/study/manual/general-handbook/24?lang=eng#title_number50")
     - 24.8. After Missionary Service
@@ -1748,14 +1756,14 @@ God’s Work of Salvation and Exaltation
         To serve the Lord as a missionary is a sacred privilege. It brings eternal blessings to the person and those he or she serves.](/study/manual/general-handbook/24?lang=eng#title_number62 "/study/manual/general-handbook/24?lang=eng#title_number62")
 - Uniting Families for Eternity
 
-  - 25. Temple and Family History Work in the Ward and Stake
+  - 25. Uniting Families for Eternity through Temple and Family History Work
 
     - [#### 25.0. Introduction
 
       Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number2 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number2")
-    - 25.1. Member and Leader Participation in Temple and Family History Work
+    - 25.1. Member and Leader Participation in Uniting Families for Eternity
 
-      - [#### 25.1. Member and Leader Participation in Temple and Family History Work
+      - [#### 25.1. Member and Leader Participation in Uniting Families for Eternity
 
         Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number3 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number3")
       - [#### 25.1.1. Individual Responsibility for Temple Worship
@@ -1764,7 +1772,7 @@ God’s Work of Salvation and Exaltation
       - [#### 25.1.2. Ward and Stake Temple Trips
 
         Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number5 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number5")
-    - 25.2. Organizing Temple and Family History Work in the Ward
+    - 25.2. Ward Leaders
 
       - [#### 25.2.1. Bishopric
 
@@ -1790,11 +1798,8 @@ God’s Work of Salvation and Exaltation
       - [#### 25.2.8. Temple Preparation Course
 
         Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number14 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number14")
-    - 25.3. Organizing Temple and Family History Work in the Stake
+    - 25.3. Stake Leaders
 
-      - [#### 25.3. Organizing Temple and Family History Work in the Stake
-
-        Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number15 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number15")
       - [#### 25.3.1. Stake Presidency
 
         Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number16 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number16")
@@ -1821,7 +1826,7 @@ God’s Work of Salvation and Exaltation
         Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number32 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number32")
     - 25.4. Family History Resources
 
-      - [#### 25.4.1. FamilySearch.org, Ordinances Ready, and FamilySearch Apps
+      - [#### 25.4.1. Online Resources
 
         Uniting families for eternity is part of God’s work of salvation and exaltation. Temple and family history work is the means for uniting and sealing families for eternity.](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number23 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng#title_number23")
       - [#### 25.4.2. My Family: Stories That Bring Us Together
@@ -1865,56 +1870,56 @@ God’s Work of Salvation and Exaltation
       - [#### 26.3. General Guidelines for Issuing Temple Recommends
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number9")
-      - [#### 26.3.1. Temple Recommend Interviews for Members in Wards and Branches
+      - [#### 26.3.1. Issuing Temple Recommends for Proxy Baptisms and Confirmations
+
+        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#p_itBYg "/study/manual/general-handbook/26-temple-recommends?lang=eng#p_itBYg")
+      - [#### 26.3.2. Issuing Temple Recommends for Endowed Members
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number10")
-      - [#### 26.3.2. Temple Recommend Interviews for Members in Isolated Areas
+      - [#### 26.3.3. Issuing Temple Recommends for Living Ordinances
+
+        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#p_bojBJ "/study/manual/general-handbook/26-temple-recommends?lang=eng#p_bojBJ")
+      - [#### 26.3.4. Issuing Temple Recommends to Members in Isolated Areas
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number11 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number11")
-      - [#### 26.3.3. Conducting a Temple Recommend Interview
+    - 26.4. Conducting a Temple Recommend Interview
+
+      - [#### 26.4. Conducting a Temple Recommend Interview
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number29 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number29")
-    - 26.4. Issuing Temple Recommends to Unendowed Members
+      - [#### 26.4.1. Temple Recommend Interview Questions
 
-      - [#### 26.4.1. General Guidelines
+        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number30 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number30")
+      - [#### 26.4.2. Wearing the Temple Garment
 
-        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number13 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number13")
-      - [#### 26.4.2. Temple Recommends for Newly Baptized Members
+        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number31 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number31")
+      - [#### 26.4.3. Additional Direction
 
-        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number14 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number14")
-      - [#### 26.4.3. Temple Recommends for Proxy Baptisms and Confirmations Only
-
-        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number15 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number15")
-      - [#### 26.4.4. Temple Recommends for Sealing Living Children to Parents
-
-        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number16 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number16")
+        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number32 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number32")
     - 26.5. Issuing Temple Recommends in Special Circumstances
 
-      - [#### 26.5.1. Members Receiving Their Own Endowment
-
-        Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number18 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number18")
-      - [#### 26.5.2. Newly Baptized Members
+      - [#### 26.5.1. Newly Baptized Members
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number19 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number19")
-      - [#### 26.5.3. Young Missionaries Returning from Service Away from Home
+      - [#### 26.5.2. Young Missionaries Returning from Service Away from Home
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number20 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number20")
-      - [#### 26.5.4. Members Who Have Not Lived in the Same Ward for at Least One Year
+      - [#### 26.5.3. Members Who Have Not Lived in the Same Ward for at Least One Year
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number21 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number21")
-      - [#### 26.5.5. After Divorce, Separation, or Annulment
+      - [#### 26.5.4. After Divorce, Separation, or Annulment
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number22 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number22")
-      - [#### 26.5.6. Members Whose Close Relatives Publicly Oppose the Church or Belong to Apostate Groups
+      - [#### 26.5.5. Members Whose Close Relatives Publicly Oppose the Church or Belong to Apostate Groups
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number23 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number23")
-      - [#### 26.5.7. Individuals Who Identify as Transgender
+      - [#### 26.5.6. Individuals Who Identify as Transgender
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number24 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number24")
-      - [#### 26.5.8. Members Who Have Committed a Serious Sin
+      - [#### 26.5.7. Members Who Have Committed a Serious Sin
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number25 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number25")
-      - [#### 26.5.9. Members Who Have Been Readmitted after Church Membership Withdrawal or Resignation
+      - [#### 26.5.8. Members Who Have Been Readmitted after Church Membership Withdrawal or Resignation
 
         Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.](/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number26 "/study/manual/general-handbook/26-temple-recommends?lang=eng#title_number26")
   - 27. Temple Ordinances for the Living
@@ -1927,7 +1932,7 @@ God’s Work of Salvation and Exaltation
       - [#### 27.1.1. Preparing to Receive Temple Ordinances
 
         The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number4 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number4")
-      - [#### 27.1.2. Scheduling Temple Ordinances
+      - [#### 27.1.2. Verifying Records and Receiving a Temple Recommend for Living Ordinances
 
         The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number5")
       - [#### 27.1.3. Members Who Have Physical Disabilities
@@ -1984,7 +1989,7 @@ God’s Work of Salvation and Exaltation
       - [#### 27.4. Sealing Living Children to Parents
 
         The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number36")
-      - [#### 27.4.1. Issuing a Recommend for Sealing Living Children to Parents
+      - [#### 27.4.1. Receiving a Recommend for Living Ordinances
 
         The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number37 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number37")
       - [#### 27.4.2. Contacting the Temple
@@ -1996,7 +2001,7 @@ God’s Work of Salvation and Exaltation
       - [#### 27.4.4. Who Performs a Sealing of Living Children to Parents
 
         The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number41 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number41")
-      - [#### 27.4.5. Who May Attend a Sealing of Living Children to Parents
+      - [#### 27.4.5. Who May Attend a Sealing of Children to Parents
 
         The temple is the house of the Lord. It points us to our Savior, Jesus Christ. In temples, we participate in sacred ordinances and make covenants with Heavenly Father that bind us to Him and to our Savior. These covenants and ordinances prepare us to return to Heavenly Father’s presence and to be sealed together as families for eternity.](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number40 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng#title_number40")
   - 28. Temple Ordinances for the Deceased
@@ -2214,9 +2219,14 @@ Church Administration
   - [#### 30.6. Releasing Members from Callings
 
     The Lord calls men and women to serve in the Church through inspired invitations from His servants. These opportunities to serve are known as callings.](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#title_number12 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng#title_number12")
-  - [#### 30.7. Calling, Ordaining, and Setting Apart Bishops
+  - 30.7. Callings Bishops
 
-    The Lord calls men and women to serve in the Church through inspired invitations from His servants. These opportunities to serve are known as callings.](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#title_number14 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng#title_number14")
+    - [#### 30.7.1. Recommending
+
+      The Lord calls men and women to serve in the Church through inspired invitations from His servants. These opportunities to serve are known as callings.](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#p_sF2Lz "/study/manual/general-handbook/30-callings-in-the-church?lang=eng#p_sF2Lz")
+    - [#### 30.7.2. Calling, Ordaining, and Setting Apart
+
+      The Lord calls men and women to serve in the Church through inspired invitations from His servants. These opportunities to serve are known as callings.](/study/manual/general-handbook/30-callings-in-the-church?lang=eng#p_k2I8o "/study/manual/general-handbook/30-callings-in-the-church?lang=eng#p_k2I8o")
   - 30.8. Chart of Callings
 
     - [#### 30.8. Chart of Callings
@@ -3077,7 +3087,7 @@ Church Administration
     - [#### 38.5.3. Garments and Temple Clothing for Members Who Have Disabilities or Allergies
 
       This chapter covers a variety of issues and Church policies.](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number232 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number232")
-    - [#### 38.5.4. Making Temple Clothing
+    - [#### 38.5.4. Modifying Ceremonial Temple Clothing
 
       This chapter covers a variety of issues and Church policies.](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number233 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number233")
     - [#### 38.5.5. Wearing the Garment
@@ -3356,6 +3366,9 @@ Church Administration
     - [#### 38.8.46. Travel Policies
 
       This chapter covers a variety of issues and Church policies.](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number194 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#title_number194")
+    - [#### 38.8.47. Appropriate Use of Artificial Intelligence
+
+      This chapter covers a variety of issues and Church policies.](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#p_cftM6 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng#p_cftM6")
   - 38.9. Military Relations and Chaplain Services
 
     - [#### 38.9. Military Relations and Chaplain Services

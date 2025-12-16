@@ -120,7 +120,7 @@ For more information, see [YoungWomen.ChurchofJesusChrist.org](https://youngwome
 - [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy "https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy"). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders "https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders") (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf "https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf") (for all other areas).
 - At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](/study/manual/for-the-strength-of-youth?lang=eng "/study/manual/for-the-strength-of-youth?lang=eng"). This event could include both young men and young women. Parents may also be invited.
 
-*Age Requirements.* With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+*Age Requirements.* With their parents’ approval, young women may attend Young Women activities, including overnight camps, beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. Eighteen-year-olds, including those who have been endowed, may attend Young Women activities (see [9.1.2](/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number4-p130#title_number4 "/study/manual/general-handbook/9-relief-society?lang=eng&id=title_number4-p130#title_number4") and [11.4](/study/manual/general-handbook/11-young-women?lang=eng&id=title_number27-p131#title_number27 "/study/manual/general-handbook/11-young-women?lang=eng&id=title_number27-p131#title_number27")).
 
 *Paying for Activities.* Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -189,10 +189,10 @@ Young women can help unite families for eternity in many ways. Some of these way
 - Prepare to have their own eternal family.
 - Have a current temple recommend.
 - Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
-- Learn about their extended families and ancestors (see  [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf "https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf")).
+- Learn about their extended families and ancestors.
 - Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org")).
-- Participate in baptisms and confirmations for the dead as often as circumstances allow.
-- Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing "https://www.familysearch.org/indexing")).
+- Participate in proxy baptisms and confirmations in the temple as often as circumstances allow.
+- Participate in family history volunteer activities (see [25.4.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24")).
 - Serve as temple and family history consultants, as called by the bishopric (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10")).
 
 11.3

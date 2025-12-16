@@ -33,7 +33,7 @@ Ministering sisters and brothers have the following responsibilities for the ind
 - Discern needs and provide Christlike love, caring, and service. Offer help and comfort in times of spiritual or temporal need. Discuss needs during ministering interviews and at other times.
 - Help them become spiritually and temporally self-reliant.
 
-For more about the responsibilities of ministering sisters and brothers, see [James 1:27](/study/scriptures/nt/james/1?lang=eng&id=p27#p27 "/study/scriptures/nt/james/1?lang=eng&id=p27#p27"), [Mosiah 23:18](/study/scriptures/bofm/mosiah/23?lang=eng&id=p18#p18 "/study/scriptures/bofm/mosiah/23?lang=eng&id=p18#p18"), and [Doctrine and Covenants 20:47, 59](/study/scriptures/dc-testament/dc/20?lang=eng&id=p47,59#p47 "/study/scriptures/dc-testament/dc/20?lang=eng&id=p47,59#p47").
+For more about the responsibilities of ministering sisters and brothers, see [James 1:27](/study/scriptures/nt/james/1?lang=eng&id=p27#p27 "/study/scriptures/nt/james/1?lang=eng&id=p27#p27"), [Mosiah 23:18](/study/scriptures/bofm/mosiah/23?lang=eng&id=p18#p18 "/study/scriptures/bofm/mosiah/23?lang=eng&id=p18#p18"), and [Doctrine and Covenants 20:47, 59](/study/scriptures/dc-testament/dc/20?lang=eng&id=p47,p59#p47 "/study/scriptures/dc-testament/dc/20?lang=eng&id=p47,p59#p47").
 
 Ministering sisters and brothers prayerfully seek the guidance of the Spirit. They also counsel with those they serve to understand how best to help them meet their needs.
 

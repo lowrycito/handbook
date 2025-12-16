@@ -22,7 +22,7 @@ For Heavenly Father’s children to return to Him, each of them must repent, bec
 - The temple endowment (including the initiatory).
 - Temple sealing.
 
-Heavenly Father knew that many of His children would not receive these ordinances during their mortal lives. He provided another way for them to receive ordinances and make covenants with Him. In temples, ordinances can be performed by proxy. This means that a living person receives ordinances on behalf of someone who is deceased. In the spirit world, deceased persons can choose to accept or reject ordinances that have been performed for them (see [Doctrine and Covenants 138:19, 32–34, 58–59](/study/scriptures/dc-testament/dc/138?lang=eng&id=p19,32-p34,58-p59#p19 "/study/scriptures/dc-testament/dc/138?lang=eng&id=p19,32-p34,58-p59#p19")).
+Heavenly Father knew that many of His children would not receive these ordinances during their mortal lives. He provided another way for them to receive ordinances and make covenants with Him. In temples, ordinances can be performed by proxy. This means that a living person receives ordinances on behalf of someone who is deceased. In the spirit world, deceased persons can choose to accept or reject ordinances that have been performed for them (see [Doctrine and Covenants 138:19, 32–34, 58–59](/study/scriptures/dc-testament/dc/138?lang=eng&id=p19,p32-p34,p58-p59#p19 "/study/scriptures/dc-testament/dc/138?lang=eng&id=p19,p32-p34,p58-p59#p19")).
 
 The ordinances of salvation and exaltation are not needed or performed for those who were not accountable in this life (see [18.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number2-p242#title_number2 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number2-p242#title_number2"), [28.3.2](/study/manual/general-handbook/28?lang=eng&id=title_number8-p14#title_number8 "/study/manual/general-handbook/28?lang=eng&id=title_number8-p14#title_number8"), and [28.3.3](/study/manual/general-handbook/28?lang=eng&id=title_number9-p16#title_number9 "/study/manual/general-handbook/28?lang=eng&id=title_number9-p16#title_number9")).
 
@@ -62,19 +62,19 @@ Many resources are available to help members identify deceased relatives who nee
 - The ward temple and family history leader (see [25.2.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number9-p46#title_number9 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number9-p46#title_number9"))
 - Ward temple and family history consultants (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10"))
 
-Where possible, information identifying deceased family members should be entered into [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org") before temple ordinances are performed (see [25.4.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23")).
+Where possible, information identifying deceased family members should be entered into [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org") before temple ordinances are performed (see [25.4.1](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number23-p112#title_number23")).
 
 28.1.1.1
 
 #### Submitting the Names of Family Members
 
-When submitting names for proxy temple ordinances, members should generally submit only the names of persons to whom they are related.
+When submitting names for proxy temple ordinances, members should submit only the names of persons to whom they are related.
 
 28.1.1.2
 
 #### Submitting the Names of Celebrities and Unauthorized Groups
 
-Generally, Church members should not submit names to [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org") from the following groups:
+Church members should not submit names to [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org") from the following groups:
 
 - Famous people
 - Names gathered from unapproved extraction projects
@@ -156,12 +156,14 @@ Any member who has a current temple recommend may be invited to serve in one or 
 
 If they wish, members who act as proxies may choose to do only baptisms or only confirmations.
 
-Melchizedek Priesthood holders and priests in the Aaronic Priesthood may be invited to perform baptisms for the dead. Melchizedek Priesthood holders may also be invited to officiate in confirmations for the dead.
+Melchizedek Priesthood holders and priests in the Aaronic Priesthood may be invited to perform baptisms for the dead. Melchizedek Priesthood holders may also be invited to officiate in confirmations for the dead. Those who baptize or confirm must be able to physically perform the ordinance without assistance.
 
 Only endowed men may be invited to:
 
 - Serve as the font recorder.
 - Serve as the confirmation recorder.
+
+Those who serve as font or confirmation recorders verify that the ordinance is performed correctly and recorded properly (see [Doctrine and Covenants 128:4, 9](/study/scriptures/dc-testament/dc/128?lang=eng&id=p4,p9#p4 "/study/scriptures/dc-testament/dc/128?lang=eng&id=p4,p9#p4")). Font and confirmation recorders must be able to verify and record the ordinance without assistance.
 
 Organized groups such as families, wards, and stakes that desire to participate in ordinances in the baptistry normally schedule with the temple in advance (see [28.1.4](/study/manual/general-handbook/28?lang=eng&id=title_number22-p70#title_number22 "/study/manual/general-handbook/28?lang=eng&id=title_number22-p70#title_number22")). One or more adults with current temple recommends should accompany these groups.
 
@@ -226,18 +228,34 @@ Email: [TempleDepartment@ChurchofJesusChrist.org](mailto:templedepartment@church
 
 ### Persons Whose Church Membership Was Withdrawn or Who Resigned Membership
 
-If persons either had their Church membership withdrawn or had resigned membership before they died, First Presidency approval is required before temple ordinances, including restoration of blessings when applicable, can be performed for them. A family member may seek this approval in a letter to the Office of the First Presidency after one year has passed since the person’s death. The letter should explain the circumstances. No form is required. The bishop or stake president may assist with this request as needed.
+If persons either had their Church membership withdrawn or had resigned membership before they died, First Presidency approval is required before temple ordinances, including restoration of blessings when applicable, can be performed for them (except as noted in [28.3.5.1](/study/manual/general-handbook/28?lang=eng&id=title_number28-p97#title_number28 "/study/manual/general-handbook/28?lang=eng&id=title_number28-p97#title_number28")).
+
+A family member may seek this approval in a letter to the Office of the First Presidency after one year has passed since the person’s death. The letter should explain the circumstances. No form is required. The bishop or stake president may assist with this request as needed.
 
 28.3.5.1
 
-#### Readmission of Deceased Persons Who Were Not Endowed
+#### Deceased Persons Who Were Not Endowed
 
-Deceased persons who were not endowed but whose Church membership was withdrawn or who resigned membership may be readmitted by baptism and confirmation. First Presidency approval is needed, as noted in [28.3.5](/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12 "/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12"). These deceased persons do not need to be sealed to their parents again if they were born in the covenant or sealed to their parents in life.
+Deceased persons who were not endowed and whose Church membership was withdrawn or who resigned membership may be readmitted by proxy baptism and confirmation. These deceased persons do not need to be sealed to their parents again if they were born in the covenant or sealed to their parents in life.
+
+First Presidency approval is required, as noted in [28.3.5](/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12 "/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12").
+
+If such persons were readmitted by baptism and confirmation during their life, no approval is needed to perform temple ordinances on their behalf.
+
+The one-year waiting period before a family member may request approval applies even if the deceased person had been readmitted by baptism and confirmation in life.
+
+Restoration of blessings takes place under the direction of the First Presidency. The family is notified when it has been completed. The person’s readmission by baptism and confirmation, if needed, is completed at the same time.
+
+See [32.17.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number95-p443#title_number95 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number95-p443#title_number95") for information about performing this ordinance for the living.
 
 28.3.5.2
 
-#### Restoration of Temple Blessings for Persons Who Were Endowed
+#### Deceased Persons Who Were Endowed
 
-Deceased persons who were endowed but whose Church membership was withdrawn or who resigned membership and were later readmitted by baptism and confirmation can receive their priesthood and temple blessings only through the ordinance of restoration of blessings. Such persons are not ordained to any priesthood office or endowed again, since these blessings are restored through this ordinance.
+Deceased persons who were endowed and whose Church membership was withdrawn or who resigned membership and were later readmitted by baptism and confirmation can receive their priesthood and temple blessings only through the ordinance of restoration of blessings. Such persons are not ordained to any priesthood office or endowed again, since these blessings are restored through this ordinance.
 
-As noted in [28.3.5](/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12 "/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12"), First Presidency approval is required to perform this ordinance for deceased persons. For information about performing this ordinance for the living, see [32.17.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number95-p443#title_number95 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number95-p443#title_number95").
+First Presidency approval is required, as noted in [28.3.5](/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12 "/study/manual/general-handbook/28?lang=eng&id=title_number12-p99#title_number12"). The one-year waiting period before a family member may request approval applies even if the deceased person had been readmitted by baptism and confirmation in life.
+
+Restoration of blessings takes place under the direction of the First Presidency. The family is notified when it has been completed. The person’s readmission by baptism and confirmation, if needed, is completed at the same time.
+
+See [32.17.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number95-p443#title_number95 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number95-p443#title_number95") for information about performing this ordinance for the living.

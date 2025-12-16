@@ -16,7 +16,9 @@ Entering the house of the Lord is a sacred privilege. Ward and stake leaders enc
 
 Church leaders make every effort to see that all who enter the house of the Lord are worthy to do so (see [Psalm 24:3–5](/study/scriptures/ot/ps/24?lang=eng&id=p3-p5#p3 "/study/scriptures/ot/ps/24?lang=eng&id=p3-p5#p3")). Authorized priesthood leaders conduct temple recommend interviews and issue temple recommends to members who answer the interview questions appropriately and sincerely (see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9")). The Lord promises that if those who enter His house are clean, His presence will be there (see [Doctrine and Covenants 97:15–16](/study/scriptures/dc-testament/dc/97?lang=eng&id=p15-p16#p15 "/study/scriptures/dc-testament/dc/97?lang=eng&id=p15-p16#p15")).
 
-Members must have a current temple recommend to enter a temple. Children younger than age 8 who are being sealed to their parents or observing the sealing of their siblings to their parents do not need a recommend (see [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16")).
+Members ages 8 and older must have a current temple recommend to enter a temple. They must be baptized and confirmed to be eligible to receive a recommend.
+
+Children younger than age 8 who are being sealed to their parents or observing the sealing of their siblings to their parents do not need a recommend (see [27.4.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number37-p114#title_number37 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number37-p114#title_number37") and [27.4.5](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40")). However, their parents verify their information through Ordinance Preparation in LCR (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")).
 
 This chapter provides instructions for leaders who issue temple recommends. A bishop counsels with his stake president if he has questions about temple recommends that are not answered in this chapter. The stake president may contact the Office of the First Presidency with questions.
 
@@ -26,9 +28,17 @@ This chapter provides instructions for leaders who issue temple recommends. A bi
 
 A current temple recommend allows a member to enter all temples. Priesthood leaders ensure that members receive the correct recommend for their circumstances. There are three types of recommends:
 
-1. *Temple recommend for unendowed members.* These recommends are for unendowed members who are being sealed to their parents or performing proxy baptisms and confirmations. They are issued through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). For more information, see [26.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number12-p59#title_number12 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number12-p59#title_number12").
-2. *Temple recommend for living ordinances.* These recommends are for members receiving their own endowment or being sealed to a spouse. They are issued from recommend book 2. The recommend for living ordinances is attached to a regular temple recommend for endowed members (described below). The temple retains the living ordinance recommend when the ordinance is performed. The member retains the regular recommend and uses it when returning to the temple.
-3. *Temple recommend for endowed members.* These recommends are for members who have previously been endowed. They are issued through [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). They authorize a member to participate in all temple ordinances for the deceased. They are also used when an endowed member is sealed to living or deceased parents or children. For more information, see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9").
+1. *Temple recommends for proxy baptisms and confirmations.* These recommends are for unendowed members who are performing proxy baptisms and confirmations. They are issued to the member through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). The member may choose to receive either a printed or a mobile recommend.
+
+   For more information, see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg").
+2. *Temple recommend for endowed members.* These recommends are for members who have previously been endowed. They authorize endowed members to participate in all temple ordinances for the deceased. They are issued to a member through [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). The member may choose to receive either a printed or a mobile recommend.
+
+   For more information, see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10").
+3. *Temple recommends for living ordinances.* These recommends are for members receiving their own endowment or being sealed to a spouse, parents, or children. They are issued digitally through Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). Priesthood leaders use Ordinance Preparation to submit the completed recommend to the temple where the ordinance will take place.
+
+   To enter the temple, members who will be age 12 or older by the end of the year in which the ordinance occurs must also have one of the other two types of recommends in addition to a recommend for living ordinances. If needed, priesthood leaders may issue one of those recommends and the recommend for living ordinances during the same interview. For more information, see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G").
+
+   For information about temple ordinances for the living, see [chapter 27](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng").
 
 26.2
 
@@ -54,7 +64,7 @@ Sometimes a member whose recommend is lost or stolen is no longer living the sta
 
 ### Recommend Holders Who Are Not Living the Standards of Worthiness
 
-If the bishop determines that a member who has a current recommend is not living the standards of worthiness (see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9")), he requests the recommend from the member. He uses [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") to cancel the recommend. If this system is not available, the bishop contacts the temple office to have the recommend canceled.
+If the bishop determines that a member who has a current recommend is not living the standards of worthiness (see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9")), he uses LCR to cancel the recommend. If this system is not available, the bishop contacts the temple office to have the recommend canceled. If the member has a printed recommend, the bishop requests it from the member.
 
 26.3
 
@@ -62,58 +72,100 @@ If the bishop determines that a member who has a current recommend is not living
 
 Authorized priesthood leaders conduct interviews before a member can receive a temple recommend. Instructions are in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). Priesthood leaders should issue a recommend only if the member answers the temple recommend questions appropriately.
 
-Temple recommend interviews allow members to demonstrate that they have a testimony and are striving to obey God’s commandments and follow His prophets. Priesthood leaders also affirm, through the interview, that the member is worthy. See [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29") for additional information about conducting temple recommend interviews.
+Temple recommend interviews allow members to demonstrate that they have a testimony and are striving to obey God’s commandments and follow His prophets. Priesthood leaders also affirm, through the interview, that the member is worthy.
 
-In stakes, a member of the stake presidency or a stake clerk activates the temple recommend in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") after it is issued. In districts, a member of the mission presidency or a mission clerk activates the recommend. Recommends for proxy baptisms and confirmations are activated when they are printed by a member of the bishopric or by the branch president. He uses [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") to print the recommends.
+See [26.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29") for information about conducting temple recommend interviews.
 
 26.3.1
 
-### Temple Recommend Interviews for Members in Wards and Branches
+### Issuing Temple Recommends for Proxy Baptisms and Confirmations
 
-In a ward, the bishop or an assigned counselor conducts temple recommend interviews and issues recommends to those who are worthy. In a branch, only the branch president conducts temple recommend interviews and issues recommends.
+Temple recommends for proxy baptisms and confirmations authorize members to participate in baptisms and confirmations for the dead. They are issued to unendowed members who have been baptized and confirmed.
 
-In a ward, the bishop personally interviews members who:
+Members who have been previously endowed are not issued a recommend for proxy baptisms and confirmations.
 
-- Are receiving their own endowment (see [27.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number3-p30#title_number3 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number3-p30#title_number3") and [27.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11")).
-- Are being sealed to a spouse (see [27.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21")).
+Members are eligible for these recommends beginning in January of the year they turn 12. A male Church member must be ordained to a priesthood office before he may receive a temple recommend.
 
-In urgent cases when the bishop is unavailable, he may authorize one of his counselors to conduct these interviews.
+In a ward, the bishop or an assigned counselor interviews unendowed members for temple recommends for proxy baptisms and confirmations. In a branch, only the branch president conducts temple recommend interviews. (For an exception, see [23.6.1](/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15 "/study/manual/general-handbook/23?lang=eng&id=title_number15-p52#title_number15").)
 
-In large young single adult wards, bishops may authorize experienced counselors to conduct these interviews.
+The leader conducting the interview follows the guidelines in [26.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29"). Temple recommend interviews should not be rushed. They should be private. However, the person being interviewed may invite a parent or another adult to be present.
 
-Before issuing a recommend in the situations listed above, the bishop reviews the member’s record to verify that it does not include a notation about Church membership restrictions. For members receiving their own endowment or being sealed to a spouse, he also ensures that:
+The leader issues a recommend through [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") if the member is worthy. These recommends require only the signatures of the member and a member of the bishopric or the branch president.
 
-- The person’s baptism and confirmation are recorded on the membership record.
-- Brethren have received the Melchizedek Priesthood.
+Recommends for proxy baptisms and confirmations are activated in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") by a member of the bishopric or by the branch president.
 
-Sometimes, dates for a member’s baptism and confirmation or Melchizedek Priesthood ordination have not been recorded. In these situations, the ordinances must be verified and recorded, ratified, or performed again (see [38.2.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number44-p2762#title_number44 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number44-p2762#title_number44")).
-
-After the interview by a member of the bishopric or the branch president, a member of the stake presidency interviews members who live in a stake. He signs the recommends of those who are worthy. A member of the mission presidency conducts the second interview for members who live in a district. He also signs the recommends of those who are worthy. A district president does not conduct temple recommend interviews unless authorized by the First Presidency.
-
-The stake or mission president personally interviews members who:
-
-- Are receiving their own endowment.
-- Are being sealed to a spouse.
-
-If the stake president is unavailable, he may authorize his counselors to conduct these interviews.
-
-A mission president may authorize his counselors to conduct these interviews as needed.
-
-In a young single adult stake, the stake president may authorize his counselors to conduct these interviews.
+For information about issuing recommends to members who are preparing to receive their endowment or be sealed to a spouse, parents, or children, see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G").
 
 26.3.2
 
-### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") Temple Recommend Interviews for Members in Isolated Areas
+### Issuing Temple Recommends for Endowed Members
 
-Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a member of the stake or mission presidency may meet virtually with the member to conduct a temple recommend interview (see [31.4](/study/manual/general-handbook/31?lang=eng&id=title_number21-p262#title_number21 "/study/manual/general-handbook/31?lang=eng&id=title_number21-p262#title_number21")). The leader digitally signs the recommend if the member is worthy. A member of the bishopric or the branch president then prints the recommend and gives it to the member.
+Temple recommends for endowed members authorize members to participate in all temple ordinances for the deceased. They are issued to members who have previously been endowed. (For members receiving their own endowment, see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G").)
+
+In a ward, the bishop or an assigned counselor conducts temple recommend interviews and issues recommends. In a branch, only the branch president conducts temple recommend interviews and issues recommends.
+
+The leader conducting the interview follows the guidelines in [26.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29"). Temple recommend interviews should not be rushed. They should be private. However, the person being interviewed may invite a spouse, parent, or another adult to be present.
+
+The leader issues a recommend through LCR if the member is worthy.
+
+After the interview by a member of the bishopric or the branch president, a member of the stake presidency interviews members who live in a stake. He signs the recommends of those who are worthy. A member of the mission presidency conducts the second interview for members who live in a district. He also signs the recommends of those who are worthy. A district president does not conduct temple recommend interviews unless authorized by the First Presidency.
+
+In stakes, a member of the stake presidency or a stake clerk activates the temple recommend in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). In districts, a member of the mission presidency or a mission clerk activates the recommend.
+
+For information about issuing temple recommends to members who are preparing to receive the endowment or be sealed to a spouse, parents, or children, see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G").
+
+26.3.3
+
+### Issuing Temple Recommends for Living Ordinances
+
+Temple recommends for living ordinances are issued when members are preparing to:
+
+- Receive their own endowment (see [27.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11")).
+- Be sealed to a spouse (see [27.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21")).
+- Be sealed to their parents (see [27.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36")).
+- Have their children sealed to them (see [27.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36")).
+
+To enter the temple, members who will be age 12 or older by the end of the year in which the ordinance occurs must also have either a recommend for proxy baptisms and confirmations or a recommend for endowed members. If needed, priesthood leaders may issue one of those recommends and the recommend for living ordinances during the same interview.
+
+The bishop or branch president and the stake president personally interview members preparing to receive temple ordinances.
+
+In urgent cases when the bishop or stake president is unavailable, he may authorize one of his counselors to conduct these interviews. In a branch, only the branch president may conduct these interviews.
+
+In large young single adult wards and stakes, bishops and stake presidents may authorize experienced counselors to conduct these interviews.
+
+In a district, the mission president or an assigned counselor conducts these interviews. District presidents do not conduct these interviews unless the First Presidency has authorized them to issue temple recommends.
+
+The leader conducting the interview follows the guidelines in [26.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29"). Temple recommend interviews should not be rushed. They should be private. However, the person being interviewed may invite a spouse, parent, or another adult to be present.
+
+Before issuing a recommend for living ordinances, the bishop or branch president reviews the member’s record to verify that it does not include a notation about Church membership restrictions. He also reviews the member’s information using Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). He digitally signs the recommend for living ordinances if the member is worthy and prepared to receive temple ordinances. He then submits it to the stake or mission president using Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org").
+
+The stake president or a member of the mission presidency then interviews the member. He digitally signs the recommend if the member is worthy and prepared to receive temple ordinances. He then submits it to the temple using Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). If needed, he also signs the member’s recommend for endowed members (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
+
+For information about members preparing to receive temple ordinances, see [27.1.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number4-p15#title_number4 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number4-p15#title_number4") and [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5").
+
+For information about members preparing to receive the endowment, see [27.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11").
+
+For information about members preparing to be sealed to a spouse, see [27.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21").
+
+For information about members preparing to be sealed to parents, see [27.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36").
+
+See [27.4.5](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40") and [38.4.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number81-p27797#title_number81 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number81-p27797#title_number81") for additional policies on observing sealings and being sealed to parents.
+
+26.3.4
+
+### [icon, guidelines for adaptation](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") Issuing Temple Recommends to Members in Isolated Areas
+
+Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a member of the stake or mission presidency may meet virtually with the member to conduct a temple recommend interview (see [31.4](/study/manual/general-handbook/31?lang=eng&id=title_number21-p262#title_number21 "/study/manual/general-handbook/31?lang=eng&id=title_number21-p262#title_number21")).
+
+The leader issues the recommend if the member is worthy. If the member requests a printed recommend, a member of the bishopric or the branch president prints the recommend for the member.
 
 This policy also applies to members in the military who are in isolated areas.
 
 ![youth outside temple](https://www.churchofjesuschrist.org/imgs/17b848ac4b3011ed8648eeeeac1e4c2e67db25d2/full/%21500%2C/0/default)
 
-26.3.3
+26.4
 
-### Conducting a Temple Recommend Interview
+## Conducting a Temple Recommend Interview
 
 The temple is the house of the Lord. Entering the temple and participating in ordinances there is a sacred privilege. This privilege is reserved for those who are spiritually prepared and striving to live the Lord’s standards, as determined by authorized priesthood leaders.
 
@@ -123,9 +175,9 @@ Sometimes members have questions during a temple recommend interview. The priest
 
 Temple recommend interviews should not be rushed. They should be private. However, the person being interviewed may invite a spouse, parent, or another adult to be present.
 
-26.3.3.1
+26.4.1
 
-#### Temple Recommend Interview Questions
+### Temple Recommend Interview Questions
 
 1. Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
 2. Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
@@ -156,9 +208,9 @@ Temple recommend interviews should not be rushed. They should be private. Howeve
 15. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
 16. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
 
-26.3.3.2
+26.4.2
 
-#### Wearing the Temple Garment
+### Wearing the Temple Garment
 
 The First Presidency has provided the following guidance on wearing the garment:
 
@@ -166,68 +218,11 @@ The First Presidency has provided the following guidance on wearing the garment:
 
 If members have questions about wearing the garment, refer them to [38.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number229-p2466#title_number229 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number229-p2466#title_number229").
 
-26.3.3.3
-
-#### Additional Direction
-
-The priesthood leader emphasizes to the member the need to safeguard his or her recommend. It must never be loaned and should be reported immediately to the issuer if lost or stolen.
-
-26.4
-
-## Issuing Temple Recommends to Unendowed Members
-
-26.4.1
-
-### General Guidelines
-
-In a ward, the bishop or an assigned counselor interviews unendowed members for temple recommends. In a branch, only the branch president conducts temple recommend interviews. The leader follows the guidelines in [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9"). He issues a recommend if the person is worthy.
-
-Temple recommends are issued to unendowed members as follows:
-
-- For members ages 11 and older to be baptized and confirmed for the dead. (Young women and ordained young men are eligible for a temple recommend beginning in January of the year they turn 12.)
-- For members ages 8 through 20 to be sealed to their parents. Children younger than 8 do not need a recommend to be sealed to their parents (see [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16")).
-- For members ages 8 through 20 to observe the sealings of their living siblings, stepsiblings, or half siblings to their parents.
-
-Members who have been previously endowed are not issued any of the recommends explained in this section.
-
-A male Church member who is old enough to hold the priesthood must be ordained to a priesthood office before he may receive a temple recommend.
-
-When issuing a temple recommend, a member of the bishopric or the branch president interviews the person individually. However, the person may invite a parent or another adult to be present.
-
-26.4.2
-
-### Temple Recommends for Newly Baptized Members
-
-The bishop interviews new members who are of an appropriate age to receive a temple recommend for proxy baptisms and confirmations only. He conducts this interview soon after the member’s confirmation, normally within a week (see [26.4.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number13-p48#title_number13 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number13-p48#title_number13")). For brethren, this interview may be held as part of the interview to receive the Aaronic Priesthood. Male Church members must be ordained to a priesthood office before receiving a temple recommend.
-
-Worthy adult members may receive their own endowment one full year after being confirmed a member of the Church (see [27.2.1.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number13-p48#title_number13 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number13-p48#title_number13")).
-
 26.4.3
 
-### Temple Recommends for Proxy Baptisms and Confirmations Only
+### Additional Direction
 
-Temple recommends that are issued for proxy baptisms and confirmations may be used only for that purpose. These recommends are printed using [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). They require only the signatures of the member and of a member of the bishopric or the branch president.
-
-For information about scheduling baptisms and confirmations for the dead, see [28.2.1](/study/manual/general-handbook/28?lang=eng&id=title_number15-p84#title_number15 "/study/manual/general-handbook/28?lang=eng&id=title_number15-p84#title_number15").
-
-26.4.4
-
-### Temple Recommends for Sealing Living Children to Parents
-
-Unendowed members ages 8 through 20 are issued temple recommends to participate in sealings as follows:
-
-- To be sealed to their parents
-- To observe the sealing of their living siblings, stepsiblings, or half siblings to their parents
-
-Those who are issued temple recommends to participate in sealings are interviewed by a member of the bishopric or the branch president. They are also interviewed by a member of the stake or mission presidency.
-
-A member of the bishopric or the branch president prints these recommends using [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). Temple recommends for sealings may be issued for individual children or for a group of children in the same family. The same recommend may be used to list children who are being sealed and those who are observing.
-
-Children under age 8 do not need a recommend to be sealed to their parents. Nor do they need a recommend to observe the sealing of their siblings, stepsiblings, or half siblings to their parents.
-
-Members who are 21 or older may be sealed to their parents or observe a sealing only if they are (1) endowed and (2) have a current temple recommend.
-
-See [27.4.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40") and [38.4.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number81-p276#title_number81 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number81-p276#title_number81") for additional policies on observing sealings and being sealed to parents.
+The priesthood leader emphasizes to the member the need to safeguard his or her recommend. It must never be loaned and should be reported immediately to the issuer if lost or stolen.
 
 ![youth holding recommends outside temple](https://www.churchofjesuschrist.org/imgs/01756e6e4b3011ed997deeeeac1e384cffb82417/full/%21500%2C/0/default)
 
@@ -237,26 +232,15 @@ See [27.4.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?
 
 26.5.1
 
-### Members Receiving Their Own Endowment
-
-Instructions for issuing a recommend to a person who is receiving his or her own endowment are provided in temple recommend book 2. Worthy members who desire to receive their own endowment may do so when they meet all of the following conditions:
-
-- They are at least 18 years old.
-- They have completed or are no longer attending high school, secondary school, or the equivalent.
-- One full year has passed since their confirmation.
-- They feel a desire to receive and honor temple covenants throughout their lives.
-
-In addition, a man must hold the Melchizedek Priesthood before receiving his endowment. For information about members preparing to receive their own endowment, see [25.2.8](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number14-p79#title_number14 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number14-p79#title_number14"). For information about who may receive the endowment, see [27.2.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number12-p56#title_number12 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number12-p56#title_number12").
-
-26.5.2
-
 ### Newly Baptized Members
+
+The bishop interviews new members who are old enough to receive a temple recommend for proxy baptisms and confirmations (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg")). He conducts this interview soon after the member’s confirmation, normally within a week. For brethren, this interview may be held as part of the interview to receive the Aaronic Priesthood. A bishop or branch president may assign one of his counselors to conduct this interview. Male Church members must be ordained to a priesthood office before receiving a temple recommend.
+
+During the interview, the bishop may offer to use Family Name Assist to help the new member print the name of a deceased family member for whom the new member can perform temple ordinances (see “[Family Name Assist](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=p_j0Z9o#p_j0Z9o "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=p_j0Z9o#p_j0Z9o")” in 25.4.1).
 
 Worthy adult members may receive their own endowment one full year after being confirmed a member of the Church (see [27.2.1.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number13-p48#title_number13 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number13-p48#title_number13")). Priesthood leaders ensure that the date the member will receive the endowment will be at least one full year after his or her confirmation date, not the baptismal date. Only the First Presidency may authorize exceptions.
 
-New members who are worthy should be issued a temple recommend for proxy baptisms and confirmations only (see [26.4.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number14-p49#title_number14 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number14-p49#title_number14")).
-
-26.5.3
+26.5.2
 
 ### Young Missionaries Returning from Service Away from Home
 
@@ -270,9 +254,9 @@ Returned missionaries then meet with a member of their stake presidency for a te
 
 In these temple recommend interviews, the bishop and member of the stake presidency also review counsel given in the missionary’s release interview (see [24.8.2](/study/manual/general-handbook/24?lang=eng&id=title_number56-aside6_p2#title_number56 "/study/manual/general-handbook/24?lang=eng&id=title_number56-aside6_p2#title_number56")). They discuss the returned missionary’s progress, well-being, and current Church calling. They also encourage him or her to continue on a lifelong path of spiritual growth and service.
 
-If the returned missionary does not have a Church calling, the bishop and stake president make certain that one is extended. Returned missionaries may be recommended to serve as temple ordinance workers or volunteers if a temple is nearby (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p149#title_number25 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p149#title_number25")).
+If the returned missionary does not have a Church calling, the bishop and stake president make certain that one is extended. Returned missionaries may be recommended to serve as temple workers if a temple is nearby (see [25.5](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p149#title_number25 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number25-p149#title_number25")).
 
-26.5.4
+26.5.3
 
 ### Members Who Have Not Lived in the Same Ward for at Least One Year
 
@@ -280,19 +264,19 @@ If a member has not lived in the same ward continuously for at least one year, t
 
 The bishop or an assigned counselor contacts the prior bishop before conducting a temple recommend interview. If a counselor learns that there is confidential information, he ends the conversation. He informs his bishop to contact the prior bishop before an interview.
 
-26.5.5
+26.5.4
 
 ### After Divorce, Separation, or Annulment
 
 The bishop and stake president may feel impressed to interview a member who has been divorced or legally separated or had a marriage annulled since last receiving a temple recommend. During this interview, they help strengthen the member spiritually. They also verify the member’s continued temple worthiness.
 
-26.5.6
+26.5.5
 
 ### Members Whose Close Relatives Publicly Oppose the Church or Belong to Apostate Groups
 
 Bishops and their counselors should be sensitive when issuing recommends to members whose close relatives publicly oppose the Church or belong to apostate groups. Members in these circumstances should not be made to feel that they cannot have a temple recommend because of their family associations. They should be encouraged to maintain a loving relationship with close relatives. They may be issued a temple recommend if they answer all temple recommend questions appropriately and sincerely.
 
-26.5.7
+26.5.6
 
 ### Individuals Who Identify as Transgender
 
@@ -304,25 +288,25 @@ Bishops counsel with the stake president to address individual circumstances wit
 
 For more information, see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number118-p836#title_number118").
 
-26.5.8
+26.5.7
 
 ### Members Who Have Committed a Serious Sin
 
 A member who has committed a serious sin may not receive a temple recommend until he or she has repented (see [32.6](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number17-p154#title_number17 "/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number17-p154#title_number17")). The period between the sin and the issuing of a recommend is left to the discretion of the bishop and stake president. It should be sufficient to determine that the person has genuinely repented.
 
-26.5.9
+26.5.8
 
 ### Members Who Have Been Readmitted after Church Membership Withdrawal or Resignation
 
-26.5.9.1
+26.5.8.1
 
 #### Members Who Were Not Previously Endowed
 
-After a member who was not previously endowed has been readmitted by baptism and confirmation, the bishop may interview him or her to receive a temple recommend for proxy baptisms and confirmations (see [26.4.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number14-p49#title_number14 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number14-p49#title_number14")). This interview normally takes place within one week of the member’s confirmation. Male Church members must be ordained to an office in the priesthood before receiving a temple recommend.
+After a member who was not previously endowed has been readmitted by baptism and confirmation, the bishop may interview him or her to receive a temple recommend for proxy baptisms and confirmations (see [26.4.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number31-p114#title_number31 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number31-p114#title_number31")). This interview normally takes place within one week of the member’s confirmation. Male Church members must be ordained to an office in the priesthood before receiving a temple recommend.
 
 These members may not be issued recommends to receive their own endowment until one full year after the date of their readmission to the Church by baptism and confirmation.
 
-26.5.9.2
+26.5.8.2
 
 #### Members Who Were Previously Endowed
 

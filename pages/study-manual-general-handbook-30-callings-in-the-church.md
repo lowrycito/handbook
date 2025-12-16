@@ -170,11 +170,25 @@ The leader does not ask if anyone opposes.
 
 30.7
 
-## Calling, Ordaining, and Setting Apart Bishops
+## Calling Bishops
+
+30.7.1
+
+### Recommending
 
 The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org"). A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
 
-A bishop’s responsibilities are significant (see [7.1](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2 "/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2")). They require a man of integrity, moral cleanliness, spiritual maturity, and faithfulness to the Savior. The stake presidency seeks confirmation from the Spirit about whom to recommend. When recommending a man to serve as bishop, they carefully consider [1 Timothy 3:2–7](/study/scriptures/nt/1-tim/3?lang=eng&id=p2-p7#p2 "/study/scriptures/nt/1-tim/3?lang=eng&id=p2-p7#p2"). They do not ask for suggestions from ward members. Additional information about the qualifications of a bishop is given in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org").
+A bishop’s responsibilities are significant (see [7.1](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2 "/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2")). Therefore, he should be a man of integrity, moral cleanliness, spiritual maturity, and faithfulness to the Savior.
+
+A bishop should also be a married man who is faithful to his wife and family. A man who has previously been divorced can serve as a bishop, but there are considerations. The stake president should contact the Office of the First Presidency for guidance.
+
+Generally, a candidate for bishop should be endowed and sealed to his wife in the temple. If a potential candidate for bishop has not been endowed and sealed to his wife, the stake president should contact the Office of the First Presidency for guidance.
+
+The stake presidency seeks confirmation from the Spirit about whom to recommend. When recommending a man to serve as bishop, they carefully consider [1 Timothy 3:2–7](/study/scriptures/nt/1-tim/3?lang=eng&id=p2-p7#p2 "/study/scriptures/nt/1-tim/3?lang=eng&id=p2-p7#p2"). They do not ask for suggestions from ward members. Additional information about the qualifications of a bishop is given in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org").
+
+30.7.2
+
+### Calling, Ordaining, and Setting Apart
 
 Before the stake president can call a new bishop, he must receive written approval of his recommendation from the First Presidency. With this approval, the stake president may ordain and set apart a bishop after ward members have sustained him in a sacrament meeting. Approval of the First Presidency is also required before a stake president may release a bishop. The stake president may not delegate these responsibilities.
 
@@ -206,7 +220,7 @@ Ward Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
-| Calling  [Bishop](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2 "/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2") | Recommended by  Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") | Approved by  First Presidency and Quorum of the Twelve | Sustained by  Ward members | Called and set apart by  Stake president after receiving approval from the First Presidency (see [30.7](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number14-p120#title_number14 "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=title_number14-p120#title_number14")) |
+| Calling  [Bishop](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2 "/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2") | Recommended by  Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") | Approved by  First Presidency and Quorum of the Twelve | Sustained by  Ward members | Called and set apart by  Stake president after receiving approval from the First Presidency (see [30.7.2](/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=p_k2I8o-p120#p_k2I8o "/study/manual/general-handbook/30-callings-in-the-church?lang=eng&id=p_k2I8o-p120#p_k2I8o")) |
 | Calling  [Counselors in the bishopric](/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2 "/study/manual/general-handbook/7?lang=eng&id=title_number2-p54#title_number2") | Recommended by  Bishop | Approved by  Stake presidency and high council | Sustained by  Ward members | Called and set apart by  Stake president or an assigned counselor |
 | Calling  [Ward clerk (and assistant ward clerks if needed)](/study/manual/general-handbook/7?lang=eng&id=title_number15-p70#title_number15 "/study/manual/general-handbook/7?lang=eng&id=title_number15-p70#title_number15") | Recommended by  Bishopric | Approved by  Stake presidency and high council | Sustained by  Ward members | Called and set apart by  Stake president or an assigned counselor or high councilor |
 | Calling  [Ward executive secretary (and assistant ward executive secretaries if needed)](/study/manual/general-handbook/7?lang=eng&id=title_number14-p71#title_number14 "/study/manual/general-handbook/7?lang=eng&id=title_number14-p71#title_number14") | Recommended by  Bishopric | Approved by  Stake presidency and high council | Sustained by  Ward members | Called and set apart by  Stake president or an assigned counselor or high councilor |

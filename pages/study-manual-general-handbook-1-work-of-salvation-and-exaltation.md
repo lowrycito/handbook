@@ -112,7 +112,7 @@ Jesus Christ established His Church to enable individuals and families to assist
 
 ### Priesthood Authority and Keys
 
-Through the priesthood, God accomplishes His work of salvation and exaltation. The priesthood authority and keys needed to direct God’s work on earth were restored to the Prophet Joseph Smith (see [Doctrine and Covenants 110:11–16](/study/scriptures/dc-testament/dc/110?lang=eng&id=p11-p16#p11 "/study/scriptures/dc-testament/dc/110?lang=eng&id=p11-p16#p11"); [112:30](/study/scriptures/dc-testament/dc/112?lang=eng&id=p30#p30 "/study/scriptures/dc-testament/dc/112?lang=eng&id=p30#p30"); see also [3.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number2-p5#title_number2 "/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number2-p5#title_number2") in this handbook). These keys are held by Church leaders today. These leaders call and authorize others to assist in God’s work (see [Doctrine and Covenants 107:8, 65–67](/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,65-p67#p8 "/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,65-p67#p8")).
+Through the priesthood, God accomplishes His work of salvation and exaltation. The priesthood authority and keys needed to direct God’s work on earth were restored to the Prophet Joseph Smith (see [Doctrine and Covenants 110:11–16](/study/scriptures/dc-testament/dc/110?lang=eng&id=p11-p16#p11 "/study/scriptures/dc-testament/dc/110?lang=eng&id=p11-p16#p11"); [112:30](/study/scriptures/dc-testament/dc/112?lang=eng&id=p30#p30 "/study/scriptures/dc-testament/dc/112?lang=eng&id=p30#p30"); see also [3.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number2-p5#title_number2 "/study/manual/general-handbook/3-priesthood-principles?lang=eng&id=title_number2-p5#title_number2") in this handbook). These keys are held by Church leaders today. These leaders call and authorize others to assist in God’s work (see [Doctrine and Covenants 107:8, 65–67](/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,p65-p67#p8 "/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,p65-p67#p8")).
 
 1.3.2
 
@@ -136,7 +136,7 @@ Under the direction of the Lord’s prophets and apostles, the Church provides a
 
 ### Gospel Learning and Teaching Support
 
-The Church supports individuals and families in their responsibility to learn the truths of the gospel and teach these truths to family members and others (see [Doctrine and Covenants 88:77–78, 118](/study/scriptures/dc-testament/dc/88?lang=eng&id=p77-p78,118#p77 "/study/scriptures/dc-testament/dc/88?lang=eng&id=p77-p78,118#p77"); see also [2.2.3](/study/manual/general-handbook/2-supporting-individuals-and-families?lang=eng&id=title_number9-p48#title_number9 "/study/manual/general-handbook/2-supporting-individuals-and-families?lang=eng&id=title_number9-p48#title_number9") in this handbook).
+The Church supports individuals and families in their responsibility to learn the truths of the gospel and teach these truths to family members and others (see [Doctrine and Covenants 88:77–78, 118](/study/scriptures/dc-testament/dc/88?lang=eng&id=p77-p78,p118#p77 "/study/scriptures/dc-testament/dc/88?lang=eng&id=p77-p78,p118#p77"); see also [2.2.3](/study/manual/general-handbook/2-supporting-individuals-and-families?lang=eng&id=title_number9-p48#title_number9 "/study/manual/general-handbook/2-supporting-individuals-and-families?lang=eng&id=title_number9-p48#title_number9") in this handbook).
 
 1.3.6
 

@@ -315,7 +315,7 @@ Teacher council meetings are described in [17.4](/study/manual/general-handbook/
 
 Coordination meetings for the work of sharing the gospel and strengthening new and returning members are described in [23.4](/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22 "/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22").
 
-Coordination meetings for temple and family history work are described in [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13").
+Coordination meetings for temple and family history efforts are described in [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13").
 
 ![council meeting](https://www.churchofjesuschrist.org/imgs/13cbcc454b3011ed88eaeeeeac1e572163796720/full/%21500%2C/0/default)
 
@@ -396,7 +396,7 @@ As the stake president makes arrangements for stake conference, he may ask pries
 Each stake conference normally includes the following meetings:
 
 - A meeting of the Area Seventy or General Authority (if assigned) and the stake presidency. The stake clerk and executive secretary also attend.
-- A stake priesthood leadership meeting (see [29.3.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number18-p114#title_number18 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number18-p114#title_number18")). The presiding authority determines whether this meeting is held on Saturday or Sunday. A member of the stake presidency conducts.
+- A stake leadership meeting. When a General Authority or Area Seventy presides, this meeting includes all members of the stake council and ward councils. When the stake president presides, it includes priesthood leaders only (see [29.3.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number18-p114#title_number18 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number18-p114#title_number18")). The presiding authority determines whether this meeting is held on Saturday or Sunday. A member of the stake presidency conducts.
 - A Saturday evening session for all stake members 18 and older. Depending on local circumstances, this meeting may be held on Sunday if approved by the presiding authority. A member of the stake presidency conducts.
 - A general session, held on Sunday, for all members and others who would like to attend. The stake president conducts and speaks in this meeting. More than one Sunday general session may be held if there is not room for everyone in one session. Children attend with their families, not in a separate meeting.
 
@@ -457,7 +457,7 @@ The stake presidency may invite others to attend, such as ward mission leaders a
 
 Frequency
 
-A priesthood leadership meeting is held as part of each stake conference. The stake presidency may schedule a third meeting each year.
+A stake priesthood leadership meeting is held as part of one stake conference per year. The stake presidency may schedule a second meeting sometime during the year.
 
 The stake presidency plans and conducts stake priesthood leadership meetings. The structure of these meetings is flexible. All participants may meet together for the entire meeting. Or, after some general instruction, they may separate into smaller groups for specific instruction based on their callings and assignments.
 
@@ -620,7 +620,7 @@ Frequency
 
 As needed.
 
-The stake adult leadership committee supports elders quorum and ward Relief Society presidencies in their work. Committee members give special emphasis to ward efforts in ministering, sharing the gospel, strengthening new and returning members, and participating in temple and family history work.
+The stake adult leadership committee supports elders quorum and ward Relief Society presidencies in their work. Committee members give special emphasis to ward efforts in ministering, sharing the gospel, strengthening new and returning members, and participating in temple and family history efforts.
 
 In addition, this committee coordinates stake efforts related to welfare and self-reliance, including [JustServe.org](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") (where it is available) and BYU–Pathway Worldwide (see [22.13](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number100-p294#title_number100 "/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number100-p294#title_number100")).
 

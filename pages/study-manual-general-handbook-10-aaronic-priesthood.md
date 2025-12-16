@@ -72,7 +72,7 @@ Young men join the priests quorum beginning in January of the year they turn 16
 
 The bishop is the president of the priests quorum (see [Doctrine and Covenants 107:87–88](/study/scriptures/dc-testament/dc/107?lang=eng&id=p87-p88#p87 "/study/scriptures/dc-testament/dc/107?lang=eng&id=p87-p88#p87")). He calls one or two quorum members to serve as his assistants. A secretary may also be called. The assistants and secretary should be ordained priests.
 
-Priests have the same duties as deacons and teachers. Additional duties are described in [Doctrine and Covenants 20:46–52, 73–79](/study/scriptures/dc-testament/dc/20?lang=eng&id=p46-p52,73-p79#p46 "/study/scriptures/dc-testament/dc/20?lang=eng&id=p46-p52,73-p79#p46").
+Priests have the same duties as deacons and teachers. Additional duties are described in [Doctrine and Covenants 20:46–52, 73–79](/study/scriptures/dc-testament/dc/20?lang=eng&id=p46-p52,p73-p79#p46 "/study/scriptures/dc-testament/dc/20?lang=eng&id=p46-p52,p73-p79#p46").
 
 10.1.4
 
@@ -161,7 +161,7 @@ For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](htt
 - [![icon, optional resources](https://www.churchofjesuschrist.org/imgs/eb9f42669cb91222bcb4f3e6f13a40b7e87b167e/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org "https://fsy.churchofjesuschrist.org"). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders "https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders") (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf "https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf") (for all other areas).
 - At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](/study/manual/for-the-strength-of-youth?lang=eng "/study/manual/for-the-strength-of-youth?lang=eng"). This event could include both young men and young women. Parents may also be invited.
 
-*Age Requirements.* With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+*Age Requirements.* With their parents’ approval, young men may attend Aaronic Priesthood quorum activities, including overnight camps, beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. Eighteen-year-olds, including those who have been ordained elders and those who have been endowed, may attend Aaronic Priesthood activities (see [8.1.2](/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number4-p187#title_number4 "/study/manual/general-handbook/8-elders-quorum?lang=eng&id=title_number4-p187#title_number4") and [10.6](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number29-p140#title_number29 "/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&id=title_number29-p140#title_number29")).
 
 *Paying for Activities.* Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -229,10 +229,10 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 - Prepare to have their own eternal family.
 - Have a current temple recommend.
 - Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
-- Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf "https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf")).
+- Learn about their extended families and ancestors.
 - Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org")).
-- Participate in baptisms and confirmations for the dead as often as circumstances allow.
-- Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing "https://www.familysearch.org/indexing")).
+- Participate in proxy baptisms and confirmations in the temple as often as circumstances allow.
+- Participate in family history volunteer activities (see [25.4.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24")).
 - Serve as temple and family history consultants, as called by the bishopric (see [25.2.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number10-p51#title_number10")).
 
 10.3

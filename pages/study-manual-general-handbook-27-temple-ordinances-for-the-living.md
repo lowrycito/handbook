@@ -38,22 +38,24 @@ Stake and ward leaders regularly encourage members to prepare to receive their o
 
 Resources to help members prepare to receive temple ordinances are available at [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples "https://www.churchofjesuschrist.org/temples").
 
-Members who are preparing to receive their own endowment or to be sealed to a spouse are encouraged to participate in a temple preparation course (see [25.2.8](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number14-p79#title_number14 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number14-p79#title_number14")).
-
-Members meet with their bishop and stake president to obtain a recommend for living ordinances when they are:
-
-- Receiving their own endowment.
-- Being sealed to a spouse.
-
-For information about issuing temple recommends in these circumstances, see [26.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p8#title_number3 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p8#title_number3") and [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10").
+For information about issuing temple recommends in these circumstances, see [26.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p8#title_number3 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p8#title_number3") and [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G").
 
 ![children in white clothing](https://www.churchofjesuschrist.org/imgs/0dfa3c244b3011ed88eaeeeeac1e5721d6a29111/full/%21500%2C/0/default)
 
 27.1.2
 
-### Scheduling Temple Ordinances
+### Verifying Records and Receiving a Temple Recommend for Living Ordinances
 
-Members who are planning to receive their own endowment or to be sealed should schedule the ordinance in advance with the temple they plan to attend. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples "https://www.churchofjesuschrist.org/temples") for each temple’s contact information.
+Members meet with their bishop when they are preparing to:
+
+- Receive their own endowment (see [27.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number11-p69#title_number11")).
+- Be sealed to a spouse (see [27.3](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number21-p108#title_number21")).
+- Be sealed to their parents (see [27.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36")).
+- Have their children sealed to them (see [27.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36")).
+
+The bishop helps the member verify important information like names, birth dates, the dates of previous ordinances, and marriage dates. This is done using Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org").
+
+The bishop and stake president interview the member to issue a temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")).
 
 27.1.3
 
@@ -114,7 +116,7 @@ The word *endowment* means “a gift.” The temple endowment is literally a gif
 
 All the promised blessings of the endowment are in force both in this life and for eternity. The fulfillment of these blessings depends on faithfulness to the gospel of Jesus Christ.
 
-The endowment is received in two parts. In the first part, a person receives preliminary ordinances called the initiatory. The initiatory comprises three ordinances: washing, anointing, and clothing (see [Exodus 29:4–9](/study/scriptures/ot/ex/29?lang=eng&id=p4-p9#p4 "/study/scriptures/ot/ex/29?lang=eng&id=p4-p9#p4")). It includes special blessings related to the person’s divine heritage and potential.
+The endowment is received in two parts. In the first part, a person receives preliminary ordinances called the initiatory. The initiatory ordinances include being symbolically washed and anointed, as well as instruction on wearing the temple garment (see [Exodus 29:4–9](/study/scriptures/ot/ex/29?lang=eng&id=p4-p9#p4 "/study/scriptures/ot/ex/29?lang=eng&id=p4-p9#p4")). It also includes special blessings related to the person’s divine potential.
 
 During the initiatory, the member is instructed to wear the temple garment. The garment is a sacred symbol of Jesus Christ. It is also a reminder of temple covenants. When members keep their covenants, including the sacred privilege to wear the garment as instructed, they will have greater access to the Savior’s mercy, protection, strength, and power. For more information about the garment, see [38.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number229-p2466#title_number229 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number229-p2466#title_number229").
 
@@ -130,23 +132,23 @@ In the endowment, members are invited to make sacred covenants as follows:
    - Repenting daily.
    - Making covenants with God by receiving the ordinances of salvation and exaltation.
    - Enduring to the end by keeping covenants.
-   - Striving to live the two great commandments. These are to “love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind” and to “love thy neighbor as thyself” ([Matthew 22:37, 39](/study/scriptures/nt/matt/22?lang=eng&id=p37,39#p37 "/study/scriptures/nt/matt/22?lang=eng&id=p37,39#p37")).
-4. Keep the law of chastity, which means abstaining from sexual relations outside of a legal marriage between a man and a woman, which is according to God’s law.
+   - Striving to live the two great commandments. These are to “love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind” and to “love thy neighbor as thyself” ([Matthew 22:37, 39](/study/scriptures/nt/matt/22?lang=eng&id=p37,p39#p37 "/study/scriptures/nt/matt/22?lang=eng&id=p37,p39#p37")).
+4. Keep the law of chastity, which means having sexual relations only within a legal marriage between a man and a woman, which is according to God’s law.
 5. Keep the law of consecration, which means that members dedicate their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
 
-In return, Heavenly Father promises that those who remain faithful to their temple covenants will be endowed “with power from on high” ([Doctrine and Covenants 38:32, 38](/study/scriptures/dc-testament/dc/38?lang=eng&id=p32,38#p32 "/study/scriptures/dc-testament/dc/38?lang=eng&id=p32,38#p32"); see also [Luke 24:49](/study/scriptures/nt/luke/24?lang=eng&id=p49#p49 "/study/scriptures/nt/luke/24?lang=eng&id=p49#p49"); [Doctrine and Covenants 43:16](/study/scriptures/dc-testament/dc/43?lang=eng&id=p16#p16 "/study/scriptures/dc-testament/dc/43?lang=eng&id=p16#p16")).
+In return, Heavenly Father promises that those who remain faithful to their temple covenants will be endowed “with power from on high” ([Doctrine and Covenants 38:32, 38](/study/scriptures/dc-testament/dc/38?lang=eng&id=p32,p38#p32 "/study/scriptures/dc-testament/dc/38?lang=eng&id=p32,p38#p32"); see also [Luke 24:49](/study/scriptures/nt/luke/24?lang=eng&id=p49#p49 "/study/scriptures/nt/luke/24?lang=eng&id=p49#p49"); [Doctrine and Covenants 43:16](/study/scriptures/dc-testament/dc/43?lang=eng&id=p16#p16 "/study/scriptures/dc-testament/dc/43?lang=eng&id=p16#p16")).
 
 27.2.1
 
 ### Who May Receive the Endowment
 
-All accountable adult members of the Church are invited to prepare for and receive their own endowment. All prerequisite ordinances must be performed and recorded before members can receive the endowment (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")). See [27.2.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number16-p66#title_number16 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number16-p66#title_number16") for information about deciding when to receive the endowment.
+All accountable adult members of the Church are invited to prepare for and receive their own endowment. All prerequisite ordinances must be performed and recorded before members can receive the endowment (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")). See [27.2.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number16-p66#title_number16 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number16-p66#title_number16") for information about deciding when to receive the endowment.
 
 27.2.1.1
 
 #### Newly Baptized Members
 
-Worthy adult new members may receive their endowment at least one full year from the date of their confirmation (see [26.5.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number19-p66#title_number19 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number19-p66#title_number19")).
+Worthy adult new members may receive their endowment at least one full year from the date of their confirmation (see [26.5.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number19-p66#title_number19 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number19-p66#title_number19")).
 
 27.2.1.2
 
@@ -165,7 +167,7 @@ These conditions apply whether the spouse is a member of the Church or is not.
 
 Members who have intellectual disabilities may receive their own endowment if:
 
-- They have received all prerequisite ordinances (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
+- They have received all prerequisite ordinances (see [18.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number2-p242#title_number2 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number2-p242#title_number2")).
 - They have the intellectual capacity to understand, make, and keep the associated covenants.
 
 The bishop counsels with the member and, where applicable, his or her parents. He also seeks the direction of the Spirit. He may counsel with the stake president. The stake president may direct questions to the Office of the First Presidency if necessary. See [38.2.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number38-p2743#title_number38 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number38-p2743#title_number38").
@@ -180,6 +182,8 @@ The decision to receive the endowment is personal and should be made prayerfully
 - They have completed or are no longer attending high school, secondary school, or the equivalent.
 - One full year has passed since their confirmation.
 - They feel a desire to receive and honor sacred temple covenants throughout their lives.
+
+In addition, a man must hold the Melchizedek Priesthood before receiving the endowment.
 
 Members who have received a mission call or are preparing to be sealed in the temple should receive the endowment. The bishop also counsels with other adult members who desire to receive the endowment.
 
@@ -197,13 +201,16 @@ Before issuing a temple recommend for a member to receive the endowment, the bis
 
 #### Receiving a Recommend for Living Ordinances
 
-A member must receive a recommend for living ordinances to enter a temple and receive the endowment. For information about these recommends, see [26.5.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number18-p64#title_number18 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number18-p64#title_number18").
+To enter the temple and receive the endowment, a member must have the following:
+
+- A temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G"))
+- A current temple recommend for endowed members (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10"))
 
 27.2.3.2
 
 #### Contacting the Temple
 
-Members who are planning to receive the endowment should contact the temple in advance to schedule the ordinance (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). The temple will provide instructions, including information about temple clothing, when the appointment is scheduled.
+Members who are planning to receive the endowment should contact the temple in advance to schedule the ordinance. They may do so after they have met with their bishop (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). The temple will provide instructions, including information about temple clothing, when the appointment is scheduled.
 
 27.2.3.3
 
@@ -215,9 +222,18 @@ Members receiving their own endowment may invite an endowed member of the same g
 
 ## Sealing of Husband and Wife
 
-“The family is ordained of God. Marriage between man and woman is essential to His eternal plan” (“[The Family: A Proclamation to the World](/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&id=title1#title1 "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&id=title1#title1")”). A temple sealing joins a husband and wife together for time and all eternity. Couples who are sealed in the temple are promised glory and joy throughout eternity (see [Doctrine and Covenants 132:19–20](/study/scriptures/dc-testament/dc/132?lang=eng&id=p19-p20#p19 "/study/scriptures/dc-testament/dc/132?lang=eng&id=p19-p20#p19")). They will receive these blessings if they are faithful to the covenants they make in the temple. Through this ordinance, their children may also be part of their eternal family.
+“The family is ordained of God. Marriage between man and woman is essential to His eternal plan” (“[The Family: A Proclamation to the World](/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&id=title1#title1 "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&id=title1#title1")”). A temple sealing joins a husband and wife together for time and all eternity. The couple has sealed upon them “exaltation and glory in all things” ([Doctrine and Covenants 132:19–20](/study/scriptures/dc-testament/dc/132?lang=eng&id=p19-p20#p19 "/study/scriptures/dc-testament/dc/132?lang=eng&id=p19-p20#p19"); see also [1.1](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number2-p9#title_number2 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number2-p9#title_number2") in this handbook). Heavenly Father promises these and other blessings to couples who remain faithful to temple covenants.
+
+In the sealing ordinance, a man and a woman receive each other for time and all eternity. They make a covenant with God and with each other that they will:
+
+- Cleave to each other (see [Mark 10:7–9](/study/scriptures/nt/mark/10?lang=eng&id=p7-p9#p7 "/study/scriptures/nt/mark/10?lang=eng&id=p7-p9#p7")).
+- Counsel and work together in love and righteousness (see [Moses 5:1, 12](/study/scriptures/pgp/moses/5?lang=eng&id=p1,p12#p1 "/study/scriptures/pgp/moses/5?lang=eng&id=p1,p12#p1")).
+- Fulfill their divinely appointed roles as husband and wife, father and mother. Husbands promise they will preside with “gentleness and meekness, and by love unfeigned” ([Doctrine and Covenants 121:41](/study/scriptures/dc-testament/dc/121?lang=eng&id=p41#p41 "/study/scriptures/dc-testament/dc/121?lang=eng&id=p41#p41")).
+- Keep all the laws of the new and everlasting covenant ([Doctrine and Covenants 66:2](/study/scriptures/dc-testament/dc/66?lang=eng&id=p2#p2 "/study/scriptures/dc-testament/dc/66?lang=eng&id=p2#p2"); [132:6–7, 21](/study/scriptures/dc-testament/dc/132?lang=eng&id=p6-p7,p21#p6 "/study/scriptures/dc-testament/dc/132?lang=eng&id=p6-p7,p21#p6")).
 
 Church leaders encourage members to prepare to be married and sealed in a temple. Where temple marriages are not legally recognized, authorized Church leaders or others can perform civil marriages that are followed by a temple sealing (see [38.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number59-p215#title_number59 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number59-p215#title_number59")). This pattern may also be followed when a temple marriage could cause parents or immediate family members to feel excluded because they cannot attend the temple ceremony.
+
+For information about sealing living children to parents, see [27.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number36-p119#title_number36").
 
 ![family outside temple](https://www.churchofjesuschrist.org/imgs/07d8902a4b3011eda811eeeeac1e1412efeb5d00/full/%21500%2C/0/default)
 
@@ -252,29 +268,32 @@ The bishop counsels with the member and his or her spouse, fiancé, or fiancée.
 
 27.3.2.1
 
-#### Receiving a Recommend for Living Ordinances
+#### Receiving a Recommend for Living Ordinances for Sealing a Husband and Wife
 
-A member must receive a recommend for living ordinances to be sealed to his or her spouse. For information about these recommends, see [26.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number9-p40#title_number9").
+To be sealed to a spouse, members must be endowed. They must also have the following:
+
+- A temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")).
+- A current temple recommend for endowed members (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
 
 27.3.2.2
 
 #### Contacting the Temple
 
-Members who are planning to be sealed to a spouse should contact the temple in advance to schedule the ordinance (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). The temple will provide instructions when the appointment is scheduled.
+Members who are planning to be sealed to a spouse should contact the temple in advance to schedule the ordinance. They may do so after they have met with their bishop (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). The temple will provide instructions when the appointment is scheduled.
 
 27.3.2.3
 
 #### Obtaining a Marriage License
 
-Before being married, a couple must obtain a legal marriage license that is valid where the marriage will be performed. If the couple plans to be both married and sealed during the same ceremony, they must bring a valid marriage license to the temple.
+Where local laws permit, members can be married and sealed in the same temple ceremony. Before being married in the temple, a couple must obtain a legal marriage license that is valid where the marriage will be performed. The license is reviewed when verifying information through Ordinance Preparation (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). The couple must also bring the marriage license to the temple.
 
-Couples being sealed after a civil marriage do not need to bring a marriage license to the temple. Instead, they provide the date and location of their civil marriage as part of the record verification process.
+Couples being sealed after a civil marriage do not need to bring a marriage license to the temple. Instead, they provide the date and location of their civil marriage through Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")).
 
 27.3.2.4
 
-#### Escorts for the Bride and Groom
+#### Escorts for the Couple Being Sealed
 
-An endowed sister may accompany the bride to assist her in the dressing room. An endowed brother may do the same for the groom. An escort must have a current temple recommend. The temple can provide an escort if needed.
+An endowed sister may accompany the sister who is being sealed to assist her in the dressing room. An endowed brother may do the same for the brother who is being sealed. An escort must have a current temple recommend. The temple can provide an escort if needed.
 
 27.3.2.5
 
@@ -290,13 +309,13 @@ Members are discouraged from asking General Authorities to perform their temple 
 
 #### Appropriate Clothing for a Temple Sealing
 
-*Bride’s Dress.* A bride’s dress worn in the temple should be white, modest in design and fabric, and free of elaborate ornamentation. It also should cover the temple garment. Sheer fabric should be lined.
+*Sister’s Dress.* A sister being sealed may wear normal temple clothing (see [38.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number230-p2436#title_number230 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number230-p2436#title_number230") and [38.5.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number231-p2440#title_number231 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number231-p2440#title_number231")) or a bridal dress during the sealing ceremony. A bride’s dress worn in the temple should be white, modest in design and fabric, and free of elaborate ornamentation. It also should cover the temple garment. Sheer fabric should be lined.
 
 To be consistent with other dresses worn in the temple, a bride’s dress should have long sleeves or three-quarter sleeves. Dresses should not have a train unless it can be pinned up or removed for the sealing ceremony.
 
 The temple can provide a dress if needed or desired.
 
-*Groom’s Clothing.* The groom wears normal temple clothing during the sealing ceremony (see [38.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number230-p2436#title_number230 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number230-p2436#title_number230") and [38.5.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number231-p2440#title_number231 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number231-p2440#title_number231")). He may wear formal clothing outside the temple for photographs after the ceremony.
+*Brother’s Clothing.* A brother being sealed wears normal temple clothing during the sealing ceremony (see [38.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number230-p2436#title_number230 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number230-p2436#title_number230") and [38.5.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number231-p2440#title_number231 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number231-p2440#title_number231")). He may wear formal clothing outside the temple.
 
 *Guests’ Clothing.* Those who attend a sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. They should avoid wearing clothing that is casual or that does not cover the temple garment. They should also avoid wearing clothing that is overly formal, like tuxedos.
 
@@ -304,7 +323,7 @@ Members who come to a sealing directly from an endowment session may wear ceremo
 
 The couple should share this information with guests well before the sealing.
 
-*Flowers.* The couple and their guests should not wear flowers during the sealing ceremony. Flowers may be worn outside the temple for photographs after the ceremony. The couple should share this information with guests well before the sealing.
+*Flowers.* The couple and their guests should not wear flowers during the sealing ceremony. Flowers may be worn outside the temple. The couple should share this information with guests well before the sealing.
 
 27.3.2.7
 
@@ -330,7 +349,7 @@ For the policy on sealing a couple who were married in the temple for time only,
 
 Couples should invite only close family members and friends to a temple sealing. Accountable members must be endowed and have a current temple recommend to attend.
 
-Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the temple sealing of their living siblings if they:
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the temple sealing of their living siblings or parents if they:
 
 - Are at least 18 years old.
 - Are able to remain reverent during the ceremony.
@@ -359,21 +378,31 @@ See [38.4.2](/study/manual/general-handbook/38-church-policies-and-guidelines?la
 
 27.4.1
 
-### Issuing a Recommend for Sealing Living Children to Parents
+### Receiving a Recommend for Living Ordinances
 
-Accountable members ages 8 and older need a recommend to be sealed to their parents. They also need a recommend to observe the sealing of living siblings, stepsiblings, or half siblings to their parents (see [27.4.4](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40")). Children ages 8 and older must be baptized and confirmed in order to receive a temple recommend. Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
+A couple who desires to have their children sealed to them must first be sealed to each other. They must also have the following:
 
-Members who are 21 or older must be endowed and have a current temple recommend to be sealed to their parents.
+- A temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")).
+- A current temple recommend for endowed members (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")).
 
-The stake president may authorize persons who have not been baptized or endowed due to intellectual disabilities to be sealed to their parents. The stake president writes a letter stating that the person is authorized to be sealed. This letter is presented at the temple.
+The following table describes the recommends that members need when they are sealed to their parents. For information about these recommends, see [26.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p_oHAtt#title_number3 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p_oHAtt#title_number3").
 
-See [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16") for information about issuing recommends to children.
+| Person Being Sealed to Parents | Required Recommend(s) |
+| --- | --- |
+| Person Being Sealed to Parents  Child younger than age 8 | Required Recommend(s)   - No recommend is needed; however, the child’s information is verified through Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")) |
+| Person Being Sealed to Parents  Member between ages 8 and 11 who has been baptized and confirmed | Required Recommend(s)   - Temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")) |
+| Person Being Sealed to Parents  Unendowed member younger than age 21 and at least 11 and turning 12 the year of the ordinance | Required Recommend(s)   - Temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")) - Temple recommend for proxy baptisms and confirmations (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg")) |
+| Person Being Sealed to Parents  Endowed member (members who are 21 or older must be endowed to be sealed to their parents) | Required Recommend(s)   - Temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")) - Temple recommend for endowed members (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")) |
+
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to be sealed to their parents. The stake president writes a letter stating that the person is authorized to be sealed. This letter is presented at the temple.
+
+For information about who can observe the sealing of living children to parents, see [27.4.5](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number40-p119#title_number40").
 
 27.4.2
 
 ### Contacting the Temple
 
-A couple who wants to have their children sealed to them, or children who desire to be sealed to their deceased parents, should contact the temple in advance to schedule the ordinance (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). In some cases, other temple ordinances may need to be performed before the sealing can occur.
+A couple who wants to have their children sealed to them, or children who desire to be sealed to their deceased parents, should contact the temple in advance to schedule the ordinance. Members may do so after they have met with their bishop (see [27.1.2](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5 "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&id=title_number5-p16#title_number5")). In some cases, other temple ordinances may need to be performed before the sealing can occur.
 
 ![young men outside temple](https://www.churchofjesuschrist.org/imgs/08165c7d4b3011edb286eeeeac1e260c3b7f4a19/full/%21500%2C/0/default)
 
@@ -395,12 +424,15 @@ Members are discouraged from asking General Authorities to perform their sealing
 
 27.4.5
 
-### Who May Attend a Sealing of Living Children to Parents
+### Who May Attend a Sealing of Children to Parents
 
-To observe the sealing of living siblings, stepsiblings, or half siblings to their parents, unendowed members under the age of 21 must be born in the covenant or sealed to their parents. In addition, children ages 8 and older must be baptized and confirmed and must have a current temple recommend (see [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16")). Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
+To observe the sealing of siblings, stepsiblings, or half siblings to their parents, unendowed members under the age of 21 must be born in the covenant or sealed to their parents. In addition, children ages 8 and older must be baptized and confirmed and must have a current temple recommend.
 
-Members who are 21 or older must be endowed and have a current temple recommend to observe such sealings.
+The following table describes the recommends that members need when they observe the sealing of their siblings, stepsiblings, and half siblings to their parents. For information about these recommends, see [26.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p_oHAtt#title_number3 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number3-p_oHAtt#title_number3").
 
-Married members who are younger than 21 do not need to be endowed to observe such sealings. However, they must have a current temple recommend (see [26.4.4](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number16-p59#title_number16")).
-
-Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the sealing of their living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
+| Person Observing the Sealing | Required Recommend(s) |
+| --- | --- |
+| Child younger than age 8 | - No recommend is needed; however, the child’s information is verified through Ordinance Preparation in [LCR](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") |
+| Member between ages 8 and 11 who has been baptized and confirmed | - Temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")) |
+| Unendowed member younger than age 21 and at least 11 and turning 12 the year of the ordinance | - Temple recommend for living ordinances (see [26.3.3](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_fly9G-p_sIF8z#p_fly9G")) - Temple recommend for proxy baptisms and confirmations (see [26.3.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p_itBYg-p_m5g0U#p_itBYg")) |
+| Endowed member (members who are 21 or older must be endowed to observe such sealings) | - Temple recommend for endowed members (see [26.3.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number10-p38#title_number10")) |

@@ -21,13 +21,11 @@ Inviting all to receive the gospel is part of God’s work of salvation and exal
 
 ## Share the Gospel
 
+Jesus Christ loves us. He shares His gospel with us and invites all to come unto Him. We can do the same.
+
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F3ef0b05f415e20f45b275e3be54dcda09d297a66%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
 2:33
-
-![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fca2dba890e0c43e81eb5e1c916d42be08b515b51%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
-
-2:46
 
 23.1.1
 
@@ -35,7 +33,7 @@ Inviting all to receive the gospel is part of God’s work of salvation and exal
 
 We are all children of Heavenly Father, who loves His children perfectly. He offers everyone the opportunity to be filled with His love through Jesus Christ and His gospel (see [John 3:16](/study/scriptures/nt/john/3?lang=eng&id=p16#p16 "/study/scriptures/nt/john/3?lang=eng&id=p16#p16"); [2 Nephi 26:24–28](/study/scriptures/bofm/2-ne/26?lang=eng&id=p24-p28#p24 "/study/scriptures/bofm/2-ne/26?lang=eng&id=p24-p28#p24"); [Alma 26:37](/study/scriptures/bofm/alma/26?lang=eng&id=p37#p37 "/study/scriptures/bofm/alma/26?lang=eng&id=p37#p37"); [Articles of Faith 1:3](/study/scriptures/pgp/a-of-f/1?lang=eng&id=p3#p3 "/study/scriptures/pgp/a-of-f/1?lang=eng&id=p3#p3")).
 
-One way we show our love for God is by loving and serving His children (see [Matthew 22:36–39](/study/scriptures/nt/matt/22?lang=eng&id=p36-p39#p36 "/study/scriptures/nt/matt/22?lang=eng&id=p36-p39#p36"); [25:40](/study/scriptures/nt/matt/25?lang=eng&id=p40#p40 "/study/scriptures/nt/matt/25?lang=eng&id=p40#p40")). We strive to love and serve as Jesus Christ did. This love inspires us to reach out to people of all religions, races, and cultures (see [Acts 10:34](/study/scriptures/nt/acts/10?lang=eng&id=p34#p34 "/study/scriptures/nt/acts/10?lang=eng&id=p34#p34"); [2 Nephi 26:33](/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33 "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33")).
+One way we show our love for God is by loving and serving His children as Jesus Christ did (see [Matthew 22:36–39](/study/scriptures/nt/matt/22?lang=eng&id=p36-p39#p36 "/study/scriptures/nt/matt/22?lang=eng&id=p36-p39#p36"); [25:40](/study/scriptures/nt/matt/25?lang=eng&id=p40#p40 "/study/scriptures/nt/matt/25?lang=eng&id=p40#p40")). This love inspires us to meet those around us and reach out to people of all backgrounds, cultures, and beliefs (see [Acts 10:34](/study/scriptures/nt/acts/10?lang=eng&id=p34#p34 "/study/scriptures/nt/acts/10?lang=eng&id=p34#p34"); [2 Nephi 26:33](/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33 "/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33"); [Jacob 2:17](/study/scriptures/bofm/jacob/2?lang=eng&id=p17#p17 "/study/scriptures/bofm/jacob/2?lang=eng&id=p17#p17")). We pray for and seek opportunities to share the gospel with others (see [Alma 6:6](/study/scriptures/bofm/alma/6?lang=eng&id=p6#p6 "/study/scriptures/bofm/alma/6?lang=eng&id=p6#p6"); [8:10](/study/scriptures/bofm/alma/8?lang=eng&id=p10#p10 "/study/scriptures/bofm/alma/8?lang=eng&id=p10#p10")).
 
 23.1.2
 
@@ -45,6 +43,10 @@ Because we love God and His children, we naturally want to share the blessings H
 
 We share love, gospel truths, time, experiences, and Church programs to bless God’s children and help them draw closer to the Savior. We share these things in normal and natural ways as part of personal, online, and other interactions.
 
+Wards and stakes can create natural opportunities for members to share with others. One way to do this is to host events and activities. For more information, see “[Share Ward Activities](/study/manual/share-ward-activities-2025/01-share-ward-activities?lang=eng "/study/manual/share-ward-activities-2025/01-share-ward-activities?lang=eng")” in Gospel Library.
+
+Ward and stake leaders also counsel together to identify (1) needs in the local community and (2) Church resources to share to help meet those needs. For more information, see “[Share Church Resources](/study/manual/sharing-church-resources?lang=eng "/study/manual/sharing-church-resources?lang=eng")” in the Gospel Library.
+
 23.1.3
 
 ### Invite
@@ -53,18 +55,18 @@ The Savior invites all to receive His gospel and prepare for eternal life (see [
 
 We pray for inspiration and guidance on how to invite others to:
 
-- Come and see the blessings available through Jesus Christ, His gospel, and His Church (see [John 1:37–39, 45–46](/study/scriptures/nt/john/1?lang=eng&id=p37-p39,45-p46#p37 "/study/scriptures/nt/john/1?lang=eng&id=p37-p39,45-p46#p37")).
+- Come and see the blessings available through Jesus Christ, His gospel, and His Church (see [John 1:37–39, 45–46](/study/scriptures/nt/john/1?lang=eng&id=p37-p39,p45-p46#p37 "/study/scriptures/nt/john/1?lang=eng&id=p37-p39,p45-p46#p37")).
 - Come and serve people in need.
 - Come and belong to the restored Church of Jesus Christ.
 
-When our invitations are based on a person’s needs and interests, he or she is more likely to accept those invitations. Often, inviting simply means including our family, friends, and neighbors in what we are already doing. For example, we can invite them to:
+Often, inviting simply means including our family, friends, and neighbors in what we are already doing. For example, consider inviting people based on their needs and interests to:
 
-- Join us in our homes for activities.
-- Join us for worship and gospel learning.
-- Attend special events, such as a baby blessing or baptism.
-- Participate in ward and community activities or service, including projects organized through [JustServe.org](https://www.justserve.org "https://www.justserve.org") (where available).
-- Participate in Church programs and activities. These could include Primary activities, youth activities, family history, self-reliance courses, [BYU–Pathway Worldwide](https://www.byupathway.org "https://www.byupathway.org"), and literacy and English courses.
-- Meet the full-time missionaries and hear their message.
+- Sacrament meetings and other Sunday meetings. One of the most valuable experiences we can offer others is attending sacrament meeting together and helping them have a welcoming, spiritual experience (see [3 Nephi 18:22–23](/study/scriptures/bofm/3-ne/18?lang=eng&id=p22-p23#p22 "/study/scriptures/bofm/3-ne/18?lang=eng&id=p22-p23#p22")).
+- Special Church events, such as baby blessings or baptisms.
+- Ward and stake activities, including Primary and youth activities (see “[Share Ward Activities](/study/manual/share-ward-activities-2025/01-share-ward-activities?lang=eng "/study/manual/share-ward-activities-2025/01-share-ward-activities?lang=eng")” in Gospel Library).
+- Activities in our homes.
+- Church programs, such as seminary, institute, family history, self-reliance classes, and [JustServe.org](https://www.justserve.org "https://www.justserve.org") projects (where available).
+- Lessons with the missionaries.
 
 For more ideas and resources, see:
 
@@ -72,11 +74,13 @@ For more ideas and resources, see:
 - “[Sharing the Gospel](/study/sharing-the-gospel?lang=eng "/study/sharing-the-gospel?lang=eng")” in the Gospel Library.
 - The “[Unite with Members](/study/manual/preach-my-gospel-2023/17-chapter-9?lang=eng&id=title16-figure8_p3#title16 "/study/manual/preach-my-gospel-2023/17-chapter-9?lang=eng&id=title16-figure8_p3#title16")” section in chapter 9 of Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ.
 
-Wards and stakes can create natural opportunities for members to invite others. Ways to do this include hosting events and activities and sharing Church resources with the local community.
-
-Ward and stake leaders counsel together to identify (1) needs in the community and (2) Church resources to share. For more information, see “[Sharing Church Resources](/study/manual/sharing-church-resources?lang=eng "/study/manual/sharing-church-resources?lang=eng")” in the Gospel Library.
+As we love, share, and invite as Christ did, God will place opportunities in our path (see [Doctrine and Covenants 11:3–5, 8](/study/scriptures/dc-testament/dc/11?lang=eng&id=p3-p5,p8#p3 "/study/scriptures/dc-testament/dc/11?lang=eng&id=p3-p5,p8#p3")). Any effort to live the principles of love, share, and invite is positive, whether or not a person meets with the missionaries or joins the Church.
 
 The principles of loving, sharing, and inviting apply also to strengthening new and returning members.
+
+![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2Fca2dba890e0c43e81eb5e1c916d42be08b515b51%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
+
+2:46
 
 23.2
 
@@ -84,7 +88,7 @@ The principles of loving, sharing, and inviting apply also to strengthening new 
 
 Joining the Church is both wonderful and challenging for many. It brings great blessings, but it also requires adjusting to new beliefs, new habits, and new relationships (see [1 Thessalonians 1:6](/study/scriptures/nt/1-thes/1?lang=eng&id=p6#p6 "/study/scriptures/nt/1-thes/1?lang=eng&id=p6#p6")).
 
-Each new member needs friendship, opportunities to serve, and spiritual nourishment. As members of the Church, we give new members our love and support (see [Mosiah 18:8–10](/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8 "/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8")). We help them feel a sense of belonging in the Church. We help them progress along the covenant path and become more deeply “converted unto the Lord” ([Alma 23:6](/study/scriptures/bofm/alma/23?lang=eng&id=p6#p6 "/study/scriptures/bofm/alma/23?lang=eng&id=p6#p6")). We help them be “nourished by the good word of God, to keep them in the right way, … relying alone upon the merits of Christ” ([Moroni 6:4](/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4 "/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4")).
+Each new member needs friendship, opportunities to serve, and spiritual nourishment. As members of the Church, we give new members our love and support (see [Mosiah 18:8–10](/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8 "/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8")). We help them feel a sense of belonging in the Church. We help them progress along the [covenant path](/study/manual/my-covenant-path?lang=eng "/study/manual/my-covenant-path?lang=eng") (see [23.4.1](/study/manual/general-handbook/23?lang=eng&id=p_jvqG3-p75#p_jvqG3 "/study/manual/general-handbook/23?lang=eng&id=p_jvqG3-p75#p_jvqG3")) and become more deeply “converted unto the Lord” ([Alma 23:6](/study/scriptures/bofm/alma/23?lang=eng&id=p6#p6 "/study/scriptures/bofm/alma/23?lang=eng&id=p6#p6")). We help them be “nourished by the good word of God, to keep them in the right way, … relying alone upon the merits of Christ” ([Moroni 6:4](/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4 "/study/scriptures/bofm/moro/6?lang=eng&id=p4#p4")).
 
 We can also help new members:
 
@@ -92,7 +96,7 @@ We can also help new members:
 - Learn how to recognize promptings from the Spirit.
 - Develop a habit of personal and family prayer and scripture study.
 - Share the gospel with their family and friends.
-- Find names of ancestors and prepare to receive temple ordinances for them.
+- Find names of ancestors and prepare to receive temple ordinances for them (see [25.4](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number21-p121#title_number21 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number21-p121#title_number21")).
 - Grow through fulfilling Church assignments and participating in the many other opportunities the Church offers.
 
 23.3
@@ -105,26 +109,47 @@ Members who are not fully participating are more likely to return if they have s
 
 23.4
 
-## Hold Weekly Coordination Meetings
+## Hold Weekly Missionary Coordination Meetings
 
-Every week, brief informal meetings are held to coordinate efforts to share the gospel and strengthen new and returning members. If a ward mission leader is called, he conducts these meetings. Otherwise, the member of the elders quorum presidency who fills this role conducts.
+Every week, brief informal meetings are held to coordinate efforts to share the gospel. The purpose of these meetings is to help those being taught, new members, and returning members to make and keep covenants. If a ward mission leader is called, he conducts these meetings. Otherwise, the member of the elders quorum presidency who fills the role of ward mission leader conducts.
 
 Others who are invited include:
 
-- Assigned members of the Relief Society and elders quorum presidencies.
+- Assigned members of the Relief Society, elders quorum, and Primary presidencies.
 - Ward missionaries.
 - An assistant in the priests quorum (or the teachers or deacons quorum president if there are no priests in the ward).
 - A presidency member of the oldest Young Women class.
 - Full-time missionaries.
 
-Weekly coordination meetings focus on the needs of individuals. This meeting usually covers the following four topics:
+Weekly missionary coordination meetings focus on the needs of individuals. The agenda usually includes the following items:
 
-- How to help those being taught by the missionaries. This could include participating in teaching, helping people make and keep commitments, and supporting upcoming baptismal services.
+- How to help those being taught by the missionaries
 - How to help those who were recently baptized
-- How to help returning members
-- How to help members find more people to teach
+- How to help part-member families and returning members
+- How to find more people to teach
 
-These meetings may be held in person or remotely. Coordination can also happen in other ways, including phone calls, texts, and emails.
+The [Covenant Path Progress report](/study/manual/strengthening-new-and-returning-members/strengthening-new-and-returning-members?lang=eng&id=title4-p43#title4 "/study/manual/strengthening-new-and-returning-members/strengthening-new-and-returning-members?lang=eng&id=title4-p43#title4"), suggestions in the “[Weekly Coordination Meetings](/study/manual/sharing-the-gospel-resources-for-leaders/02-effective-coordination-with-missionaries?lang=eng "/study/manual/sharing-the-gospel-resources-for-leaders/02-effective-coordination-with-missionaries?lang=eng")” section in chapter 13 of Preach My Gospel, and the questions below can help guide weekly plans.
+
+- How can we help individuals attend church, have an uplifting experience, and build friendships?
+- How can we support the ward plan for sharing the gospel?
+- How can the ward council help, and who will coordinate with them?
+
+These meetings may be held in person or remotely. Coordination can also happen in other ways, including phone calls or group texts.
+
+Strive to follow the principles of action and accountability in [4.4.5](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number19-p68#title_number19 "/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number19-p68#title_number19"). A person in the meeting may be assigned to record and remind the group of planned actions.
+
+[![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=p20#p20 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=p20#p20")Small branches may choose to do their weekly coordination in the branch council.
+
+See a sample meeting agenda and other coordination examples in “[Ideas for Weekly Missionary Coordination](/study/manual/sharing-the-gospel-resources-for-leaders/02-effective-coordination-with-missionaries?lang=eng "/study/manual/sharing-the-gospel-resources-for-leaders/02-effective-coordination-with-missionaries?lang=eng")” in Gospel Library.
+
+23.4.1
+
+### My Covenant Path and Covenant Path Progress Report
+
+The following resources can help guide discussions during weekly missionary coordination meetings:
+
+- [My Covenant Path](/study/adults/new-or-returning-members?lang=eng "/study/adults/new-or-returning-members?lang=eng"). This resource helps new and returning members progress along the covenant path during the first 12 to 24 months after baptism or after returning to gospel participation. [My Covenant Path](/study/adults/new-or-returning-members?lang=eng "/study/adults/new-or-returning-members?lang=eng") is available in Gospel Library.
+- [Covenant Path Progress report](/study/manual/strengthening-new-and-returning-members/strengthening-new-and-returning-members?lang=eng&id=title4-p43#title4 "/study/manual/strengthening-new-and-returning-members/strengthening-new-and-returning-members?lang=eng&id=title4-p43#title4"). Ward leaders use this resource to record and view the progress of new and returning members and of people being taught by the missionaries. Covenant Path Progress can be seen and updated by ward leaders through the Member Tools app and [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") (LCR). Full-time missionaries access and update Covenant Path Progress through the Preach My Gospel app.
 
 ![](https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fwww.churchofjesuschrist.org%2Fimgs%2F94ea44238d7defe712056f812bc9e8a056f3eea5%2Ffull%2F%2521768%252C%2F0%2Fdefault/full/!250,/0/default)
 
@@ -189,7 +214,7 @@ The bishopric ensures that these efforts are discussed and coordinated in ward c
 
 [![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") The bishopric consults with the stake president to determine whether to call a ward mission leader (see [23.6.3](/study/manual/general-handbook/23?lang=eng&id=title_number17-p68#title_number17 "/study/manual/general-handbook/23?lang=eng&id=title_number17-p68#title_number17") for more information).
 
-The bishop interviews new members of the appropriate age for a temple recommend to perform proxy baptisms and confirmations (see [26.4.2](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number14-p49#title_number14 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number14-p49#title_number14")). He also interviews brethren of the appropriate age to receive the Aaronic Priesthood (see [38.2.9.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number271-p2815#title_number271 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number271-p2815#title_number271")). He normally conducts these interviews within a week of the member’s confirmation.
+The bishop interviews new members who are old enough to receive a temple recommend to perform proxy baptisms and confirmations (see [26.5.1](/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number19-p66#title_number19 "/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number19-p66#title_number19")). He also interviews brethren of the appropriate age to receive the Aaronic Priesthood (see [38.2.9.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number271-p2815#title_number271 "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number271-p2815#title_number271")). He can accomplish both purposes in the same interview. He normally conducts this interview within a week of the member’s confirmation. A bishop or branch president may assign one of his counselors to conduct this interview. Afterward, the bishop may offer to use Family Name Assist to help the new member print the name of a deceased family member for whom the new member can perform temple ordinances (see “[Family Name Assist](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=p_j0Z9o#p_j0Z9o "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=p_j0Z9o#p_j0Z9o")” in 25.4.1).
 
 The bishopric coordinates with other leaders to ensure that new and returning members have opportunities to serve. Such opportunities can help these members grow spiritually and feel the Lord’s power in their lives. Service can also help members feel joy and build close relationships with others in the ward.
 
@@ -227,7 +252,7 @@ The ward mission leader supports the elders quorum presidency and Relief Society
 - Attend ward council meetings when invited.
 - Help the ward council develop and implement the ward plan for sharing the gospel and strengthening new and returning members (see [23.6.6](/study/manual/general-handbook/23?lang=eng&id=title_number20-p84#title_number20 "/study/manual/general-handbook/23?lang=eng&id=title_number20-p84#title_number20")).
 - Seek opportunities to help full-time missionaries fulfill their purpose by sharing the gospel and building relationships with members. Where approved, this may include eating meals with members (preferably with part-member families and new and returning members when possible; see [24.6.2.3](/study/manual/general-handbook/24?lang=eng&id=title_number36-p179#title_number36 "/study/manual/general-handbook/24?lang=eng&id=title_number36-p179#title_number36")).
-- Work with the ward temple and family history leader and consultants to help those who are learning the gospel, new members, and returning members engage in temple and family history work.
+- Work with the ward temple and family history leader and consultants to help those who are learning the gospel, new members, and returning members engage in temple and family history efforts.
 
 23.6.4
 
@@ -243,16 +268,20 @@ Ward missionaries participate in weekly coordination meetings (see [23.4](/study
 
 ### Ward Council and Ward Youth Council
 
-Sharing the gospel and strengthening new and returning members should be discussed regularly in ward council meetings. The bishop may ask the elders quorum or Relief Society president to lead these discussions, which should focus on individuals. The bishop may invite the ward mission leader to attend ward council meetings.
+Sharing the gospel and strengthening new and returning members should be discussed regularly in ward council meetings. The bishop may ask the ward mission leader (or the member of the elders quorum presidency who fills this role), elders quorum president, or Relief Society president to lead these discussions. (See [23.4](/study/manual/general-handbook/23?lang=eng&id=title_number22-p75#title_number22 "/study/manual/general-handbook/23?lang=eng&id=title_number22-p75#title_number22").)
 
-The council may discuss the ward’s plan for sharing the gospel and strengthening new and returning members. They also discuss assignments that need to be coordinated across organizations. Resources like the following can help in these discussions:
+The council may discuss the ward’s plan for sharing the gospel and strengthening new and returning members. They coordinate assignments across organizations.
 
-- [My Covenant Path](/study/adults/new-or-returning-members?lang=eng "/study/adults/new-or-returning-members?lang=eng"). This resource helps new and returning members progress along the covenant path during the first 12 to 24 months after baptism or after returning to gospel participation. [My Covenant Path](/study/adults/new-or-returning-members?lang=eng "/study/adults/new-or-returning-members?lang=eng") is available in Gospel Library.
-- Covenant Path Progress record. Ward leaders and full-time missionaries use this resource to record and view the progress of new and returning members and of people being taught by the missionaries. Covenant Path Progress is available to ward leaders through the Member Tools app and [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org "https://lcr.churchofjesuschrist.org") (LCR). Full-time missionaries access and share information from Covenant Path Progress through the Preach My Gospel app.
+Resources like [My Covenant Path](/study/adults/new-or-returning-members?lang=eng "/study/adults/new-or-returning-members?lang=eng") and the Covenant Path Progress report can help in these discussions (see [23.4.1](/study/manual/general-handbook/23?lang=eng&id=p_jvqG3-p75#p_jvqG3 "/study/manual/general-handbook/23?lang=eng&id=p_jvqG3-p75#p_jvqG3")).
 
 For more about the ward council, see [29.2.5](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number8-p54#title_number8 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number8-p54#title_number8").
 
-The ward youth council gives special attention to (1) youth who are new and returning members and (2) youth being taught by the missionaries. The council also discusses ways the youth can participate in the ward’s plan for sharing the gospel and strengthening all new and returning members. For more about the ward youth council, see [29.2.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number9-p63#title_number9 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number9-p63#title_number9").
+The ward youth council gives special attention to youth who are:
+
+- New and returning members.
+- In part-member families.
+- Being taught by the missionaries.
+- Friends of other faiths or beliefs.
 
 23.6.6
 

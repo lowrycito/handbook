@@ -110,7 +110,8 @@ For more information, see “[Instructions for Singing Time and the Children’s
 Parents have the primary responsibility to teach their children about the temple and the priesthood. To support them, the Primary presidency plans a Temple and Priesthood Preparation meeting each year. The bishopric gives direction. The meeting is for children in the Valiant 10 class. Parents are invited. This meeting has the following purposes:
 
 - Help children understand priesthood purposes, responsibilities, and blessings.
-- Help children participate in temple and family history work and prepare to make and keep sacred covenants.
+- Help children prepare to make and keep sacred covenants.
+- Teach children the blessings and joy of participating in uniting families for eternity through temple and family history work (see [1.2.4](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number7-p28#title_number7 "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&id=title_number7-p28#title_number7")).
 - Help boys prepare to receive the Aaronic Priesthood.
 - Help children prepare to receive a temple recommend.
 
@@ -119,6 +120,23 @@ The meeting may be held during Primary on Sunday, at another time on Sunday, or 
 [![icon, guidelines for adaptation](https://www.churchofjesuschrist.org/imgs/27e2854ed6828522f00e45c6ce90134d5ca4ab00/full/%21100%2C/0/default)](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3 "/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3") If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.
 
 For more information, see [Temple and Priesthood Preparation](https://www.churchofjesuschrist.org/callings/primary-organization/my-calling/temple-and-priesthood-preparation "https://www.churchofjesuschrist.org/callings/primary-organization/my-calling/temple-and-priesthood-preparation") on ChurchofJesusChrist.org.
+
+12.1.8
+
+### Baptism and Confirmation Preparation Meeting
+
+Parents have the primary responsibility to teach their children about baptism and confirmation. To support them, the Primary presidency plans a Baptism and Confirmation Preparation meeting near the beginning of each year. The bishopric gives direction.
+
+This meeting is for children in the Valiant 7 class and their parents and teachers. The meeting has the following purposes:
+
+- Help children understand the covenant they make at baptism with Heavenly Father and the blessings they receive as they live that covenant.
+- Help children learn the importance of becoming a member of The Church of Jesus Christ of Latter-day Saints.
+- Help children understand the gift of the Holy Ghost and how it can bless them.
+- Help children understand that when they partake of the sacrament, they renew their baptismal covenant.
+
+The meeting may be held during Primary on Sunday, at another time on Sunday, or at a different time. A member of the bishopric conducts. At least one member of the Primary presidency attends.
+
+If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake may meet together.
 
 12.2
 
@@ -245,10 +263,10 @@ Children can help unite families for eternity in many ways. Some of these ways a
 - Prepare to have their own eternal family.
 - Strive to be worthy to receive a temple recommend at the appropriate age.
 - Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
-- Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf "https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf")).
+- Learn about their extended families and ancestors.
 - Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org "https://www.familysearch.org")).
-- Prepare to participate in baptisms and confirmations for the dead.
-- Participate in indexing with a family member (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing "https://www.familysearch.org/indexing")).
+- Prepare to participate in proxy baptisms and confirmations in the temple.
+- Participate in family history volunteer activities with a family member (see [25.4.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number24-p121#title_number24")).
 
 ![woman and child looking at computer](https://www.churchofjesuschrist.org/imgs/0e0894014b3011ed9712eeeeac1ed5077a370c71/full/%21500%2C/0/default)
 
@@ -288,6 +306,7 @@ The Primary president has the following additional responsibilities. Her counsel
 
 - Serve on the ward council. She serves as (1) a ward council member who helps address needs in the ward and find solutions and (2) a representative of the Primary. She helps the ward council know the name and home circumstances of each child in order to enhance ministering to children and families. See [29.2.5](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number8-p54#title_number8 "/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&id=title_number8-p54#title_number8").
 - Regularly hold Primary presidency meetings and meet with the bishop or his assigned counselor.
+- Attend weekly missionary coordination meetings (see [23.4](/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22 "/study/manual/general-handbook/23?lang=eng&id=title_number22-p729#title_number22")) and ward temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13 "/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&id=title_number13-p72#title_number13")).
 - Submit recommendations to the bishopric for adult men and women to serve in Primary.
 - Help the ward council know of children who will be eligible to be baptized in the next year (see [18.7.1.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number14-p50#title_number14 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number14-p50#title_number14")).
 - Help plan baptismal services for children of record when asked (see [18.7.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number16-p71#title_number16 "/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=title_number16-p71#title_number16")).
