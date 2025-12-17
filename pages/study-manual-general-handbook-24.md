@@ -205,7 +205,7 @@ Financial sacrifice is part of missionary service (see [Mark 1:17–18](/study/s
 
 Any young man or young woman who has a desire to serve God and has prepared according to his or her ability should not be delayed from serving for financial reasons.
 
-The bishop counsels with the missionary and his or her family to determine the financial contribution they can make. If need remains, the bishop or stake president may ask members in the ward or stake to contribute to the ward missionary fund. If need remains, the bishop or stake president may ask members in the ward or stake to contribute to the ward missionary fund.
+The bishop counsels with the missionary and his or her family to determine the financial contribution they can make. If need remains, the bishop or stake president may ask members in the ward or stake to contribute to the ward missionary fund.
 
 Local unit budgets and fast-offering funds may not be used.
 
